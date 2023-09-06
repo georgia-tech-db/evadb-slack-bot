@@ -24,28 +24,31 @@ from slack_bolt.adapter.socket_mode import SocketModeHandler
 from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
 from slack_bolt.oauth.oauth_settings import OAuthSettings
+from langchain.chains.question_answering import load_qa_chain
+from eva_queries.rag_queries import build_relevant_knowledge_body, rag_query
 
-from evadb.server.command_handler import execute_query_fetch_all
-from test.util import get_evadb_for_testing
+import evadb
+# from evadb.test.util import get_evadb_for_testing
 
-from evadb.configuration.configuration_manager import ConfigurationManager
+import os
 
-# from evadb.configuration.configuration_manager import ConfigurationManager
+SLACK_BOT_TOKEN = os.getenv('SLACK_BOT_TOKEN') 
+SLACK_APP_TOKEN = os.getenv('SLACK_APP_TOKEN')
+OPENAI_API_KEY = os.getenv('OPENAI_KEY')
 
-SLACK_BOT_TOKEN = ConfigurationManager().get_value("third_party", "SLACK_BOT_TOKEN")
-SLACK_APP_TOKEN = ConfigurationManager().get_value("third_party", "SLACK_APP_TOKEN")
-OPENAI_API_KEY = ConfigurationManager().get_value("third_party", "OPENAI_KEY")
+# SLACK_BOT_TOKEN = ConfigurationManager().get_value("third_party", "SLACK_BOT_TOKEN")
+# SLACK_APP_TOKEN = ConfigurationManager().get_value("third_party", "SLACK_APP_TOKEN")
+# OPENAI_API_KEY = ConfigurationManager().get_value("third_party", "OPENAI_KEY")
 
 app = App(token=SLACK_BOT_TOKEN)
-evadb = None
+cursor = None
 client = WebClient(token=SLACK_BOT_TOKEN)
 
 
 # Starts and initializes Eva Server
 def start_eva_server():
-    global evadb
-    evadb = get_evadb_for_testing()
-    evadb.catalog().reset()
+    cursor = evadb.connect().cursor()
+    return cursor
 
 
 @app.middleware  # or app.use(log_request)
@@ -55,51 +58,31 @@ def log_request(logger, body, next):
 
 
 @app.event("app_mention")
-def event_test(body, say, logger):
-    # logger.info(body)
-
+def event_gpt(body, say, logger):
+    # Convert message body to message and eva query
     message_body = str(body["event"]["text"]).split(">")[1]
-    message_text = message_body.split("%Q")[0]
-    query = message_body.split("%Q")[1]
+    # User query
+    user_query = message_body.split("%Q")[0]
+    # Eva query
+    eva_query = message_body.split("%Q")[1]
 
-    openai_response = None
-
-    print("\n\n\n\n")
-    print(message_body, message_text,"query =", query, end="\n\n\n\n")
-
-    # if message_body.strip():
-    #     print("\nopenai\n\n",)
-    #     openai.api_key = OPENAI_API_KEY
-    #     openai_response = (
-    #         openai.Completion.create(
-    #             engine="text-davinci-003",
-    #             prompt=message_text,
-    #             max_tokens=1024,
-    #             n=1,
-    #             stop=None,
-    #             temperature=0.5,
-    #         )
-    #         .choices[0]
-    #         .text
-    #     )
-
-    sql_response = None
-
-    if query.strip():
-        print("\nsql\n\n", )
-        try:
-            sql_response = execute_query_fetch_all(evadb, query)
-        except Exception as e:
-            sql_response = f"caught error: {e}"
-
-    response = ""
-    if openai_response:
-        response = openai_response
-    if sql_response:
-        response = response + "\n" + sql_response.frames.to_string()
-    
-    # Use Tabluate in python
-    say(f'text: "{message_text}" & query: "{query}":\n{response}')
+    if user_query.strip():
+        knowledge_body = build_relevant_knowledge_body(cursor, user_query, say)
+        conversation = rag_query(knowledge_body, user_query)
+        openai.api_key = OPENAI_API_KEY
+        openai_response = (
+            openai.Completion.create(
+                engine="text-davinci-003",
+                messages=conversation,
+                prompt=message_text,
+                max_tokens=1024,
+                n=1,
+                stop=None,
+                temperature=0.5,
+            )
+            .choices[0]
+            .text
+        )
 
 
 @app.event("file_shared")
@@ -122,7 +105,7 @@ from flask import Flask, request
 
 flask_app = Flask(__name__)
 handler = SlackRequestHandler(app)
-start_eva_server()
+cursor = start_eva_server()
 
 
 @flask_app.route("/slack/events", methods=["POST"])
