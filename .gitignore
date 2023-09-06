@@ -3,3 +3,4 @@
 *.pt
 __pycache__/
 evadb_data/
+eva_queries/tmp.py
