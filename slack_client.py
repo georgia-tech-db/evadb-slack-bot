@@ -31,10 +31,13 @@ import evadb
 # from evadb.test.util import get_evadb_for_testing
 
 import os
+from configparser import ConfigParser
 
-SLACK_BOT_TOKEN = os.getenv('SLACK_BOT_TOKEN') 
-SLACK_APP_TOKEN = os.getenv('SLACK_APP_TOKEN')
-OPENAI_API_KEY = os.getenv('OPENAI_KEY')
+config.read('config.ini')
+
+SLACK_BOT_TOKEN = config.get('main', 'SLACK_BOT_TOKEN')
+SLACK_APP_TOKEN = config.get('main', 'SLACK_APP_TOKEN')
+OPENAI_API_KEY = config.get('main', 'OPENAI_API_KEY')
 
 # SLACK_BOT_TOKEN = ConfigurationManager().get_value("third_party", "SLACK_BOT_TOKEN")
 # SLACK_APP_TOKEN = ConfigurationManager().get_value("third_party", "SLACK_APP_TOKEN")
@@ -60,21 +63,31 @@ def log_request(logger, body, next):
 @app.event("app_mention")
 def event_gpt(body, say, logger):
     # Convert message body to message and eva query
+    # TODO: remove print statements
+    print("\n\n\nEvent triggered\n\n")
     message_body = str(body["event"]["text"]).split(">")[1]
+    print("The message body is:", message_body, end="\n\n\n")
+    message_queries = message_body.split("%Q")
     # User query
-    user_query = message_body.split("%Q")[0]
+    user_query = message_queries[0]
+    print("The user_query is:", user_query, end="\n\n\n")
     # Eva query
-    eva_query = message_body.split("%Q")[1]
+    if len(message_queries)>1:
+        eva_query = message_body.split("%Q")[1]
+        print("The eva_query is:", eva_query, end="\n\n")
+
+    say("Query received now running:")
 
     if user_query.strip():
         knowledge_body = build_relevant_knowledge_body(cursor, user_query, say)
         conversation = rag_query(knowledge_body, user_query)
+        print("The conversation was:", conversation, end="\n\n")
         openai.api_key = OPENAI_API_KEY
         openai_response = (
             openai.Completion.create(
                 engine="text-davinci-003",
                 messages=conversation,
-                prompt=message_text,
+                prompt=user_query,
                 max_tokens=1024,
                 n=1,
                 stop=None,
@@ -83,6 +96,8 @@ def event_gpt(body, say, logger):
             .choices[0]
             .text
         )
+
+        say(openai_response)
 
 
 @app.event("file_shared")

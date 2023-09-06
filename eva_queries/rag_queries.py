@@ -1,12 +1,11 @@
 import evadb
 import pandas as pd
 
-def build_relevant_knowledge_body(cursor, query, say):
+def build_relevant_knowledge_body(cursor, user_query, say):
     query = f"""SELECT * FROM MyPDFs 
                 ORDER BY Similarity(
-                        SentenceFeatureExtractor({query}), 
-                        SentenceFeatureExtractor(data)
-                        ) LIMIT 10;"""
+                        SentenceFeatureExtractor("{user_query}"), 
+                        SentenceFeatureExtractor(data)) LIMIT 10;"""
     response = cursor.query(query).df()
     if type(response)==type(pd.DataFrame):
         # DataFrame response to single string
