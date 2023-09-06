@@ -1,0 +1,5 @@
+*.ipynb
+*.pdf
+*.pt
+__pycache__/
+evadb_data/
