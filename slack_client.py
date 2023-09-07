@@ -33,15 +33,12 @@ import evadb
 import os
 from configparser import ConfigParser
 
+config = ConfigParser()
 config.read('config.ini')
 
-SLACK_BOT_TOKEN = config.get('main', 'SLACK_BOT_TOKEN')
-SLACK_APP_TOKEN = config.get('main', 'SLACK_APP_TOKEN')
-OPENAI_API_KEY = config.get('main', 'OPENAI_API_KEY')
-
-# SLACK_BOT_TOKEN = ConfigurationManager().get_value("third_party", "SLACK_BOT_TOKEN")
-# SLACK_APP_TOKEN = ConfigurationManager().get_value("third_party", "SLACK_APP_TOKEN")
-# OPENAI_API_KEY = ConfigurationManager().get_value("third_party", "OPENAI_KEY")
+SLACK_BOT_TOKEN = config.get('keys', 'SLACK_BOT_TOKEN')
+SLACK_APP_TOKEN = config.get('keys', 'SLACK_APP_TOKEN')
+OPENAI_API_KEY = config.get('keys', 'OPENAI_API_KEY')
 
 app = App(token=SLACK_BOT_TOKEN)
 cursor = None
@@ -63,39 +60,32 @@ def log_request(logger, body, next):
 @app.event("app_mention")
 def event_gpt(body, say, logger):
     # Convert message body to message and eva query
-    # TODO: remove print statements
+    
     print("\n\n\nEvent triggered\n\n")
     message_body = str(body["event"]["text"]).split(">")[1]
-    print("The message body is:", message_body, end="\n\n\n")
+    
     message_queries = message_body.split("%Q")
     # User query
     user_query = message_queries[0]
-    print("The user_query is:", user_query, end="\n\n\n")
+    
     # Eva query
     if len(message_queries)>1:
         eva_query = message_body.split("%Q")[1]
-        print("The eva_query is:", eva_query, end="\n\n")
+        print(f"The eva_query is: '{eva_query}'", end="\n\n")
 
-    say("Query received now running:")
 
     if user_query.strip():
         knowledge_body = build_relevant_knowledge_body(cursor, user_query, say)
         conversation = rag_query(knowledge_body, user_query)
-        print("The conversation was:", conversation, end="\n\n")
+        
+        if knowledge_body==-1:
+            return
         openai.api_key = OPENAI_API_KEY
-        openai_response = (
-            openai.Completion.create(
-                engine="text-davinci-003",
+        
+        openai_response = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
                 messages=conversation,
-                prompt=user_query,
-                max_tokens=1024,
-                n=1,
-                stop=None,
-                temperature=0.5,
-            )
-            .choices[0]
-            .text
-        )
+            ).choices[0].message.content
 
         say(openai_response)
 
