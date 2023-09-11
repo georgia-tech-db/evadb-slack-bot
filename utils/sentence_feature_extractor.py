@@ -16,10 +16,10 @@ import numpy as np
 import pandas as pd
 
 from evadb.catalog.catalog_type import NdArrayType
-from evadb.udfs.abstract.abstract_udf import AbstractUDF
-from evadb.udfs.decorators.decorators import forward, setup
-from evadb.udfs.decorators.io_descriptors.data_types import PandasDataframe
-from evadb.udfs.gpu_compatible import GPUCompatible
+from evadb.functions.abstract.abstract_function import AbstractFunction
+from evadb.functions.decorators.decorators import forward, setup
+from evadb.functions.decorators.io_descriptors.data_types import PandasDataframe
+from evadb.functions.gpu_compatible import GPUCompatible
 
 
 def try_to_import_sentence_transformers():
@@ -36,8 +36,8 @@ try_to_import_sentence_transformers()
 from sentence_transformers import SentenceTransformer  # noqa: E402
 
 
-class SentenceTransformerFeatureExtractor(AbstractUDF, GPUCompatible):
-    @setup(cacheable=False, udf_type="FeatureExtraction", batchable=False)
+class SentenceTransformerFeatureExtractor(AbstractFunction, GPUCompatible):
+    @setup(cacheable=False, function_type="FeatureExtraction", batchable=False)
     def setup(self):
         self.model = SentenceTransformer("all-MiniLM-L6-v2")
 
