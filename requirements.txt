@@ -1,4 +1,4 @@
 flask
 slack
 slack-bolt
-evadb
+evadb==0.3.5
