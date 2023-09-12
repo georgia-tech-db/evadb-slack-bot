@@ -1,27 +1,27 @@
 # EvaDB Slack Bot
-evadb-slack-bot is an ongoing project to allow users to use the features of EvaDB on slack, using Natural Language queries.
+
+This bot 🤖 allows users to ask questions about PDFs 📄 using EvaDB: https://github.com/georgia-tech-db/evadb. 
+
 ## Installation
-### Local host
+### Local Host
 > Note: requries ngrok
 
-
-#### 1) Add your Token and Signing key to the terminal
+#### 1) Export your Slack Bot Token and Signing Key to the environment
 ```bash
 export SLACK_BOT_TOKEN=<your-slack-token>
 export SLACK_SIGNING_SECRET=<you-slack-siging-secret>
 ```
 
 
-#### 2) Initialize EvaDB with data you might want  
-refer ![EvaDB Docs](https://evadb.readthedocs.io/en/stable/)  
-
+#### 2) Load the PDF datasets into EvaDB  
+Refer ![EvaDB Docs](https://evadb.readthedocs.io/en/stable/)  
 
 #### 3) Start Flask server
 ```bash
 FLASK_APP=slack_client.py FLASK_ENV=development flask run -p <port-number>
 ```
 
-#### 4) (Optional) expose your public IP
+#### 4) (Optional) Expose your Public IP
 ```bash
 ngrok http <port-number>
 ```
