@@ -12,107 +12,153 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-import logging
-
-# logging.basicConfig(level=logging.DEBUG)
-
+import os
+import time
 import openai
+import random
+
 from subprocess import run
+
 from slack import WebClient
 from slack_bolt import App
-from slack_bolt.adapter.socket_mode import SocketModeHandler
-from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
-from slack_bolt.oauth.oauth_settings import OAuthSettings
-from langchain.chains.question_answering import load_qa_chain
-from eva_queries.rag_queries import build_relevant_knowledge_body, rag_query
+
+from eva_queries.rag_queries import (
+    build_relevant_knowledge_body,
+    build_rag_query,
+    build_search_index,
+)
+from utils.formatted_messages.welcome import MSG as WELCOME_MSG
+from utils.formatted_messages.wait import MSG as WAIT_MSG 
+from utils.formatted_messages.reference import MSG_HEADER as REF_MSG_HEADER
+from utils.time_tracker import tracker
 
 import evadb
-# from evadb.test.util import get_evadb_for_testing
 
-import os
-from configparser import ConfigParser
 
-config = ConfigParser()
-config.read('config.ini')
+SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
+SLACK_APP_TOKEN = os.environ.get("SLACK_APP_TOKEN")
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
-SLACK_BOT_TOKEN = config.get('keys', 'SLACK_BOT_TOKEN')
-SLACK_APP_TOKEN = config.get('keys', 'SLACK_APP_TOKEN')
-OPENAI_API_KEY = config.get('keys', 'OPENAI_API_KEY')
+# Set OpenAI key.
+openai.api_key = OPENAI_API_KEY
 
+# Slack app, bot, and client.
 app = App(token=SLACK_BOT_TOKEN)
-cursor = None
+handler = SlackRequestHandler(app)
 client = WebClient(token=SLACK_BOT_TOKEN)
 
-
-# Starts and initializes Eva Server
-def start_eva_server():
-    cursor = evadb.connect().cursor()
-    return cursor
+# Cursor of EvaDB.
+cursor = evadb.connect().cursor()
 
 
-@app.middleware  # or app.use(log_request)
+# Logging.
+@app.middleware
 def log_request(logger, body, next):
+    # Intercept and log everything.
     logger.debug(body)
     return next()
 
 
+# Handle in app mention.
 @app.event("app_mention")
-def event_gpt(body, say, logger):
-    # Convert message body to message and eva query
+def handle_mention(body, say, logger):
+    # Thread id to reply.
+    thread_ts = body["event"].get("thread_ts", None) or body["event"]["ts"]
+
+    # Check if users ask question too soon.
+    user = body["event"]["user"]
+    if time.time() - tracker[user] < 60:
+        say(WAIT_MSG, thread_ts=thread_ts)
+        return
     
-    print("\n\n\nEvent triggered\n\n")
+    # Update timestamp of user request.
+    tracker[user] = time.time()
+
+    # Convert message body to message and eva query.
     message_body = str(body["event"]["text"]).split(">")[1]
-    
+    logger.info(f"msg body: {message_body}")
+
     message_queries = message_body.split("%Q")
-    # User query
-    user_query = message_queries[0]
-    
-    # Eva query
-    if len(message_queries)>1:
-        eva_query = message_body.split("%Q")[1]
-        print(f"The eva_query is: '{eva_query}'", end="\n\n")
+
+    if len(message_queries) > 1:
+        # Eva query.
+        eva_query = message_queries[1]
+        logger.info(f"eva query: {eva_query}")
+    else:
+        # User query.
+        user_query = message_queries[0].strip()
+        logger.info(f"user query: {user_query}")
+
+        if user_query:
+            knowledge_body, reference_pageno_list = build_relevant_knowledge_body(cursor, user_query, logger)
+            conversation = build_rag_query(knowledge_body, user_query)
+
+            if knowledge_body is not None:
+                # Only reply when there is knowledge body.
+                response = (
+                    openai.ChatCompletion.create(
+                        model="gpt-3.5-turbo",
+                        messages=conversation,
+                    )
+                    .choices[0]
+                    .message.content
+                )
+
+                # Attach reference
+                response += REF_MSG_HEADER
+                for i, pageno in enumerate(reference_pageno_list):
+                    response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[{i+1}]> "
+                response += "\n"
+
+                # Reply back with welcome msg randomly.
+                if random.random() < 0.1:
+                    response += WELCOME_MSG
+
+                say(response, thread_ts=thread_ts)
+            else:
+                say("Sorry, we didn't find relevant sources for this question.", thread_ts=thread_ts)
+        else:
+            say("Please try again with a valid question.", thread_ts=thread_ts)
 
 
-    if user_query.strip():
-        knowledge_body = build_relevant_knowledge_body(cursor, user_query, say)
-        conversation = rag_query(knowledge_body, user_query)
-        
-        if knowledge_body==-1:
-            return
-        openai.api_key = OPENAI_API_KEY
-        
-        openai_response = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",
-                messages=conversation,
-            ).choices[0].message.content
-
-        say(openai_response)
-
-
+# Handle in app file sharing.
 @app.event("file_shared")
-def event_test(body, say, logger):
-
+def handle_file_sharing(body, say, logger):
     file_id = str(body["event"]["file_id"])
-    say(f"Downloading this file, please wait.")
+    logger.info(f"file id: {file_id}")
+    say(f"Downloading this file ... Please wait.")
+
     file_info = client.files_info(file=file_id)
     url = file_info["file"]["url_private_download"]
-    r = run(["wget", f"{url}", "-P", "./files/"])
+    logger.info(f"file url: {url}")
+
+    run(["wget", f"{url}", "-P", "./files/"])
 
 
-
+# Handle direct message.
 @app.event("message")
 def handle_message():
     pass
 
 
+#########################################################
+# Flask server                                          #
+#########################################################
 from flask import Flask, request
 
 flask_app = Flask(__name__)
-handler = SlackRequestHandler(app)
-cursor = start_eva_server()
+
+
+def run_server():
+    build_search_index(cursor)
+    flask_app.run(debug=True, use_reloader=False, host="0.0.0.0", port=12345)
 
 
 @flask_app.route("/slack/events", methods=["POST"])
 def slack_events():
     return handler.handle(request)
+
+
+if __name__ == "__main__":
+    run_server()
