@@ -1,0 +1,4 @@
+flask
+slack
+slack-bolt
+evadb
