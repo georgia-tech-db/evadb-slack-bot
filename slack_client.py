@@ -13,7 +13,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 import os
+import time
 import openai
+import random
 
 from subprocess import run
 
@@ -27,6 +29,9 @@ from eva_queries.rag_queries import (
     build_search_index,
 )
 from utils.formatted_messages.welcome import MSG as WELCOME_MSG
+from utils.formatted_messages.wait import MSG as WAIT_MSG 
+from utils.formatted_messages.reference import MSG_HEADER as REF_MSG_HEADER
+from utils.time_tracker import tracker
 
 import evadb
 
@@ -58,6 +63,18 @@ def log_request(logger, body, next):
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
+    # Thread id to reply.
+    thread_ts = body["event"].get("thread_ts", None) or body["event"]["ts"]
+
+    # Check if users ask question too soon.
+    user = body["event"]["user"]
+    if time.time() - tracker[user] < 60:
+        say(WAIT_MSG, thread_ts=thread_ts)
+        return
+    
+    # Update timestamp of user request.
+    tracker[user] = time.time()
+
     # Convert message body to message and eva query.
     message_body = str(body["event"]["text"]).split(">")[1]
     logger.info(f"msg body: {message_body}")
@@ -74,12 +91,12 @@ def handle_mention(body, say, logger):
         logger.info(f"user query: {user_query}")
 
         if user_query:
-            knowledge_body = build_relevant_knowledge_body(cursor, user_query, logger)
+            knowledge_body, reference_pageno_list = build_relevant_knowledge_body(cursor, user_query, logger)
             conversation = build_rag_query(knowledge_body, user_query)
 
             if knowledge_body is not None:
                 # Only reply when there is knowledge body.
-                openai_response = (
+                response = (
                     openai.ChatCompletion.create(
                         model="gpt-3.5-turbo",
                         messages=conversation,
@@ -87,11 +104,22 @@ def handle_mention(body, say, logger):
                     .choices[0]
                     .message.content
                 )
-                say(openai_response + WELCOME_MSG)
+
+                # Attach reference
+                response += REF_MSG_HEADER
+                for i, pageno in enumerate(reference_pageno_list):
+                    response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[{i+1}]> "
+                response += "\n"
+
+                # Reply back with welcome msg randomly.
+                if random.random() < 0.1:
+                    response += WELCOME_MSG
+
+                say(response, thread_ts=thread_ts)
             else:
-                say("Sorry, we didn't find relevant sources for this question.")
+                say("Sorry, we didn't find relevant sources for this question.", thread_ts=thread_ts)
         else:
-            say("Please try again with a valid question.")
+            say("Please try again with a valid question.", thread_ts=thread_ts)
 
 
 # Handle in app file sharing.

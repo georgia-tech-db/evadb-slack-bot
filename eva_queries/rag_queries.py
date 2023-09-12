@@ -35,10 +35,11 @@ def build_relevant_knowledge_body(cursor, user_query, logger):
         response = cursor.query(query).df()
         # DataFrame response to single string.
         knowledge_body = response["omscsdocpdf.data"].str.cat(sep="; ")
-        return knowledge_body
+        referece_pageno_list = set(response["omscsdocpdf.page"].tolist()[:3])
+        return knowledge_body, referece_pageno_list
     except Exception as e:
         logger.error(str(e))
-        return None
+        return None, None
 
 
 def build_rag_query(knowledge_body, query):
