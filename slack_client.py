@@ -14,9 +14,9 @@
 # limitations under the License.
 import os
 import time
-import openai
 import random
 
+from math import ceil
 from subprocess import run
 
 from slack import WebClient
@@ -27,31 +27,56 @@ from eva_queries.rag_queries import (
     build_relevant_knowledge_body,
     build_rag_query,
     build_search_index,
+    start_llm_backend,
 )
 from utils.formatted_messages.welcome import MSG as WELCOME_MSG
-from utils.formatted_messages.wait import MSG as WAIT_MSG 
+from utils.formatted_messages.wait import MSG as WAIT_MSG
+from utils.formatted_messages.busy import MSG as BUSY_MSG
 from utils.formatted_messages.reference import MSG_HEADER as REF_MSG_HEADER
-from utils.time_tracker import tracker
+from utils.usage_tracker import time_tracker
 
 import evadb
 
 
 SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
-SLACK_APP_TOKEN = os.environ.get("SLACK_APP_TOKEN")
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
-# Set OpenAI key.
-openai.api_key = OPENAI_API_KEY
 
 # Slack app, bot, and client.
 app = App(token=SLACK_BOT_TOKEN)
 handler = SlackRequestHandler(app)
 client = WebClient(token=SLACK_BOT_TOKEN)
 
+# Queue list to connect to backend.
+queue_list = start_llm_backend(2)
+
 # Cursor of EvaDB.
 cursor = evadb.connect().cursor()
+build_search_index(cursor)
 
 
+#########################################################
+# Helper functions                                      #
+#########################################################
+def queue_backend_llm(conversation):
+    for iq, oq in queue_list:
+        if iq.full():
+            continue
+        else:
+            iq.put(conversation)
+            return oq.get()
+    return None
+
+
+def is_all_queue_full():
+    for iq, _ in queue_list:
+        if not iq.full():
+            return False
+    return True
+
+
+#########################################################
+# Slack handler                                         #
+#########################################################
 # Logging.
 @app.middleware
 def log_request(logger, body, next):
@@ -63,47 +88,60 @@ def log_request(logger, body, next):
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
+    # Timing log.
+    start_ts = time.time()
+
     # Thread id to reply.
     thread_ts = body["event"].get("thread_ts", None) or body["event"]["ts"]
 
     # Check if users ask question too soon.
     user = body["event"]["user"]
-    if time.time() - tracker[user] < 60:
-        say(WAIT_MSG, thread_ts=thread_ts)
+    cooldown_time = time.time() - time_tracker[user]
+    if cooldown_time < 300:
+        say(WAIT_MSG.format(ceil((5 - cooldown_time / 60))), thread_ts=thread_ts)
         return
-    
-    # Update timestamp of user request.
-    tracker[user] = time.time()
+    else:
+        time_tracker[user] = time.time()
+
+    # Abort early, if all queues are full.
+    if is_all_queue_full():
+        print("Pre-abort: all queues are full")
+        say(BUSY_MSG, thread_ts=thread_ts)
+        return
 
     # Convert message body to message and eva query.
     message_body = str(body["event"]["text"]).split(">")[1]
-    logger.info(f"msg body: {message_body}")
+    print(f"msg body: {message_body}")
 
     message_queries = message_body.split("%Q")
 
     if len(message_queries) > 1:
         # Eva query.
         eva_query = message_queries[1]
-        logger.info(f"eva query: {eva_query}")
+        print(f"eva query: {eva_query}")
     else:
         # User query.
         user_query = message_queries[0].strip()
-        logger.info(f"user query: {user_query}")
+        print(f"user query: {user_query}")
 
         if user_query:
-            knowledge_body, reference_pageno_list = build_relevant_knowledge_body(cursor, user_query, logger)
+            knowledge_body, reference_pageno_list = build_relevant_knowledge_body(
+                cursor, user_query, logger
+            )
             conversation = build_rag_query(knowledge_body, user_query)
 
             if knowledge_body is not None:
                 # Only reply when there is knowledge body.
-                response = (
-                    openai.ChatCompletion.create(
-                        model="gpt-3.5-turbo",
-                        messages=conversation,
+                response = queue_backend_llm(conversation)
+                if response is None:
+                    print("Post-abort: all queues are full")
+                    say(BUSY_MSG, thread_ts=thread_ts)
+                    return
+
+                if response == "I dont know":
+                    response = (
+                        "Sorry, we didn't find relevant sources for this question."
                     )
-                    .choices[0]
-                    .message.content
-                )
 
                 # Attach reference
                 response += REF_MSG_HEADER
@@ -115,9 +153,16 @@ def handle_mention(body, say, logger):
                 if random.random() < 0.1:
                     response += WELCOME_MSG
 
-                say(response, thread_ts=thread_ts)
+                say(
+                    response
+                    + f"\nResponse Time: {(time.time() - start_ts):.2f} seconds",
+                    thread_ts=thread_ts,
+                )
             else:
-                say("Sorry, we didn't find relevant sources for this question.", thread_ts=thread_ts)
+                say(
+                    "Sorry, we didn't find relevant sources for this question.",
+                    thread_ts=thread_ts,
+                )
         else:
             say("Please try again with a valid question.", thread_ts=thread_ts)
 
@@ -147,18 +192,10 @@ def handle_message():
 #########################################################
 from flask import Flask, request
 
+
 flask_app = Flask(__name__)
-
-
-def run_server():
-    build_search_index(cursor)
-    flask_app.run(debug=True, use_reloader=False, host="0.0.0.0", port=12345)
 
 
 @flask_app.route("/slack/events", methods=["POST"])
 def slack_events():
     return handler.handle(request)
-
-
-if __name__ == "__main__":
-    run_server()

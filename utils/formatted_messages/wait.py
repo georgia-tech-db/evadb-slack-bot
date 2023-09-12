@@ -1,3 +1,3 @@
 MSG = """
-Please try again after a while :zzz:
+Please try again after {} mins :zzz:
 """
