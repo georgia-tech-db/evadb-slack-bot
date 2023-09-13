@@ -41,7 +41,7 @@ export SLACK_SIGNING_SECRET=<you-slack-siging-secret>
 
 
 #### 2) Load the PDF datasets into EvaDB  
-Refer ![EvaDB Docs](https://evadb.readthedocs.io/en/stable/)  
+Refer [EvaDB Docs](https://evadb.readthedocs.io/en/stable/)  
 
 #### 3) Start Flask server
 ```bash
