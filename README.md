@@ -19,6 +19,16 @@ EvaDB enables software developers to build AI apps in a few lines of code. Its p
   <li> 📝 following us on <a href="https://medium.com/evadb-blog">Medium</a>
 </ul>
 
+## Example Conversation
+
+![evadb-bot](https://github.com/georgia-tech-db/evadb-slack-bot/assets/5521975/9b6246d0-0aa7-4020-8346-969b58241e76)
+![evadb-bot-2](https://github.com/georgia-tech-db/evadb-slack-bot/assets/5521975/33b961b4-057e-485b-bc23-04585cffd9c4)
+
+
+[evadb-bot.pdf](https://github.com/georgia-tech-db/evadb-slack-bot/files/12592236/evadb-bot.pdf)
+
+
+
 ## Installation
 ### Local Host
 > Note: requries ngrok
