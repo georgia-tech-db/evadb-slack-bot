@@ -55,7 +55,7 @@ def build_rag_query(knowledge_body, query):
             "content": f"""We provide with sources delimited by semicolons
              and a question. Your should answer the question using the provided sources. 
              If the sources do not contain the information to answer this question then 
-             simply write: 'I dont know'""",
+             simply write: 'Sorry, we didn't find relevant sources for this question'""",
         },
         {"role": "user", "content": f"""{knowledge_body}"""},
         {"role": "user", "content": f"{query}"},

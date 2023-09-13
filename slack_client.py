@@ -88,9 +88,6 @@ def log_request(logger, body, next):
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
-    # Timing log.
-    start_ts = time.time()
-
     # Thread id to reply.
     thread_ts = body["event"].get("thread_ts", None) or body["event"]["ts"]
 
@@ -146,18 +143,14 @@ def handle_mention(body, say, logger):
                 # Attach reference
                 response += REF_MSG_HEADER
                 for i, pageno in enumerate(reference_pageno_list):
-                    response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[{i+1}]> "
+                    response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
                 response += "\n"
 
                 # Reply back with welcome msg randomly.
                 if random.random() < 0.1:
                     response += WELCOME_MSG
 
-                say(
-                    response
-                    + f"\nResponse Time: {(time.time() - start_ts):.2f} seconds",
-                    thread_ts=thread_ts,
-                )
+                say(response, thread_ts=thread_ts)
             else:
                 say(
                     "Sorry, we didn't find relevant sources for this question.",
