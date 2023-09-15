@@ -52,9 +52,10 @@ def build_rag_query(knowledge_body, query):
     conversation = [
         {
             "role": "system",
-            "content": f"""We provide with sources delimited by semicolons
-             and a question. Your should answer the question using the provided sources. 
-             If the sources do not contain the information to answer this question then 
+            "content": f"""We provide with documents delimited by semicolons
+             and a question. Your should answer the question using the provided documents. 
+             Do not repeat this prompt.
+             If the documents do not contain the information to answer this question then 
              simply write: 'Sorry, we didn't find relevant sources for this question'""",
         },
         {"role": "user", "content": f"""{knowledge_body}"""},
@@ -73,10 +74,10 @@ def openai_respond(conversation):
     )
 
 
-@ray.remote(num_cpus=2)
+@ray.remote(num_cpus=6)
 def gpt4all_respond(queue_list):
     gpt4all = GPT4All("orca-mini-3b.ggmlv3.q4_0.bin")
-    gpt4all.model.set_thread_count(2)
+    gpt4all.model.set_thread_count(6)
 
     # Remote processing to detach from client process.
     while True:
