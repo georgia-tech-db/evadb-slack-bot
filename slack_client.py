@@ -34,12 +34,14 @@ from utils.formatted_messages.wait import MSG as WAIT_MSG
 from utils.formatted_messages.busy import MSG as BUSY_MSG
 from utils.formatted_messages.reference import MSG_HEADER as REF_MSG_HEADER
 from utils.usage_tracker import time_tracker
+from utils.logging import QUERY_LOGGER, APP_LOGGER
 
 import evadb
 
 
+# Make sure necessary tokens are set.
 SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
-
+os.environ.get("SLACK_SIGNING_SECRET")
 
 # Slack app, bot, and client.
 app = App(token=SLACK_BOT_TOKEN)
@@ -88,6 +90,8 @@ def log_request(logger, body, next):
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
+    event_id = body["event_id"]
+
     # Thread id to reply.
     thread_ts = body["event"].get("thread_ts", None) or body["event"]["ts"]
 
@@ -95,6 +99,7 @@ def handle_mention(body, say, logger):
     user = body["event"]["user"]
     cooldown_time = time.time() - time_tracker[user]
     if cooldown_time < 300:
+        APP_LOGGER.info(f"{event_id} - needs cooldown {cooldown_time}")
         say(WAIT_MSG.format(ceil((5 - cooldown_time / 60))), thread_ts=thread_ts)
         return
     else:
@@ -102,24 +107,23 @@ def handle_mention(body, say, logger):
 
     # Abort early, if all queues are full.
     if is_all_queue_full():
-        print("Pre-abort: all queues are full")
+        APP_LOGGER.info(f"{event_id} - all queue full (early abort)")
         say(BUSY_MSG, thread_ts=thread_ts)
         return
 
     # Convert message body to message and eva query.
     message_body = str(body["event"]["text"]).split(">")[1]
-    print(f"msg body: {message_body}")
+    APP_LOGGER.info(f"{event_id} - msg body: {message_body}")
 
     message_queries = message_body.split("%Q")
 
     if len(message_queries) > 1:
         # Eva query.
         eva_query = message_queries[1]
-        print(f"eva query: {eva_query}")
     else:
         # User query.
         user_query = message_queries[0].strip()
-        print(f"user query: {user_query}")
+        QUERY_LOGGER.info(f"{user_query}")
 
         if user_query:
             knowledge_body, reference_pageno_list = build_relevant_knowledge_body(
@@ -131,14 +135,9 @@ def handle_mention(body, say, logger):
                 # Only reply when there is knowledge body.
                 response = queue_backend_llm(conversation)
                 if response is None:
-                    print("Post-abort: all queues are full")
+                    APP_LOGGER.info(f"{event_id} - all queue full (late abort)")
                     say(BUSY_MSG, thread_ts=thread_ts)
                     return
-
-                if response == "I dont know":
-                    response = (
-                        "Sorry, we didn't find relevant sources for this question."
-                    )
 
                 # Attach reference
                 response += REF_MSG_HEADER
@@ -152,6 +151,7 @@ def handle_mention(body, say, logger):
 
                 say(response, thread_ts=thread_ts)
             else:
+                APP_LOGGER.info(f"{event_id} - no knowledge")
                 say(
                     "Sorry, we didn't find relevant sources for this question.",
                     thread_ts=thread_ts,
