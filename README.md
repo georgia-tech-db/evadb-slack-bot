@@ -52,3 +52,7 @@ FLASK_APP=slack_client.py FLASK_ENV=development flask run -p <port-number>
 ```bash
 ngrok http <port-number>
 ```
+
+# Privacy Notice
+
+We're here to make sure you get the best answers possible. Rest easy – your questions are collected anonymously, all in the spirit of providing you with top-notch responses. Your privacy matters to us!
