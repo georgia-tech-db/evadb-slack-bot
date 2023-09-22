@@ -42,7 +42,8 @@ def build_relevant_knowledge_body(cursor, user_query, logger):
         # DataFrame response to single string.
         knowledge_body = response["omscsdocpdf.data"].str.cat(sep="; ")
         referece_pageno_list = set(response["omscsdocpdf.page"].tolist()[:3])
-        return knowledge_body, referece_pageno_list
+        reference_pdf_name = response["omscsdocpdf.name"].tolist()[0]
+        return knowledge_body, reference_pdf_name, referece_pageno_list
     except Exception as e:
         logger.error(str(e))
         return None, None
