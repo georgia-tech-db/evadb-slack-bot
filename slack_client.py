@@ -144,7 +144,7 @@ def handle_mention(body, say, logger):
                 for i, pageno in enumerate(reference_pageno_list):
                     # TODO: change hardcoded url.
                     # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
-                    response += f"{reference_pdf_name} [page {pageno}]"
+                    response += f"[{reference_pdf_name}, page {pageno}] "
                 response += "\n"
 
                 # Reply back with welcome msg randomly.
