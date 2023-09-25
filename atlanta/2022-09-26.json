@@ -1,0 +1,323 @@
+[
+  {
+    "client_msg_id": "d4d1fd08-eb3c-415d-b7c9-65af2326e961",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "ok then let me rephrase - i can take one person comfortably and 2 more kinda uncomfortably for everyone lol",
+    "ts": "1664213131.319549",
+    "thread_ts": "1663892845.596739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "epsj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok then let me rephrase - i can take one person comfortably and 2 more kinda uncomfortably for everyone lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9a09b5df-cf34-4b03-a511-e2463679c549",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "On a side note - does everyone know of the GitHub Student developer pack? You get a pretty cool set of tools and services with that.\n:link: :point_right: : \u003chttps://education.github.com/pack\u003e",
+    "ts": "1664213615.647299",
+    "attachments": [
+      {
+        "fallback": "GitHub Education: GitHub Student Developer Pack",
+        "id": 1,
+        "title": "GitHub Student Developer Pack",
+        "title_link": "https://education.github.com/pack",
+        "text": "The best developer tools, free for students. Get your GitHub Student Developer Pack now.",
+        "image_url": "https://education.github.com/assets/pack/twitter-summary-card-image-bec1d1f933d223919ff0576af8838cffe3975633b24641e9d7b1c4317066ae24.png",
+        "service_name": "GitHub Education",
+        "service_icon": "https://education.github.com/favicon.ico",
+        "from_url": "https://education.github.com/pack",
+        "original_url": "https://education.github.com/pack",
+        "blocks": null
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "626ez",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "On a side note - does everyone know of the GitHub Student developer pack? You get a pretty cool set of tools and services with that.\n"
+              },
+              {
+                "type": "emoji",
+                "name": "link",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "point_right",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " : "
+              },
+              {
+                "type": "link",
+                "url": "https://education.github.com/pack",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ccd3856e-25f7-4433-9724-39bf639c89e4",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Free with your \u003chttp://gatech.edu|gatech.edu\u003e email",
+    "ts": "1664213632.960649",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nA0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Free with your "
+              },
+              {
+                "type": "link",
+                "url": "http://gatech.edu",
+                "text": "gatech.edu"
+              },
+              {
+                "type": "text",
+                "text": " email"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7b1ef749-7180-4c63-a717-cd632ecaa4c5",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "I'm in midtown Atlanta, anyway I can join y'all?",
+    "ts": "1664218768.387409",
+    "thread_ts": "1663892845.596739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U8QDSG1G9"
+        ]
+      },
+      {
+        "name": "clapping-156",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G0lmV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm in midtown Atlanta, anyway I can join y'all?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1707668b-2fb9-423b-95e2-92f3dd303d42",
+    "type": "message",
+    "user": "UMQUVR2VD",
+    "text": "I live off exit 30 (Sandy Springs-Dunwoody). I can pick someone who is near to me",
+    "ts": "1664221718.184759",
+    "thread_ts": "1663892845.596739",
+    "edited": {
+      "user": "UMQUVR2VD",
+      "ts": "1664221744.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pxi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I live off exit 30 (Sandy Springs-Dunwoody). I can pick someone who is near to me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/108c9f2ba196c93fcfae4dabb9776a4f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "A.P.",
+      "real_name": "A.P.",
+      "display_name": "A.P.",
+      "team": "T03NCJFKCV8",
+      "name": "abhishekpatil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "client_msg_id": "210a43dd-3c7a-4e76-b747-e3f6f11e965e",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Hi guys and gals!\nJune 3rd is right around the corner so please try to get your votes in by this weekend. For now it seems Saturday June 24th at Southern Bell farm is in the lead!\n\n\nAlso like Cherie mentioned before, feel free to bring your friends or family.",
+    "ts": "1685039048.997579",
+    "thread_ts": "1684373952.148169",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4ZeT=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys and gals!\nJune 3rd is right around the corner so please try to get your votes in by this weekend. For now it seems Saturday June 24th at Southern Bell farm is in the lead!\n\n\nAlso like Cherie mentioned before, feel free to bring your friends or family."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "210a43dd-3c7a-4e76-b747-e3f6f11e965e",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Hi guys and gals!\nJune 3rd is right around the corner so please try to get your votes in by this weekend. For now it seems Saturday June 24th at Southern Bell farm is in the lead!\n\n\nAlso like Cherie mentioned before, feel free to bring your friends or family.",
+    "ts": "1685039048.997579",
+    "thread_ts": "1684373952.148169",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4ZeT=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys and gals!\nJune 3rd is right around the corner so please try to get your votes in by this weekend. For now it seems Saturday June 24th at Southern Bell farm is in the lead!\n\n\nAlso like Cherie mentioned before, feel free to bring your friends or family."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

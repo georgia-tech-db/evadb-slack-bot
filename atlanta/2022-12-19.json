@@ -1,0 +1,439 @@
+[
+  {
+    "client_msg_id": "9752c092-c43b-446b-8d52-e394bbd31a2e",
+    "type": "message",
+    "user": "UMQUVR2VD",
+    "text": "has anyone been to christmas market?",
+    "ts": "1671472313.393039",
+    "thread_ts": "1671472313.393039",
+    "reply_count": 11,
+    "replies": [
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1671472495.663189"
+      },
+      {
+        "user": "UMQUVR2VD",
+        "ts": "1671472557.901459"
+      },
+      {
+        "user": "UMQUVR2VD",
+        "ts": "1671472583.606839"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1671472697.335419"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1671473621.097779"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1671474706.466669"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1671474708.545669"
+      },
+      {
+        "user": "UMQUVR2VD",
+        "ts": "1671501050.373509"
+      },
+      {
+        "user": "U03TP5GML95",
+        "ts": "1671830447.443909"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1671906136.154409"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1671906265.172189"
+      }
+    ],
+    "latest_reply": "1671906265.172189",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/b/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "has anyone been to christmas market?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/108c9f2ba196c93fcfae4dabb9776a4f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "A.P.",
+      "real_name": "A.P.",
+      "display_name": "A.P.",
+      "team": "T03NCJFKCV8",
+      "name": "abhishekpatil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U02UAQKR56C",
+      "U03TP5GML95",
+      "UMQUVR2VD"
+    ]
+  },
+  {
+    "client_msg_id": "389c8ff2-e306-4ad1-84ad-655680c1eba5",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Which? The one at Atlantic Station?",
+    "ts": "1671472495.663189",
+    "thread_ts": "1671472313.393039",
+    "parent_user_id": "UMQUVR2VD",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Aze",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Which? The one at Atlantic Station?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "58c81dbe-7efc-495d-8e12-dcb33aa6121f",
+    "type": "message",
+    "user": "UMQUVR2VD",
+    "text": "\u003chttps://christkindlmarket.org/\u003e",
+    "ts": "1671472557.901459",
+    "thread_ts": "1671472313.393039",
+    "parent_user_id": "UMQUVR2VD",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9iMn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://christkindlmarket.org/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/108c9f2ba196c93fcfae4dabb9776a4f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "A.P.",
+      "real_name": "A.P.",
+      "display_name": "A.P.",
+      "team": "T03NCJFKCV8",
+      "name": "abhishekpatil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bdd8e7ef-cbb0-42b1-b826-ceca3bcf88c5",
+    "type": "message",
+    "user": "UMQUVR2VD",
+    "text": "290 East Paces Ferry Rd NE, Atlanta, GA 30305",
+    "ts": "1671472583.606839",
+    "thread_ts": "1671472313.393039",
+    "parent_user_id": "UMQUVR2VD",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wrIta",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "290 East Paces Ferry Rd NE, Atlanta, GA 30305"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/108c9f2ba196c93fcfae4dabb9776a4f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "A.P.",
+      "real_name": "A.P.",
+      "display_name": "A.P.",
+      "team": "T03NCJFKCV8",
+      "name": "abhishekpatil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8ea7c8f8-5a7f-4af7-b027-71b06da35600",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "ah I think that used to be at Atlantic Station",
+    "ts": "1671472697.335419",
+    "thread_ts": "1671472313.393039",
+    "parent_user_id": "UMQUVR2VD",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C+Jv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ah I think that used to be at Atlantic Station"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d7530b90-4429-44ba-9093-4d8d86072dc5",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "This looks fun",
+    "ts": "1671473621.097779",
+    "thread_ts": "1671472313.393039",
+    "parent_user_id": "UMQUVR2VD",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B0zwh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This looks fun"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "92b5d79a-d6fb-4071-906a-30e8b39c6c61",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "I went back in 2017 and it was just okay",
+    "ts": "1671474706.466669",
+    "thread_ts": "1671472313.393039",
+    "parent_user_id": "UMQUVR2VD",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7S15x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I went back in 2017 and it was just okay"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c0694362-9da5-4c9c-a88b-123681e92f4d",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Might be better now?",
+    "ts": "1671474708.545669",
+    "thread_ts": "1671472313.393039",
+    "parent_user_id": "UMQUVR2VD",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g7r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Might be better now?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

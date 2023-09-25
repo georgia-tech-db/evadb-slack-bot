@@ -1,0 +1,636 @@
+[
+  {
+    "client_msg_id": "294aef0e-fb5e-4b7d-957d-78f5b0f50f93",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "Battle and Brew sounds like a winner? Saturday 8/12 ?!\nbrunch or linner(late lunch-early dinner:upside_down_face::grin::sweat_smile:)",
+    "ts": "1691598476.004639",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CFKm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Battle and Brew sounds like a winner? Saturday 8/12 ?!\nbrunch or linner(late lunch-early dinner"
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "976e5e08-9ab9-4e2f-8a22-5a06e817e7c5",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "*Battle and Brew late lunch-early dinner 4PM Saturday 8/12*\nGive it :+1: if you like to hangout before school starts :smiling_face_with_3_hearts:\n\u003c@U041DBXGPC4\u003e \u003c@U01N1775WSU\u003e \u003c@U04S6L1NS9M\u003e (?)",
+    "ts": "1691605838.354559",
+    "thread_ts": "1691509954.469069",
+    "edited": {
+      "user": "U03UM07E4D8",
+      "ts": "1691609344.000000"
+    },
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LzQol",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Battle and Brew late lunch-early dinner 4PM Saturday 8/12",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nGive it "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " if you like to hangout before school starts "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_3_hearts",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U041DBXGPC4"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": " (?)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "976e5e08-9ab9-4e2f-8a22-5a06e817e7c5",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "*Battle and Brew late lunch-early dinner 4PM Saturday 8/12*\nGive it :+1: if you like to hangout before school starts :smiling_face_with_3_hearts:\n\u003c@U041DBXGPC4\u003e \u003c@U01N1775WSU\u003e \u003c@U04S6L1NS9M\u003e (?)",
+    "ts": "1691605838.354559",
+    "thread_ts": "1691509954.469069",
+    "edited": {
+      "user": "U03UM07E4D8",
+      "ts": "1691609344.000000"
+    },
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LzQol",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Battle and Brew late lunch-early dinner 4PM Saturday 8/12",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nGive it "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " if you like to hangout before school starts "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_3_hearts",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U041DBXGPC4"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": " (?)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "19019486-0743-45aa-bb1c-4ccedad06c4f",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "I'm not in town on Saturday :/ \nBut you'll should go ahead",
+    "ts": "1691606868.777559",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5gj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm not in town on Saturday :/ \nBut you'll should go ahead"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e50bada5-11f3-430d-b445-d7fb99987de0",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "next time, \u003c@U02UAQKR56C\u003e :+1:",
+    "ts": "1691607061.548599",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qd6Uu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "next time, "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B5D1869C-6589-4FB3-A543-FE3193B92141",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "I may potentially be able to make it? ",
+    "ts": "1691607506.134509",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d9x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I may potentially be able to make it? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a7468ad3-6f97-4e11-886f-9d99b4f5125a",
+    "type": "message",
+    "user": "U041DBXGPC4",
+    "text": "Is late lunch better, it is for me?",
+    "ts": "1691608739.145689",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sy4S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is late lunch better, it is for me?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-11/4355481552918_c20cc133c7f8dc3dbc6a_72.jpg",
+      "first_name": "dahumada3",
+      "real_name": "dahumada3",
+      "display_name": "David",
+      "team": "T03NCJFKCV8",
+      "name": "dahumada3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "572b4bf7-a1cb-4eb9-8b00-ccfebcf38dff",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "late lunch works too, time suggestion?",
+    "ts": "1691609000.130499",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bZJC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "late lunch works too, time suggestion?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5809f3b1-b488-4f5f-82e1-746fe0ccdb67",
+    "type": "message",
+    "user": "U041DBXGPC4",
+    "text": "After 2-3PM",
+    "ts": "1691609054.401479",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5elv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "After 2-3PM"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-11/4355481552918_c20cc133c7f8dc3dbc6a_72.jpg",
+      "first_name": "dahumada3",
+      "real_name": "dahumada3",
+      "display_name": "David",
+      "team": "T03NCJFKCV8",
+      "name": "dahumada3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ad3d428c-cd1c-4582-bcb7-6938f2831671",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "4 PM linner?",
+    "ts": "1691609074.597449",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U041DBXGPC4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UHE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "4 PM linner?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

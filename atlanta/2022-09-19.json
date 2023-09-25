@@ -1,0 +1,552 @@
+[
+  {
+    "type": "message",
+    "user": "USLACKBOT",
+    "text": "*Zhiteng* has joined this channel by invitation from *Georgia Tech*.",
+    "ts": "1663556025.965529",
+    "subtype": "bot_message",
+    "username": "slackbot",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gMC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Zhiteng",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " has joined this channel by invitation from "
+              },
+              {
+                "type": "text",
+                "text": "Georgia Tech",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+      "first_name": "slackbot",
+      "real_name": "Slackbot",
+      "display_name": "Slackbot",
+      "team": "T03NCJFKCV8",
+      "name": "slackbot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U042XU96G12",
+    "text": "\u003c@U042XU96G12\u003e has joined the channel",
+    "ts": "1663556026.051409",
+    "subtype": "channel_join",
+    "inviter": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": null,
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0a7d42da-7d97-4e2c-86fe-a5fbbbf6faa8",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hi classmates, as some of you know my name is Cherie Lum. I am also working on a research project hoping to see how OMSCS student life groups can improve online graduate programs such as this one. Over the course of this semester, I’ll be asking questions. If you could fill out this form of 5-10 minutes, it would be a tremendous help in giving insight on what makes this group great and insight into keeping all the groups going long-term. Thank you a lot! \u003chttps://forms.gle/M9hyuPGN9VmhjuWj8\u003e\n\nOn a more relevant note, looks like you guys tipped the let’s meet monthly frequency. And since the majority of you want to go hiking, I suggest sooner than later. So I’m proposing to do early October even though we just met as opposed to end of October…\n\nSo this is what I need from you votes on:\n:blue_car: got a car but probably cannot pick someone up\n:car: drivers willing to pick someone up\n:woman-running::skin-tone-2: people who need a seat\n:one: Sat Oct 1, [TBD] 9AM  --\u0026gt; food after TBD :two:\n:three: Sat Oct 8, [TBD] 9AM --\u0026gt; food after TBD :four:\n:man-shrugging::skin-tone-4: Fine with all times and dates\n:five: Stone Mountain (30 min outside ATL) | Actual mountain\n:six: Mableton / Silver Comet Trail (20 min outside ATL) | a good walk/bike trail\n:seven: Red top Mountain\n:sweat_smile:Fine with all mountains\n:female-technologist::skin-tone-2: study buckhead/Lenox stations at 5pm/7pm || :female-scientist:on campus at 5pm \u0026lt;-- break the tie \u0026amp; let’s start next week!\n:beers: 10/8 GT homecoming if you’re interested in gathering together…\u0026amp;\u0026amp; tailgate for college of computing?? (thanks for idea \u003c@U042H5EAPJL\u003e)\n\n*Random thought, for those who like 6 flags, we should all go next Fall when GT rents out all of six flags for $25/person (it happened last week for this year already!)\n\nPS If anybody is planning to go to Europe for winter (I.e. Portugal, Spain, England)… tell me!\nPPS. Some people want to hike early??? How early?? 7AM?? 8AM?\n\nOkay happy polling :stuck_out_tongue: thanks for reading\nCherie Lum",
+    "ts": "1663617259.089589",
+    "thread_ts": "1663617259.089589",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1663686223.000000"
+    },
+    "reply_count": 10,
+    "replies": [
+      {
+        "user": "U01N1775WSU",
+        "ts": "1663629084.833219"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1663642662.905789"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1663642725.647549"
+      },
+      {
+        "user": "UMQUVR2VD",
+        "ts": "1663680423.981479"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1663680541.352049"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1663680584.568839"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1663710632.275039"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1663768003.397639"
+      },
+      {
+        "user": "UMQUVR2VD",
+        "ts": "1663771627.019889"
+      },
+      {
+        "user": "UMQUVR2VD",
+        "ts": "1663771651.470969"
+      }
+    ],
+    "latest_reply": "1663771651.470969",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "two",
+        "count": 3,
+        "users": [
+          "U042H5EAPJL",
+          "UMQUVR2VD",
+          "U03UM07E4D8"
+        ]
+      },
+      {
+        "name": "woman-running",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U02BQJX5TB8"
+        ]
+      },
+      {
+        "name": "five",
+        "count": 6,
+        "users": [
+          "U041RUTKBG9",
+          "U0425F983DE",
+          "U8QDSG1G9",
+          "UMQUVR2VD",
+          "U04185JLG8M",
+          "U02BQJX5TB8"
+        ]
+      },
+      {
+        "name": "one",
+        "count": 4,
+        "users": [
+          "U0425F983DE",
+          "UMQUVR2VD",
+          "U03UM07E4D8",
+          "U04185JLG8M"
+        ]
+      },
+      {
+        "name": "car",
+        "count": 5,
+        "users": [
+          "U8QDSG1G9",
+          "UMQUVR2VD",
+          "USLDMLNSK",
+          "U04185JLG8M",
+          "U041PH0B1DF"
+        ]
+      },
+      {
+        "name": "beers",
+        "count": 5,
+        "users": [
+          "U8QDSG1G9",
+          "U041B5GL282",
+          "U02UAQKR56C",
+          "UMQUVR2VD",
+          "U041PH0B1DF"
+        ]
+      },
+      {
+        "name": "sixflags",
+        "count": 2,
+        "users": [
+          "U8QDSG1G9",
+          "U01N1775WSU"
+        ]
+      },
+      {
+        "name": "europe_map",
+        "count": 1,
+        "users": [
+          "U8QDSG1G9"
+        ]
+      },
+      {
+        "name": "three",
+        "count": 4,
+        "users": [
+          "UMQUVR2VD",
+          "USLDMLNSK",
+          "U04185JLG8M",
+          "U040YP0GMCP"
+        ]
+      },
+      {
+        "name": "six",
+        "count": 3,
+        "users": [
+          "UMQUVR2VD",
+          "U03UM07E4D8",
+          "U04185JLG8M"
+        ]
+      },
+      {
+        "name": "four",
+        "count": 1,
+        "users": [
+          "UMQUVR2VD"
+        ]
+      },
+      {
+        "name": "sweat_smile",
+        "count": 2,
+        "users": [
+          "U01N1775WSU",
+          "USLDMLNSK"
+        ]
+      },
+      {
+        "name": "man-shrugging",
+        "count": 2,
+        "users": [
+          "U01N1775WSU",
+          "U04185JLG8M"
+        ]
+      },
+      {
+        "name": "blue_car",
+        "count": 1,
+        "users": [
+          "U041B5GL282"
+        ]
+      },
+      {
+        "name": "female-technologist",
+        "count": 1,
+        "users": [
+          "U041PH0B1DF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HTf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi classmates, as some of you know my name is Cherie Lum. I am also working on a research project hoping to see how OMSCS student life groups can improve online graduate programs such as this one. Over the course of this semester, I’ll be asking questions. If you could fill out this form of 5-10 minutes, it would be a tremendous help in giving insight on what makes this group great and insight into keeping all the groups going long-term. Thank you a lot! "
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/M9hyuPGN9VmhjuWj8",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nOn a more relevant note, looks like you guys tipped the let’s meet monthly frequency. And since the majority of you want to go hiking, I suggest sooner than later. So I’m proposing to do early October even though we just met as opposed to end of October…\n\nSo this is what I need from you votes on:\n"
+              },
+              {
+                "type": "emoji",
+                "name": "blue_car",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " got a car but probably cannot pick someone up\n"
+              },
+              {
+                "type": "emoji",
+                "name": "car",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " drivers willing to pick someone up\n"
+              },
+              {
+                "type": "emoji",
+                "name": "woman-running",
+                "skin_tone": 2
+              },
+              {
+                "type": "text",
+                "text": " people who need a seat\n"
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Sat Oct 1, [TBD] 9AM  --\u003e food after TBD "
+              },
+              {
+                "type": "emoji",
+                "name": "two",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "emoji",
+                "name": "three",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Sat Oct 8, [TBD] 9AM --\u003e food after TBD "
+              },
+              {
+                "type": "emoji",
+                "name": "four",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "emoji",
+                "name": "man-shrugging",
+                "skin_tone": 4
+              },
+              {
+                "type": "text",
+                "text": " Fine with all times and dates\n"
+              },
+              {
+                "type": "emoji",
+                "name": "five",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Stone Mountain (30 min outside ATL) | Actual mountain\n"
+              },
+              {
+                "type": "emoji",
+                "name": "six",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Mableton / Silver Comet Trail (20 min outside ATL) | a good walk/bike trail\n"
+              },
+              {
+                "type": "emoji",
+                "name": "seven",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Red top Mountain\n"
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Fine with all mountains\n"
+              },
+              {
+                "type": "emoji",
+                "name": "female-technologist",
+                "skin_tone": 2
+              },
+              {
+                "type": "text",
+                "text": " study buckhead/Lenox stations at 5pm/7pm || "
+              },
+              {
+                "type": "emoji",
+                "name": "female-scientist",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "on campus at 5pm \u003c-- break the tie \u0026 let’s start next week!\n"
+              },
+              {
+                "type": "emoji",
+                "name": "beers",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 10/8 GT homecoming if you’re interested in gathering together…\u0026\u0026 tailgate for college of computing?? (thanks for idea "
+              },
+              {
+                "type": "user",
+                "user_id": "U042H5EAPJL"
+              },
+              {
+                "type": "text",
+                "text": ")\n\n*Random thought, for those who like 6 flags, we should all go next Fall when GT rents out all of six flags for $25/person (it happened last week for this year already!)\n\nPS If anybody is planning to go to Europe for winter (I.e. Portugal, Spain, England)… tell me!\nPPS. Some people want to hike early??? How early?? 7AM?? 8AM?\n\nOkay happy polling "
+              },
+              {
+                "type": "emoji",
+                "name": "stuck_out_tongue",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " thanks for reading\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02DD5VQLBV",
+      "U02UAQKR56C",
+      "U03UM07E4D8",
+      "UMQUVR2VD"
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U042XU96G12",
+    "text": "\u003c@U042XU96G12\u003e has left the channel",
+    "ts": "1663617497.101199",
+    "subtype": "channel_leave",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": null,
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "278051d5-5bfb-4d32-a108-3e655f0f46ff",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "I'm not a big hiker, but 11am seems kind of late for a hike?",
+    "ts": "1663629084.833219",
+    "thread_ts": "1663617259.089589",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BKS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm not a big hiker, but 11am seems kind of late for a hike?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "client_msg_id": "61df0711-0942-4b1c-9b3c-ecd39e9e940f",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Random event tomorrow on campus if you wanted to go.",
+    "ts": "1677373847.453079",
+    "thread_ts": "1677373847.453079",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U02L4D90KD0",
+        "ts": "1677460827.645369"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677466134.424749"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1677510365.164099"
+      },
+      {
+        "user": "U02L4D90KD0",
+        "ts": "1677523813.480899"
+      }
+    ],
+    "latest_reply": "1677523813.480899",
+    "files": [
+      {
+        "id": "F04QVNQL16K",
+        "created": 1677373818,
+        "timestamp": 1677373818,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DD5VQLBV",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 262731,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04QVNQL16K-image.png",
+        "url_private_download": "attachments/F04QVNQL16K-image.png",
+        "original_h": 1096,
+        "original_w": 1038,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F04QVNQL16K-812a4adb29/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F04QVNQL16K-812a4adb29/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F04QVNQL16K-812a4adb29/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F04QVNQL16K-812a4adb29/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 341,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F04QVNQL16K-812a4adb29/image_480.png",
+        "thumb_480_w": 455,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F04QVNQL16K-812a4adb29/image_720.png",
+        "thumb_720_w": 682,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F04QVNQL16K-812a4adb29/image_960.png",
+        "thumb_960_w": 909,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F04QVNQL16K-812a4adb29/image_1024.png",
+        "thumb_1024_w": 970,
+        "thumb_1024_h": 1024,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02DD5VQLBV/F04QVNQL16K/image.png",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F04QVNQL16K-f8a27cf386",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4oO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Random event tomorrow on campus if you wanted to go."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02L4D90KD0",
+      "U040WB5GXRV"
+    ]
+  },
+  {
+    "client_msg_id": "8fd2fc75-f274-4c4c-b530-8164cd6ab74f",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "My dog loves sweet water.  Which trail? She probably can't really do red anymore.  Only the blue one",
+    "ts": "1677435607.778539",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x/Ml",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My dog loves sweet water.  Which trail? She probably can't really do red anymore.  Only the blue one"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b8832101-2e18-44b1-90b2-3e5df9200a74",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I just chose location randomly, so if you have the preference for blue, let’s do it! How long is it? \u003c@U019GF47VJ8\u003e",
+    "ts": "1677439837.820489",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RqQu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just chose location randomly, so if you have the preference for blue, let’s do it! How long is it? "
+              },
+              {
+                "type": "user",
+                "user_id": "U019GF47VJ8"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "75c53134-8312-4639-beb7-673b453bfb91",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "And which date are you available?",
+    "ts": "1677439860.857949",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sLP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And which date are you available?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0d3c4397-466e-4b8b-97c8-b7d3008bf476",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Either ought to be fine with me, I think... but the later date would be better.  The red trail is more scenic but a moderately difficult trek in some parts.",
+    "ts": "1677440049.738469",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bWN5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Either ought to be fine with me, I think... but the later date would be better.  The red trail is more scenic but a moderately difficult trek in some parts."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b0ccb823-9913-4c5a-b1de-a1cf30db70a6",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "It loops doesn’t it? We can do blue then go red or split the group. Either way it would be lovely to have a dog enjoy one of our walks!",
+    "ts": "1677440217.057099",
+    "thread_ts": "1677360967.154509",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1677440579.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vwU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It loops doesn’t it? We can do blue then go red or split the group. Either way it would be lovely to have a dog enjoy one of our walks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6e59c6b2-77e1-4cd4-8ec9-044c5dadc442",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Yeah so you go down red and then the one line goes left and the red one continues onto the right and goes along the river.  The blue crosses over a bridge and then just does an easy uphill then downhill loop",
+    "ts": "1677440709.119299",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oWDE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah so you go down red and then the one line goes left and the red one continues onto the right and goes along the river.  The blue crosses over a bridge and then just does an easy uphill then downhill loop"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "62e3f60b-e8b9-4903-baba-bc2066461975",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "\u003c@U02DD5VQLBV\u003e only if Ankit comes too",
+    "ts": "1677451779.478089",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "USLDMLNSK"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wm6c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " only if Ankit comes too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

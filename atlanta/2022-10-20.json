@@ -1,0 +1,208 @@
+[
+  {
+    "client_msg_id": "d94dd484-d866-4e1a-a7f2-7cb1b105de69",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello Beautiful people,\n\nHappy Thursday!\n\n1. For those interested in Karoke, join next Wednesday on campus! \u003chttps://gatech.universitytickets.com/w/event.aspx?id=1927\u0026amp;r=57ee65a86db5435f9b54503129f97dd3\u003e\n2. Excited to see 7 of you this Friday at the Grad student mixer\n3. Keep filling out your concentrations in the above post, I’ll do something about it in the future to connect you all and it’ll help you guys connect on your own\n4. Don’t forget the Thanksgiving/ November post. So far we have a total of 9 people (and one husband) doing Top Golf and Food, one student just doing top golf and one student just doing food. If you’re coming, give a heads up by clicking one of the emojis :slightly_smiling_face: \n5. If you could do me a solid and fill out my survey for my research project even if you filled out the first one. Joyner helped me re-revise this one and it would help with potentially keeping this and the other groups going- thank you! \u003chttps://forms.gle/psJzwj7jTAoUQHH68\u003e\nCatch ya later,\nCherie Lum",
+    "ts": "1666241806.500379",
+    "thread_ts": "1666241806.500379",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U0425F983DE",
+        "ts": "1666280169.530139"
+      },
+      {
+        "user": "U02L4D90KD0",
+        "ts": "1666370277.598349"
+      },
+      {
+        "user": "USLDMLNSK",
+        "ts": "1666476958.112789"
+      }
+    ],
+    "latest_reply": "1666476958.112789",
+    "files": [
+      {
+        "id": "F047AQLFW1Z",
+        "created": 1666241473,
+        "timestamp": 1666241473,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DD5VQLBV",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 435789,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F047AQLFW1Z-image.png",
+        "url_private_download": "attachments/F047AQLFW1Z-image.png",
+        "original_h": 1292,
+        "original_w": 1114,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F047AQLFW1Z-4514da151f/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F047AQLFW1Z-4514da151f/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F047AQLFW1Z-4514da151f/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F047AQLFW1Z-4514da151f/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 310,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F047AQLFW1Z-4514da151f/image_480.png",
+        "thumb_480_w": 414,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F047AQLFW1Z-4514da151f/image_720.png",
+        "thumb_720_w": 621,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F047AQLFW1Z-4514da151f/image_960.png",
+        "thumb_960_w": 828,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F047AQLFW1Z-4514da151f/image_1024.png",
+        "thumb_1024_w": 883,
+        "thumb_1024_h": 1024,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02DD5VQLBV/F047AQLFW1Z/image.png",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F047AQLFW1Z-998875587f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wia",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Beautiful people,\n\nHappy Thursday!\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"For those interested in Karoke, join next Wednesday on campus! \"},{\"type\":\"link\",\"url\":\"https:\\/\\/gatech.universitytickets.com\\/w\\/event.aspx?id=1927\u0026r=57ee65a86db5435f9b54503129f97dd3\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Excited to see 7 of you this Friday at the Grad student mixer\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Keep filling out your concentrations in the above post, I\\u2019ll do something about it in the future to connect you all and it\\u2019ll help you guys connect on your own\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Don\\u2019t forget the Thanksgiving\\/ November post. So far we have a total of 9 people (and one husband) doing Top Golf and Food, one student just doing top golf and one student just doing food. If you\\u2019re coming, give a heads up by clicking one of the emojis \"},{\"type\":\"emoji\",\"name\":\"slightly_smiling_face\",\"unicode\":\"1f642\"},{\"type\":\"text\",\"text\":\" \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"If you could do me a solid and fill out my survey for my research project even if you filled out the first one. Joyner helped me re-revise this one and it would help with potentially keeping this and the other groups going- thank you! \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/psJzwj7jTAoUQHH68\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nCatch ya later,\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U02L4D90KD0",
+      "U0425F983DE",
+      "USLDMLNSK"
+    ]
+  },
+  {
+    "client_msg_id": "3bf1187f-3583-44e2-9385-ab877409c7ba",
+    "type": "message",
+    "user": "U0425F983DE",
+    "text": "Not a big singer ... but the Korean bites :eyes:",
+    "ts": "1666280169.530139",
+    "thread_ts": "1666241806.500379",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7+OQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Not a big singer ... but the Korean bites "
+              },
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4083809197266_e707c4228597e875853d_72.png",
+      "first_name": "dylan.husserl",
+      "real_name": "dylan.husserl",
+      "display_name": "dylan.husserl",
+      "team": "T03NCJFKCV8",
+      "name": "dylan.husserl",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

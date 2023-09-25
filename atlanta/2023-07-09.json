@@ -1,0 +1,141 @@
+[
+  {
+    "client_msg_id": "a3e89e98-b2fc-4c0d-928c-12096fcf5278",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "It's so hot so far this summer in Atlanta.... let's do an indoor event lol :sweating:",
+    "ts": "1688933897.158329",
+    "thread_ts": "1688446194.110659",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FYu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It's so hot so far this summer in Atlanta.... let's do an indoor event lol "
+              },
+              {
+                "type": "emoji",
+                "name": "sweating",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dcf0772c-a474-423d-95b3-459c7f10d535",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "my default/favorite hiking is Chattahoochee River Trail from Column Drive\n\u003chttps://www.alltrails.com/trail/us/georgia/chattahoochee-river-loop-from-columns-drive\u003e",
+    "ts": "1688934229.270149",
+    "thread_ts": "1688446194.110659",
+    "attachments": [
+      {
+        "fallback": "AllTrails.com: Chattahoochee River Trail from Columns Drive",
+        "id": 1,
+        "title": "Chattahoochee River Trail from Columns Drive",
+        "title_link": "https://www.alltrails.com/trail/us/georgia/chattahoochee-river-loop-from-columns-drive",
+        "text": "Get to know this 3.2-mile out-and-back trail near Marietta, Georgia. Generally considered an easy route, it takes an average of 56 min to complete. This is a very popular area for hiking, mountain biking, and running, so you'll likely encounter other people while exploring. The trail is open year-round and is beautiful to visit anytime. Dogs are welcome, but must be on a leash.",
+        "image_url": "https://www.alltrails.com/api/alltrails/v3/maps/176487668/share_image?image_type=default\u0026photo_id=27167757\u0026shape=rectangle",
+        "service_name": "AllTrails.com",
+        "service_icon": "https://www.alltrails.com/favicon-prod-152.png",
+        "from_url": "https://www.alltrails.com/trail/us/georgia/chattahoochee-river-loop-from-columns-drive",
+        "original_url": "https://www.alltrails.com/trail/us/georgia/chattahoochee-river-loop-from-columns-drive",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qY0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "my default/favorite hiking is Chattahoochee River Trail from Column Drive\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.alltrails.com/trail/us/georgia/chattahoochee-river-loop-from-columns-drive",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

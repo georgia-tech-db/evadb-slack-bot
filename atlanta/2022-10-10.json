@@ -1,0 +1,389 @@
+[
+  {
+    "client_msg_id": "e47ef1eb-3a3e-4b30-808a-12cfd90ad560",
+    "type": "message",
+    "user": "U01SG18HJF4",
+    "text": "Welcome \u003c@U03TP5GML95\u003e and \u003c@U02BDEGN7UN\u003e! \u003c@U02DD5VQLBV\u003e is the chapter head for this channel!",
+    "ts": "1665429781.427129",
+    "thread_ts": "1665429781.427129",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U03TP5GML95",
+        "ts": "1665435502.746709"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1665503237.226429"
+      },
+      {
+        "user": "U03TP5GML95",
+        "ts": "1665611169.902339"
+      }
+    ],
+    "latest_reply": "1665611169.902339",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PhP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Welcome "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TP5GML95"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U02BDEGN7UN"
+              },
+              {
+                "type": "text",
+                "text": "! "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " is the chapter head for this channel!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2019-01-03/516118637637_238d846fcf32a2c3ff82_72.png",
+      "first_name": "David",
+      "real_name": "David Joyner",
+      "display_name": "david.joyner",
+      "team": "T03NCJFKCV8",
+      "name": "david.joyner",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U03TP5GML95"
+    ]
+  },
+  {
+    "client_msg_id": "d9dd4c7d-925a-4aae-a2fe-516b3ec94ebf",
+    "type": "message",
+    "user": "UJM8GC35H",
+    "text": "Welcome aboard! \u003c@U03TP5GML95\u003e, \u003c@U02BDEGN7UN\u003e!",
+    "ts": "1665429934.145939",
+    "edited": {
+      "user": "UJM8GC35H",
+      "ts": "1665432712.000000"
+    },
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Stw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Welcome aboard! "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TP5GML95"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U02BDEGN7UN"
+              },
+              {
+                "type": "text",
+                "text": "!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4061286979585_5faa47099dfa19971955_72.jpg",
+      "first_name": "",
+      "real_name": "Mitchell Hamilton",
+      "display_name": "Mitchell Hamilton",
+      "team": "T03NCJFKCV8",
+      "name": "mitchell.hamilton",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "61e3f564-24eb-48dc-980d-21552e25f670",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello \u003c@U03TP5GML95\u003e and \u003c@U02BDEGN7UN\u003e my name is Cherie and I’m the Atlanta Chapter head- welcome to Atlanta student life group!! If there are any activities you’d like or have questions, feel free to ask at anytime. :slightly_smiling_face:",
+    "ts": "1665432309.835789",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AUZd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TP5GML95"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U02BDEGN7UN"
+              },
+              {
+                "type": "text",
+                "text": " my name is Cherie and I’m the Atlanta Chapter head- welcome to Atlanta student life group!! If there are any activities you’d like or have questions, feel free to ask at anytime. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ADEFE2A5-560B-439B-ABA6-F2BEB9429EA6",
+    "type": "message",
+    "user": "U03TP5GML95",
+    "text": "\u003c@U02DD5VQLBV\u003e thanks for adding me to the group! I’m moving back to ATL in a month and looking forward to meeting y’all in person!\n\nI’m interested in both social and professional events!",
+    "ts": "1665432638.799119",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U04263B0EMP"
+        ]
+      },
+      {
+        "name": "beers",
+        "count": 1,
+        "users": [
+          "U8QDSG1G9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jfmm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " thanks for adding me to the group! "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " moving back to ATL in a month and looking forward to meeting y’all in person!\n\n"
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " interested"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "in both social and professional events!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7d2024bce67455b4d3314c4b05827eea.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Qiwei",
+      "real_name": "Qiwei Mao",
+      "display_name": "Qiwei",
+      "team": "T03NCJFKCV8",
+      "name": "qmao36",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BA81CBD4-500E-4E41-85E2-2BCA8E4F70F9",
+    "type": "message",
+    "user": "U03TP5GML95",
+    "text": "Hi David, currently I’m in San Diego. But will be moving back to ATL a month later.\n\nDo we also have a channel for the San Diego chapter? Thanks!",
+    "ts": "1665435502.746709",
+    "thread_ts": "1665429781.427129",
+    "parent_user_id": "U01SG18HJF4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Lo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi David, currently "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " in San Diego. But will be moving back to ATL a month later.\n\nDo we also have a channel for the San Diego chapter"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              },
+              {
+                "type": "text",
+                "text": " Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7d2024bce67455b4d3314c4b05827eea.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Qiwei",
+      "real_name": "Qiwei Mao",
+      "display_name": "Qiwei",
+      "team": "T03NCJFKCV8",
+      "name": "qmao36",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

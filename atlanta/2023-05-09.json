@@ -1,0 +1,168 @@
+[
+  {
+    "client_msg_id": "28cdd68b-37f9-4312-9605-72b9aac98180",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U02EEGFEYHH\u003e I love watching baseball fields SO much (I’ve only been to two!), I want to, but the idea was told to me at the conference, and I’ll be out of state :disappointed:",
+    "ts": "1683591788.458999",
+    "thread_ts": "1683260130.549029",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1683591808.000000"
+    },
+    "parent_user_id": "U02EEGFEYHH",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x3r+f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02EEGFEYHH"
+              },
+              {
+                "type": "text",
+                "text": " I love watching baseball fields SO much (I’ve only been to two!), I want to, but the idea was told to me at the conference, and I’ll be out of state "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "33aad1aa-7221-444a-b986-bc115cb4e4eb",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "The dates are Fridays?",
+    "ts": "1683595250.389199",
+    "thread_ts": "1683494199.414979",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ldO1y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The dates are Fridays?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0FF9644B-2B2D-4EDB-A349-60EC2FBA5DB3",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Good point! I think zvi chose those dates let me double check with him ",
+    "ts": "1683597498.684449",
+    "thread_ts": "1683494199.414979",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TYV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good point! I think zvi chose those dates let me double check with him "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

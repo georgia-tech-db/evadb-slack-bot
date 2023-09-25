@@ -1,0 +1,164 @@
+[
+  {
+    "client_msg_id": "C5C50A96-DEE7-4216-91A8-C3970CECDF14",
+    "type": "message",
+    "user": "U0495G3QQ1W",
+    "text": "Have to cancel due to an emergency",
+    "ts": "1692921895.504619",
+    "thread_ts": "1692471580.486589",
+    "parent_user_id": "U04S6L1NS9M",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QJNM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have to cancel due to an emergency"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-27/4290324769572_a9e776395623c3b9f13f_72.jpg",
+      "first_name": "Elan",
+      "real_name": "Elan Grossman",
+      "display_name": "Elan",
+      "team": "T03NCJFKCV8",
+      "name": "egrossman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "60ba30b1-40ad-4a4e-8941-2493b44ef43c",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I might start going to the range in smyrna and join GT’s golf club. Although I need to go find some golf clubs, going to ask some neighbors",
+    "ts": "1692926710.841629",
+    "thread_ts": "1692817115.596639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "golfer",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uT9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I might start going to the range in smyrna and join GT’s golf club. Although I need to go find some golf clubs, going to ask some neighbors"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6930417e-3587-4e4a-ab2f-1032821c0f4a",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "If you join the golf club let me know. Also when you go to the range let me know I would like to join. The range I use is called Marietta Golf Center.",
+    "ts": "1692938542.277619",
+    "thread_ts": "1692817115.596639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3WZ=S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you join the golf club let me know. Also when you go to the range let me know I would like to join. The range I use is called Marietta Golf Center."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

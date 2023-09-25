@@ -1,0 +1,424 @@
+[
+  {
+    "client_msg_id": "4008b799-e01a-484a-ba27-b33b073c8f50",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": ":noice:",
+    "ts": "1693969675.718249",
+    "thread_ts": "1693666575.799639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OKlXi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "noice",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "76a3769e-f51d-4e2c-abe1-1a200c60caeb",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "We know you go to “code” but where do you actually sit down and do your work?",
+    "ts": "1693969754.549929",
+    "thread_ts": "1693527359.206939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qLYig",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We know you go to “code” but where do you actually sit down and do your work?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "293a7c8d-44b7-4152-b113-9f5fab0475b8",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "Stay at the Georgia Tech Hotel! It's GT themed!!",
+    "ts": "1693996030.265389",
+    "thread_ts": "1693847462.204199",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1V6z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Stay at the Georgia Tech Hotel! It's GT themed!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "98425f6c-e098-45e0-b7bd-3602b9785094",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "For those graduating soon and maybe deciding what to do afterwards…….",
+    "ts": "1694014734.541789",
+    "files": [
+      {
+        "id": "F05R45BPTMK",
+        "created": 1694014712,
+        "timestamp": 1694014712,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DD5VQLBV",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 254035,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05R45BPTMK-image.png",
+        "url_private_download": "attachments/F05R45BPTMK-image.png",
+        "original_h": 862,
+        "original_w": 1752,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R45BPTMK-6e244cf82a/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R45BPTMK-6e244cf82a/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R45BPTMK-6e244cf82a/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R45BPTMK-6e244cf82a/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 177,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R45BPTMK-6e244cf82a/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 236,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R45BPTMK-6e244cf82a/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 354,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R45BPTMK-6e244cf82a/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 472,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R45BPTMK-6e244cf82a/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 504,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02DD5VQLBV/F05R45BPTMK/image.png",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F05R45BPTMK-4ad6bf169e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pDyUk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For those graduating soon and maybe deciding what to do afterwards……."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E01942FC-89B7-4556-BED5-10D8215332C3",
+    "type": "message",
+    "user": "U0495G3QQ1W",
+    "text": "Saw this session happening tomorrow:\nJoin DSGT and CapTech Consulting on Thursday, September 7th from 5:00 pm to 6:00 pm in Howey L2 to learn more about data and analytics consulting! This will be a great opportunity to network, gain exposure to a growing field within tech and consulting, and of course, get some free Chick-fil-A. RSVP now to save your spot: \u003chttps://forms.gle/fUBUA9EFwt7qTpSF6|https://forms.gle/fUBUA9EFwt7qTpSF6\u003e.",
+    "ts": "1694025240.331639",
+    "attachments": [
+      {
+        "fallback": "Google Docs: CapTech X DSGT Session RSVP",
+        "id": 1,
+        "title": "CapTech X DSGT Session RSVP",
+        "title_link": "https://forms.gle/fUBUA9EFwt7qTpSF6",
+        "text": "Meet Georgia Tech alumni working in Data \u0026amp; Analytics Consulting and learn more about ML Operations, a field of study for productionalizing data science at an enterprise scale. We will be discussing CapTech as a company and upcoming opportunities for full-time and internships.\n\nThis event will be held on 09.07.23 from 5:00 pm to 6:00 pm in the Howey Physics L2 Classroom.",
+        "image_url": "https://lh4.googleusercontent.com/GOKC1JtOyQ58OkpQ0U4Du_Rxe7hGD250ZjDv92YHZvHa5OzUp76A3zSgWu-3070qS80EMWRQoVg",
+        "service_name": "Google Docs",
+        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+        "from_url": "https://forms.gle/fUBUA9EFwt7qTpSF6",
+        "original_url": "https://forms.gle/fUBUA9EFwt7qTpSF6",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U0495G3QQ1W",
+      "ts": "1694025246.000000"
+    },
+    "files": [
+      {
+        "id": "F05R8575526",
+        "created": 1694025205,
+        "timestamp": 1694025205,
+        "name": "digital_marketing_workshop.png",
+        "title": "digital_marketing_workshop",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0495G3QQ1W",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 630954,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05R8575526-digital_marketing_workshop.png",
+        "url_private_download": "attachments/F05R8575526-digital_marketing_workshop.png",
+        "original_h": 1080,
+        "original_w": 1080,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R8575526-a2dcfec2d8/digital_marketing_workshop_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R8575526-a2dcfec2d8/digital_marketing_workshop_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R8575526-a2dcfec2d8/digital_marketing_workshop_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R8575526-a2dcfec2d8/digital_marketing_workshop_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R8575526-a2dcfec2d8/digital_marketing_workshop_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R8575526-a2dcfec2d8/digital_marketing_workshop_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R8575526-a2dcfec2d8/digital_marketing_workshop_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F05R8575526-a2dcfec2d8/digital_marketing_workshop_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 1024,
+        "permalink": "https://gatech.enterprise.slack.com/files/U0495G3QQ1W/F05R8575526/digital_marketing_workshop.png",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F05R8575526-45f5745890",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yNF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Saw this session happening tomorrow:\nJoin DSGT and CapTech Consulting on Thursday, September 7th from 5:00 pm to 6:00 pm in Howey L2 to learn more about data and analytics consulting! This will be a great opportunity to network, gain exposure to a growing field within tech and consulting, and of course, get some free Chick-fil-A. RSVP now to save your spot: "
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/fUBUA9EFwt7qTpSF6",
+                "text": "https://forms.gle/fUBUA9EFwt7qTpSF6"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-27/4290324769572_a9e776395623c3b9f13f_72.jpg",
+      "first_name": "Elan",
+      "real_name": "Elan Grossman",
+      "display_name": "Elan",
+      "team": "T03NCJFKCV8",
+      "name": "egrossman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

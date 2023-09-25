@@ -1,0 +1,147 @@
+[
+  {
+    "client_msg_id": "DD11C08A-A20D-4A34-B4B7-E85142791C59",
+    "type": "message",
+    "user": "U0575G39PK4",
+    "text": "yo if anybody here has a vr headset would y’all wanna meet in the metaverse. me and another omscs friend from the conference r planning on it lol.",
+    "ts": "1684016258.407169",
+    "thread_ts": "1684016258.407169",
+    "edited": {
+      "user": "U0575G39PK4",
+      "ts": "1684016962.000000"
+    },
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U02EEGFEYHH",
+        "ts": "1684018695.955999"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1684090486.039539"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1684090509.446919"
+      },
+      {
+        "user": "U0575G39PK4",
+        "ts": "1684234226.084609"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1684242575.843369"
+      }
+    ],
+    "latest_reply": "1684242575.843369",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VmYW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yo if anybody here has a vr headset would y’all wanna meet in the metaverse. me and another omscs friend from the conference r planning on it lol."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-13/5263025978500_c55dd425df7f17385ce2_72.png",
+      "first_name": "Junaid",
+      "real_name": "Junaid Mohamed",
+      "display_name": "Junaid Mohamed",
+      "team": "T03NCJFKCV8",
+      "name": "jmohamed8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02EEGFEYHH",
+      "U0575G39PK4"
+    ]
+  },
+  {
+    "client_msg_id": "784cbcbe-f131-48c6-9035-14fb73509d54",
+    "type": "message",
+    "user": "U02EEGFEYHH",
+    "text": "Wow, this is cool!",
+    "ts": "1684018695.955999",
+    "thread_ts": "1684016258.407169",
+    "parent_user_id": "U0575G39PK4",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0575G39PK4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gQ2or",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wow, this is cool!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-03-26/3285281466023_2b0e74cefeb2b942ebab_72.jpg",
+      "first_name": "Kai",
+      "real_name": "Kai Ouyang",
+      "display_name": "",
+      "team": "T03NCJFKCV8",
+      "name": "ko40",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

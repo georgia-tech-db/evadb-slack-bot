@@ -1,0 +1,388 @@
+[
+  {
+    "client_msg_id": "9bee80a1-50c9-4484-af43-70e1cf34b9ce",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U03TP5GML95\u003e there is a San Diego Chapter. :slightly_smiling_face:",
+    "ts": "1665503237.226429",
+    "thread_ts": "1665429781.427129",
+    "parent_user_id": "U01SG18HJF4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RXIu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03TP5GML95"
+              },
+              {
+                "type": "text",
+                "text": " there is a San Diego Chapter. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6a2d1e09-189a-4891-b878-841f15c2e720",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "oh sweet. Do ya’ll want the deal \u003c@U04185JLG8M\u003e \u003c@U041RUTKBG9\u003e \u003c@UJM8GC35H\u003e \u003c@U019GF47VJ8\u003e? Weekend price is $47.50/person + two bottles of wine. Saturday?",
+    "ts": "1665503276.690489",
+    "thread_ts": "1665184859.789679",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1665505925.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+d/y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh sweet. Do ya’ll want the deal "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041RUTKBG9"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "UJM8GC35H"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U019GF47VJ8"
+              },
+              {
+                "type": "text",
+                "text": "? Weekend price is $47.50/person + two bottles of wine. Saturday?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "71a05ceb-fcc7-4fc8-be48-d4a1e59037d8",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hi beautiful people,\n\nHope you are having a great start to your work week or school week!!!\n\nAnybody interested in gathering together for a potluck (:pizza:) or going to a restaurant (:shallow_pan_of_food:) like early November (5th or 12th — please ONLY choose one or all to break ties) around 1pm-3PM to celebrate Thanksgiving as friends as I’m sure some of you will be traveling home for Thanksgiving (like myself… give a shout if you’re going to NYC!)\n\nWe can of course also pair it with something… I don’t know what happens in November, mazes? fried oreos? leaf games? golf?\n\n:one: 5th\n:two: 12th\n:three: Fine with both\n:four: Not available\n:pizza: potluck\n:shallow_pan_of_food: restaurant\n:meat_on_bone: any food is great\n\nCherie Lum",
+    "ts": "1665506141.081449",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1665526336.000000"
+    },
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "two",
+        "count": 7,
+        "users": [
+          "UD11PFB4P",
+          "U03UM07E4D8",
+          "U041DBJ58LU",
+          "U04263B0EMP",
+          "USAM1EKN0",
+          "U041PH0B1DF",
+          "U040WB5GXRV"
+        ]
+      },
+      {
+        "name": "meat_on_bone",
+        "count": 5,
+        "users": [
+          "UD11PFB4P",
+          "U03UM07E4D8",
+          "U04185JLG8M",
+          "U041PH0B1DF",
+          "U040WB5GXRV"
+        ]
+      },
+      {
+        "name": "f1_race_car_side_view",
+        "count": 1,
+        "users": [
+          "U8QDSG1G9"
+        ]
+      },
+      {
+        "name": "one",
+        "count": 3,
+        "users": [
+          "UDWBBD1HC",
+          "U013YD2ACLC",
+          "U041BASGNQJ"
+        ]
+      },
+      {
+        "name": "shallow_pan_of_food",
+        "count": 9,
+        "users": [
+          "UDWBBD1HC",
+          "U03UM07E4D8",
+          "U04185JLG8M",
+          "U041DBJ58LU",
+          "U04263B0EMP",
+          "U013YD2ACLC",
+          "U02MANZL55F",
+          "U02L4D90KD0",
+          "U041BASGNQJ"
+        ]
+      },
+      {
+        "name": "three",
+        "count": 3,
+        "users": [
+          "U04185JLG8M",
+          "U02MANZL55F",
+          "U02L4D90KD0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qWuW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi beautiful people,\n\nHope you are having a great start to your work week or school week!!!\n\nAnybody interested in gathering together for a potluck ("
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ") or going to a restaurant ("
+              },
+              {
+                "type": "emoji",
+                "name": "shallow_pan_of_food",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ") like early November (5th or 12th — please ONLY choose one or all to break ties) around 1pm-3PM to celebrate Thanksgiving as friends as I’m sure some of you will be traveling home for Thanksgiving (like myself… give a shout if you’re going to NYC!)\n\nWe can of course also pair it with something… I don’t know what happens in November, mazes? fried oreos? leaf games? golf?\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 5th\n"
+              },
+              {
+                "type": "emoji",
+                "name": "two",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 12th\n"
+              },
+              {
+                "type": "emoji",
+                "name": "three",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Fine with both\n"
+              },
+              {
+                "type": "emoji",
+                "name": "four",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Not available\n"
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " potluck\n"
+              },
+              {
+                "type": "emoji",
+                "name": "shallow_pan_of_food",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " restaurant\n"
+              },
+              {
+                "type": "emoji",
+                "name": "meat_on_bone",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " any food is great\n\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6e956371-911b-4178-a405-fed439ecba53",
+    "type": "message",
+    "user": "UJM8GC35H",
+    "text": "Sounds good to me",
+    "ts": "1665506228.289569",
+    "thread_ts": "1665184859.789679",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9m+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good to me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4061286979585_5faa47099dfa19971955_72.jpg",
+      "first_name": "",
+      "real_name": "Mitchell Hamilton",
+      "display_name": "Mitchell Hamilton",
+      "team": "T03NCJFKCV8",
+      "name": "mitchell.hamilton",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

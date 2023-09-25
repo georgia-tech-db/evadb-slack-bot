@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "187D486C-396B-482E-84C8-6FF11C348E3E",
+    "type": "message",
+    "user": "U04HVDA1022",
+    "text": "Yup, works for me :ok_hand::skin-tone-4: ",
+    "ts": "1691632131.914729",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G40W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yup, works for me "
+              },
+              {
+                "type": "emoji",
+                "name": "ok_hand",
+                "skin_tone": 4
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-08/4769315920325_0ba8025b357211caa251_72.jpg",
+      "first_name": "giacona3",
+      "real_name": "giacona3",
+      "display_name": "giacona3",
+      "team": "T03NCJFKCV8",
+      "name": "giacona3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

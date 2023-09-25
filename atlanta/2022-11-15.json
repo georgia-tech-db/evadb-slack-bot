@@ -1,0 +1,1480 @@
+[
+  {
+    "client_msg_id": "648de2cb-32f7-4571-81a8-9637a2925fbe",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "\u003c@U03UM07E4D8\u003e \u003c@U01N1775WSU\u003e I've been to both for ice skating. Just incase yall/we decide to go one someday, I recommend the roswell indoor rink. The Atlantic Station one is too crowded and the ice is not smooth. Center ice arena on Roswell has some crowd but the ice is a little smoother.",
+    "ts": "1668470753.212609",
+    "thread_ts": "1668377633.577939",
+    "edited": {
+      "user": "U02MANZL55F",
+      "ts": "1668470774.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HNK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " I've been to both for ice skating. Just incase yall/we decide to go one someday, I recommend the roswell indoor rink. The Atlantic Station one is too crowded and the ice is not smooth. Center ice arena on Roswell has some crowd but the ice is a little smoother."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e43a859b-d2b0-4327-afa0-7692d3a7fc50",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Does that mean you can teach us to skate",
+    "ts": "1668473200.950779",
+    "thread_ts": "1668377633.577939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xhr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does that mean you can teach us to skate"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6B13FC8D-BD1B-444B-A89A-85449733C692",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U041DBXGPC4\u003e I'm glad you came!!! Also if possible please add David as your name :D",
+    "ts": "1668508509.784969",
+    "thread_ts": "1668037620.328909",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nwe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041DBXGPC4"
+              },
+              {
+                "type": "text",
+                "text": " I'm glad you came!!! Also if possible please add David as your name :D"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "754fa245-302c-443b-8e76-796cdddf8d91",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U8QDSG1G9\u003e choosing our own house isn’t a bias if you prefer that over the escape room. You’re actually the person who tips the vote :slightly_smiling_face: since the votes. Unless \u003c@U02UAQKR56C\u003e , \u003c@U03UM07E4D8\u003e and \u003c@U04185JLG8M\u003e can choose one of the two, it would help make a more clear event for January :slightly_smiling_face:",
+    "ts": "1668511499.989869",
+    "thread_ts": "1668377633.577939",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1668511595.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9+9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " choosing our own house isn’t a bias if you prefer that over the escape room. You’re actually the person who tips the vote "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " since the votes. Unless "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " , "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " can choose one of the two, it would help make a more clear event for January "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9cab4d71-ac76-4786-bf5a-7052ebf7fbc3",
+    "type": "message",
+    "user": "U042SUUF3NY",
+    "text": "Appreciate it my man!",
+    "ts": "1668513942.875299",
+    "thread_ts": "1668289649.497719",
+    "parent_user_id": "U040V1EQYMS",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MOW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Appreciate it my man!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-06/4329577938899_02ed38fc846b71d0a83b_72.jpg",
+      "first_name": "Dominick",
+      "real_name": "Dominick Blue",
+      "display_name": "Dominick Blue",
+      "team": "T03NCJFKCV8",
+      "name": "jblue8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4b71d803-d132-414d-913c-e6a404c9c387",
+    "type": "message",
+    "user": "U042SUUF3NY",
+    "text": "This looks like such an awesome event!",
+    "ts": "1668513959.218399",
+    "thread_ts": "1668377633.577939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "carlton_3",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ckN1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This looks like such an awesome event!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-06/4329577938899_02ed38fc846b71d0a83b_72.jpg",
+      "first_name": "Dominick",
+      "real_name": "Dominick Blue",
+      "display_name": "Dominick Blue",
+      "team": "T03NCJFKCV8",
+      "name": "jblue8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9D2DF3D5-67BC-42A2-A5F0-2E6DC51A2746",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U02UAQKR56C\u003e - \u003c@U02MANZL55F\u003e probably can do backflips on ice please teach us :pray:",
+    "ts": "1668516864.034729",
+    "thread_ts": "1668377633.577939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P8X/w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " - "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " probably can do backflips on ice please teach us "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b45db692-2ecf-4be0-b207-03b46f9ae417",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "\u003c@U02UAQKR56C\u003e lol I can't promise anything",
+    "ts": "1668523699.985379",
+    "thread_ts": "1668377633.577939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "count": 1,
+        "users": [
+          "U02UAQKR56C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NwZk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " lol I can't promise anything"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7ac69d2f-5ba6-4724-acec-d1bba0e5b290",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "\u003c@U02DD5VQLBV\u003e, I think \u003c@U02UAQKR56C\u003e is volunteering to do some backflips",
+    "ts": "1668523928.646769",
+    "thread_ts": "1668377633.577939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U02UAQKR56C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iExT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": ", I think "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " is volunteering to do some backflips"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1bf38554-8ed6-4fef-b253-aa67042feb42",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "\u003c@U02DD5VQLBV\u003e Too many choices:joy: December 17th escape room. Save potluck January :)\nI love the La Meri Zi restaurant on Buford Hwy. They do good tofu and eggplant dishes. I heart their kung pao chicken and wonton in red oil (my must have every time).\nIf we are going to skating on Roswell location next, there is a place down the road, Bawarchi Biryyanis Atlanta makes excellent dosa, thin crispy pancake with or without your choice of filling.",
+    "ts": "1668525377.436639",
+    "thread_ts": "1668377633.577939",
+    "edited": {
+      "user": "U03UM07E4D8",
+      "ts": "1668526462.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hrFvj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " Too many choices"
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " December 17th escape room. Save potluck January :)\nI love the La Meri Zi restaurant on Buford Hwy. They do good tofu and eggplant dishes. I heart their kung pao chicken and wonton in red oil (my must have every time).\nIf we are going to skating on Roswell location next, there is a place down the road, Bawarchi Biryyanis Atlanta makes excellent dosa, thin crispy pancake with or without your choice of filling."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CEECA5EF-64AF-4958-B33A-DB6402709F10",
+    "type": "message",
+    "user": "U0495G3QQ1W",
+    "text": "+1 for Bawarchi. Gwinnett has a good indoor rink too and right next to all the best KBBQ. Isn’t the Roswell location the one right next to top golf?",
+    "ts": "1668526654.679289",
+    "thread_ts": "1668377633.577939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yr8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "+1 for Bawarchi. Gwinnett has a good indoor rink too and right next to all the best KBBQ. "
+              },
+              {
+                "type": "text",
+                "text": "Isn’t"
+              },
+              {
+                "type": "text",
+                "text": " the Roswell location the one right next to top golf?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-27/4290324769572_a9e776395623c3b9f13f_72.jpg",
+      "first_name": "Elan",
+      "real_name": "Elan Grossman",
+      "display_name": "Elan",
+      "team": "T03NCJFKCV8",
+      "name": "egrossman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9f1d1908-fd46-4ce3-bc26-5a7b83515aa8",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "At this point I'm just confused as to what the choices are",
+    "ts": "1668526711.193959",
+    "thread_ts": "1668377633.577939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bu1I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "At this point I'm just confused as to what the choices are"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "55C1FC89-89F7-40BC-B6AE-66401EC06F1B",
+    "type": "message",
+    "user": "U0495G3QQ1W",
+    "text": "\u003c@U02UAQKR56C\u003e vs \u003c@U04185JLG8M\u003e Title match on Ice!",
+    "ts": "1668526789.742479",
+    "thread_ts": "1668377633.577939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "moyX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " vs "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " Title match on Ice!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-27/4290324769572_a9e776395623c3b9f13f_72.jpg",
+      "first_name": "Elan",
+      "real_name": "Elan Grossman",
+      "display_name": "Elan",
+      "team": "T03NCJFKCV8",
+      "name": "egrossman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F3C87C7B-D061-436B-B328-D828756412B5",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Okay I will eliminate choices in a moment",
+    "ts": "1668547336.287949",
+    "thread_ts": "1668377633.577939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QF7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay I will eliminate choices in a moment"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EEDB2F08-A6F3-4E5F-8FFA-B21C31C5D0D7",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "But you guys should just choose one date for Dec and Jan (either one date or all option) and one activity.  A lot of these activities were what the guys wanted at dimsum. So I was just putting it up for them",
+    "ts": "1668547466.804669",
+    "thread_ts": "1668377633.577939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LIF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "But you guys should just choose one date for Dec and Jan (either one date or all option) and one activity.  A lot of these activities were what the guys wanted at dimsum. So I was just putting it up for them"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bef1ca74-31e3-4c37-ac59-3dbd25b7326c",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Happy Tuesday!\nI’m going to clean up the post from above now that you know what you want.\n\nSuggested Directions:\nOnly choose *TWO EMOJIS for each month* that you prefer (one for date, and one for activity) *for a total of 4 emojis*.\nDo NOT add more please and thank you.\n----\u0026gt; If the activity you want is not here, please message me so I can suggest it for upcoming months. (I.e. ice skating, and KBBQ)\n\nDecember:\n:christmas_tree:Date: December 17\n:tired_face: Cannot make December 17 (Message me another date if you would like to come otherwise I will assume you’ll come a diff month :slightly_smiling_face:)\n:woman_climbing: Rock climbing on December 17 (3 so far \u003c@U040B1UERRB\u003e \u003c@U04185JLG8M\u003e \u003c@U0495G3QQ1W\u003e\u003c@U02UAQKR56C\u003e)\n:restroom: Escape room on December 17 (4 so far \u003c@U01N1775WSU\u003e\u003c@UDWBBD1HC\u003e\u003c@U03UM07E4D8\u003e\u003c@U040WB5GXRV\u003e)\n:slightly_smiling_face: Both activities are great, I don’t want to be a breaker\n\nJanuary:\n:relieved:Date: January 12 (I see 3 people)\n:red_envelope:Date: January 21 (I see 1 person)\n:+1: Both January dates are fine\n:one: Potluck at Ram’s new house (\u003c@U03UM07E4D8\u003e \u003c@UDWBBD1HC\u003e \u003c@U04185JLG8M\u003e)\n(Ram will be resigning from being an Alpharetta boy to Smyrna and would like a housewarming party)\n:five: Escape room (\u003c@U040B1UERRB\u003e \u003c@U8QDSG1G9\u003e \u003c@U0495G3QQ1W\u003e)\n:upside_down_face: Both activities are great, I don’t want to be a tie breaker\n\nOkay let’s give this another go!\nCherie Lum.",
+    "ts": "1668548605.348909",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1668548695.000000"
+    },
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TVZ1Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy Tuesday!\nI’m going to clean up the post from above now that you know what you want.\n\nSuggested Directions:\nOnly choose "
+              },
+              {
+                "type": "text",
+                "text": "TWO EMOJIS for each month",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " that you prefer (one for date, and one for activity)"
+              },
+              {
+                "type": "text",
+                "text": " for a total of 4 emojis",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ".\nDo NOT add more please and thank you.\n----\u003e If the activity you want is not here, please message me so I can suggest it for upcoming months. (I.e. ice skating, and KBBQ)\n\nDecember:\n"
+              },
+              {
+                "type": "emoji",
+                "name": "christmas_tree",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Date: December 17\n"
+              },
+              {
+                "type": "emoji",
+                "name": "tired_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Cannot make December 17 (Message me another date if you would like to come otherwise I will assume you’ll come a diff month "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ")\n"
+              },
+              {
+                "type": "emoji",
+                "name": "woman_climbing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Rock climbing on December 17 (3 so far "
+              },
+              {
+                "type": "user",
+                "user_id": "U040B1UERRB"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": ")\n"
+              },
+              {
+                "type": "emoji",
+                "name": "restroom",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Escape room on December 17 (4 so far "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "user",
+                "user_id": "UDWBBD1HC"
+              },
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "user",
+                "user_id": "U040WB5GXRV"
+              },
+              {
+                "type": "text",
+                "text": ")\n"
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Both activities are great, I don’t want to be a breaker\n\nJanuary:\n"
+              },
+              {
+                "type": "emoji",
+                "name": "relieved",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Date: January 12 (I see 3 people)\n"
+              },
+              {
+                "type": "emoji",
+                "name": "red_envelope",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Date: January 21 (I see 1 person)\n"
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Both January dates are fine\n"
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Potluck at Ram’s new house ("
+              },
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "UDWBBD1HC"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": ")\n(Ram will be resigning from being an Alpharetta boy to Smyrna and would like a housewarming party)\n"
+              },
+              {
+                "type": "emoji",
+                "name": "five",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Escape room ("
+              },
+              {
+                "type": "user",
+                "user_id": "U040B1UERRB"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": ")\n"
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Both activities are great, I don’t want to be a tie breaker\n\nOkay let’s give this another go!\nCherie Lum."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "03f664a0-938a-4807-9f96-de5339633c9e",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "By the way, what classes are people planning to next semester? :slightly_smiling_face:",
+    "ts": "1668549876.104889",
+    "thread_ts": "1668549876.104889",
+    "reply_count": 38,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668549905.321879"
+      },
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1668555837.203449"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668569178.040049"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1668578496.988639"
+      },
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1668588412.310759"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668607703.847299"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1668607905.886419"
+      },
+      {
+        "user": "U0425F983DE",
+        "ts": "1668610727.335749"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668611545.858789"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668611554.064009"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1668611597.160359"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668611632.879579"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1668611663.999729"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668614845.413669"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1668618409.267479"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1668620145.042129"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1668623929.708619"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668637237.523269"
+      },
+      {
+        "user": "U02L4D90KD0",
+        "ts": "1668661568.094599"
+      },
+      {
+        "user": "U02L4D90KD0",
+        "ts": "1668661604.754819"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1668698853.316819"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668710687.009599"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668710709.824309"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1668710852.920019"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1668710862.908559"
+      },
+      {
+        "user": "U02L4D90KD0",
+        "ts": "1668711756.498149"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668711906.203019"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668712507.475579"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668713004.852899"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1668714306.373419"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668714384.178629"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668714397.388589"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1668714403.468649"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668714412.133829"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1668714459.153709"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668714507.667649"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668714530.783369"
+      },
+      {
+        "user": "U042SUUF3NY",
+        "ts": "1668969440.109169"
+      }
+    ],
+    "latest_reply": "1668969440.109169",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yaU0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "By the way, what classes are people planning to next semester? "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 8,
+    "reply_users": [
+      "U02BQJX5TB8",
+      "U02DD5VQLBV",
+      "U02L4D90KD0",
+      "U02UAQKR56C",
+      "U03UM07E4D8",
+      "U0425F983DE",
+      "U042SUUF3NY",
+      "U0495G3QQ1W"
+    ]
+  },
+  {
+    "client_msg_id": "5cf7846b-3718-4c26-826a-f44408861832",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "You guys could maybe form study groups this way.",
+    "ts": "1668549905.321879",
+    "thread_ts": "1668549876.104889",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WS3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You guys could maybe form study groups this way."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5ea7b452-1598-4367-ad8d-d4aa87b581fe",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "I'm taking Graduate Algorithms, HPCA, Global entrepreneurship and cognitive science \n\nI'd love to make a discussion group for cognitive science :party-blob:",
+    "ts": "1668555837.203449",
+    "thread_ts": "1668549876.104889",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QlL6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm taking Graduate Algorithms, HPCA, Global entrepreneurship and cognitive science \n\nI'd love to make a discussion group for cognitive science "
+              },
+              {
+                "type": "emoji",
+                "name": "party-blob",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "client_msg_id": "66fd4e63-ce3a-4c80-abe0-d7087ed7ec66",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello beautiful people \u003c!channel\u003e\n\nHope you’re having a great day!!\n\nJust a quick reminder for Saturday June 24 at Southern Bell  with \u003c@U02MANZL55F\u003e!!!\nIt’s going to be a blast and tasty without regrets! :arrow_up: vote above if you haven’t.\n\nSecond far away reminder is a hike with Zvi towards late August/ early September.\nWith a cabin getaway as well around that same time period. :hut:\n\nTwo quick comments:\n1. Anybody going to be in Barcelona, Spain on June 29th? There’s a CoC event happening there and we’re looking for people. \n2. If you haven’t already joined this LinkedIn Group, feel free to and be connected to events with CoC/Alumni/Colleen who you might have met at OMSCS Conference: \u003chttps://www.linkedin.com/groups/884/\u003e\nThat’s all for now!! Only a few people for the online games so I’m going to give ya’ll a breather from me in June.\n\nFor fun discussion to reply to this thread, _*what classes are people taking in the fall*_???\nBecause registration is happening next week!!! Find your friends or study buddies!\n\nHave fun and keep pushing for those in summer classes!! :muscle:\nCherie Lum",
+    "ts": "1685649585.278469",
+    "thread_ts": "1685649585.278469",
+    "attachments": [
+      {
+        "fallback": "Sign Up | LinkedIn",
+        "id": 1,
+        "title": "Sign Up | LinkedIn",
+        "title_link": "https://www.linkedin.com/groups/884/",
+        "text": "500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+        "thumb_url": "https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico",
+        "service_name": "linkedin.com",
+        "service_icon": "https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "from_url": "https://www.linkedin.com/groups/884/",
+        "original_url": "https://www.linkedin.com/groups/884/",
+        "blocks": null
+      }
+    ],
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1685675143.467779"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1685747727.420589"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1686020763.553979"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1686055255.998389"
+      }
+    ],
+    "latest_reply": "1686055255.998389",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "US6GQK9MF",
+          "U04JD403P7A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rdZH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello beautiful people "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nHope you’re having a great day!!\n\nJust a quick reminder for Saturday June 24 at Southern Bell  with "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": "!!!\nIt’s going to be a blast and tasty without regrets! "
+              },
+              {
+                "type": "emoji",
+                "name": "arrow_up",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " vote above if you haven’t.\n\nSecond far away reminder is a hike with Zvi towards late August/ early September.\nWith a cabin getaway as well around that same time period. "
+              },
+              {
+                "type": "emoji",
+                "name": "hut",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nTwo quick comments:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Anybody going to be in Barcelona, Spain on June 29th? There\\u2019s a CoC event happening there and we\\u2019re looking for people. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"If you haven\\u2019t already joined this LinkedIn Group, feel free to and be connected to events with CoC\\/Alumni\\/Colleen who you might have met at OMSCS Conference: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/www.linkedin.com\\/groups\\/884\\/\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nThat’s all for now!! Only a few people for the online games so I’m going to give ya’ll a breather from me in June.\n\nFor fun discussion to reply to this thread, "
+              },
+              {
+                "type": "text",
+                "text": "what classes are people taking in the fall",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "???\nBecause registration is happening next week!!! Find your friends or study buddies!\n\nHave fun and keep pushing for those in summer classes!! "
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U02DD5VQLBV",
+      "U040V1EQYMS"
+    ]
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "client_msg_id": "52cb5145-41ef-495c-9166-067c3471f11e",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "I want a shirt but I ain't hiking",
+    "ts": "1693269059.215449",
+    "thread_ts": "1693256434.150739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "laughing",
+        "count": 1,
+        "users": [
+          "U041PH0B1DF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "db2wx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I want a shirt but I ain't hiking"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "21F30070-AE7F-4F8F-A246-48F70980EA8F",
+    "type": "message",
+    "user": "U0577EXET0F",
+    "text": "Possible to get a T- shirt without hiking?\nI like omscs :slightly_smiling_face: ",
+    "ts": "1693269156.434909",
+    "thread_ts": "1693256434.150739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pOUZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Possible to get a T- shirt without hiking?\nI like omscs "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-26/5808161924052_322080f613071adee7e6_72.png",
+      "first_name": "Gurkirat",
+      "real_name": "Gurkirat Singh Sekhon",
+      "display_name": "Gurkirat",
+      "team": "T03NCJFKCV8",
+      "name": "sekhongurkirat",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7c846efb-e8e2-47bd-b0aa-51659af0419f",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Small for me!",
+    "ts": "1693269475.882759",
+    "thread_ts": "1693256434.150739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=h4fh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Small for me!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ea92d466-ab9c-4b0d-b606-d7014a3bf5bc",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "Large for me, if available.",
+    "ts": "1693275705.883629",
+    "thread_ts": "1693256434.150739",
+    "edited": {
+      "user": "U040V1EQYMS",
+      "ts": "1693275719.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1I7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Large for me, if available."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a5706af3-188a-4070-9527-fa0be91f778d",
+    "type": "message",
+    "user": "U041PH0B1DF",
+    "text": "Large please.",
+    "ts": "1693320368.810909",
+    "thread_ts": "1693256434.150739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CDnd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Large please."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4046860678949_86ddc0989e7ac96e2976_72.jpg",
+      "first_name": "Yashwant",
+      "real_name": "Yashwant Koyyana",
+      "display_name": "Yash Koyyana",
+      "team": "T03NCJFKCV8",
+      "name": "kyashwant3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "17a89a60-148f-4f50-8c94-e89a508b146b",
+    "type": "message",
+    "user": "U041DBXGPC4",
+    "text": "Can I get a medium? I'll hike :slightly_smiling_face:.",
+    "ts": "1693324648.518649",
+    "thread_ts": "1693256434.150739",
+    "edited": {
+      "user": "U041DBXGPC4",
+      "ts": "1693325305.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ep+d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can I get a medium? I'll hike "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-11/4355481552918_c20cc133c7f8dc3dbc6a_72.jpg",
+      "first_name": "dahumada3",
+      "real_name": "dahumada3",
+      "display_name": "David",
+      "team": "T03NCJFKCV8",
+      "name": "dahumada3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2c348127-adc9-4f34-ba9f-efb1ad7b404f",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Large for me \u003c@U02DD5VQLBV\u003e thank you have a nice day",
+    "ts": "1693328531.177739",
+    "thread_ts": "1693256434.150739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hes8W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Large for me "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " thank you have a nice day"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cae3f79b-4157-4e10-af18-1832e0353edb",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello smarties.\n\nHAPPY TUESDAY. You thought you had lots of reading…….. you got some more ahead……….. thanks in advance :slightly_smiling_face:\n\nRight now confirmed we have 9 people (tell me if I missed anybody) for the CABIN, hopefully some stargazing night!!\n\n\u003c@U04185JLG8M\u003e\n\u003c@U02UAQKR56C\u003e\n\u003c@U040V1EQYMS\u003e\n\u003c@U04S6L1NS9M\u003e\n\u003c@U0495G3QQ1W\u003e\n\u003c@U02MANZL55F\u003e\n \u003c@U02DD5VQLBV\u003e\n\u003c@U04184BSKM3\u003e\n\u003c@U041PH0B1DF\u003e\n\nHowever, I did just notice that Elan and Vinay have a game on 9/9……. so I don’t want them to suffer!! That would bring down the count to 7 people.\n\nIf I had to default to a date and room, it would be Sept 16, option 1.\nIf the majority cannot do the 16th, I would default to Sept 9, option 1.\n\n1. how flexible are people to do the weekend after? If flexible, give a :pray: if not that’s okay we’ll probably end up keeping the date \n2. who wants their \n    a. own room :gift: \n    b. comfortable sharing a bed :shark: vs \n    c. a bed :bed: vs \n    d. flexible with any situation :eyes: \n    e. MUST sleep alone, I am a night walker or light sleeper or make lots of noises, etc :zombie:\n--\u0026gt; I’m needing to know this as I’m looking at airbnbs and some have bunk beds vs some are rooms.\n\nVOTE on ONE place BASED on date you prefer, or choose :five: for flexible.\n(Most all have hot tubs, people will have to share larger beds if that becomes chosen, but hey we’re here to bond, so maybe you want that sibling experience growing up which is fine too)\n\nRecap, if you’re flexible choose Sept 16 options, if not, choose a Sept 9 option\n\n*Sat Sept 9- 10th* \n :one:  $525, 8 beds / 9 guests (\u003chttps://www.airbnb.com/rooms/32537319?adults=7\u0026amp;check_in=2023-09-09\u0026amp;check_out=2023-09-10\u0026amp;source_impression_id=p3_1693345377_MSiOrbw7QPquwgzV\u0026amp;previous_page_section_name=1000\u0026amp;federated_search_id=f7045fb1-798b-41bd-b509-74398fdaacc2|https://www.airbnb.com/rooms/32537319?adults=7\u0026amp;check_in=2023-09-09\u0026amp;check_out=2023-09[…]1000\u0026amp;federated_search_id=f7045fb1-798b-41bd-b509-74398fdaacc2\u003e)\n:two:$506, 5 beds /6 guests (\u003chttps://www.airbnb.com/rooms/49388855?adults=7\u0026amp;check_in=2023-09-09\u0026amp;check_out=2023-09-10\u0026amp;source_impression_id=p3_1693345261_%2BXlBB5GXJiznvCAM\u0026amp;previous_page_section_name=1000\u0026amp;federated_search_id=f7045fb1-798b-41bd-b509-74398fdaacc2|https://www.airbnb.com/rooms/49388855?adults=7\u0026amp;check_in=2023-09-09\u0026amp;check_out=2023-09[…]1000\u0026amp;federated_search_id=f7045fb1-798b-41bd-b509-74398fdaacc2\u003e)\n\n*Sat Sept 16- 17* \n:three: $362, 6 beds/10 guests. || Has an escape room for $200 within house and takes 4 hours to complete but optional (\u003chttps://www.airbnb.com/rooms/951468941239385001?adults=9\u0026amp;check_in=2023-09-16\u0026amp;check_out=2023-09-17\u0026amp;source_impression_id=p3_1693345848_HUVfzkZLNsQ8B8%2FF\u0026amp;previous_page_section_name=1000\u0026amp;federated_search_id=0c07a4f5-306f-4a57-ac57-338f0c22e5d5|https://www.airbnb.com/rooms/951468941239385001?adults=9\u0026amp;check_in=2023-09-16\u0026amp;check_o[…]1000\u0026amp;federated_search_id=0c07a4f5-306f-4a57-ac57-338f0c22e5d5\u003e)\n:four: $472, 10 beds/ 7 guests (\u003chttps://www.airbnb.com/rooms/45741814?adults=9\u0026amp;check_in=2023-09-16\u0026amp;check_out=2023-09-17\u0026amp;source_impression_id=p3_1693345864_metKmxzHNWusM1EP\u0026amp;previous_page_section_name=1000\u0026amp;federated_search_id=0c07a4f5-306f-4a57-ac57-338f0c22e5d5|https://www.airbnb.com/rooms/45741814?adults=9\u0026amp;check_in=2023-09-16\u0026amp;check_out=2023-09[…]1000\u0026amp;federated_search_id=0c07a4f5-306f-4a57-ac57-338f0c22e5d5\u003e)\n\n:five: I’m great with majority choice!! (AKA you’re ultra flexible)\n:six: I’m great with any choice on the 9th (ONLY)\n:seven: I’m great with any choice on the 16th (ONLY)\n\nWe’ll split cost based on how many people go!\nPS After you’ve chosen, please let me know if I have your venmo information or DM it to me, gracias a lot!!\n\nYou made it to the end!!\n\nThanks,\nCherie",
+    "ts": "1693346663.976399",
+    "thread_ts": "1693346663.976399",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1693346890.000000"
+    },
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693362310.355019"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1693417691.918779"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1693418502.118129"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1693418722.248439"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1693418736.258989"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1693418766.281969"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693451279.777349"
+      }
+    ],
+    "latest_reply": "1693451279.777349",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "one",
+        "count": 1,
+        "users": [
+          "U0495G3QQ1W"
+        ]
+      },
+      {
+        "name": "bed",
+        "count": 1,
+        "users": [
+          "U0495G3QQ1W"
+        ]
+      },
+      {
+        "name": "six",
+        "count": 5,
+        "users": [
+          "U02MANZL55F",
+          "U04S6L1NS9M",
+          "U040V1EQYMS",
+          "U04185JLG8M",
+          "U02UAQKR56C"
+        ]
+      },
+      {
+        "name": "eyes",
+        "count": 3,
+        "users": [
+          "U040V1EQYMS",
+          "U04185JLG8M",
+          "U041PH0B1DF"
+        ]
+      },
+      {
+        "name": "two",
+        "count": 1,
+        "users": [
+          "U041PH0B1DF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sYS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello smarties.\n\nHAPPY TUESDAY. You thought you had lots of reading…….. you got some more ahead……….. thanks in advance "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nRight now confirmed we have 9 people (tell me if I missed anybody) for the CABIN, hopefully some stargazing night!!\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": "\n "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04184BSKM3"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": "\n\nHowever, I did just notice that Elan and Vinay have a game on 9/9……. so I don’t want them to suffer!! That would bring down the count to 7 people.\n\nIf I had to default to a date and room, it would be Sept 16, option 1.\nIf the majority cannot do the 16th, I would default to Sept 9, option 1.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"how flexible are people to do the weekend after? If flexible, give a \"},{\"type\":\"emoji\",\"name\":\"pray\",\"unicode\":\"1f64f\"},{\"type\":\"text\",\"text\":\" if not that\\u2019s okay we\\u2019ll probably end up keeping the date \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"who wants their \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"own room \"},{\"type\":\"emoji\",\"name\":\"gift\",\"unicode\":\"1f381\"},{\"type\":\"text\",\"text\":\" \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"comfortable sharing a bed \"},{\"type\":\"emoji\",\"name\":\"shark\",\"unicode\":\"1f988\"},{\"type\":\"text\",\"text\":\" vs \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"a bed \"},{\"type\":\"emoji\",\"name\":\"bed\",\"unicode\":\"1f6cf-fe0f\"},{\"type\":\"text\",\"text\":\" vs \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"flexible with any situation \"},{\"type\":\"emoji\",\"name\":\"eyes\",\"unicode\":\"1f440\"},{\"type\":\"text\",\"text\":\" \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"MUST sleep alone, I am a night walker or light sleeper or make lots of noises, etc \"},{\"type\":\"emoji\",\"name\":\"zombie\",\"unicode\":\"1f9df\"}]}],\"style\":\"ordered\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "--\u003e I’m needing to know this as I’m looking at airbnbs and some have bunk beds vs some are rooms.\n\nVOTE on ONE place BASED on date you prefer, or choose "
+              },
+              {
+                "type": "emoji",
+                "name": "five",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " for flexible.\n(Most all have hot tubs, people will have to share larger beds if that becomes chosen, but hey we’re here to bond, so maybe you want that sibling experience growing up which is fine too)\n\nRecap, if you’re flexible choose Sept 16 options, if not, choose a Sept 9 option\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Sat Sept 9- 10th ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n "
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  $525, 8 beds / 9 guests ("
+              },
+              {
+                "type": "link",
+                "url": "https://www.airbnb.com/rooms/32537319?adults=7\u0026check_in=2023-09-09\u0026check_out=2023-09-10\u0026source_impression_id=p3_1693345377_MSiOrbw7QPquwgzV\u0026previous_page_section_name=1000\u0026federated_search_id=f7045fb1-798b-41bd-b509-74398fdaacc2",
+                "text": "https://www.airbnb.com/rooms/32537319?adults=7\u0026check_in=2023-09-09\u0026check_out=2023-09[…]1000\u0026federated_search_id=f7045fb1-798b-41bd-b509-74398fdaacc2"
+              },
+              {
+                "type": "text",
+                "text": ")\n"
+              },
+              {
+                "type": "emoji",
+                "name": "two",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "$506, 5 beds /6 guests ("
+              },
+              {
+                "type": "link",
+                "url": "https://www.airbnb.com/rooms/49388855?adults=7\u0026check_in=2023-09-09\u0026check_out=2023-09-10\u0026source_impression_id=p3_1693345261_%2BXlBB5GXJiznvCAM\u0026previous_page_section_name=1000\u0026federated_search_id=f7045fb1-798b-41bd-b509-74398fdaacc2",
+                "text": "https://www.airbnb.com/rooms/49388855?adults=7\u0026check_in=2023-09-09\u0026check_out=2023-09[…]1000\u0026federated_search_id=f7045fb1-798b-41bd-b509-74398fdaacc2"
+              },
+              {
+                "type": "text",
+                "text": ")\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Sat Sept 16- 17 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "emoji",
+                "name": "three",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " $362, 6 beds/10 guests. || Has an escape room for $200 within house and takes 4 hours to complete but optional ("
+              },
+              {
+                "type": "link",
+                "url": "https://www.airbnb.com/rooms/951468941239385001?adults=9\u0026check_in=2023-09-16\u0026check_out=2023-09-17\u0026source_impression_id=p3_1693345848_HUVfzkZLNsQ8B8%2FF\u0026previous_page_section_name=1000\u0026federated_search_id=0c07a4f5-306f-4a57-ac57-338f0c22e5d5",
+                "text": "https://www.airbnb.com/rooms/951468941239385001?adults=9\u0026check_in=2023-09-16\u0026check_o[…]1000\u0026federated_search_id=0c07a4f5-306f-4a57-ac57-338f0c22e5d5"
+              },
+              {
+                "type": "text",
+                "text": ")\n"
+              },
+              {
+                "type": "emoji",
+                "name": "four",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " $472, 10 beds/ 7 guests ("
+              },
+              {
+                "type": "link",
+                "url": "https://www.airbnb.com/rooms/45741814?adults=9\u0026check_in=2023-09-16\u0026check_out=2023-09-17\u0026source_impression_id=p3_1693345864_metKmxzHNWusM1EP\u0026previous_page_section_name=1000\u0026federated_search_id=0c07a4f5-306f-4a57-ac57-338f0c22e5d5",
+                "text": "https://www.airbnb.com/rooms/45741814?adults=9\u0026check_in=2023-09-16\u0026check_out=2023-09[…]1000\u0026federated_search_id=0c07a4f5-306f-4a57-ac57-338f0c22e5d5"
+              },
+              {
+                "type": "text",
+                "text": ")\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "five",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " I’m great with majority choice!! (AKA you’re ultra flexible)\n"
+              },
+              {
+                "type": "emoji",
+                "name": "six",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " I’m great with any choice on the 9th (ONLY)\n"
+              },
+              {
+                "type": "emoji",
+                "name": "seven",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " I’m great with any choice on the 16th (ONLY)\n\nWe’ll split cost based on how many people go!\nPS After you’ve chosen, please let me know if I have your venmo information or DM it to me, gracias a lot!!\n\nYou made it to the end!!\n\nThanks,\nCherie"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02DD5VQLBV",
+      "U02UAQKR56C",
+      "U0495G3QQ1W"
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "type": "message",
+    "user": "U04JEV15BMX",
+    "text": "\u003c@U04JEV15BMX\u003e has joined the channel",
+    "ts": "1674139448.082039",
+    "subtype": "channel_join",
+    "inviter": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1def06ce936f2dea730280a70af3ee24.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "rmaan3",
+      "real_name": "rmaan3",
+      "display_name": "rmaan3",
+      "team": "T03NCJFKCV8",
+      "name": "rmaan3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "0bbe3bca-6a31-405c-8fb1-0cfad045de43",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Ok! Keep us posted!",
+    "ts": "1687472000.797159",
+    "thread_ts": "1687197458.972719",
+    "parent_user_id": "U02MANZL55F",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6cq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok! Keep us posted!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

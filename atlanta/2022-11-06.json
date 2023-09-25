@@ -1,0 +1,551 @@
+[
+  {
+    "client_msg_id": "2949dee5-29df-466f-99e0-2ba750b55066",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Has it been decided where lunch is tomorrow?",
+    "ts": "1667697265.911609",
+    "thread_ts": "1667521946.978099",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wi6xb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has it been decided where lunch is tomorrow?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fab4d0ab-e21a-4af6-9979-94c95fbaf74d",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U02MANZL55F\u003e you mean next weekend I hope!",
+    "ts": "1667706081.768049",
+    "thread_ts": "1667521946.978099",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1667706095.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0Fcb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " you mean next weekend I hope!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e0863bae-462a-430f-acb5-4ba62de2c8ca",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "But also it looks like it’s been tipped to Canton house!",
+    "ts": "1667706150.025639",
+    "thread_ts": "1667521946.978099",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kmEA8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "But also it looks like it’s been tipped to Canton house!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f8591fb9-b278-40a8-9c07-200b9a33f082",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello Happy Saturday \u003c!channel\u003e!\n\nJust a friendly reminder that our November meetup encompassing early FRIENDSGIVING will be on:\nWhen*: Sunday, November 13, 2022 (A week from Nov 6, 2022)*\nWhere: *11-12PM* *Top Golf in Alpharetta* 10900 Westside Pkwy, Alpharetta, GA 30009 (\u003c@U8QDSG1G9\u003e please confirm address)\nAfter: *1-2PM Dim sum at* *Canton house* (22-35 min drive)\n\nSo far we have for BOTH: Cherie \u003c@U8QDSG1G9\u003e \u003c@U03UM07E4D8\u003e +1 \u003c@U02L4D90KD0\u003e \u003c@U02UAQKR56C\u003e \u003c@U04263B0EMP\u003e \u003c@U0414MF04F8\u003e \u003c@U04185JLG8M\u003e \u003c@U041PH0B1DF\u003e (10 people) +2 (below)--\u0026gt; Dim sum is meat heavy so if you have restrictions let me know (small asian cantonese plates — AKA we all order, then split the bill 10 ways, unless you are slightly more restricted and I recommend you grab another check for yourself-- MAYBE \u003c@U02MANZL55F\u003e to get a lower bill (and anybody else who cannot eat beef or pork who will end up eating veggie, shrimp and bread, and other misc dishes) and the rest split 9 ways). Each dish is usually $3-7.25 with 3-4 items inside.\n\nJust Golf:  \u003c@U01N1775WSU\u003e \u003c@U013YD2ACLC\u003e \u003c@U040V1EQYMS\u003e\nJust Food: \u003c@UDWBBD1HC\u003e \u003c@U02MANZL55F\u003e",
+    "ts": "1667706742.841379",
+    "thread_ts": "1667706742.841379",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1667706800.087299"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1667841704.210009"
+      }
+    ],
+    "latest_reply": "1667841704.210009",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q5T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Happy Saturday "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "!\n\nJust a friendly reminder that our November meetup encompassing early FRIENDSGIVING will be on:\nWhen"
+              },
+              {
+                "type": "text",
+                "text": ": Sunday, November 13, 2022 (A week from Nov 6, 2022)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nWhere: "
+              },
+              {
+                "type": "text",
+                "text": "11-12PM",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "Top Golf in Alpharetta ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "10900 Westside Pkwy, Alpharetta, GA 30009 ("
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " please confirm address)\nAfter: "
+              },
+              {
+                "type": "text",
+                "text": "1-2PM Dim sum at",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "Canton house",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " (22-35 min drive)\n\nSo far we have for BOTH: Cherie "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "text",
+                "text": " +1 "
+              },
+              {
+                "type": "user",
+                "user_id": "U02L4D90KD0"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04263B0EMP"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0414MF04F8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": " (10 people) +2 (below)--\u003e Dim sum is meat heavy so if you have restrictions let me know (small asian cantonese plates — AKA we all order, then split the bill 10 ways, unless you are slightly more restricted and I recommend you grab another check for yourself-- MAYBE "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " to get a lower bill (and anybody else who cannot eat beef or pork who will end up eating veggie, shrimp and bread, and other misc dishes) and the rest split 9 ways). Each dish is usually $3-7.25 with 3-4 items inside.\n\nJust Golf:  "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U013YD2ACLC"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": "\nJust Food: "
+              },
+              {
+                "type": "user",
+                "user_id": "UDWBBD1HC"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U040V1EQYMS"
+    ]
+  },
+  {
+    "client_msg_id": "d0783e64-abc7-48d1-8015-244675333574",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "PS Can I get a cool driver who might pass me going up to Alpharetta?\n\nAlso message here if you need a ride too!",
+    "ts": "1667706800.087299",
+    "thread_ts": "1667706742.841379",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vc6U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "PS Can I get a cool driver who might pass me going up to Alpharetta?\n\nAlso message here if you need a ride too!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "286ae9b7-72d9-4fe5-85ad-16555189f8dc",
+    "type": "message",
+    "user": "USLDMLNSK",
+    "text": "\u003c@U02DD5VQLBV\u003e it might be last min, count me out for now",
+    "ts": "1667706927.271119",
+    "thread_ts": "1667521946.978099",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rnMVj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " it might be last min, count me out for now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4027258340737_52f8f24c427e2db3d373_72.jpg",
+      "first_name": "Ankit",
+      "real_name": "Ankit B.",
+      "display_name": "Ankit B.",
+      "team": "T03NCJFKCV8",
+      "name": "abaraskar6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c35eb3a4-079c-401d-a612-66d7280c2a49",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "\u003c@U02DD5VQLBV\u003e Sorry. I thought it was this weekend. Didn't check the date.",
+    "ts": "1667747649.507109",
+    "thread_ts": "1667521946.978099",
+    "edited": {
+      "user": "U02MANZL55F",
+      "ts": "1667747664.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P=v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " Sorry. I thought it was this weekend. Didn't check the date."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

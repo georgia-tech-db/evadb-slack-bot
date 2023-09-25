@@ -1,0 +1,540 @@
+[
+  {
+    "client_msg_id": "A8277493-CDE5-4B5B-A5D0-8922B57CC0F4",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "Are people down to go today?",
+    "ts": "1692457679.756469",
+    "thread_ts": "1692376118.100909",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ObEbY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are people down to go today?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9EE477B0-ACE4-44FC-841C-6C62EE18CAF0",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Can we go to a driving range when I'm back?? I love hitting balls!! :raised_hands: :raised_hands: \u003c@U02UAQKR56C\u003e ",
+    "ts": "1692461170.832659",
+    "thread_ts": "1691957453.452419",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U04S6L1NS9M",
+          "U02UAQKR56C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yKa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can we go to a driving range when I'm back?? I love hitting balls!! "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2ce0dbd6-5883-4dc3-aa8f-51fa48f59b7c",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "I think I'll pass today bro",
+    "ts": "1692462568.993729",
+    "thread_ts": "1692376118.100909",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ftu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think I'll pass today bro"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8BFD8C48-E001-4F5B-822E-E440EB1D3363",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "Would people be down to do something like this?",
+    "ts": "1692471580.486589",
+    "thread_ts": "1692471580.486589",
+    "reply_count": 11,
+    "replies": [
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1692472275.950869"
+      },
+      {
+        "user": "U04S6L1NS9M",
+        "ts": "1692473952.779739"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1692478037.955969"
+      },
+      {
+        "user": "U04185JLG8M",
+        "ts": "1692479959.673539"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1692513564.495689"
+      },
+      {
+        "user": "U04S6L1NS9M",
+        "ts": "1692540517.752079"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1692557945.049279"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1692897398.525249"
+      },
+      {
+        "user": "U04S6L1NS9M",
+        "ts": "1692897431.326149"
+      },
+      {
+        "user": "U04S6L1NS9M",
+        "ts": "1692897439.595449"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1692921895.504619"
+      }
+    ],
+    "latest_reply": "1692921895.504619",
+    "files": [
+      {
+        "id": "F05P9MS69AL",
+        "created": 1692471568,
+        "timestamp": 1692471568,
+        "name": "IMG_5919.jpg",
+        "title": "IMG_5919",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U04S6L1NS9M",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1235288,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05P9MS69AL-IMG_5919.jpg",
+        "url_private_download": "attachments/F05P9MS69AL-IMG_5919.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F05P9MS69AL-1bcc65bb14/img_5919_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F05P9MS69AL-1bcc65bb14/img_5919_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F05P9MS69AL-1bcc65bb14/img_5919_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F05P9MS69AL-1bcc65bb14/img_5919_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F05P9MS69AL-1bcc65bb14/img_5919_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F05P9MS69AL-1bcc65bb14/img_5919_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F05P9MS69AL-1bcc65bb14/img_5919_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F05P9MS69AL-1bcc65bb14/img_5919_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://gatech.enterprise.slack.com/files/U04S6L1NS9M/F05P9MS69AL/img_5919.jpg",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F05P9MS69AL-902eb0ba31",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M3tNX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Would people be down to do something like this?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 6,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U02DD5VQLBV",
+      "U02UAQKR56C",
+      "U04185JLG8M",
+      "U0495G3QQ1W",
+      "U04S6L1NS9M"
+    ]
+  },
+  {
+    "client_msg_id": "94371152-f044-4567-a681-c2dc40f087b9",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Where's that?",
+    "ts": "1692472275.950869",
+    "thread_ts": "1692471580.486589",
+    "parent_user_id": "U04S6L1NS9M",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CAtA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Where's that?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3E01DE84-BD28-47A3-98E1-58CB5F7E0605",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "Big game sports bar",
+    "ts": "1692473952.779739",
+    "thread_ts": "1692471580.486589",
+    "parent_user_id": "U04S6L1NS9M",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b/9R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Big game sports bar"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7D15279D-A92D-451E-A66E-A52029702EC6",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I'd maybe be down if it were by a marta? Ha ha. Although I'm not good at trivia at all",
+    "ts": "1692478037.955969",
+    "thread_ts": "1692471580.486589",
+    "parent_user_id": "U04S6L1NS9M",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Yg6wC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'd maybe be down if it were by a marta? Ha ha. Although I'm not good at trivia at all"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e24eb0bf-2fa3-4602-8f7a-fa3a5d7df965",
+    "type": "message",
+    "user": "U04185JLG8M",
+    "text": "When?",
+    "ts": "1692479959.673539",
+    "thread_ts": "1692471580.486589",
+    "parent_user_id": "U04S6L1NS9M",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y6D+a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-02/4156135726982_8173a7fe45ea9ef39826_72.jpg",
+      "first_name": "Bosun",
+      "real_name": "Bosun A.",
+      "display_name": "Bosun A.",
+      "team": "T03NCJFKCV8",
+      "name": "oadepoju3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

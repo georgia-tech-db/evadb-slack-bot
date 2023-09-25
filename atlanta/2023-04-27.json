@@ -1,0 +1,394 @@
+[
+  {
+    "client_msg_id": "cc2918d7-8164-4a18-a399-4d418e7317be",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Has anyone ever taken:\n\n1. ubiquitous computing\n2. python seminar\n3. java seminar \nThoughts on them?",
+    "ts": "1682569288.206929",
+    "thread_ts": "1680798945.298629",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ACZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has anyone ever taken:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"ubiquitous computing\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"python seminar\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"java seminar \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nThoughts on them?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5b1945ed-edf3-4a7b-a780-c8bfebff29a7",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Happy Thursday!\n\nOut of curiosity, who is attending the OMSCS Conference?\nGive a thumbs up if you are! :+1:\n\nGive a 100% if you are presenting too! :100:\n\nCherie",
+    "ts": "1682602577.882179",
+    "thread_ts": "1682602577.882179",
+    "reply_count": 21,
+    "replies": [
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1682604819.515219"
+      },
+      {
+        "user": "U02EEGFEYHH",
+        "ts": "1682625235.391929"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682647294.324489"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1682693942.778129"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1682695803.508169"
+      },
+      {
+        "user": "U02EEGFEYHH",
+        "ts": "1682695887.753949"
+      },
+      {
+        "user": "U02EEGFEYHH",
+        "ts": "1682695986.898599"
+      },
+      {
+        "user": "U03TV0WPGPM",
+        "ts": "1682740912.538659"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682742747.833809"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1683081263.392429"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1683081819.529799"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1683081920.388639"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1683081928.369479"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1683081928.376389"
+      },
+      {
+        "user": "U03TV0WPGPM",
+        "ts": "1683081972.513629"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1683081975.993159"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1683082138.900759"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1683085317.654939"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1683085626.308929"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1683085708.406679"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1683085748.229199"
+      }
+    ],
+    "latest_reply": "1683085748.229199",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 13,
+        "users": [
+          "U0425F983DE",
+          "U040KQBU1PY",
+          "U040XQFU7A5",
+          "U03UM07E4D8",
+          "U02EYBE4QNA",
+          "U041DBXGPC4",
+          "U01N1775WSU",
+          "U02EEGFEYHH",
+          "U02L4D90KD0",
+          "U01SG18HJF4",
+          "U02D06AFYG4",
+          "U041RP95SMP",
+          "U0495G3QQ1W"
+        ]
+      },
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U0495G3QQ1W"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7valv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy Thursday!\n\nOut of curiosity, who is attending the OMSCS Conference?\nGive a thumbs up if you are! "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nGive a 100% if you are presenting too! "
+              },
+              {
+                "type": "emoji",
+                "name": "100",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nCherie"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 6,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02EEGFEYHH",
+      "U02EYBE4QNA",
+      "U03TV0WPGPM",
+      "U03UM07E4D8",
+      "U040WB5GXRV"
+    ]
+  },
+  {
+    "client_msg_id": "bd7f8f7f-351d-4cdc-a9a1-4a626bdd547a",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "I give you a :100: on your behalf :grin::+1::muscle:",
+    "ts": "1682604819.515219",
+    "thread_ts": "1682602577.882179",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      },
+      {
+        "name": "face_holding_back_tears",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      },
+      {
+        "name": "laughing",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "29=q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I give you a "
+              },
+              {
+                "type": "emoji",
+                "name": "100",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " on your behalf "
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8f4761b0-9183-476e-81c9-570184cc7f8a",
+    "type": "message",
+    "user": "U02EEGFEYHH",
+    "text": "Do they still need volunteers?",
+    "ts": "1682625235.391929",
+    "thread_ts": "1682602577.882179",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yHfHD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do they still need volunteers?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-03-26/3285281466023_2b0e74cefeb2b942ebab_72.jpg",
+      "first_name": "Kai",
+      "real_name": "Kai Ouyang",
+      "display_name": "",
+      "team": "T03NCJFKCV8",
+      "name": "ko40",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "client_msg_id": "13b78789-01f4-44b6-91ef-953b3fed60f6",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U040V1EQYMS\u003e do you do arts and crafts?!",
+    "ts": "1667321331.485869",
+    "thread_ts": "1667001219.198739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y1q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " do you do arts and crafts?!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "83ABFDB8-5927-4E84-989E-0BB8DF94A731",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Fine I guess I’ll start this thread ",
+    "ts": "1667335268.561889",
+    "thread_ts": "1667335268.561889",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1667337070.657589"
+      },
+      {
+        "user": "U02L4D90KD0",
+        "ts": "1667411972.743269"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1667412263.221489"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1667481022.558199"
+      }
+    ],
+    "latest_reply": "1667481022.558199",
+    "files": [
+      {
+        "id": "F0494CA4JSG",
+        "created": 1667335262,
+        "timestamp": 1667335262,
+        "name": "IMG_1494.jpg",
+        "title": "IMG_1494",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U8QDSG1G9",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 925659,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F0494CA4JSG-IMG_1494.jpg",
+        "url_private_download": "attachments/F0494CA4JSG-IMG_1494.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F0494CA4JSG-06c02b612b/img_1494_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F0494CA4JSG-06c02b612b/img_1494_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F0494CA4JSG-06c02b612b/img_1494_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F0494CA4JSG-06c02b612b/img_1494_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F0494CA4JSG-06c02b612b/img_1494_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F0494CA4JSG-06c02b612b/img_1494_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F0494CA4JSG-06c02b612b/img_1494_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F0494CA4JSG-06c02b612b/img_1494_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://gatech.enterprise.slack.com/files/U8QDSG1G9/F0494CA4JSG/img_1494.jpg",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F0494CA4JSG-26c0810b21",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "clapping-156",
+        "count": 4,
+        "users": [
+          "U03UM07E4D8",
+          "U02BQJX5TB8",
+          "U04185JLG8M",
+          "U041DBXNDLL"
+        ]
+      },
+      {
+        "name": "scream",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U02BQJX5TB8"
+        ]
+      },
+      {
+        "name": "fire",
+        "count": 6,
+        "users": [
+          "U040V1EQYMS",
+          "U040GLFTTG8",
+          "U02BQJX5TB8",
+          "USLDMLNSK",
+          "U04185JLG8M",
+          "U041PH0B1DF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "545",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Fine I guess "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " start this thread "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02L4D90KD0",
+      "U03UM07E4D8",
+      "U8QDSG1G9"
+    ]
+  },
+  {
+    "client_msg_id": "F2A23433-063F-4999-8CBA-46F03772C97A",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Would you like a :balloon:?",
+    "ts": "1667335293.496309",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dF0Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Would you like a "
+              },
+              {
+                "type": "emoji",
+                "name": "balloon",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "65e09fb2-bead-4ed5-af9c-a40488556186",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "We have one super cute Pluto, one Spider man, couple Hogwarts students, and a scary doctor stop by last night, almost ran out of candy:sweat_smile:",
+    "ts": "1667337070.657589",
+    "thread_ts": "1667335268.561889",
+    "parent_user_id": "U8QDSG1G9",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TLB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We have one super cute Pluto, one Spider man, couple Hogwarts students, and a scary doctor stop by last night, almost ran out of candy"
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

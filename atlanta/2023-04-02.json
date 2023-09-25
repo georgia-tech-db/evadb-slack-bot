@@ -1,0 +1,168 @@
+[
+  {
+    "client_msg_id": "26bba8d9-c810-416c-ba23-bd0f4802e425",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello Beautiful Brains, \u003c!channel\u003e\n\nJust a few fun reminds - specifically four,\n\n1. Grad appreciation week is THIS WEEK--\u0026gt; I’ll be there tomorrow around 10AM for free food, and probably most days this week.  \n2. If you’re on IG, and like posting photos, and have a chance to win a free t-shirt, participate! Details in photo. \n3. If you’re on IG, watch out for @gtgradlounge where I’ll be doing an IG takeover on April 4th and a live! I’ll be posting about it on my personal account @atlgirlcoder tonight! \n4. If you’re also on IG, and want to be featured, send \u003chttps://gatech.us1.list-manage.com/track/click?u=de853fab347fb5756a5423781\u0026amp;id=24a7823d63\u0026amp;e=5921e16aab|@GTGradLounge\u003e a photo of your life (your family, your pets, your favorite place you sneak in a nap, what you are currently working on, your hometown... anything that will help tell the story of our incredible OMSCS community). Be sure to include your handle if you are on Instagram and want to be tagged.\n    a. If you want me to post a photo of you that you really love during April 4th, send it to me!! \n        i. or favorite pets?? favorite children? \n        ii. favorite place you traveled to in 2022/2023\n        iii. favorite food\nPS Sign up to jog with me and some other amazing OMSCS students on April 22nd!!\nWe already have 5 people signed up! vinay, sara, iren, saeeda, and me!\n\nHappy April!\nCherie Lum",
+    "ts": "1680477702.615399",
+    "thread_ts": "1680477702.615399",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1680478780.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680663463.851959"
+      }
+    ],
+    "latest_reply": "1680663463.851959",
+    "files": [
+      {
+        "id": "F051BLFAB8D",
+        "created": 1680476653,
+        "timestamp": 1680476653,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DD5VQLBV",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 406082,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F051BLFAB8D-image.png",
+        "url_private_download": "attachments/F051BLFAB8D-image.png",
+        "original_h": 368,
+        "original_w": 708,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F051BLFAB8D-a1c8242af5/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F051BLFAB8D-a1c8242af5/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F051BLFAB8D-a1c8242af5/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F051BLFAB8D-a1c8242af5/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 187,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F051BLFAB8D-a1c8242af5/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 249,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02DD5VQLBV/F051BLFAB8D/image.png",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F051BLFAB8D-7b341c8da8",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 4,
+        "users": [
+          "U02EYBE4QNA",
+          "U01N1775WSU",
+          "U040V1EQYMS",
+          "U02EEGFEYHH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qVv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Beautiful Brains, "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nJust a few fun reminds - specifically four,\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Grad appreciation week is THIS WEEK--\u003e I\\u2019ll be there tomorrow around 10AM for free food, and probably most days this week.  \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"If you\\u2019re on IG, and like posting photos, and have a chance to win a free t-shirt, participate! Details in photo. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"If you\\u2019re on IG, watch out for @gtgradlounge where I\\u2019ll be doing an IG takeover on April 4th and a live! I\\u2019ll be posting about it on my personal account @atlgirlcoder tonight! \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"If you\\u2019re also on IG, and want to be featured, send \"},{\"type\":\"link\",\"url\":\"https:\\/\\/gatech.us1.list-manage.com\\/track\\/click?u=de853fab347fb5756a5423781\u0026id=24a7823d63\u0026e=5921e16aab\",\"text\":\"@GTGradLounge\",\"unsafe\":true},{\"type\":\"text\",\"text\":\" a photo of your life (your family, your pets, your favorite place you sneak in a nap, what you are currently working on, your hometown... anything that will help tell the story of our incredible OMSCS community). Be sure to include your handle if you are on Instagram and want to be tagged.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"If you want me to post a photo of you that you really love during April 4th, send it to me!! \"}]}],\"style\":\"ordered\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"or favorite pets?? favorite children? \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"favorite place you traveled to in 2022\\/2023\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"favorite food\"}]}],\"style\":\"ordered\",\"indent\":2,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nPS Sign up to jog with me and some other amazing OMSCS students on April 22nd!!\nWe already have 5 people signed up! vinay, sara, iren, saeeda, and me!\n\nHappy April!\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U02DD5VQLBV"
+    ]
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "type": "message",
+    "user": "U02VC2TG78B",
+    "text": "\u003c@U02VC2TG78B\u003e has joined the channel",
+    "ts": "1661845424.495289",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a7734a4dfc0755a5a9fd7de2f774e4a2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "Keary",
+      "real_name": "Keary",
+      "display_name": "",
+      "team": "T03NCJFKCV8",
+      "name": "kmobley8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "66d0f663-8a5b-4e00-9a14-6d16d12cbf09",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello everyone in the Atlanta chapter group!!\nMy name is Cherie and I'm the OMSCS Atlanta Chapter head.\nLet's introduce ourself, I'll start:\n\nMy name is Cherie Lum.\nI started OMSCS in Fall 2020 concentrating in Interactive Intelligence.\nI enjoy traveling, eating, and scuba diving.\nOne crazy fact about me is that I have never drank coffee.\nI am joining this group to create a good network amongst OMSCS Atlanta students.",
+    "ts": "1661864403.546459",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 5,
+        "users": [
+          "U040V1EQYMS",
+          "U04184BSKM3",
+          "U041DBXNDLL",
+          "U041RUTKBG9",
+          "UJM8GC35H"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U041PH0B1DF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hBxNV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone in the Atlanta chapter group!!\nMy name is Cherie and I'm the OMSCS Atlanta Chapter head.\nLet's introduce ourself, I'll start:\n\nMy name is Cherie Lum.\nI started OMSCS in Fall 2020 concentrating in Interactive Intelligence.\nI enjoy traveling, eating, and scuba diving.\nOne crazy fact about me is that I have never drank coffee.\nI am joining this group to create a good network amongst OMSCS Atlanta students."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "\u003c@U02EYBE4QNA\u003e has joined the channel",
+    "ts": "1661874903.015319",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "\u003c@U019GF47VJ8\u003e has joined the channel",
+    "ts": "1661887729.915559",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0e75fcf9-e4ba-49a9-8470-e542ec296002",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Hello Cherie and everyone else.  I'm Eric.  I am also Fall 2020 but I opted to do the Info Sec track of the OCY program because I didn't realize I could take basically all of the same courses as OMSCS and save money at the same time.  Like many people who love CS, I am introverted.  So I absolutely hate talking about 'interesting' or 'crazy' facts about myself, but I am prepared: Despite having been born in the US I have lived through a military overthrow of the local government before.  I'd love to learn to scuba but haven't ever prioritized it.  This was supposed to be my last semester but I ended up finishing a few weeks ago and am now an IA for CS6035.  I am thinking about pursuing a pilot's license next.",
+    "ts": "1661888500.781779",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "hi-9700",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      },
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dfM06",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Cherie and everyone else.  I'm Eric.  I am also Fall 2020 but I opted to do the Info Sec track of the OCY program because I didn't realize I could take basically all of the same courses as OMSCS and save money at the same time.  Like many people who love CS, I am introverted.  So I absolutely hate talking about 'interesting' or 'crazy' facts about myself, but I am prepared: Despite having been born in the US I have lived through a military overthrow of the local government before.  I'd love to learn to scuba but haven't ever prioritized it.  This was supposed to be my last semester but I ended up finishing a few weeks ago and am now an IA for CS6035.  I am thinking about pursuing a pilot's license next."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U040B1UERRB",
+    "text": "\u003c@U040B1UERRB\u003e has joined the channel",
+    "ts": "1661902962.635859",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d12ab50e2213a44e9e9c333a890ae6fc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "creid31",
+      "real_name": "creid31",
+      "display_name": "creid31",
+      "team": "T03NCJFKCV8",
+      "name": "creid31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

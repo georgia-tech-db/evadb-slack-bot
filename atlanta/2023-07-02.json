@@ -1,0 +1,48 @@
+[
+  {
+    "client_msg_id": "664521fe-79ce-4dbc-ba58-b5998fd4a80b",
+    "type": "message",
+    "user": "U040B1UERRB",
+    "text": "Anyone want ATL United tickets for tomorrow (Sunday July 2nd)? Game starts at 4pm and I have 4 tickets I would like not go to waste. They are in Section 221 row 12. I am asking $40 a piece for them.",
+    "ts": "1688263385.706969",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YuOj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone want ATL United tickets for tomorrow (Sunday July 2nd)? Game starts at 4pm and I have 4 tickets I would like not go to waste. They are in Section 221 row 12. I am asking $40 a piece for them."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d12ab50e2213a44e9e9c333a890ae6fc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "creid31",
+      "real_name": "creid31",
+      "display_name": "creid31",
+      "team": "T03NCJFKCV8",
+      "name": "creid31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

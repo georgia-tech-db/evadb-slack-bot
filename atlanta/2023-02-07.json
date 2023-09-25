@@ -1,0 +1,100 @@
+[
+  {
+    "type": "message",
+    "user": "U04FPU4J3QE",
+    "text": "\u003c@U04FPU4J3QE\u003e has joined the channel",
+    "ts": "1675740734.325389",
+    "subtype": "channel_join",
+    "inviter": "U03ULERC6BW",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-12-19/4540569625762_f058d2a49d1390685624_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua",
+      "display_name": "jlawrence81",
+      "team": "T03NCJFKCV8",
+      "name": "jlawrence81",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5ad428fb-01c7-40c3-98b1-8349bc9ac622",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "I love all these ideas :joy: don't make me choose",
+    "ts": "1675784708.783889",
+    "thread_ts": "1675695533.108239",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U03V8G3NGP4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "irh2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I love all these ideas "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " don't make me choose"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

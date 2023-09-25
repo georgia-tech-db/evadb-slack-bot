@@ -1,0 +1,487 @@
+[
+  {
+    "client_msg_id": "86233c39-da85-449e-82a9-5deab4105f1d",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hi beautiful people,\n\nHope you’ve finished your HW for the week or will submit in less than an hour!\n\nJust wanted a head count and gentle reminder on the hike on March 4, 2023 11:30AM-1:30PM. Give a kick :hiking_boot: if you can make it. Because put it in your calendar it’s in 2 weekends!!!\n\u003c@U04263B0EMP\u003e \u003c@U02BQJX5TB8\u003e \u003c@UJM8GC35H\u003e \u003c@U0425F983DE\u003e \u003c@U03UM07E4D8\u003e \u003c@U0495G3QQ1W\u003e \u003c@U040V1EQYMS\u003e \u003c@U0417UDBBUM\u003e \u003c@U01BEKYC9PG\u003e \u003c@U04K04LB4G4\u003e \u003c@UDWBBD1HC\u003e \u003c@U02CFCE4QE8\u003e \u003c@U040WB5GXRV\u003e \u003c@UJNR8MXM4\u003e \u003c@U04JTFXHEUB\u003e \u003c@U02MANZL55F\u003e\n\nGive a :woman-raising-hand: if you need a ride.\n\nAlso head count for anybody who wants to actually go volunteer at an assisted living and do art (but it might get derailed to another activity) for one hour. Still confirming date. --\u0026gt; Choose only ONE\n:one:Weekday (probably Wed) at 3PM\n:two:Weekend only at 3pm\n:three:Any day at 3PM\n\u003c@U04JTFXHEUB\u003e \u003c@U01N1775WSU\u003e \u003c@U02CFCE4QE8\u003e \u003c@USLDMLNSK\u003e\n\nCheers!\nYour fearless leader CL\n(Switching it up with the nickname Jeanette gave me!)",
+    "ts": "1676866536.581039",
+    "thread_ts": "1676866536.581039",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1676942149.000000"
+    },
+    "reply_count": 13,
+    "replies": [
+      {
+        "user": "U041AQWL283",
+        "ts": "1676901161.437649"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1676931917.649969"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1677007585.012289"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677024958.194979"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1677025211.274389"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677183522.337279"
+      },
+      {
+        "user": "U03V8G3NGP4",
+        "ts": "1677258731.956659"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677302644.786399"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677349368.514299"
+      },
+      {
+        "user": "U04JTFXHEUB",
+        "ts": "1677352767.141559"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677511831.911919"
+      },
+      {
+        "user": "U04JTFXHEUB",
+        "ts": "1677512264.389469"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677513544.531669"
+      }
+    ],
+    "latest_reply": "1677513544.531669",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "hiking_boot",
+        "count": 7,
+        "users": [
+          "U04JTFXHEUB",
+          "USLDMLNSK",
+          "U04263B0EMP",
+          "U041RP95SMP",
+          "UDWBBD1HC",
+          "U04184BSKM3",
+          "U03V8G3NGP4"
+        ]
+      },
+      {
+        "name": "two",
+        "count": 3,
+        "users": [
+          "U04JTFXHEUB",
+          "U041DBXGPC4",
+          "USLDMLNSK"
+        ]
+      },
+      {
+        "name": "woman-raising-hand",
+        "count": 3,
+        "users": [
+          "U02DD5VQLBV",
+          "U04184BSKM3",
+          "U03V8G3NGP4"
+        ]
+      },
+      {
+        "name": "three",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XODX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi beautiful people,\n\nHope you’ve finished your HW for the week or will submit in less than an hour!\n\nJust wanted a head count and gentle reminder on the hike on March 4, 2023 11:30AM-1:30PM. Give a kick "
+              },
+              {
+                "type": "emoji",
+                "name": "hiking_boot",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " if you can make it. Because put it in your calendar it’s in 2 weekends!!!\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04263B0EMP"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02BQJX5TB8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "UJM8GC35H"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0425F983DE"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0417UDBBUM"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01BEKYC9PG"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04K04LB4G4"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "UDWBBD1HC"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02CFCE4QE8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040WB5GXRV"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "UJNR8MXM4"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04JTFXHEUB"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": "\n\nGive a "
+              },
+              {
+                "type": "emoji",
+                "name": "woman-raising-hand",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " if you need a ride.\n\nAlso head count for anybody who wants to actually go volunteer at an assisted living and do art (but it might get derailed to another activity) for one hour. Still confirming date. --\u003e Choose only ONE\n"
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Weekday (probably Wed) at 3PM\n"
+              },
+              {
+                "type": "emoji",
+                "name": "two",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Weekend only at 3pm\n"
+              },
+              {
+                "type": "emoji",
+                "name": "three",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Any day at 3PM\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04JTFXHEUB"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02CFCE4QE8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "text",
+                "text": "\n\nCheers!\nYour fearless leader CL\n(Switching it up with the nickname Jeanette gave me!)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U03UM07E4D8",
+      "U03V8G3NGP4",
+      "U041AQWL283",
+      "U04JTFXHEUB"
+    ]
+  },
+  {
+    "client_msg_id": "15331114-7ea2-4535-b02e-78fc38135038",
+    "type": "message",
+    "user": "U041AQWL283",
+    "text": "To volunteer at an assisted living :woman-raising-hand:. Any time any day.",
+    "ts": "1676901161.437649",
+    "thread_ts": "1676866536.581039",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2iJxI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "To volunteer at an assisted living "
+              },
+              {
+                "type": "emoji",
+                "name": "woman-raising-hand",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ". Any time any day."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0e7051b8d2dfe780221b47099ec000ed.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "sbandi31",
+      "real_name": "sbandi31",
+      "display_name": "sbandi31",
+      "team": "T03NCJFKCV8",
+      "name": "sbandi31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3d8b515f-8a01-4567-abf4-ddf2b74db012",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U041AQWL283\u003e thanks for letting me know! I will keep ya’ll posted. I just called my contact and left a message. I’ll probably hear back tomorrow.",
+    "ts": "1676931917.649969",
+    "thread_ts": "1676866536.581039",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U041AQWL283"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "usW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041AQWL283"
+              },
+              {
+                "type": "text",
+                "text": " thanks for letting me know! I will keep ya’ll posted. I just called my contact and left a message. I’ll probably hear back tomorrow."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

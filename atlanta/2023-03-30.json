@@ -1,0 +1,498 @@
+[
+  {
+    "client_msg_id": "b120cd13-80b6-4e8a-99f2-2d5e2b200bc7",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Bonjour beautiful brains!\n\nRandom Art things coming up on campus (\u003chttps://arts.gatech.edu/taf-calendar|link\u003e)\nIf you to sign up for April!\n\nCherie Lum",
+    "ts": "1680140075.977209",
+    "thread_ts": "1680140075.977209",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1680140086.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680140138.365889"
+      }
+    ],
+    "latest_reply": "1680140138.365889",
+    "files": [
+      {
+        "id": "F050VFNBJA1",
+        "created": 1680140050,
+        "timestamp": 1680140050,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DD5VQLBV",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 4143334,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F050VFNBJA1-image.png",
+        "url_private_download": "attachments/F050VFNBJA1-image.png",
+        "original_h": 1856,
+        "original_w": 1882,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F050VFNBJA1-99e31408ff/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F050VFNBJA1-99e31408ff/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F050VFNBJA1-99e31408ff/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F050VFNBJA1-99e31408ff/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 355,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F050VFNBJA1-99e31408ff/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 473,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F050VFNBJA1-99e31408ff/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 710,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F050VFNBJA1-99e31408ff/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 947,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F050VFNBJA1-99e31408ff/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 1010,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02DD5VQLBV/F050VFNBJA1/image.png",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F050VFNBJA1-fa7a4ab11a",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9nHW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Bonjour beautiful brains!\n\nRandom Art things coming up on campus ("
+              },
+              {
+                "type": "link",
+                "url": "https://arts.gatech.edu/taf-calendar",
+                "text": "link"
+              },
+              {
+                "type": "text",
+                "text": ")\nIf you to sign up for April!\n\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U02DD5VQLBV"
+    ]
+  },
+  {
+    "client_msg_id": "17063204-e899-4a02-969b-4f6594002b06",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I might do the dance ones because I’m so terrible with 0.5 legs on the dance floor.",
+    "ts": "1680140138.365889",
+    "thread_ts": "1680140075.977209",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8+o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I might do the dance ones because I’m so terrible with 0.5 legs on the dance floor."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1e4fdd7b-e71a-4c83-8ddc-eb00855ff5cd",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "Next week is Grad Student Appreciation Week\n\u003chttps://grad.gatech.edu/grad-student-appreciation\u003e\nAnyone is doing the professional headshot Friday 4/7 ?\n*Northside Meeting Room - Student Center 11:00 a.m. to 3:00 p.m.*",
+    "ts": "1680192478.170849",
+    "thread_ts": "1680192478.170849",
+    "reply_count": 17,
+    "replies": [
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1680232252.041019"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680237391.259659"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1680269512.497979"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680271696.331649"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1680273897.062679"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1680279549.445709"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680287588.416259"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1680486941.627149"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680489689.768389"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1680528575.194479"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1680715148.420809"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1680879294.598239"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680882033.515019"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680882037.231619"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680882111.649409"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1680887965.318469"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1680899819.591609"
+      }
+    ],
+    "latest_reply": "1680899819.591609",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 5,
+        "users": [
+          "U02EYBE4QNA",
+          "U041S3WQKND",
+          "U040WB5GXRV",
+          "U02UAQKR56C",
+          "U04184BSKM3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sq/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Next week is Grad Student Appreciation Week\n"
+              },
+              {
+                "type": "link",
+                "url": "https://grad.gatech.edu/grad-student-appreciation",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\nAnyone is doing the professional headshot Friday 4/7 ?\n"
+              },
+              {
+                "type": "text",
+                "text": "Northside Meeting Room - Student Center 11:00 a.m. to 3:00 p.m.",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02UAQKR56C",
+      "U03UM07E4D8",
+      "U040V1EQYMS",
+      "U040WB5GXRV"
+    ]
+  },
+  {
+    "client_msg_id": "bd3e1028-2151-4c77-b25f-360663d3a08a",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "I know the registration is closed ... too late to join the conference just for a day on 5/3?",
+    "ts": "1680192726.573889",
+    "thread_ts": "1679608155.958379",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RljI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I know the registration is closed ... too late to join the conference just for a day on 5/3?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e3b497ea-c0fe-4e92-b6d7-8694cfe34484",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "You can join the waitlist here \u003chttps://gatech.co1.qualtrics.com/jfe/form/SV_2fOsO2xfXLYUd2S\u003e :slightly_smiling_face:",
+    "ts": "1680195290.086909",
+    "thread_ts": "1679608155.958379",
+    "attachments": [
+      {
+        "fallback": "2023 OMSCS Conference Registration Waitlist",
+        "id": 1,
+        "title": "2023 OMSCS Conference Registration Waitlist",
+        "title_link": "https://gatech.co1.qualtrics.com/jfe/form/SV_2fOsO2xfXLYUd2S",
+        "text": "This is the waitlist for in-person registration for the 2023 OMSCS Conference.",
+        "service_name": "gatech.co1.qualtrics.com",
+        "service_icon": "https://gatech.co1.qualtrics.com/brand-management/apple-touch-icon",
+        "from_url": "https://gatech.co1.qualtrics.com/jfe/form/SV_2fOsO2xfXLYUd2S",
+        "original_url": "https://gatech.co1.qualtrics.com/jfe/form/SV_2fOsO2xfXLYUd2S",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "thankyou",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XE9p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You can join the waitlist here "
+              },
+              {
+                "type": "link",
+                "url": "https://gatech.co1.qualtrics.com/jfe/form/SV_2fOsO2xfXLYUd2S",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

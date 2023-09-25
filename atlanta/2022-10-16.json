@@ -1,0 +1,1284 @@
+[
+  {
+    "client_msg_id": "3640AAD4-FBA9-4F40-84ED-BBFA405CA7E2",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "Good to know! Maybe we can commiserate on some upcoming projects! Have you taken the exam yet? I took it today",
+    "ts": "1665880118.651229",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dsWwJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good to know! Maybe we can commiserate on some upcoming projects! Have you taken the exam yet? I took it today"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "37E3A543-6D13-4007-B072-228660305B61",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "I love panama so much! Which parts have you visited?",
+    "ts": "1665880163.777319",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6g+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I love panama so much! Which parts have you visit"
+              },
+              {
+                "type": "text",
+                "text": "e"
+              },
+              {
+                "type": "text",
+                "text": "d?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "72a0a94c-75b3-406a-9430-b5a33d66c55a",
+    "type": "message",
+    "user": "U040WGDCG07",
+    "text": "Not yet, trying to kill off another project first",
+    "ts": "1665880181.286989",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gDIGQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Not yet, trying to kill off another project first"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-06/4045038326323_e7a3108aa8756676643e_72.png",
+      "first_name": "Reed",
+      "real_name": "Reed Morris",
+      "display_name": "Reed",
+      "team": "T03NCJFKCV8",
+      "name": "mreed40",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D5C23F1F-66EC-41A1-B92E-000BC048FF87",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "Which one? Simulating networks?",
+    "ts": "1665880202.949319",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ml1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Which one? Simulating networks?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DE70A1E6-9B0E-4A55-B328-6E6A7D6B0358",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "I thought none of the others were open yet",
+    "ts": "1665880218.520619",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8jMS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I thought none of the others were open yet"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "721F8BC5-16B4-4BDE-B14E-8A2F87112798",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "I still need to do simulating networks to learn about mini net",
+    "ts": "1665880236.828959",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vEEC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I still need to do simulating networks to learn about mini net"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fa064bd8-0cfe-4a54-9b94-b4702f51bc00",
+    "type": "message",
+    "user": "U040WGDCG07",
+    "text": "Simulating markets (for a different class). Yeah I keep meaning to go back and do Simulating networks too",
+    "ts": "1665880259.896709",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4y3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Simulating markets (for a different class). Yeah I keep meaning to go back and do Simulating networks too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-06/4045038326323_e7a3108aa8756676643e_72.png",
+      "first_name": "Reed",
+      "real_name": "Reed Morris",
+      "display_name": "Reed",
+      "team": "T03NCJFKCV8",
+      "name": "mreed40",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b057b79e-51ba-4c0d-ac98-742cd6ad93f2",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "If you come by near Buckhead/Lenox area we can hang!",
+    "ts": "1665881869.488069",
+    "thread_ts": "1665843653.292179",
+    "parent_user_id": "U042SUUF3NY",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U042SUUF3NY"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VsC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you come by near Buckhead/Lenox area we can hang!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d7e292ae-3c1b-4d95-b88b-803f236fdba1",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U01N1775WSU\u003e good question!! \u003c@U8QDSG1G9\u003e will post when he has time because he’s a pro at top golf :smile:",
+    "ts": "1665882964.664459",
+    "thread_ts": "1665758694.330819",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1665882982.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dsmy+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " good question!! "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " will post when he has time because he’s a pro at top golf "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c5480ec2-70b2-4374-8b00-83446e08474f",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U041AU4QN4S\u003e come to our November event?!",
+    "ts": "1665883009.262529",
+    "thread_ts": "1665833330.363789",
+    "parent_user_id": "U041AU4QN4S",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rSka6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041AU4QN4S"
+              },
+              {
+                "type": "text",
+                "text": " come to our November event?!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "55c865ed-676e-4f0c-9294-5d9552d67896",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hey \u003c!channel\u003e\n\nNo events this weekend.\n\nBut I do want to push a study group for those who are more work than social play which is great. I know I threw out a poll back a few weeks.\n\nI’m currently doing the Interactive Intelligence concentration, and planning to take ML and/or AI next semester. If anybody is in the same concentration, or have taken them along with SDP, please let me know! I want to start studying for these classes this semester and get some prep material together. Let me know if you’re in II and want to plan together for future group projects or just want to study together regardless of concentration that would be great and what this chapter is all about.\n\nIf you’re interested in studying together (I see a lot of people dropping majors down which is lovely!)\nplease poll through with one of the emojis\nso others can connect with you if they need help or want to connect\neither studying together here at Lenox or can reach out.\n:one:Interactive intelligence\n:two:Computational computing\n:three:Computing Systems\n:four:Machine learning\n:five:Alumni just working\n:six:Visiting Atlanta and stopping by\n\nAnd if you’re down, I’ll host a study group next week Wednesday October 19 at 5PM-7PM (:+1:) or Saturday 22 at 10am-1PM (:books:)--\u0026gt; If time works for majority, I’ll host weekly or biweekly :slightly_smiling_face: (I’m located right by Lenox Mall) so free parking but sometimes limited would be at Marie Sims park.\n\nPS Don’t forget to poll above for joining our Thanksgiving gathering!! If you don’t like golf, come for food (taking suggestions still). If you don’t like food… tell me why…\n\nPPS If possible, can you update your images to be your face and your name to be your name? Makes it easier to remember each other\n\nHave a great weekend ya’ll!\n\nOver and out,\nCherie Lum",
+    "ts": "1665883950.379849",
+    "thread_ts": "1665883950.379849",
+    "pinned_to": [
+      "C03UHTJENLS"
+    ],
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1665928410.000000"
+    },
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U041BASGNQJ",
+        "ts": "1665884424.130259"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1665884632.458049"
+      }
+    ],
+    "latest_reply": "1665884632.458049",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "one",
+        "count": 5,
+        "users": [
+          "U02DD5VQLBV",
+          "U0425F983DE",
+          "U01N1775WSU",
+          "U041RP95SMP",
+          "U04JTFXHEUB"
+        ]
+      },
+      {
+        "name": "four",
+        "count": 8,
+        "users": [
+          "U03UM07E4D8",
+          "U041BASGNQJ",
+          "U041DBXGPC4",
+          "U02L4D90KD0",
+          "U02UAQKR56C",
+          "U041PH0B1DF",
+          "USLDMLNSK",
+          "U04JTFXHEUB"
+        ]
+      },
+      {
+        "name": "five",
+        "count": 2,
+        "users": [
+          "U8QDSG1G9",
+          "U04JTFXHEUB"
+        ]
+      },
+      {
+        "name": "three",
+        "count": 2,
+        "users": [
+          "U04185JLG8M",
+          "UJM8GC35H"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YF7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nNo events this weekend.\n\nBut I do want to push a study group for those who are more work than social play which is great. I know I threw out a poll back a few weeks.\n\nI’m currently doing the Interactive Intelligence concentration, and planning to take ML and/or AI next semester. If anybody is in the same concentration, or have taken them along with SDP, please let me know! I want to start studying for these classes this semester and get some prep material together. Let me know if you’re in II and want to plan together for future group projects or just want to study together regardless of concentration that would be great and what this chapter is all about.\n\nIf you’re interested in studying together (I see a lot of people dropping majors down which is lovely!)\nplease poll through with one of the emojis\nso others can connect with you if they need help or want to connect\neither studying together here at Lenox or can reach out.\n"
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Interactive intelligence\n"
+              },
+              {
+                "type": "emoji",
+                "name": "two",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Computational computing\n"
+              },
+              {
+                "type": "emoji",
+                "name": "three",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Computing Systems\n"
+              },
+              {
+                "type": "emoji",
+                "name": "four",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Machine learning\n"
+              },
+              {
+                "type": "emoji",
+                "name": "five",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Alumni just working\n"
+              },
+              {
+                "type": "emoji",
+                "name": "six",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Visiting Atlanta and stopping by\n\nAnd if you’re down, I’ll host a study group next week Wednesday October 19 at 5PM-7PM ("
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ") or Saturday 22 at 10am-1PM ("
+              },
+              {
+                "type": "emoji",
+                "name": "books",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ")--\u003e If time works for majority, I’ll host weekly or biweekly "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " (I’m located right by Lenox Mall) so free parking but sometimes limited would be at Marie Sims park.\n\nPS Don’t forget to poll above for joining our Thanksgiving gathering!! If you don’t like golf, come for food (taking suggestions still). If you don’t like food… tell me why…\n\nPPS If possible, can you update your images to be your face and your name to be your name? Makes it easier to remember each other\n\nHave a great weekend ya’ll!\n\nOver and out,\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03UM07E4D8",
+      "U041BASGNQJ"
+    ]
+  },
+  {
+    "client_msg_id": "af33c5ef-1c87-4e82-85a7-551afeb2470b",
+    "type": "message",
+    "user": "U041BASGNQJ",
+    "text": "I took ML... twice. Overwrote like 6 hours of graphs in the final run of my program shortly before A2 deadline.",
+    "ts": "1665884424.130259",
+    "thread_ts": "1665883950.379849",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "melting_face",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UZTJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I took ML... twice. Overwrote like 6 hours of graphs in the final run of my program shortly before A2 deadline."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/cb195eb68e4678785ecd71d24cea15a2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "Silas",
+      "real_name": "Silas Fradley",
+      "display_name": "sfradley3",
+      "team": "T03NCJFKCV8",
+      "name": "sfradley3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "542c0c90-9171-41b8-aaf4-1401cf8daabd",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "just like the rest of us in ML fall 2022, trying to run and analyze our experiments this precise moment...it is due tomorrow before midnight",
+    "ts": "1665884632.458049",
+    "thread_ts": "1665883950.379849",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "clover",
+        "count": 1,
+        "users": [
+          "U041BASGNQJ"
+        ]
+      },
+      {
+        "name": "laughing",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ud6U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just like the rest of us in ML fall 2022, trying to run and analyze our experiments this precise moment...it is due tomorrow before midnight"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9DD61564-683E-45DA-855A-678F47E1B7F3",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "From \u003c@U8QDSG1G9\u003e --\u0026gt; \u003c@U01N1775WSU\u003e ",
+    "ts": "1665928243.830709",
+    "thread_ts": "1665758694.330819",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1665928274.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "files": [
+      {
+        "id": "F046HSD5QQ6",
+        "created": 1665928235,
+        "timestamp": 1665928235,
+        "name": "IMG_6460.jpg",
+        "title": "IMG_6460",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02DD5VQLBV",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 165976,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F046HSD5QQ6-IMG_6460.jpg",
+        "url_private_download": "attachments/F046HSD5QQ6-IMG_6460.jpg",
+        "original_h": 2532,
+        "original_w": 1170,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F046HSD5QQ6-90e0c7419a/img_6460_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F046HSD5QQ6-90e0c7419a/img_6460_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F046HSD5QQ6-90e0c7419a/img_6460_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F046HSD5QQ6-90e0c7419a/img_6460_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 166,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F046HSD5QQ6-90e0c7419a/img_6460_480.jpg",
+        "thumb_480_w": 222,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F046HSD5QQ6-90e0c7419a/img_6460_720.jpg",
+        "thumb_720_w": 333,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F046HSD5QQ6-90e0c7419a/img_6460_960.jpg",
+        "thumb_960_w": 444,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F046HSD5QQ6-90e0c7419a/img_6460_1024.jpg",
+        "thumb_1024_w": 473,
+        "thumb_1024_h": 1024,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02DD5VQLBV/F046HSD5QQ6/img_6460.jpg",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F046HSD5QQ6-5cb6a6d50a",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Phxnn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "From "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " --\u003e "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cfb19ebc-ab91-45bd-9011-5a322ab88b0d",
+    "type": "message",
+    "user": "U042SUUF3NY",
+    "text": "I’ll reach out and coordinate something!",
+    "ts": "1665931971.336709",
+    "thread_ts": "1665843653.292179",
+    "parent_user_id": "U042SUUF3NY",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J/Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ll reach out and coordinate something!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-06/4329577938899_02ed38fc846b71d0a83b_72.jpg",
+      "first_name": "Dominick",
+      "real_name": "Dominick Blue",
+      "display_name": "Dominick Blue",
+      "team": "T03NCJFKCV8",
+      "name": "jblue8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b8d88516-e6fc-45b5-b4f7-193a1911cc14",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "good to know! thank you!",
+    "ts": "1665933860.097529",
+    "thread_ts": "1665758694.330819",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iBt=s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good to know! thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4989189b-eca6-4776-8b3f-066ef7d92e13",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "I've only been to Panama City and San Blas.  I lived in Venezuela for a bit and a friend of mine has emigrated to Panama.  I need to go back and visit again.",
+    "ts": "1665946834.859929",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=KK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I've only been to Panama City and San Blas.  I lived in Venezuela for a bit and a friend of mine has emigrated to Panama.  I need to go back and visit again."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "67250a60-e93c-437b-a8a6-090d07372cf7",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Where in Panama were you located?",
+    "ts": "1665946849.058349",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gag+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Where in Panama were you located?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1B5EA026-3EDF-4660-8CB1-00766402120B",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "I was located in a really small town in the Azuero (Herrera was the district). I never made it Sam bald while I was there, but hear great things. There is so much to do there",
+    "ts": "1665947580.872589",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aWYfF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was located in a really small town in the Azuero (Herrera was the district). I never made it Sam bald while I was there, but hear great things. There is so much to do there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2d648a78-bd1d-430a-9b3a-78e10e810bc2",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "My friend wants to go to some resort there on the pacific side but I think further north.  I forget the name of it.  San Blas is definitely worth seeing.  The islands are absolutely gorgeous.  I was told that you have to pay the natives to go anywhere on San Blas.  If I remember correctly I paid like $20 to be taken around by boat to a few different islands.  Then they sell food, drinks, etc. while you're out there.  What amazed me was how small the natives were.  I think the tallest was maybe 5' tall.  It seemed they depend on tourists for all income but I am uncertain.",
+    "ts": "1665950143.780639",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Og2O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My friend wants to go to some resort there on the pacific side but I think further north.  I forget the name of it.  San Blas is definitely worth seeing.  The islands are absolutely gorgeous.  I was told that you have to pay the natives to go anywhere on San Blas.  If I remember correctly I paid like $20 to be taken around by boat to a few different islands.  Then they sell food, drinks, etc. while you're out there.  What amazed me was how small the natives were.  I think the tallest was maybe 5' tall.  It seemed they depend on tourists for all income but I am uncertain."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

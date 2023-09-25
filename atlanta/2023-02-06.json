@@ -1,0 +1,288 @@
+[
+  {
+    "client_msg_id": "a48c7d3a-8a8e-491f-bcb0-76dbb32f27b8",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Good morning beautiful people!\n\nJust a quick poll on what kind of events you all would love to do in the upcoming months:\n\n:airplane: skydive\n:hiking-boot: hike\n:car: go kart\n:soup: volunteer\n:cabin: weekend getaway to do work in a large air bnb (for example: \u003chttps://www.airbnb.com/rooms/676964995808894526?adults=10\u0026amp;children=0\u0026amp;infants=0\u0026amp;pets=0\u0026amp;check_in=2023-02-26\u0026amp;check_out=2023-03-03\u0026amp;previous_page_section_name=1000|https://www.airbnb.com/rooms/676964995808894526?adults=10\u0026amp;children=0\u0026amp;infants=0\u0026amp;pets=[…]23-02-26\u0026amp;check_out=2023-03-03\u0026amp;previous_page_section_name=1000\u003e)\n:art: art class\n:potted_plant: pottery class\n:beers: go to a bar\n\nIf the idea isn’t here, let me know\nCherie Lum",
+    "ts": "1675695533.108239",
+    "thread_ts": "1675695533.108239",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1675695786.000000"
+    },
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U01N1775WSU",
+        "ts": "1675784708.783889"
+      },
+      {
+        "user": "U03V8G3NGP4",
+        "ts": "1675828805.704629"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1675988747.127339"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1676066180.705709"
+      },
+      {
+        "user": "UJNR8MXM4",
+        "ts": "1676071418.496229"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1676071940.392079"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1676088944.554399"
+      }
+    ],
+    "latest_reply": "1676088944.554399",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "beers",
+        "count": 11,
+        "users": [
+          "U02UAQKR56C",
+          "UJM8GC35H",
+          "U0495G3QQ1W",
+          "U040V1EQYMS",
+          "U01BEKYC9PG",
+          "U04K04LB4G4",
+          "UFNDGG57E",
+          "U02CFCE4QE8",
+          "U02L4D90KD0",
+          "U040WB5GXRV",
+          "UJNR8MXM4"
+        ]
+      },
+      {
+        "name": "car",
+        "count": 11,
+        "users": [
+          "U02UAQKR56C",
+          "U02BQJX5TB8",
+          "U01N1775WSU",
+          "U04FPU4J3QE",
+          "U03V8G3NGP4",
+          "U040V1EQYMS",
+          "U0417UDBBUM",
+          "U02L4D90KD0",
+          "U040WB5GXRV",
+          "UJNR8MXM4",
+          "U041PH0B1DF"
+        ]
+      },
+      {
+        "name": "hut",
+        "count": 3,
+        "users": [
+          "U02UAQKR56C",
+          "U0495G3QQ1W",
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "hiking_boot",
+        "count": 13,
+        "users": [
+          "U02BQJX5TB8",
+          "UJM8GC35H",
+          "U0425F983DE",
+          "U0495G3QQ1W",
+          "U040V1EQYMS",
+          "U0417UDBBUM",
+          "U01BEKYC9PG",
+          "U04K04LB4G4",
+          "UDWBBD1HC",
+          "U02CFCE4QE8",
+          "U040WB5GXRV",
+          "UJNR8MXM4",
+          "U041PH0B1DF"
+        ]
+      },
+      {
+        "name": "airplane",
+        "count": 3,
+        "users": [
+          "U02BQJX5TB8",
+          "U01N1775WSU",
+          "U041PH0B1DF"
+        ]
+      },
+      {
+        "name": "art",
+        "count": 5,
+        "users": [
+          "U01N1775WSU",
+          "UJM8GC35H",
+          "U040V1EQYMS",
+          "U02CFCE4QE8",
+          "UJNR8MXM4"
+        ]
+      },
+      {
+        "name": "potted_plant",
+        "count": 7,
+        "users": [
+          "U01N1775WSU",
+          "UJM8GC35H",
+          "U040V1EQYMS",
+          "UDWBBD1HC",
+          "U02CFCE4QE8",
+          "U040WB5GXRV",
+          "UJNR8MXM4"
+        ]
+      },
+      {
+        "name": "soup",
+        "count": 5,
+        "users": [
+          "U01N1775WSU",
+          "UJM8GC35H",
+          "U040V1EQYMS",
+          "UJNR8MXM4",
+          "U041PH0B1DF"
+        ]
+      },
+      {
+        "name": "cabin",
+        "count": 2,
+        "users": [
+          "U040V1EQYMS",
+          "U02CFCE4QE8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FCN2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good morning beautiful people!\n\nJust a quick poll on what kind of events you all would love to do in the upcoming months:\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "airplane",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " skydive\n"
+              },
+              {
+                "type": "emoji",
+                "name": "hiking-boot",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " hike\n"
+              },
+              {
+                "type": "emoji",
+                "name": "car",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " go kart\n"
+              },
+              {
+                "type": "emoji",
+                "name": "soup",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " volunteer\n"
+              },
+              {
+                "type": "emoji",
+                "name": "cabin",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " weekend getaway to do work in a large air bnb (for example: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.airbnb.com/rooms/676964995808894526?adults=10\u0026children=0\u0026infants=0\u0026pets=0\u0026check_in=2023-02-26\u0026check_out=2023-03-03\u0026previous_page_section_name=1000",
+                "text": "https://www.airbnb.com/rooms/676964995808894526?adults=10\u0026children=0\u0026infants=0\u0026pets=[…]23-02-26\u0026check_out=2023-03-03\u0026previous_page_section_name=1000"
+              },
+              {
+                "type": "text",
+                "text": ")\n"
+              },
+              {
+                "type": "emoji",
+                "name": "art",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " art class\n"
+              },
+              {
+                "type": "emoji",
+                "name": "potted_plant",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " pottery class\n"
+              },
+              {
+                "type": "emoji",
+                "name": "beers",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " go to a bar\n\nIf the idea isn’t here, let me know\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02DD5VQLBV",
+      "U03V8G3NGP4",
+      "U040WB5GXRV",
+      "UJNR8MXM4"
+    ]
+  }
+]

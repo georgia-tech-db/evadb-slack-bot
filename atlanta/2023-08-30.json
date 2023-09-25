@@ -1,0 +1,836 @@
+[
+  {
+    "client_msg_id": "1396520C-4513-45D9-A893-C9D818724DDC",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "Worst-case can \u003c@U02UAQKR56C\u003e and \u003c@U0495G3QQ1W\u003e drive up late on Saturday? I can toss em some gas money. \n\nI will be out of town the following weekend but can always catch up next time if the following weekend is better for the majority. :beers: ",
+    "ts": "1693354834.898939",
+    "thread_ts": "1693354834.898939",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693355155.798279"
+      },
+      {
+        "user": "U05NS6MBHNE",
+        "ts": "1693409027.653499"
+      },
+      {
+        "user": "U05NS6MBHNE",
+        "ts": "1693409052.907519"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693451166.223999"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693454284.379799"
+      }
+    ],
+    "latest_reply": "1693454284.379799",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C4n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Worst-case can "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " drive up late on Saturday? I can toss em some gas money. \n\nI will be out of town the following weekend but can always catch up next time if the following weekend is better for the majority. "
+              },
+              {
+                "type": "emoji",
+                "name": "beers",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U05NS6MBHNE"
+    ]
+  },
+  {
+    "client_msg_id": "308e88ce-5894-47ae-a4cc-144a6c13ba5a",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "It’s okay!! Looks like majority are the 9th!!",
+    "ts": "1693355155.798279",
+    "thread_ts": "1693354834.898939",
+    "parent_user_id": "U040V1EQYMS",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "thumbsupsad",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e3xE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It’s okay!! Looks like majority are the 9th!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "803557d4-ef09-49f5-bb95-0e610a501abd",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Also am not hiking the 2nd but am a Medium :eyes::heartpulse:",
+    "ts": "1693361331.485029",
+    "thread_ts": "1693256434.150739",
+    "edited": {
+      "user": "U01N1775WSU",
+      "ts": "1693361346.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Yls",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also am not hiking the 2nd but am a Medium "
+              },
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "heartpulse",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6b0ee28c-094d-41de-b864-d459ffc18d72",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Okay thanks for the quick responses!!\n\nWe’ll do the 9th, the question is are \u003c@U0495G3QQ1W\u003e and \u003c@U02UAQKR56C\u003e coming?\n\nSecond question is, with tax, cleaning/airbnb fees, would ~$71.13-$73.75 (depending on cabin chosen) for the night be doable for you with? :+1:",
+    "ts": "1693362310.355019",
+    "thread_ts": "1693346663.976399",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U04S6L1NS9M",
+          "U0495G3QQ1W",
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LwIkc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay thanks for the quick responses!!\n\nWe’ll do the 9th, the question is are "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " coming?\n\nSecond question is, with tax, cleaning/airbnb fees, would ~$71.13-$73.75 (depending on cabin chosen) for the night be doable for you with? "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8cd781bc-72d1-43b4-9183-43a4e6546720",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U0577EXET0F\u003e or if you came to our events often! :slightly_smiling_face: Will you join some?!",
+    "ts": "1693363511.990889",
+    "thread_ts": "1693256434.150739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ei1HP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0577EXET0F"
+              },
+              {
+                "type": "text",
+                "text": " or if you came to our events often! "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Will you join some?!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fce1dd9e-eaee-4b16-8694-6fb99dbfecfd",
+    "type": "message",
+    "user": "U05NS6MBHNE",
+    "text": "Yes I should be down :)",
+    "ts": "1693408796.086949",
+    "thread_ts": "1693152692.709659",
+    "parent_user_id": "U05NS6MBHNE",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "muUZu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes I should be down :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-30/5850892854320_33c165aa1a1610ba4eed_72.jpg",
+      "first_name": "vmadem6",
+      "real_name": "vmadem6",
+      "display_name": "vmadem6",
+      "team": "T03NCJFKCV8",
+      "name": "vmadem6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "750b4ceb-0260-4509-998f-6b82ae62c783",
+    "type": "message",
+    "user": "U05NS6MBHNE",
+    "text": "Yes 9th works for me too. Not the 16th and can you add me to the list too?",
+    "ts": "1693409027.653499",
+    "thread_ts": "1693354834.898939",
+    "parent_user_id": "U040V1EQYMS",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SbEEq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes 9th works for me too. Not the 16th and can you add me to the list too?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-30/5850892854320_33c165aa1a1610ba4eed_72.jpg",
+      "first_name": "vmadem6",
+      "real_name": "vmadem6",
+      "display_name": "vmadem6",
+      "team": "T03NCJFKCV8",
+      "name": "vmadem6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c5ae960b-9a88-490b-9757-a9a1379e9f0b",
+    "type": "message",
+    "user": "U05NS6MBHNE",
+    "text": "I was not getting the notifications. Gotta check my settings",
+    "ts": "1693409052.907519",
+    "thread_ts": "1693354834.898939",
+    "parent_user_id": "U040V1EQYMS",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SWrt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was not getting the notifications. Gotta check my settings"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-30/5850892854320_33c165aa1a1610ba4eed_72.jpg",
+      "first_name": "vmadem6",
+      "real_name": "vmadem6",
+      "display_name": "vmadem6",
+      "team": "T03NCJFKCV8",
+      "name": "vmadem6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8882b284-a18d-4df0-93d1-eaf18f97d35b",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "So the day hike will be the 9th?",
+    "ts": "1693417691.918779",
+    "thread_ts": "1693346663.976399",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MGEC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So the day hike will be the 9th?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e8b312d9-4854-4f0f-83e6-a49b137d21d6",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "What day hike?",
+    "ts": "1693418502.118129",
+    "thread_ts": "1693346663.976399",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hxJyo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What day hike?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "26a17dbd-b41b-41d8-85c6-b6c4e2d62fdc",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Aren't we doing a day hike then stargazing?",
+    "ts": "1693418722.248439",
+    "thread_ts": "1693346663.976399",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B1d4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Aren't we doing a day hike then stargazing?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5a20ee42-91de-4141-ae83-58f5e58d6c5d",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Then sleepover camping",
+    "ts": "1693418736.258989",
+    "thread_ts": "1693346663.976399",
+    "edited": {
+      "user": "U01N1775WSU",
+      "ts": "1693418752.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w2aH6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Then sleepover camping"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "04C55F11-E9CA-43F5-98BD-34FBD479D1C8",
+    "type": "message",
+    "user": "U0495G3QQ1W",
+    "text": "I’m still coming. I’ll decline the tickets to the game if the timing doesn’t work out",
+    "ts": "1693418766.281969",
+    "thread_ts": "1693346663.976399",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JME1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m still coming. I’ll decline the tickets to the game if the timing "
+              },
+              {
+                "type": "text",
+                "text": "doesn’t"
+              },
+              {
+                "type": "text",
+                "text": " work out"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-27/4290324769572_a9e776395623c3b9f13f_72.jpg",
+      "first_name": "Elan",
+      "real_name": "Elan Grossman",
+      "display_name": "Elan",
+      "team": "T03NCJFKCV8",
+      "name": "egrossman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b8c95faf-5c82-4688-b321-040a9df40869",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "\u003c@U0577EXET0F\u003e brother this is going to sound weird but was your DP taken at Chaat Bhavan Sunnyvale",
+    "ts": "1693418838.940759",
+    "thread_ts": "1693256434.150739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "huh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0577EXET0F"
+              },
+              {
+                "type": "text",
+                "text": " brother this is going to sound weird but was your DP taken at Chaat Bhavan Sunnyvale"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

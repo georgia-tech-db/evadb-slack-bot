@@ -1,0 +1,1567 @@
+[
+  {
+    "client_msg_id": "afb2a8e4-dbdf-49c8-a83e-78718ce797c0",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "I want pictures for memories too :)",
+    "ts": "1663375541.075099",
+    "thread_ts": "1663367192.774159",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B5u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I want pictures for memories too :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0E379CF8-C6A8-4BAC-BF3C-2AB1A73FA82B",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Haha okay sweet. Does anybody have a drone out of curiosity haha. I might bring a frisbee",
+    "ts": "1663375597.320549",
+    "thread_ts": "1663367192.774159",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "prMuv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Haha okay sweet. Does anybody have a drone out of curiosity haha. I might bring a frisbee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2f506cb-9170-45dc-8c21-338ea88c6792",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Hey Sean! Nice to know, great to have you with us here :blush:",
+    "ts": "1663375599.465979",
+    "thread_ts": "1663365630.446819",
+    "parent_user_id": "U042J1GTDRR",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pF9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Sean! Nice to know, great to have you with us here "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0cac5167-9a49-439d-9d57-e9ea024ee07d",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Secretly hoping we end up in shake shack lol",
+    "ts": "1663375644.790439",
+    "thread_ts": "1663348930.896889",
+    "edited": {
+      "user": "U02BQJX5TB8",
+      "ts": "1663375740.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AZTd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Secretly hoping we end up in shake shack lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "96BE2BB0-5BC6-4D7D-8018-606DE32132BF",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Haha still anybody's game :racehorse::racehorse:",
+    "ts": "1663375713.350829",
+    "thread_ts": "1663348930.896889",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J9y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Haha still anybody's game "
+              },
+              {
+                "type": "emoji",
+                "name": "racehorse",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "racehorse",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "96a1b3fe-0477-4c13-b4fa-6ef5e55b68a7",
+    "type": "message",
+    "user": "U041PH0B1DF",
+    "text": "I have a drone, I’ll bring it tomorrow \u003c@U02DD5VQLBV\u003e",
+    "ts": "1663395298.300679",
+    "thread_ts": "1663367192.774159",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4pC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have a drone, I’ll bring it tomorrow "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4046860678949_86ddc0989e7ac96e2976_72.jpg",
+      "first_name": "Yashwant",
+      "real_name": "Yashwant Koyyana",
+      "display_name": "Yash Koyyana",
+      "team": "T03NCJFKCV8",
+      "name": "kyashwant3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fc0e27eb-a2f8-4e45-af48-e9b73e912e22",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "See you all in an hour.\n\nText me if you need help finding us \u003ctel:3476108030|347-610-8030\u003e.\n\nAnd if you want to bond with others coming on Whatssap  \u003chttps://chat.whatsapp.com/CRF36GRc5AWBjDW0GsBCyq\u003e",
+    "ts": "1663426457.660249",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1663426572.000000"
+    },
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/VR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "See you all in an hour.\n\nText me if you need help finding us "
+              },
+              {
+                "type": "link",
+                "url": "tel:3476108030",
+                "text": "347-610-8030"
+              },
+              {
+                "type": "text",
+                "text": ".\n\nAnd if you want to bond with others coming on Whatssap  "
+              },
+              {
+                "type": "link",
+                "url": "https://chat.whatsapp.com/CRF36GRc5AWBjDW0GsBCyq",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b73fa220-19ca-411d-8ebc-9cb0dba773ba",
+    "type": "message",
+    "user": "UJM8GC35H",
+    "text": "Running a little late",
+    "ts": "1663429428.255379",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YV2cz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Running a little late"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4061286979585_5faa47099dfa19971955_72.jpg",
+      "first_name": "",
+      "real_name": "Mitchell Hamilton",
+      "display_name": "Mitchell Hamilton",
+      "team": "T03NCJFKCV8",
+      "name": "mitchell.hamilton",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7cdcdfb9-3aed-4448-b0a2-1cb8a9f2dd95",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "I'm here :)",
+    "ts": "1663429548.013109",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tYzQq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm here :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "47BE5568-93D0-4D67-9572-BE558F241842",
+    "type": "message",
+    "user": "U040XQFU7A5",
+    "text": "I’m here too!",
+    "ts": "1663430196.761589",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+0v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m here too!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-31/4019449241203_151d6fb129d579f03684_72.jpg",
+      "first_name": "Brandon",
+      "real_name": "Brandon Conner",
+      "display_name": "Brandon",
+      "team": "T03NCJFKCV8",
+      "name": "bconner6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "173E50EB-A910-4AA9-A48C-C28EEF6FED25",
+    "type": "message",
+    "user": "U02L4D90KD0",
+    "text": "I'll be at the meeting spot in like 15. If you guys start moving please post here and I'll just meet you wherever",
+    "ts": "1663430737.364659",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LUP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll be at the meeting spot in like 15. If you guys start moving please post here and I'll just meet you wherever"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4144955360679_94f51bd64f2b7e34bb6e_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Scott",
+      "display_name": "Daniel Scott",
+      "team": "T03NCJFKCV8",
+      "name": "dscott45",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D7BC7459-95BA-4BA2-9F3F-3218C10E98ED",
+    "type": "message",
+    "user": "U041RUTKBG9",
+    "text": "Is anyone at the flying biscuit ",
+    "ts": "1663432189.147819",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "whHaA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is anyone at the flying biscuit "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4047581149954_9f71bf47e8105d00c955_72.png",
+      "first_name": "jgarner42",
+      "real_name": "jgarner42",
+      "display_name": "Jalysa Garner",
+      "team": "T03NCJFKCV8",
+      "name": "jgarner42",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "008133D9-5F94-4975-9731-38EAD6288EBC",
+    "type": "message",
+    "user": "U041RUTKBG9",
+    "text": "Or is everyone at the park?",
+    "ts": "1663432201.042209",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZDxoK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Or is everyone at the park?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4047581149954_9f71bf47e8105d00c955_72.png",
+      "first_name": "jgarner42",
+      "real_name": "jgarner42",
+      "display_name": "Jalysa Garner",
+      "team": "T03NCJFKCV8",
+      "name": "jgarner42",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "AF2599ED-9F57-4742-8A0B-FF12ED5FC955",
+    "type": "message",
+    "user": "U041RUTKBG9",
+    "text": "@here",
+    "ts": "1663432343.720359",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fug",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "@here"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4047581149954_9f71bf47e8105d00c955_72.png",
+      "first_name": "jgarner42",
+      "real_name": "jgarner42",
+      "display_name": "Jalysa Garner",
+      "team": "T03NCJFKCV8",
+      "name": "jgarner42",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5879a10d-0f45-43eb-b5f4-7bdfe021207f",
+    "type": "message",
+    "user": "UJGHXD8AG",
+    "text": "Hi... looks like I will not be able to join at the Park today. At the dentist office for my little one \u0026amp; looks like it's gonna take longer. Will definitely make it for the next one. Waiting eagerly for the pics.",
+    "ts": "1663432356.836619",
+    "thread_ts": "1663289215.933049",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "41ZEZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi... looks like I will not be able to join at the Park today. At the dentist office for my little one \u0026 looks like it's gonna take longer. Will definitely make it for the next one. Waiting eagerly for the pics."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3ca5eaea01751ccc8a9b94a414779224.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "",
+      "real_name": "Kathir",
+      "display_name": "Kathir",
+      "team": "T03NCJFKCV8",
+      "name": "kbalakri3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8D47D832-437A-4755-9E1A-9B9D26E6FA12",
+    "type": "message",
+    "user": "U042J1GTDRR",
+    "text": "We are all at shake shack now",
+    "ts": "1663432431.642319",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZarG6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We are all at shake shack now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-15/4083445036853_c5856984ad67d8c42230_72.png",
+      "first_name": "Sean",
+      "real_name": "Sean",
+      "display_name": "Sean",
+      "team": "T03NCJFKCV8",
+      "name": "sean.maydwell",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DB98F6F7-D151-4637-8FE8-B5B7DF507CA2",
+    "type": "message",
+    "user": "U041RUTKBG9",
+    "text": "Where I'm here ",
+    "ts": "1663432510.126819",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ewdj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Where I'm here "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4047581149954_9f71bf47e8105d00c955_72.png",
+      "first_name": "jgarner42",
+      "real_name": "jgarner42",
+      "display_name": "Jalysa Garner",
+      "team": "T03NCJFKCV8",
+      "name": "jgarner42",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "41ebb7b8-dfff-4e24-b17e-acb5726feb8b",
+    "type": "message",
+    "user": "U041SLL8LBF",
+    "text": "Oh, right, that was today...and I'm stuck studying for GA. Maybe next time... :confused: Hope you all have fun!",
+    "ts": "1663432838.130409",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nFiOn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, right, that was today...and I'm stuck studying for GA. Maybe next time... "
+              },
+              {
+                "type": "emoji",
+                "name": "confused",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Hope you all have fun!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/255e12bf28244f3f96d75341c86eb59e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "jswiderski",
+      "real_name": "jswiderski",
+      "display_name": "jswiderski",
+      "team": "T03NCJFKCV8",
+      "name": "jswiderski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e3908c75-a97b-437c-944b-5f3bc9e9d354",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "Nice to meet ya'll today. Great to see you in person \u003c@U02DD5VQLBV\u003e \u003c@U02BQJX5TB8\u003e\nThanks for hosting the meeting \u003c@U02DD5VQLBV\u003e we have fun :slightly_smiling_face: Rumor has it some of you are in Sandy Springs so if you ever fancy Ramen, let's go Okiboru , if board game is your thing, there is Battle and Brew:grin:\nNow procrastination is over, back to my hole for ML:laughing:",
+    "ts": "1663442659.020709",
+    "thread_ts": "1663442659.020709",
+    "edited": {
+      "user": "U03UM07E4D8",
+      "ts": "1663442673.000000"
+    },
+    "reply_count": 10,
+    "replies": [
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1663442729.287989"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1663442841.511169"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1663443438.002839"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1663443520.973549"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1663444080.506569"
+      },
+      {
+        "user": "U041N5KKR38",
+        "ts": "1663445764.615809"
+      },
+      {
+        "user": "U04263B0EMP",
+        "ts": "1663455841.649489"
+      },
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1663456760.865599"
+      },
+      {
+        "user": "U041S3WQKND",
+        "ts": "1663467316.744719"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1663513004.373349"
+      }
+    ],
+    "latest_reply": "1663513004.373349",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "blush",
+        "count": 1,
+        "users": [
+          "U02BQJX5TB8"
+        ]
+      },
+      {
+        "name": "wave",
+        "count": 4,
+        "users": [
+          "U02BQJX5TB8",
+          "U02UAQKR56C",
+          "U042H5EAPJL",
+          "U04263B0EMP"
+        ]
+      },
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U041N5KKR38"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YXSr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice to meet ya'll today. Great to see you in person "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02BQJX5TB8"
+              },
+              {
+                "type": "text",
+                "text": "\nThanks for hosting the meeting "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " we have fun "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Rumor has it some of you are in Sandy Springs so if you ever fancy Ramen, let's go Okiboru , if board game is your thing, there is Battle and Brew"
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nNow procrastination is over, back to my hole for ML"
+              },
+              {
+                "type": "emoji",
+                "name": "laughing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 7,
+    "reply_users": [
+      "U02BQJX5TB8",
+      "U02UAQKR56C",
+      "U02UP4J977S",
+      "U03UM07E4D8",
+      "U041N5KKR38",
+      "U041S3WQKND",
+      "U04263B0EMP"
+    ]
+  },
+  {
+    "client_msg_id": "2adf73a0-1e69-4e7e-895f-2388c79d5a55",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Likewise \u003c@U03UM07E4D8\u003e. Very pleased to meet you in person and thanks \u003c@U02DD5VQLBV\u003e for organizing it. I'm also working on my ML assignment, haha.\n\nSee you in the next meeting!",
+    "ts": "1663442729.287989",
+    "thread_ts": "1663442659.020709",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gm83w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Likewise "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "text",
+                "text": ". Very pleased to meet you in person and thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " for organizing it. I'm also working on my ML assignment, haha.\n\nSee you in the next meeting!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "68ee3e8b-11f6-4f5b-ae66-7fc57437ba05",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "you on CS7641 channel? any study group? someone pinged me for study group:sweat_smile:",
+    "ts": "1663442841.511169",
+    "thread_ts": "1663442659.020709",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Izo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you on CS7641 channel? any study group? someone pinged me for study group"
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6d98224c-c051-44a3-b6f7-8600977a9e9a",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "Okiboru is amazing!!!",
+    "ts": "1663443438.002839",
+    "thread_ts": "1663442659.020709",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SeTe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okiboru is amazing!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "48a08270-8a4c-460b-913b-ab6c375ede1d",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "I love Okiboru, much better than Jinyu IMHO:upside_down_face:",
+    "ts": "1663443520.973549",
+    "thread_ts": "1663442659.020709",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Krh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I love Okiboru, much better than Jinyu IMHO"
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "994af494-e39c-40bd-b2e6-bcf638ee7850",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Board games!",
+    "ts": "1663444080.506569",
+    "thread_ts": "1663442659.020709",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U03UM07E4D8",
+          "U040KQBU1PY",
+          "U041S3WQKND"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E99=C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Board games!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4122360a-3f4a-48fa-a934-e8b51c8a73c5",
+    "type": "message",
+    "user": "U041N5KKR38",
+    "text": "better than jinya? :blurry_eyes:",
+    "ts": "1663445764.615809",
+    "thread_ts": "1663442659.020709",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hhY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "better than jinya? "
+              },
+              {
+                "type": "emoji",
+                "name": "blurry_eyes",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/471d517bad44d100e6e79aa2004dd459.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Ejiro",
+      "real_name": "Ejiro",
+      "display_name": "Ejiro",
+      "team": "T03NCJFKCV8",
+      "name": "eimarah6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d85caa1a-c74f-4850-bd5e-919260b74f7c",
+    "type": "message",
+    "user": "U04263B0EMP",
+    "text": "Nice to meet everyone! I'll be around on slack, and will always be happy to attend another meetup.",
+    "ts": "1663455841.649489",
+    "thread_ts": "1663442659.020709",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U041S3WQKND"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GVQ7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice to meet everyone! I'll be around on slack, and will always be happy to attend another meetup."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4080586870964_286ffd522208a686a8ba_72.jpg",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rega",
+      "display_name": "thomas.rega",
+      "team": "T03NCJFKCV8",
+      "name": "thomas.rega",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bbbb806c-8ea1-407e-93ee-261c686e7b1e",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Thank you very much for attending the meetup today y'all! Was very cool to see y'all in person. I hope to connect with my OMSCS friends in Texas and Chicago soon as well :)\n\nHere's my LinkedIn: \n\u003chttps://www.linkedin.com/in/alagappan-swaminathan/|https://www.linkedin.com/in/alagappan-swaminathan/\u003e (not updated but works)",
+    "ts": "1663456760.865599",
+    "thread_ts": "1663442659.020709",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U041S3WQKND"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RFYF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you very much for attending the meetup today y'all! Was very cool to see y'all in person. I hope to connect with my OMSCS friends in Texas and Chicago soon as well :)\n\nHere's my LinkedIn: \n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/alagappan-swaminathan/",
+                "text": "https://www.linkedin.com/in/alagappan-swaminathan/"
+              },
+              {
+                "type": "text",
+                "text": " (not updated but works)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

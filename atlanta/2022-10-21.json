@@ -1,0 +1,567 @@
+[
+  {
+    "client_msg_id": "9f855ab0-f33f-4a66-9c58-13a116793a2e",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "I am going for semi-fancy as well.",
+    "ts": "1666368351.106889",
+    "thread_ts": "1666025234.704209",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PISdz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am going for semi-fancy as well."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ee694006-374f-4535-bf0c-327b0d35dcd8",
+    "type": "message",
+    "user": "U0425F983DE",
+    "text": "Sounds good! I'm going to copy you guys!",
+    "ts": "1666369900.916829",
+    "thread_ts": "1666025234.704209",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hF9E",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good! I'm going to copy you guys!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4083809197266_e707c4228597e875853d_72.png",
+      "first_name": "dylan.husserl",
+      "real_name": "dylan.husserl",
+      "display_name": "dylan.husserl",
+      "team": "T03NCJFKCV8",
+      "name": "dylan.husserl",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F781A0B0-A1D7-4CAD-AE0D-D7AB8D1E5596",
+    "type": "message",
+    "user": "U02L4D90KD0",
+    "text": "Mm might go if others are going",
+    "ts": "1666370277.598349",
+    "thread_ts": "1666241806.500379",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "the_horns",
+        "count": 1,
+        "users": [
+          "U0425F983DE"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T23v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Mm might go if others are going"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4144955360679_94f51bd64f2b7e34bb6e_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Scott",
+      "display_name": "Daniel Scott",
+      "team": "T03NCJFKCV8",
+      "name": "dscott45",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0E7DA073-AE35-4906-A734-481045289735",
+    "type": "message",
+    "user": "U042QAJRKT7",
+    "text": "Hello everyone, My name is Sunitha Dasari and I live in Alpharetta. Graduated OMSCS in 2019. I am an entrepreneur in Title Insurance industry and work in IT. I am also a  musician with instrumental \u0026amp; vocal  and a yoga teacher. I play Sitar and Veena and sing Indian genres Classical , SemiClassical and light fusion etc. Love to see all the activity here. Thanks to Dr. David Joyner and Cheerie!! Appreciate the chance to connect with u all. \n\nBTW Hi Cheerie, I hope it is ok to share the below info. here. If any issues please let me know I will delete this from this thread. \n\nI am hosting couple of fundraising Sitar \u0026amp; Veena musical events this weekend  Sat 7 pm, Sun 3 PM in my basement for a girls Orphanage from Hyderabad(my home town), India whose management will be at my home to share their project and causes  etc.. We hv been supporting them for 12+ years and extremely impressed by the genuine usage of funds. I hv two daughters  and female empowerment has a special place in my heart. \n\nI pledged to raise $25000 for them and I am at $13000+ through last couple of weeks musical events hosted at home and online support. \n\nIf any of u r interested in this  cause and would like to support or attend the event please let me know to send the details. U can send me email at \u003cmailto:sunitha_dasari@gatech.edu|sunitha_dasari@gatech.edu\u003e. Thank you.  Hope to be active soon in Atlanta gatherings:+1:",
+    "ts": "1666371029.620759",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U04263B0EMP",
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J0cuA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone, My name is Sunitha Dasari and I live in Alpharetta. Graduated OMSCS in 2019. I am an entrepreneur in Title Insurance industry and work "
+              },
+              {
+                "type": "text",
+                "text": "i"
+              },
+              {
+                "type": "text",
+                "text": "n IT. I am also a  musician"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "with instrumental \u0026 vocal  and a yoga teacher. I play Sitar and Veena and sing Indian genres Classical , SemiClassical and light fusion etc. Love to see all the activity here. Thanks to Dr. David Joyner and Cheerie!! Appreciate the chance to connect with u all. \n\nBTW Hi Cheerie, I hope it is ok to share the below info. here. If any issues please let me know I will delete this from this thread. \n\nI am hosting couple of fundraising Sitar \u0026 Veena musical events this weekend  Sat 7 pm, Sun 3 PM in my basement for a girls Orphanage from Hyderabad(my home town), India whose management will be at my home to share their project and causes  etc.. We hv been supporting them for 12+ years and extremely impressed by the genuine usage of funds. I hv two daughters  and female empowerment has a special place in my heart. \n\nI pledged to raise $25000 for them and I am at $13000+ through last couple of weeks musical events hosted at home and online support. \n\nIf any of u r interested in this  cause and would like to support or attend the event please let me know to send the details. U can send me email at "
+              },
+              {
+                "type": "link",
+                "url": "mailto:sunitha_dasari@gatech.edu",
+                "text": "sunitha_dasari@gatech.edu"
+              },
+              {
+                "type": "text",
+                "text": ". Thank you"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": "  Hope to "
+              },
+              {
+                "type": "text",
+                "text": "b"
+              },
+              {
+                "type": "text",
+                "text": "e active soon in Atlanta gatherings"
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/39ceb59337e850ad6cbc664a8f5d9c6d.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "Sunitha",
+      "real_name": "Sunitha Dasari",
+      "display_name": "sunitha_dasari",
+      "team": "T03NCJFKCV8",
+      "name": "sunitha_dasari",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a1986b7e-69cd-43ef-9f62-b3e267074478",
+    "type": "message",
+    "user": "U0425F983DE",
+    "text": "I'm planning on arriving around 6:00 - looking forward to seeing you all there!",
+    "ts": "1666381210.352569",
+    "thread_ts": "1666025234.704209",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tJj1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm planning on arriving around 6:00 - looking forward to seeing you all there!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4083809197266_e707c4228597e875853d_72.png",
+      "first_name": "dylan.husserl",
+      "real_name": "dylan.husserl",
+      "display_name": "dylan.husserl",
+      "team": "T03NCJFKCV8",
+      "name": "dylan.husserl",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ef97f5d6-b4b8-47c6-954a-ece45c383f15",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Damn - I was wearing shorts, a tank top and a reverse baseball hat",
+    "ts": "1666388175.662599",
+    "thread_ts": "1666025234.704209",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A3Jb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Damn - I was wearing shorts, a tank top and a reverse baseball hat"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "23e32571-1f02-4d55-83b5-4a29053e1bfc",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Anyone here yet?",
+    "ts": "1666388322.203189",
+    "thread_ts": "1666025234.704209",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+kpsz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone here yet?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "67df17ef-b597-4f7a-9536-96cac4e7d7ce",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "On my way there! I think I’ll get there around 6ish but maybe earlier",
+    "ts": "1666388365.337089",
+    "thread_ts": "1666025234.704209",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/jJ/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "On my way there! I think I’ll get there around 6ish but maybe earlier"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "376A4B11-8A88-47AE-982C-501F0C2E28DE",
+    "type": "message",
+    "user": "U0425F983DE",
+    "text": "I’m heading there now, will be there around 6ish",
+    "ts": "1666388431.480819",
+    "thread_ts": "1666025234.704209",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MYjB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " heading there now, will be there around 6ish"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4083809197266_e707c4228597e875853d_72.png",
+      "first_name": "dylan.husserl",
+      "real_name": "dylan.husserl",
+      "display_name": "dylan.husserl",
+      "team": "T03NCJFKCV8",
+      "name": "dylan.husserl",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "47ECF2B5-2E2F-4A82-8737-C89835571C46",
+    "type": "message",
+    "user": "U0425F983DE",
+    "text": "Just arrived !",
+    "ts": "1666390166.883849",
+    "thread_ts": "1666025234.704209",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CvT8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just arrived !"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4083809197266_e707c4228597e875853d_72.png",
+      "first_name": "dylan.husserl",
+      "real_name": "dylan.husserl",
+      "display_name": "dylan.husserl",
+      "team": "T03NCJFKCV8",
+      "name": "dylan.husserl",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

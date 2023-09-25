@@ -1,0 +1,130 @@
+[
+  {
+    "client_msg_id": "4bb409b9-4935-416d-946c-9ef8b70e4acb",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "\u003c@U01N1775WSU\u003e This is from their FB page:\n\n\"Our U-pick blackberries, strawberries, sunflowers, and zinnias are open.\"",
+    "ts": "1687363016.626269",
+    "thread_ts": "1687197458.972719",
+    "parent_user_id": "U02MANZL55F",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lTb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " This is from their FB page:\n\n\"Our U-pick blackberries, strawberries, sunflowers, and zinnias are open.\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "485081a7-7475-4063-99c1-620b3640b5dd",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Thanks for the information! I think I'd like to pick strawberries :strawberry::blush: \nI do have something to do before coming, though, and may show up around noon... hopefully you guys will still be there :sweat_smile:",
+    "ts": "1687364650.479869",
+    "thread_ts": "1687197458.972719",
+    "parent_user_id": "U02MANZL55F",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "strawberry",
+        "count": 1,
+        "users": [
+          "U02MANZL55F"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WBhXf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks for the information! I think I'd like to pick strawberries "
+              },
+              {
+                "type": "emoji",
+                "name": "strawberry",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " \nI do have something to do before coming, though, and may show up around noon... hopefully you guys will still be there "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "client_msg_id": "c971663b-0eda-455b-bd8c-d02267b5affe",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Happy Labor Day Weekend everyone. I am excited for us all to meet.\nI’m going to take a mini poll of things you guys might like to do.\nI’m thinking about planning our first event in September (in Atlanta) as a Welcome back Meet + Greet event!\n\nPreferences for activities for first meetup:\nFood :pizza:\nWalk and Talk :walking:\nStudy together on campus :books:\nDrinks :beer:\nFrisbee :skateboard:\nChurch :church:️\n\nAnd then tack on a time preference:\nWeekend :balloon:\nWeekday :briefcase:\nAround 8AM :eight:\nAround 1PM :one:\nAround 5PM :five:\nAround 7PM :seven:\nNo day :date:\nNo time preference :alarm_clock:",
+    "ts": "1662419810.593869",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1662419924.000000"
+    },
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "books",
+        "count": 13,
+        "users": [
+          "U02DD5VQLBV",
+          "U040V1EQYMS",
+          "USLDMLNSK",
+          "U0417UYSS93",
+          "U040WGDCG07",
+          "U01N1775WSU",
+          "U04185JLG8M",
+          "U041B5GL282",
+          "U041DBXNDLL",
+          "UD11PFB4P",
+          "U8QDSG1G9",
+          "U041PH0B1DF",
+          "U041CT5LK5M"
+        ]
+      },
+      {
+        "name": "pizza",
+        "count": 26,
+        "users": [
+          "U02DD5VQLBV",
+          "U040B1UERRB",
+          "U019GF47VJ8",
+          "U040XQFU7A5",
+          "U040KQBU1PY",
+          "U040V1EQYMS",
+          "U03FL6L509K",
+          "U041DBJ58LU",
+          "U03UM07E4D8",
+          "U04184BSKM3",
+          "U040WGDCG07",
+          "U04185JLG8M",
+          "U01LLB46M4Y",
+          "UMQUVR2VD",
+          "U041BASGNQJ",
+          "U041AQWNDRR",
+          "U041DBXNDLL",
+          "UD11PFB4P",
+          "U0414FJHEAJ",
+          "U8QDSG1G9",
+          "U041G7J9BA8",
+          "U041PH0B1DF",
+          "U02T4TY0Z5K",
+          "USLPYCSS2",
+          "U02UAQKR56C",
+          "U014G30TBC0"
+        ]
+      },
+      {
+        "name": "walking",
+        "count": 14,
+        "users": [
+          "U02DD5VQLBV",
+          "U040XQFU7A5",
+          "U040KQBU1PY",
+          "U040V1EQYMS",
+          "U0417UYSS93",
+          "U041DBJ58LU",
+          "U03UM07E4D8",
+          "U040WGDCG07",
+          "U02MANZL55F",
+          "U0417UDBBUM",
+          "UMQUVR2VD",
+          "UD11PFB4P",
+          "U8QDSG1G9",
+          "U02UAQKR56C"
+        ]
+      },
+      {
+        "name": "one",
+        "count": 5,
+        "users": [
+          "U02DD5VQLBV",
+          "U040V1EQYMS",
+          "U03FL6L509K",
+          "U0417UYSS93",
+          "U041AQWNDRR"
+        ]
+      },
+      {
+        "name": "balloon",
+        "count": 22,
+        "users": [
+          "U040B1UERRB",
+          "U019GF47VJ8",
+          "U040XQFU7A5",
+          "U040KQBU1PY",
+          "U040V1EQYMS",
+          "U03FL6L509K",
+          "U0417UYSS93",
+          "U041DBJ58LU",
+          "U03UM07E4D8",
+          "U02MANZL55F",
+          "U0417UDBBUM",
+          "UMQUVR2VD",
+          "U041BASGNQJ",
+          "U041DBXNDLL",
+          "U041RUTKBG9",
+          "U8QDSG1G9",
+          "U041G7J9BA8",
+          "U041PH0B1DF",
+          "U02T4TY0Z5K",
+          "USLPYCSS2",
+          "U02UAQKR56C",
+          "U014G30TBC0"
+        ]
+      },
+      {
+        "name": "beer",
+        "count": 17,
+        "users": [
+          "U019GF47VJ8",
+          "U040KQBU1PY",
+          "U040V1EQYMS",
+          "USLDMLNSK",
+          "U041DBJ58LU",
+          "U01ADAHMZ88",
+          "U04185JLG8M",
+          "U041B5GL282",
+          "UMQUVR2VD",
+          "U041DBXNDLL",
+          "U041DBDB24C",
+          "UD11PFB4P",
+          "U0414FJHEAJ",
+          "U8QDSG1G9",
+          "U041G7J9BA8",
+          "U041CT5LK5M",
+          "U02UAQKR56C"
+        ]
+      },
+      {
+        "name": "five",
+        "count": 8,
+        "users": [
+          "U019GF47VJ8",
+          "U040V1EQYMS",
+          "U041DBJ58LU",
+          "U03UM07E4D8",
+          "U04185JLG8M",
+          "U041BASGNQJ",
+          "U041PH0B1DF",
+          "U02UAQKR56C"
+        ]
+      },
+      {
+        "name": "seven",
+        "count": 21,
+        "users": [
+          "U019GF47VJ8",
+          "U040V1EQYMS",
+          "USLDMLNSK",
+          "U01ADAHMZ88",
+          "U04184BSKM3",
+          "U040WGDCG07",
+          "U01N1775WSU",
+          "U04185JLG8M",
+          "U041B5GL282",
+          "U01LLB46M4Y",
+          "UMQUVR2VD",
+          "U041DBDB24C",
+          "UD11PFB4P",
+          "U041RUTKBG9",
+          "U0414FJHEAJ",
+          "U8QDSG1G9",
+          "U041PH0B1DF",
+          "U02T4TY0Z5K",
+          "U041CT5LK5M",
+          "U02UAQKR56C",
+          "U014G30TBC0"
+        ]
+      },
+      {
+        "name": "briefcase",
+        "count": 10,
+        "users": [
+          "U01ADAHMZ88",
+          "U040WGDCG07",
+          "U01N1775WSU",
+          "U04185JLG8M",
+          "U041B5GL282",
+          "UMQUVR2VD",
+          "U041DBDB24C",
+          "U0414FJHEAJ",
+          "U8QDSG1G9",
+          "U041CT5LK5M"
+        ]
+      },
+      {
+        "name": "eight",
+        "count": 1,
+        "users": [
+          "U0417UDBBUM"
+        ]
+      },
+      {
+        "name": "skateboard",
+        "count": 2,
+        "users": [
+          "U8QDSG1G9",
+          "U02UAQKR56C"
+        ]
+      },
+      {
+        "name": "alarm_clock",
+        "count": 1,
+        "users": [
+          "U041G7J9BA8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W16Qu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy Labor Day Weekend everyone. I am excited for us all to meet.\nI’m going to take a mini poll of things you guys might like to do.\nI’m thinking about planning our first event in September (in Atlanta) as a Welcome back Meet + Greet event!\n\nPreferences for activities for first meetup:\nFood "
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nWalk and Talk "
+              },
+              {
+                "type": "emoji",
+                "name": "walking",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nStudy together on campus "
+              },
+              {
+                "type": "emoji",
+                "name": "books",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nDrinks "
+              },
+              {
+                "type": "emoji",
+                "name": "beer",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nFrisbee "
+              },
+              {
+                "type": "emoji",
+                "name": "skateboard",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nChurch "
+              },
+              {
+                "type": "emoji",
+                "name": "church",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "️\n\nAnd then tack on a time preference:\nWeekend "
+              },
+              {
+                "type": "emoji",
+                "name": "balloon",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nWeekday "
+              },
+              {
+                "type": "emoji",
+                "name": "briefcase",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nAround 8AM "
+              },
+              {
+                "type": "emoji",
+                "name": "eight",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nAround 1PM "
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nAround 5PM "
+              },
+              {
+                "type": "emoji",
+                "name": "five",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nAround 7PM "
+              },
+              {
+                "type": "emoji",
+                "name": "seven",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nNo day "
+              },
+              {
+                "type": "emoji",
+                "name": "date",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nNo time preference "
+              },
+              {
+                "type": "emoji",
+                "name": "alarm_clock",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

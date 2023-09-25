@@ -1,0 +1,806 @@
+[
+  {
+    "client_msg_id": "6a7ac138-ec77-44c5-be69-53ef9592bf9d",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Quick poll on times for hiking to full-fill the TBD hour for hiking to clear up quick confusion… for those who want to join.\n\nPS Feel free to bring your dogs, cats, turtles, friends and significant others.\n\nAnd it looks like for Stone Mountain! On…. October 1st\n:one:7 am\n:two:8 am\n:three:9 am\n:four:10 am\n:five: 11 am\n:six: 12 pm\n:sweat_smile:Fine with all times\n\nThanks again for participating in the polls… and those who helped fill out my survey!! It’ll help me for my paper I’ll need to publish at end of semester :pray: Almost hump day, so keep good luck with work and homework. You got this!!",
+    "ts": "1663727203.426739",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1663727340.000000"
+    },
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "six",
+        "count": 2,
+        "users": [
+          "U02UAQKR56C",
+          "U03UM07E4D8"
+        ]
+      },
+      {
+        "name": "sweat_smile",
+        "count": 3,
+        "users": [
+          "U8QDSG1G9",
+          "U02BQJX5TB8",
+          "U04263B0EMP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QA0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Quick poll on times for hiking to full-fill the TBD hour for hiking to clear up quick confusion… for those who want to join.\n\nPS Feel free to bring your dogs, cats, turtles, friends and significant others.\n\nAnd it looks like for Stone Mountain! On…. October 1st\n"
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "7 am\n"
+              },
+              {
+                "type": "emoji",
+                "name": "two",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "8 am\n"
+              },
+              {
+                "type": "emoji",
+                "name": "three",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "9 am\n"
+              },
+              {
+                "type": "emoji",
+                "name": "four",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "10 am\n"
+              },
+              {
+                "type": "emoji",
+                "name": "five",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 11 am\n"
+              },
+              {
+                "type": "emoji",
+                "name": "six",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 12 pm\n"
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Fine with all times\n\nThanks again for participating in the polls… and those who helped fill out my survey!! It’ll help me for my paper I’ll need to publish at end of semester "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Almost hump day, so keep good luck with work and homework. You got this!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "983B5658-737F-4122-A74D-DC566237B59B",
+    "type": "message",
+    "user": "U041RUTKBG9",
+    "text": "\u003c@U02DD5VQLBV\u003e Pets are not allowed on certain trails at Stone Mountain ",
+    "ts": "1663761819.253919",
+    "thread_ts": "1663761819.253919",
+    "edited": {
+      "user": "U041RUTKBG9",
+      "ts": "1663761843.000000"
+    },
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1663764924.228739"
+      },
+      {
+        "user": "U041RUTKBG9",
+        "ts": "1663765498.949819"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1663765528.533379"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1663765531.647109"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1663784392.489519"
+      }
+    ],
+    "latest_reply": "1663784392.489519",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "74d9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " Pets are not allowed on certain trails at Stone Mountain "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4047581149954_9f71bf47e8105d00c955_72.png",
+      "first_name": "jgarner42",
+      "real_name": "jgarner42",
+      "display_name": "Jalysa Garner",
+      "team": "T03NCJFKCV8",
+      "name": "jgarner42",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U03UM07E4D8",
+      "U041RUTKBG9"
+    ]
+  },
+  {
+    "client_msg_id": "0978AC55-B4A4-47E0-BC48-F53F95C3E583",
+    "type": "message",
+    "user": "U041RUTKBG9",
+    "text": "\u003chttps://www.stonemountainpark.com/activities/recreation-golf/hiking-trails/|https://www.stonemountainpark.com/activities/recreation-golf/hiking-trails/\u003e",
+    "ts": "1663761872.330929",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=Amx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.stonemountainpark.com/activities/recreation-golf/hiking-trails/",
+                "text": "https://www.stonemountainpark.com/activities/recreation-golf/hiking-trails/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4047581149954_9f71bf47e8105d00c955_72.png",
+      "first_name": "jgarner42",
+      "real_name": "jgarner42",
+      "display_name": "Jalysa Garner",
+      "team": "T03NCJFKCV8",
+      "name": "jgarner42",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E1FF93D8-0CE5-455C-9813-65B812181FE7",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Ooo good call!! Why did I just always remember seeing dogs. Do you want to bring your doggie? ",
+    "ts": "1663764924.228739",
+    "thread_ts": "1663761819.253919",
+    "parent_user_id": "U041RUTKBG9",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wIj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ooo good call!! Why did I just always remember seeing dogs. Do you want to bring your doggie? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "29722375-CCA7-41CC-B505-9EEF8B8CBE3F",
+    "type": "message",
+    "user": "U041RUTKBG9",
+    "text": "It depends on what trail the group decides on. If it's to the top of the mountain, I wouldn't bring her. I think that trail is one where dogs aren't allowed ",
+    "ts": "1663765498.949819",
+    "thread_ts": "1663761819.253919",
+    "parent_user_id": "U041RUTKBG9",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VcU51",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It depends on what trail the group decides on. If it's to the top of the mountain, I wouldn't bring her. I think that trail is one where dogs aren't allowed "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4047581149954_9f71bf47e8105d00c955_72.png",
+      "first_name": "jgarner42",
+      "real_name": "jgarner42",
+      "display_name": "Jalysa Garner",
+      "team": "T03NCJFKCV8",
+      "name": "jgarner42",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DAB2FB1E-008D-452B-8707-3CABBBAFAE09",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "The normal trail is to go up ",
+    "ts": "1663765528.533379",
+    "thread_ts": "1663761819.253919",
+    "parent_user_id": "U041RUTKBG9",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ufYny",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The normal trail is to go up "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4CD7C953-0C6D-4FF3-8642-5C64F593D3C0",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Ok sounds good",
+    "ts": "1663765531.647109",
+    "thread_ts": "1663761819.253919",
+    "parent_user_id": "U041RUTKBG9",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2IvAN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok sounds good"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "57e79270-9d24-4137-8594-10bc59f9bbb3",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Sorry I just saw this. Homecoming sounds fun",
+    "ts": "1663768003.397639",
+    "thread_ts": "1663617259.089589",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Qn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry I just saw this. Homecoming sounds fun"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "71157c9c-75ea-4f3a-87b3-a816a318217c",
+    "type": "message",
+    "user": "U040B1UERRB",
+    "text": "Homecoming is the month of October. It might be good for people to get together on/near campus Oct 6-8",
+    "ts": "1663768025.385349",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q5Ind",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Homecoming is the month of October. It might be good for people to get together on/near campus Oct 6-8"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d12ab50e2213a44e9e9c333a890ae6fc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "creid31",
+      "real_name": "creid31",
+      "display_name": "creid31",
+      "team": "T03NCJFKCV8",
+      "name": "creid31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "51168d40-47bd-4dda-8985-ffe295dbd2f9",
+    "type": "message",
+    "user": "UMQUVR2VD",
+    "text": "\u003c@U02DD5VQLBV\u003e it’s like 40 mins from Georgia tech. i live in dunwoody if anyone is nearby and need ride",
+    "ts": "1663771627.019889",
+    "thread_ts": "1663617259.089589",
+    "edited": {
+      "user": "UMQUVR2VD",
+      "ts": "1663771717.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/7I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " it’s like 40 mins from Georgia tech. i live in dunwoody if anyone is nearby and need ride"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/108c9f2ba196c93fcfae4dabb9776a4f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "A.P.",
+      "real_name": "A.P.",
+      "display_name": "A.P.",
+      "team": "T03NCJFKCV8",
+      "name": "abhishekpatil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "451c6fcf-4b33-4738-b57e-f14beeddba9d",
+    "type": "message",
+    "user": "UMQUVR2VD",
+    "ts": "1663771651.470969",
+    "thread_ts": "1663617259.089589",
+    "parent_user_id": "U02DD5VQLBV",
+    "files": [
+      {
+        "id": "F0434HJU6FQ",
+        "created": 1663771648,
+        "timestamp": 1663771648,
+        "name": "Screen Shot 2022-09-21 at 10.47.20 AM.png",
+        "title": "Screen Shot 2022-09-21 at 10.47.20 AM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "UMQUVR2VD",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 306040,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F0434HJU6FQ-Screen Shot 2022-09-21 at 10.47.20 AM.png",
+        "url_private_download": "attachments/F0434HJU6FQ-Screen Shot 2022-09-21 at 10.47.20 AM.png",
+        "original_h": 533,
+        "original_w": 497,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F0434HJU6FQ-b477af9878/screen_shot_2022-09-21_at_10.47.20_am_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F0434HJU6FQ-b477af9878/screen_shot_2022-09-21_at_10.47.20_am_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F0434HJU6FQ-b477af9878/screen_shot_2022-09-21_at_10.47.20_am_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F0434HJU6FQ-b477af9878/screen_shot_2022-09-21_at_10.47.20_am_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 336,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F0434HJU6FQ-b477af9878/screen_shot_2022-09-21_at_10.47.20_am_480.png",
+        "thumb_480_w": 448,
+        "thumb_480_h": 480,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://gatech.enterprise.slack.com/files/UMQUVR2VD/F0434HJU6FQ/screen_shot_2022-09-21_at_10.47.20_am.png",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F0434HJU6FQ-2f3edab7df",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/108c9f2ba196c93fcfae4dabb9776a4f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "A.P.",
+      "real_name": "A.P.",
+      "display_name": "A.P.",
+      "team": "T03NCJFKCV8",
+      "name": "abhishekpatil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "adf51b29-b328-4519-827e-25aa61b9ef80",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "If I recall correctly, no pet allow on the trail to the top...(but people still do it:face_with_rolling_eyes:)\nDo wear comfortable shoes, clothing in layer, hat, sun screen, and water :slightly_smiling_face:\nStretch and warm up before your climb :wink:\n\nPer stonemountainpark website:\n• Pets are not allowed on the Walk-Up Trail.\n• This trail is not recommended for people with limiting physical conditions and is not wheelchair accessible.\n• Appropriate footwear should be worn.\n• The mountain is very slippery when wet.\n",
+    "ts": "1663784392.489519",
+    "thread_ts": "1663761819.253919",
+    "edited": {
+      "user": "U03UM07E4D8",
+      "ts": "1663784484.000000"
+    },
+    "parent_user_id": "U041RUTKBG9",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6vf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If I recall correctly, no pet allow on the trail to the top...(but people still do it"
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_rolling_eyes",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ")\nDo wear comfortable shoes, clothing in layer, hat, sun screen, and water "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nStretch and warm up before your climb "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nPer stonemountainpark website:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Pets are not allowed on the Walk-Up Trail.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"This trail is not recommended for people with limiting physical conditions and is not wheelchair accessible.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Appropriate footwear should be worn.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"The mountain is very slippery when wet.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

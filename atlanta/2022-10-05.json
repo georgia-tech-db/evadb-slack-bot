@@ -1,0 +1,164 @@
+[
+  {
+    "client_msg_id": "6d219860-ad18-44e1-a80c-69952f392ccc",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I wouldn’t worry about it! Last year when I went, nobody around me was drinking. You kind of just stick with people you go with.",
+    "ts": "1664935758.675979",
+    "thread_ts": "1664903191.139189",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "ok_blob",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bwTo1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wouldn’t worry about it! Last year when I went, nobody around me was drinking. You kind of just stick with people you go with."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d7e3f744-f3e1-49af-9cbe-fcd54baa3dbc",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "(Unless you cannot be physically close to people drinking, that’s a different story.)",
+    "ts": "1664935780.707409",
+    "thread_ts": "1664903191.139189",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y=NIo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(Unless you cannot be physically close to people drinking, that’s a different story.)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ae757afd-0b06-4543-bb16-0bd728439d7d",
+    "type": "message",
+    "user": "UF8PYM01J",
+    "text": "Good morning! I need some assistance with a small research project that I am currently working on. If you or someone you know has back pain and is currently attending or was attending physical therapy, could you please share your experience with my team? We plan to conduct short interviews, which will be conducted online using a platform of your choice (Zoom, Webex, Teams). Please message me directly if you are willing to help my research.",
+    "ts": "1664976649.254449",
+    "thread_ts": "1664976649.254449",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U041S3WQKND",
+        "ts": "1665237730.707239"
+      }
+    ],
+    "latest_reply": "1665237730.707239",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wuZM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good morning! I need some assistance with a small research project that I am currently working on. If you or someone you know has back pain and is currently attending or was attending physical therapy, could you please share your experience with my team? We plan to conduct short interviews, which will be conducted online using a platform of your choice (Zoom, Webex, Teams). Please message me directly if you are willing to help my research."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-07-07/2263871057777_3175e0faff728c3132ec_72.png",
+      "first_name": "Plamen",
+      "real_name": "Plamen Tassev",
+      "display_name": "plamen",
+      "team": "T03NCJFKCV8",
+      "name": "ptassev3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U041S3WQKND"
+    ]
+  }
+]

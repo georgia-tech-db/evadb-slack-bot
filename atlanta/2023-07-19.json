@@ -1,0 +1,110 @@
+[
+  {
+    "client_msg_id": "0e885dc2-9923-44ae-b0f4-aaea7f49685d",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "We’ll probably do Sunday July 23 to see \u003c@U041PH0B1DF\u003e\n\nIs everyone down to meet at say 5PM Ponce or my place (pool, bring food, and chill, pool table if available) because it’ll be a bit late? (please change your votes to tip votes)\n\n\u003c@U0575G39PK4\u003e \u003c@U041RUXVB97\u003e \u003c@U01N1775WSU\u003e \u003c@U02BQJX5TB8\u003e \u003c@U019GF47VJ8\u003e \u003c@U041PH0B1DF\u003e \u003c@U02MANZL55F\u003e",
+    "ts": "1689809669.214439",
+    "thread_ts": "1689435649.050889",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HjKM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We’ll probably do Sunday July 23 to see "
+              },
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": "\n\nIs everyone down to meet at say 5PM Ponce or my place (pool, bring food, and chill, pool table if available) because it’ll be a bit late? (please change your votes to tip votes)\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U0575G39PK4"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041RUXVB97"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02BQJX5TB8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U019GF47VJ8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "client_msg_id": "234faab7-b085-470d-988b-036587bad9ef",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Bonjour Beautiful Brilliant Brains,\n\n\u003c@U02UAQKR56C\u003e\u003c@U04263B0EMP\u003e\u003c@UDWBBD1HC\u003e\u003c@U0425F983DE\u003e\u003c@U0417UDBBUM\u003e\u003c@U040V1EQYMS\u003e\u003c@U02MANZL55F\u003e\u003c@U04JTFXHEUB\u003e\u003c@U0414A5PDV4\u003e\u003c@USLDMLNSK\u003e\u003c@U03V8G3NGP4\u003e \u003c@U041DBXGPC4\u003e \u003c@U041RP95SMP\u003e \u003c@U040WB5GXRV\u003e \u003c@U01JYRB9DL2\u003e \u003c@U0425F983DE\u003e\n\nJust one reminder for Saturday for our hike.\nGive a kick for confirmation :hiking_boot:\nI’ll put the information below for an easy reach.\n\nTIME: 10AM-12PM\nWe’ll grab food after…. for those that want. So any recommendations welcomed!\nWhere \u003chttps://gastateparks.org/sites/default/files/parks/pdf/trailmaps/SweetwaterCreek_TrailMap.pdf|Sweetwater Creek State Park\u003e\nDate: March 25, 2023\nCOST: $5 to park\nMeet: Learning from past experience, let’s meet at the Parking lot- by the *Group shelter* - attached screen shot, but full map linked above.\n\nPS I need a ride! Near Buckhead :smile: unless you want me in Midtown\n\nHope you’re having a fantastique week!\nCherie Lum :blue_heart:",
+    "ts": "1679423730.171959",
+    "thread_ts": "1679423730.171959",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1679427239.000000"
+    },
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1679612064.131459"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1679615606.787399"
+      },
+      {
+        "user": "U04263B0EMP",
+        "ts": "1679670325.691519"
+      },
+      {
+        "user": "U04263B0EMP",
+        "ts": "1679671843.695069"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1679702274.614109"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1679702293.039739"
+      }
+    ],
+    "latest_reply": "1679702293.039739",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "hiking_boot",
+        "count": 6,
+        "users": [
+          "USLDMLNSK",
+          "U041DBXGPC4",
+          "U0425F983DE",
+          "U01JYRB9DL2",
+          "U02DD5VQLBV",
+          "U02UAQKR56C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yuk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Bonjour Beautiful Brilliant Brains,\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "user",
+                "user_id": "U04263B0EMP"
+              },
+              {
+                "type": "user",
+                "user_id": "UDWBBD1HC"
+              },
+              {
+                "type": "user",
+                "user_id": "U0425F983DE"
+              },
+              {
+                "type": "user",
+                "user_id": "U0417UDBBUM"
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "user",
+                "user_id": "U04JTFXHEUB"
+              },
+              {
+                "type": "user",
+                "user_id": "U0414A5PDV4"
+              },
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8G3NGP4"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041DBXGPC4"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041RP95SMP"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040WB5GXRV"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01JYRB9DL2"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0425F983DE"
+              },
+              {
+                "type": "text",
+                "text": "\n\nJust one reminder for Saturday for our hike.\nGive a kick for confirmation "
+              },
+              {
+                "type": "emoji",
+                "name": "hiking_boot",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nI’ll put the information below for an easy reach.\n\nTIME: 10AM-12PM\nWe’ll grab food after…. for those that want. So any recommendations welcomed!\nWhere "
+              },
+              {
+                "type": "link",
+                "url": "https://gastateparks.org/sites/default/files/parks/pdf/trailmaps/SweetwaterCreek_TrailMap.pdf",
+                "text": "Sweetwater Creek State Park"
+              },
+              {
+                "type": "text",
+                "text": "\nDate: March 25, 2023\nCOST: $5 to park\nMeet: Learning from past experience, let’s meet at the Parking lot- by the"
+              },
+              {
+                "type": "text",
+                "text": " Group shelter",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " - attached screen shot, but full map linked above.\n\nPS I need a ride! Near Buckhead "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " unless you want me in Midtown\n\nHope you’re having a fantastique week!\nCherie Lum "
+              },
+              {
+                "type": "emoji",
+                "name": "blue_heart",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02MANZL55F",
+      "U02UAQKR56C",
+      "U04263B0EMP"
+    ]
+  },
+  {
+    "client_msg_id": "987a19ed-0a2a-43c3-bf06-87a0640c9f25",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Hi everyone! Ramadan Mubarak! :moon: Ramadan in starting soon and during this month Muslims fast for 30 days. We also strive to increase doing good things within ourselves and our community! :love:\n\nThis month, I am pledging to donate money to an organization local to me that works to support educating others. If you sign up to donate $2 a day for a total of $60 for the whole month, the organization with get an additional $100 for your donation! I encourage everyone to participate in this project so that any good that may come from it may bless you and your studies too! :turtle_study:\nSign up here! \u003chttps://www.launchgood.com/ramadan?src=lg_team_ramadan_najam\u003e\n\nI also encourage any and all to fast a day or two with us! We start before sunrise and end at sunset! DM for times if you want specifics!\n\nThanks everyone! :meow-heart:",
+    "ts": "1679438165.025549",
+    "thread_ts": "1679438165.025549",
+    "attachments": [
+      {
+        "fallback": "Schedule your Ramadan giving with LaunchGood",
+        "id": 1,
+        "title": "Schedule your Ramadan giving with LaunchGood",
+        "title_link": "https://www.launchgood.com/ramadan?src=lg_team_ramadan_najam",
+        "text": "Enrich your Ramadan by giving daily charity to a different cause around the world. Choose how much you want to give daily and LaunchGood will take care of the rest.",
+        "thumb_url": "https://launchgood.s3.amazonaws.com/static/RC23/rc23_og_v1.jpg",
+        "service_name": "launchgood.com",
+        "service_icon": "http://media.launchgood.com/bf9070021fe8941a1c3bd3874b3fa71d8dfe638b/favicons/apple-touch-icon.png",
+        "from_url": "https://www.launchgood.com/ramadan?src=lg_team_ramadan_najam",
+        "original_url": "https://www.launchgood.com/ramadan?src=lg_team_ramadan_najam",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U01N1775WSU",
+      "ts": "1679439020.000000"
+    },
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1679446862.912119"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1679448659.365759"
+      },
+      {
+        "user": "U04JTFXHEUB",
+        "ts": "1679479527.387949"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1679607767.206259"
+      },
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1679608239.928699"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1679778838.815949"
+      }
+    ],
+    "latest_reply": "1679778838.815949",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "clapping-156",
+        "count": 3,
+        "users": [
+          "U03UM07E4D8",
+          "U04JTFXHEUB",
+          "U02EEGFEYHH"
+        ]
+      },
+      {
+        "name": "heart_001",
+        "count": 4,
+        "users": [
+          "U02DD5VQLBV",
+          "U04JTFXHEUB",
+          "U040XQFU7A5",
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "tada",
+        "count": 1,
+        "users": [
+          "U02MANZL55F"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wwjgw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi everyone! Ramadan Mubarak! "
+              },
+              {
+                "type": "emoji",
+                "name": "moon",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Ramadan in starting soon and during this month Muslims fast for 30 days. We also strive to increase doing good things within ourselves and our community! "
+              },
+              {
+                "type": "emoji",
+                "name": "love",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nThis month, I am pledging to donate money to an organization local to me that works to support educating others. If you sign up to donate $2 a day for a total of $60 for the whole month, the organization with get an additional $100 for your donation! I encourage everyone to participate in this project so that any good that may come from it may bless you and your studies too! "
+              },
+              {
+                "type": "emoji",
+                "name": "turtle_study",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nSign up here! "
+              },
+              {
+                "type": "link",
+                "url": "https://www.launchgood.com/ramadan?src=lg_team_ramadan_najam",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nI also encourage any and all to fast a day or two with us! We start before sunrise and end at sunset! DM for times if you want specifics!\n\nThanks everyone! "
+              },
+              {
+                "type": "emoji",
+                "name": "meow-heart",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U02BQJX5TB8",
+      "U02DD5VQLBV",
+      "U02MANZL55F",
+      "U04JTFXHEUB"
+    ]
+  }
+]

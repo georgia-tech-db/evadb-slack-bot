@@ -1,0 +1,516 @@
+[
+  {
+    "client_msg_id": "59364cbe-b6a1-473f-a11c-62afa3581d3d",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U03UM07E4D8\u003e oh snap! are you doing okay with it?",
+    "ts": "1677024958.194979",
+    "thread_ts": "1676866536.581039",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/dr6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "text",
+                "text": " oh snap! are you doing okay with it?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "524d2182-5ad3-4c2e-9913-048bbfdbd602",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hey all,\n\nRandom fun thing Ana shared with me:\n\nGrad Lounge - Grad Appreciation Week\n\nGrad Lounge and Programs is taking nominations for Graduate Student Appreciation Week to highlight students’ contributions both inside and outside the classroom. This is a multifaceted acknowledgement of the impact made by our grad students. We will be working with the Multicultural Lounge in the Student Center to recognize the chosen nominations in the display case from April 3rd to 7th. Students will be able to display research, photos, models and other items once they are selected. Anyone can submit. Submit nominations here:\n\nEmail \u003cmailto:gradlounge@stucen.gatech.edu|gradlounge@stucen.gatech.edu\u003e for any questions or accommodations.\n\nQR Code Link: \u003chttps://gatech.co1.qualtrics.com/jfe/form/SV_9XrxrHcEHXrWvD8\u003e\n\n*\u003chttp://gatech.co1.qualtrics.com|gatech.co1.qualtrics.com\u003e*\n*\u003chttps://gatech.co1.qualtrics.com/jfe/form/SV_9XrxrHcEHXrWvD8|Online Survey Software | Qualtrics Survey Solutions\u003e*\nQualtrics sophisticated online survey software solutions make creating online surveys easy. Learn more about Research Suite and get a free account today.\n\n-Cherie",
+    "ts": "1677025165.324119",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zKh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all,\n\nRandom fun thing Ana shared with me:\n\nGrad Lounge - Grad Appreciation Week\n\nGrad Lounge and Programs is taking nominations for Graduate Student Appreciation Week to highlight students’ contributions both inside and outside the classroom. This is a multifaceted acknowledgement of the impact made by our grad students. We will be working with the Multicultural Lounge in the Student Center to recognize the chosen nominations in the display case from April 3rd to 7th. Students will be able to display research, photos, models and other items once they are selected. Anyone can submit. Submit nominations here:\n\nEmail "
+              },
+              {
+                "type": "link",
+                "url": "mailto:gradlounge@stucen.gatech.edu",
+                "text": "gradlounge@stucen.gatech.edu"
+              },
+              {
+                "type": "text",
+                "text": " for any questions or accommodations.\n\nQR Code Link: "
+              },
+              {
+                "type": "link",
+                "url": "https://gatech.co1.qualtrics.com/jfe/form/SV_9XrxrHcEHXrWvD8",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "http://gatech.co1.qualtrics.com",
+                "text": "gatech.co1.qualtrics.com",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://gatech.co1.qualtrics.com/jfe/form/SV_9XrxrHcEHXrWvD8",
+                "text": "Online Survey Software | Qualtrics Survey Solutions",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nQualtrics sophisticated online survey software solutions make creating online surveys easy. Learn more about Research Suite and get a free account today.\n\n-Cherie"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9949e32c-f86e-46de-96bf-b2437623f3ef",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "doing my best to keep my head above water...so much reading material:joy:",
+    "ts": "1677025211.274389",
+    "thread_ts": "1676866536.581039",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U/tFe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "doing my best to keep my head above water...so much reading material"
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4b635849-fdb1-4a95-ba36-3fc942f71766",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Random question, does anybody live in midtown by GT campus and have a spare couch that I could potentially crash on Mar 3-5? I’m doing the Robotech hackathon if anybody else is doing it…. we can be on the same team!",
+    "ts": "1677037554.883549",
+    "thread_ts": "1677037554.883549",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1677037582.000000"
+    },
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U02L4D90KD0",
+        "ts": "1677078630.539129"
+      },
+      {
+        "user": "U040XQFU7A5",
+        "ts": "1677083104.574259"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677091425.662229"
+      },
+      {
+        "user": "U040XQFU7A5",
+        "ts": "1677091584.723949"
+      },
+      {
+        "user": "U03V8G3NGP4",
+        "ts": "1677124002.698799"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1677205589.356729"
+      },
+      {
+        "user": "U040XQFU7A5",
+        "ts": "1677269473.388609"
+      }
+    ],
+    "latest_reply": "1677269473.388609",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o1H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Random question, does anybody live in midtown by GT campus and have a spare couch that I could potentially crash on Mar 3-5? I’m doing the Robotech hackathon if anybody else is doing it…. we can be on the same team!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02DD5VQLBV",
+      "U02L4D90KD0",
+      "U03V8G3NGP4",
+      "U040XQFU7A5"
+    ]
+  },
+  {
+    "client_msg_id": "B9C9EDF7-4F57-4A3A-B2ED-52116EB32EB7",
+    "type": "message",
+    "user": "U02L4D90KD0",
+    "text": "Interesting :thinking_face: ",
+    "ts": "1677078630.539129",
+    "thread_ts": "1677037554.883549",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QSX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Interesting "
+              },
+              {
+                "type": "emoji",
+                "name": "thinking_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4144955360679_94f51bd64f2b7e34bb6e_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Scott",
+      "display_name": "Daniel Scott",
+      "team": "T03NCJFKCV8",
+      "name": "dscott45",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BED0A630-2273-4EE8-A466-F1F0E8043DE1",
+    "type": "message",
+    "user": "U040XQFU7A5",
+    "text": "I didn’t know about this! I don’t have an extra couch but I’m going to attend!",
+    "ts": "1677083104.574259",
+    "thread_ts": "1677037554.883549",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8/8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I didn’t know about this! I don’t have an extra couch but I’m going to attend!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-31/4019449241203_151d6fb129d579f03684_72.jpg",
+      "first_name": "Brandon",
+      "real_name": "Brandon Conner",
+      "display_name": "Brandon",
+      "team": "T03NCJFKCV8",
+      "name": "bconner6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5b0b6aaa-e656-47fc-bf1e-02532a2f69b8",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U040XQFU7A5\u003e sweet! Do you need the signup link/ have it?",
+    "ts": "1677091425.662229",
+    "thread_ts": "1677037554.883549",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jzG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U040XQFU7A5"
+              },
+              {
+                "type": "text",
+                "text": " sweet! Do you need the signup link/ have it?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "50A03883-A62B-4C72-B690-846415D3CED3",
+    "type": "message",
+    "user": "U040XQFU7A5",
+    "text": "Nope, I just applied!",
+    "ts": "1677091584.723949",
+    "thread_ts": "1677037554.883549",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KiDTj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nope, I just applied!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-31/4019449241203_151d6fb129d579f03684_72.jpg",
+      "first_name": "Brandon",
+      "real_name": "Brandon Conner",
+      "display_name": "Brandon",
+      "team": "T03NCJFKCV8",
+      "name": "bconner6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

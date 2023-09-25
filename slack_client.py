@@ -24,7 +24,8 @@ from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
 
 from eva_queries.rag_queries import (
-    build_relevant_knowledge_body,
+    build_relevant_knowledge_body_pdf,
+    build_relevant_knowledge_body_json,
     build_rag_query,
     build_search_index,
     start_llm_backend,
@@ -40,8 +41,8 @@ import evadb
 
 
 # Make sure necessary tokens are set.
-SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
-os.environ.get("SLACK_SIGNING_SECRET")
+SLACK_BOT_TOKEN = "xoxb-4264212692400-5937392355813-BrxGX0WQ8cIq78x9N1ivJKeW" # os.environ.get("SLACK_BOT_TOKEN")
+SLACK_SIGNING_SECRET = "33d88e3017617fdf38c1c8426616e1d3" #os.environ.get("SLACK_SIGNING_SECRET")
 
 # Slack app, bot, and client.
 app = App(token=SLACK_BOT_TOKEN)
@@ -126,7 +127,10 @@ def handle_mention(body, say, logger):
         QUERY_LOGGER.info(f"{user_query}")
 
         if user_query:
-            knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body(
+            # knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_json(
+            #     cursor, user_query, logger
+            # )
+            knowledge_body = build_relevant_knowledge_body_json(
                 cursor, user_query, logger
             )
             conversation = build_rag_query(knowledge_body, user_query)
@@ -141,11 +145,11 @@ def handle_mention(body, say, logger):
 
                 # Attach reference
                 response += REF_MSG_HEADER
-                for i, pageno in enumerate(reference_pageno_list):
-                    # TODO: change hardcoded url.
-                    # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
-                    response += f"[{reference_pdf_name}, page {pageno}] "
-                response += "\n"
+                # for i, pageno in enumerate(reference_pageno_list):
+                #     # TODO: change hardcoded url.
+                #     # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
+                #     response += f"[{reference_pdf_name}, page {pageno}] "
+                # response += "\n"
 
                 # Reply back with welcome msg randomly.
                 if random.random() < 0.1:

@@ -1,0 +1,572 @@
+[
+  {
+    "client_msg_id": "3ce44d82-74fb-451e-93a6-2de5d20f866a",
+    "type": "message",
+    "user": "U04185JLG8M",
+    "text": "I used to rep Manchester United but lately I’ve been more into other euro leagues…My favorite club is PSG! I’m sure you know why :wink:",
+    "ts": "1664583376.766479",
+    "thread_ts": "1664572367.419499",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aGa/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I used to rep Manchester United but lately I’ve been more into other euro leagues…My favorite club is PSG! I’m sure you know why "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-02/4156135726982_8173a7fe45ea9ef39826_72.jpg",
+      "first_name": "Bosun",
+      "real_name": "Bosun A.",
+      "display_name": "Bosun A.",
+      "team": "T03NCJFKCV8",
+      "name": "oadepoju3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "823687f3-dff7-4fbc-849d-e353f98defa9",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "OMSCS soccer team?",
+    "ts": "1664638057.299829",
+    "thread_ts": "1664572367.419499",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iUB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "OMSCS soccer team?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "178478de-3e06-4eab-8d15-ccb75116a130",
+    "type": "message",
+    "user": "U040ZM325K9",
+    "text": "Will Buzzcards give us access to the College of Computing building and to on-Campus internet?",
+    "ts": "1664650018.296689",
+    "thread_ts": "1664650018.296689",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1664650220.463349"
+      },
+      {
+        "user": "U040ZM325K9",
+        "ts": "1664661931.615349"
+      }
+    ],
+    "latest_reply": "1664661931.615349",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K4d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Will Buzzcards give us access to the College of Computing building and to on-Campus internet?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/b8aa72342e52632a6192d6f3560592c7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "rglier",
+      "real_name": "rglier",
+      "display_name": "rglier",
+      "team": "T03NCJFKCV8",
+      "name": "rglier",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U02BQJX5TB8",
+      "U040ZM325K9"
+    ]
+  },
+  {
+    "client_msg_id": "a47a0684-248d-4fbc-86fd-3581109fe7ba",
+    "type": "message",
+    "user": "U040KQBU1PY",
+    "text": "Now that would be fun",
+    "ts": "1664650060.748209",
+    "thread_ts": "1664572367.419499",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ae4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Now that would be fun"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4011879418999_bfce5828fb944a5e9ba3_72.jpg",
+      "first_name": "Andrew",
+      "real_name": "Andrew Lerch",
+      "display_name": "Andrew",
+      "team": "T03NCJFKCV8",
+      "name": "alerch7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ea35a07c-cafd-4410-a551-ba9046bc7c37",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "For the on-campus Internet, you just need your SSO username and password.\n\nCollege of computing will need buzzcard to access only when it's late in the night. Most times it's just open and I've never had to use my card",
+    "ts": "1664650220.463349",
+    "thread_ts": "1664650018.296689",
+    "parent_user_id": "U040ZM325K9",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sm9v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For the on-campus Internet, you just need your SSO username and password.\n\nCollege of computing will need buzzcard to access only when it's late in the night. Most times it's just open and I've never had to use my card"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f3d173d1-b92e-4a0a-b1f3-b5a6919658fd",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Any thoughts on when we'd be back home or start leaving from the hiking place and also how long are we hiking XD?\n\nThere are multiple trails and the distance varies between each trail, are we taking the 5 mile one?",
+    "ts": "1664650370.826149",
+    "thread_ts": "1664473640.808479",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H0n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any thoughts on when we'd be back home or start leaving from the hiking place and also how long are we hiking XD?\n\nThere are multiple trails and the distance varies between each trail, are we taking the 5 mile one?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f3d173d1-b92e-4a0a-b1f3-b5a6919658fd",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Any thoughts on when we'd be back home or start leaving from the hiking place and also how long are we hiking XD?\n\nThere are multiple trails and the distance varies between each trail, are we taking the 5 mile one?",
+    "ts": "1664650370.826149",
+    "thread_ts": "1664473640.808479",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H0n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any thoughts on when we'd be back home or start leaving from the hiking place and also how long are we hiking XD?\n\nThere are multiple trails and the distance varies between each trail, are we taking the 5 mile one?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1ac1966b-c6fc-47e3-9bcb-9240a0c9d8cd",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "The walk up trail can be done in anywhere 60-90 minutes round trip . Others are different stories.",
+    "ts": "1664652075.481469",
+    "thread_ts": "1664473640.808479",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "34h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The walk up trail can be done in anywhere 60-90 minutes round trip . Others are different stories."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6496f885-0e4c-47eb-a4d9-a188b59205f3",
+    "type": "message",
+    "user": "UMQUVR2VD",
+    "text": "\u003c@U03UM07E4D8\u003e i meant i have my own car and 2 seats available. I can pickup in areas near dunwoody",
+    "ts": "1664652772.207559",
+    "thread_ts": "1664473640.808479",
+    "edited": {
+      "user": "UMQUVR2VD",
+      "ts": "1664652791.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "73NWT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "text",
+                "text": " i meant i have my own car and 2 seats available. I can pickup in areas near dunwoody"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/108c9f2ba196c93fcfae4dabb9776a4f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "A.P.",
+      "real_name": "A.P.",
+      "display_name": "A.P.",
+      "team": "T03NCJFKCV8",
+      "name": "abhishekpatil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bf851f66-68e2-443d-969b-aad828e71bd9",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "same here \u003c@UMQUVR2VD\u003e we can pick up 2-3 people for the hike/food tomorrow. I'm right next to you, Sandy Springs.",
+    "ts": "1664652983.589439",
+    "thread_ts": "1664473640.808479",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "UMQUVR2VD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KL2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "same here "
+              },
+              {
+                "type": "user",
+                "user_id": "UMQUVR2VD"
+              },
+              {
+                "type": "text",
+                "text": " we can pick up 2-3 people for the hike/food tomorrow. I'm right next to you, Sandy Springs."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "19535b08-6cd7-452c-a6f4-9c77f0692f58",
+    "type": "message",
+    "user": "U040ZM325K9",
+    "text": "Thank you!",
+    "ts": "1664661931.615349",
+    "thread_ts": "1664650018.296689",
+    "parent_user_id": "U040ZM325K9",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9MBUZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/b8aa72342e52632a6192d6f3560592c7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "rglier",
+      "real_name": "rglier",
+      "display_name": "rglier",
+      "team": "T03NCJFKCV8",
+      "name": "rglier",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

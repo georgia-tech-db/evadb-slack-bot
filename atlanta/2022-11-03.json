@@ -1,0 +1,327 @@
+[
+  {
+    "client_msg_id": "6B556F03-C832-4DCA-B2C9-E0F2D46D134F",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Looks like you’re feeling the aura \u003c@U02L4D90KD0\u003e :innocent:",
+    "ts": "1667481022.558199",
+    "thread_ts": "1667335268.561889",
+    "parent_user_id": "U8QDSG1G9",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "innocent",
+        "count": 1,
+        "users": [
+          "U02L4D90KD0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rIH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looks like "
+              },
+              {
+                "type": "text",
+                "text": "you’re"
+              },
+              {
+                "type": "text",
+                "text": " feeling the aura "
+              },
+              {
+                "type": "user",
+                "user_id": "U02L4D90KD0"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "innocent",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "268a22e8-11b0-4343-8e3b-e0f916cb8ba8",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Does anyone want to go to the Tour of Asia 2022 tomorrow?",
+    "ts": "1667510306.624679",
+    "thread_ts": "1667510306.624679",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U01N1775WSU",
+        "ts": "1667510344.296789"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1667510550.693489"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1667519937.035219"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1667520185.166469"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1667521383.778269"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1667521397.186959"
+      }
+    ],
+    "latest_reply": "1667521397.186959",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S3m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does anyone want to go to the Tour of Asia 2022 tomorrow?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02DD5VQLBV"
+    ]
+  },
+  {
+    "client_msg_id": "ce10baea-e9dd-4f57-8902-266edaae9c4b",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "\u003chttps://calendar.gatech.edu/event/2022/11/04/tour-asia-2022|https://calendar.gatech.edu/event/2022/11/04/tour-asia-2022\u003e",
+    "ts": "1667510344.296789",
+    "thread_ts": "1667510306.624679",
+    "attachments": [
+      {
+        "fallback": "Tour of Asia 2022 | Campus Calendar",
+        "id": 1,
+        "title": "Tour of Asia 2022 | Campus Calendar",
+        "title_link": "https://calendar.gatech.edu/event/2022/11/04/tour-asia-2022",
+        "text": "Join us at Tour of Asia—AASA’s biggest event of the year—on November 4 from 6-9PM in the Exhibition Hall! We’ll have free food, photo booths, portrait artists, fun activities hosted by cultural organizations on campus, student performances, and more. We hope to see you there!",
+        "service_name": "calendar.gatech.edu",
+        "service_icon": "https://calendar.gatech.edu/themes/custom/gt_calendar/favicon.ico",
+        "from_url": "https://calendar.gatech.edu/event/2022/11/04/tour-asia-2022",
+        "original_url": "https://calendar.gatech.edu/event/2022/11/04/tour-asia-2022",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U01N1775WSU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0dxs+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://calendar.gatech.edu/event/2022/11/04/tour-asia-2022",
+                "text": "https://calendar.gatech.edu/event/2022/11/04/tour-asia-2022"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a7ac68ab-06d4-42cd-9c23-ffd5332c438d",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "I kinda want to dress up and come :face_with_peeking_eye:",
+    "ts": "1667510550.693489",
+    "thread_ts": "1667510306.624679",
+    "parent_user_id": "U01N1775WSU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Idws",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I kinda want to dress up and come "
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_peeking_eye",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b71cd93-575b-4f78-a5d3-3eb09b25cdc3",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "ha ha I saw that!!! I almost was going to go but I forgot I have a solo date with myself! Going to watch \u003chttps://www.amctheatres.com/movies/the-banshees-of-inisherin-69021|The Banshees of Inisherin\u003e",
+    "ts": "1667519937.035219",
+    "thread_ts": "1667510306.624679",
+    "parent_user_id": "U01N1775WSU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5z91",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ha ha I saw that!!! I almost was going to go but I forgot I have a solo date with myself! Going to watch "
+              },
+              {
+                "type": "link",
+                "url": "https://www.amctheatres.com/movies/the-banshees-of-inisherin-69021",
+                "text": "The Banshees of Inisherin"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

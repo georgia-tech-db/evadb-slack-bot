@@ -1,0 +1,659 @@
+[
+  {
+    "client_msg_id": "050da616-241c-4f62-80c8-f8905ed45fa0",
+    "type": "message",
+    "user": "U041DBXGPC4",
+    "text": "We should meet before classes start.",
+    "ts": "1691509954.469069",
+    "thread_ts": "1691509954.469069",
+    "reply_count": 14,
+    "replies": [
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1691528010.394759"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1691531623.705629"
+      },
+      {
+        "user": "U04S6L1NS9M",
+        "ts": "1691535513.060559"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1691598476.004639"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1691605838.354559"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1691606868.777559"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1691607061.548599"
+      },
+      {
+        "user": "U04S6L1NS9M",
+        "ts": "1691607506.134509"
+      },
+      {
+        "user": "U041DBXGPC4",
+        "ts": "1691608739.145689"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1691609000.130499"
+      },
+      {
+        "user": "U041DBXGPC4",
+        "ts": "1691609054.401479"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1691609074.597449"
+      },
+      {
+        "user": "U04HVDA1022",
+        "ts": "1691632131.914729"
+      },
+      {
+        "user": "U04HVDA1022",
+        "ts": "1691769976.035709"
+      }
+    ],
+    "latest_reply": "1691769976.035709",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hmj1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We should meet before classes start."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-11/4355481552918_c20cc133c7f8dc3dbc6a_72.jpg",
+      "first_name": "dahumada3",
+      "real_name": "dahumada3",
+      "display_name": "David",
+      "team": "T03NCJFKCV8",
+      "name": "dahumada3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 6,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02UAQKR56C",
+      "U03UM07E4D8",
+      "U041DBXGPC4",
+      "U04HVDA1022",
+      "U04S6L1NS9M"
+    ]
+  },
+  {
+    "client_msg_id": "0d09dc56-d2a4-4b2a-b3df-75023d566cc8",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "I was thinking about the same thing:grin:\nBattle and Brew? drink/food/tabletop games\nDave \u0026amp; Busters?\n\u003chttps://www.daveandbusters.com/us/en/about/locations/marietta\u003e\nAxe throwing?\n\u003chttps://burythehatchet.com/atlanta-bookings/\u003e\n4-12 people",
+    "ts": "1691528010.394759",
+    "thread_ts": "1691509954.469069",
+    "attachments": [
+      {
+        "fallback": "Arcade, Sports Bar, and Restaurant near Marietta (Atlanta)",
+        "id": 1,
+        "title": "Arcade, Sports Bar, and Restaurant near Marietta (Atlanta)",
+        "title_link": "https://www.daveandbusters.com/us/en/about/locations/marietta",
+        "text": "Eat, Drink and Play at Marietta (Atlanta) Dave \u0026amp; Buster's located at 2215 D\u0026amp;B Dr., Marietta GA. Call us today at (770) 951 - 5554 to reserve a table for your next event!",
+        "service_name": "daveandbusters.com",
+        "from_url": "https://www.daveandbusters.com/us/en/about/locations/marietta",
+        "original_url": "https://www.daveandbusters.com/us/en/about/locations/marietta",
+        "blocks": null
+      },
+      {
+        "fallback": "Bury The Hatchet: Bury The Hatchet Atlanta Bookings",
+        "id": 2,
+        "title": "Bury The Hatchet Atlanta Bookings",
+        "title_link": "https://burythehatchet.com/atlanta-bookings/",
+        "text": "Book your next Axe Throwing Session Today",
+        "service_name": "Bury The Hatchet",
+        "service_icon": "https://f2r8m4v9.stackpathcdn.com/wp-content/uploads/2018/07/bth-logo-final.png?x12821",
+        "from_url": "https://burythehatchet.com/atlanta-bookings/",
+        "original_url": "https://burythehatchet.com/atlanta-bookings/",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "piQI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was thinking about the same thing"
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nBattle and Brew? drink/food/tabletop games\nDave \u0026 Busters?\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.daveandbusters.com/us/en/about/locations/marietta",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\nAxe throwing?\n"
+              },
+              {
+                "type": "link",
+                "url": "https://burythehatchet.com/atlanta-bookings/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n4-12 people"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dd9f5af2-9e95-499c-9046-31ca216d8260",
+    "type": "message",
+    "user": "U02EEGFEYHH",
+    "text": "When is Summer Graduation?",
+    "ts": "1691528124.303849",
+    "thread_ts": "1691528124.303849",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1691528836.850819"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1691529076.351139"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1691529997.613369"
+      }
+    ],
+    "latest_reply": "1691529997.613369",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QoeT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When is Summer Graduation?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-03-26/3285281466023_2b0e74cefeb2b942ebab_72.jpg",
+      "first_name": "Kai",
+      "real_name": "Kai Ouyang",
+      "display_name": "",
+      "team": "T03NCJFKCV8",
+      "name": "ko40",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U02MANZL55F",
+      "U03UM07E4D8"
+    ]
+  },
+  {
+    "client_msg_id": "299df857-cfd9-4e72-b243-aa1ea6fb7fac",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "I don't think there is a summer graduation commencement if I recall correctly...",
+    "ts": "1691528836.850819",
+    "thread_ts": "1691528124.303849",
+    "edited": {
+      "user": "U03UM07E4D8",
+      "ts": "1691529093.000000"
+    },
+    "parent_user_id": "U02EEGFEYHH",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BlUc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I don't think there is a summer graduation commencement if I recall correctly..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d8b4e300-33b2-4c89-bac4-0b09c616f359",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "\u003chttps://commencement.gatech.edu/summer\u003e",
+    "ts": "1691529076.351139",
+    "thread_ts": "1691528124.303849",
+    "attachments": [
+      {
+        "fallback": "Summer Graduate Information | Commencement",
+        "id": 1,
+        "title": "Summer Graduate Information | Commencement",
+        "title_link": "https://commencement.gatech.edu/summer",
+        "image_url": "https://commencement.gatech.edu/sites/default/files/2023-04/52569100171_5e6e52bc4c_c.jpg",
+        "service_name": "commencement.gatech.edu",
+        "service_icon": "https://commencement.gatech.edu/themes/custom/commencement/favicon.ico",
+        "from_url": "https://commencement.gatech.edu/summer",
+        "original_url": "https://commencement.gatech.edu/summer",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U02EEGFEYHH",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qn/hX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://commencement.gatech.edu/summer",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e15bbd4f-02a7-4936-a877-d6eb061bb4fd",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Yeah, there is no summer graduation ceremony. You could have applied to attend the spring 2023 ceremony or attend the fall 2023 ceremony",
+    "ts": "1691529997.613369",
+    "thread_ts": "1691528124.303849",
+    "parent_user_id": "U02EEGFEYHH",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ebnpe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, there is no summer graduation ceremony. You could have applied to attend the spring 2023 ceremony or attend the fall 2023 ceremony"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "12428672-577c-40da-a8f9-88b4cb5246fd",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Sorry I didn't show up either. I need at least a day before confirmation to come down :pensive:",
+    "ts": "1691531603.286009",
+    "thread_ts": "1691077290.436179",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HFv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry I didn't show up either. I need at least a day before confirmation to come down "
+              },
+              {
+                "type": "emoji",
+                "name": "pensive",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82d1cca0-7951-4159-b59f-7032a40d763c",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "I would also love to meet up before Fall! I'm all for an arcade day!",
+    "ts": "1691531623.705629",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3u=q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I would also love to meet up before Fall! I'm all for an arcade day!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "44758B7C-0F61-4B99-9A01-8A3F22DEF231",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "Very much down for this",
+    "ts": "1691535513.060559",
+    "thread_ts": "1691509954.469069",
+    "parent_user_id": "U041DBXGPC4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4sDCG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Very much down for this"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9819A6A0-4DDD-4BA9-8D56-36C23F671384",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "All good, let’s all try and meet up soon though!",
+    "ts": "1691535631.590639",
+    "thread_ts": "1691077290.436179",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "ok_blob",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UIQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All good, "
+              },
+              {
+                "type": "text",
+                "text": "let’s"
+              },
+              {
+                "type": "text",
+                "text": " all try and meet up soon though!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

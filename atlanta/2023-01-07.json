@@ -1,0 +1,509 @@
+[
+  {
+    "client_msg_id": "85544131-3e36-4ef6-bb70-760839f525cd",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hi \u003c!channel\u003e happy holidays!\n\nThumbs up if you can make it.\nWill make it easier for Ram and friends to make/bring food.\n\nJust throwing this on your radar:\n(\u003c@U8QDSG1G9\u003e \u003c@U01N1775WSU\u003e \u003c@U02MANZL55F\u003e \u003c@U02UAQKR56C\u003e \u003c@U040WB5GXRV\u003e \u003c@U03UM07E4D8\u003e \u003c@U02BQJX5TB8\u003e \u003c@U041DBXGPC4\u003e\u003c@U040V1EQYMS\u003e)\n\n*When*: Saturday, January 14, 2022\n*Where*: Ram’s new house \u0026lt;-- please confirm \u003c@U8QDSG1G9\u003e\n*Time*: 11:30AM- 2:30PM\n*What*: Eating Potluck-- food contest!! //And 30 minutes virtual call with Cherie\n*How many:* Assuming 10-15 people\n---\u0026gt; I guestimated serving size for minimal amounts of leftovers\n\nWho’s bringing what so far:\n*Napkins/ Forks/ Spoons*: pack of 10?\nNapkins: ?\nForks: ?\nSpoons: ?\n\n*Appetizers x 3 (at 2-4 servings) servings*: TBD\nApp 1: (chips) ? ___________\nApp2: (shrimp/dip/chips)? ___________\nApp 3: (other) ? --\u0026gt; Christina? ___________\n\n*Entree x 3 (at 2-4 servings each)*: TBD\nEntree 1 (veg) --\u0026gt; Sara, Ram Vinay?\nEntree 2 (meat) --\u0026gt; Ram?\nEntree 3 (other) ---\u0026gt; Jeanette?\n\n*Dessert*:\nDessert 1: ___________\n\nRE in thread if you have food allergies: peanuts, flour, etc.\n\n*Games:*\nJackinthebox\nBoardgames\nCardgames\n\nThanks!\nCherie Lum",
+    "ts": "1673121812.622529",
+    "thread_ts": "1673121812.622529",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1673122388.000000"
+    },
+    "reply_count": 12,
+    "replies": [
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1673122588.616649"
+      },
+      {
+        "user": "U041DBXGPC4",
+        "ts": "1673124610.926869"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1673127487.295749"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1673302800.080189"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1673302829.976239"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1673303897.754689"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1673303948.233369"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1673310102.392629"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1673391072.152559"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1673391226.436339"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1673397720.271449"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1673484585.836179"
+      }
+    ],
+    "latest_reply": "1673484585.836179",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U041DBXGPC4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eHx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " happy holidays!\n\nThumbs up if you can make it.\nWill make it easier for Ram and friends to make/bring food.\n\nJust throwing this on your radar:\n("
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040WB5GXRV"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02BQJX5TB8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041DBXGPC4"
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": ")\n\n"
+              },
+              {
+                "type": "text",
+                "text": "When",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Saturday, January 14, 2022\n"
+              },
+              {
+                "type": "text",
+                "text": "Where",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Ram’s new house \u003c-- please confirm "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Time",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": 11:30AM- 2:30PM\n"
+              },
+              {
+                "type": "text",
+                "text": "What",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Eating Potluck-- food contest!! //And 30 minutes virtual call with Cherie\n"
+              },
+              {
+                "type": "text",
+                "text": "How many:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Assuming 10-15 people\n---\u003e I guestimated serving size for minimal amounts of leftovers\n\nWho’s bringing what so far:\n"
+              },
+              {
+                "type": "text",
+                "text": "Napkins/ Forks/ Spoons",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": pack of 10?\nNapkins: ?\nForks: ?\nSpoons: ?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Appetizers x 3 (at 2-4 servings) servings",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": TBD\nApp 1: (chips) ? ___________\nApp2: (shrimp/dip/chips)? ___________\nApp 3: (other) ? --\u003e Christina? ___________\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Entree x 3 (at 2-4 servings each)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": TBD\nEntree 1 (veg) --\u003e Sara, Ram Vinay?\nEntree 2 (meat) --\u003e Ram?\nEntree 3 (other) ---\u003e Jeanette?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Dessert",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ":\nDessert 1: ___________\n\nRE in thread if you have food allergies: peanuts, flour, etc.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Games:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nJackinthebox\nBoardgames\nCardgames\n\nThanks!\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 9,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02BQJX5TB8",
+      "U02DD5VQLBV",
+      "U02MANZL55F",
+      "U03UM07E4D8",
+      "U040V1EQYMS",
+      "U040WB5GXRV",
+      "U041DBXGPC4",
+      "U8QDSG1G9"
+    ]
+  },
+  {
+    "client_msg_id": "b94a55ea-6911-4224-91fd-3c0bf283851e",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Hey Cherie. I'm not sure if I can make it to the potluck. Wanted to let you know that. Sorry about it :)",
+    "ts": "1673122588.616649",
+    "thread_ts": "1673121812.622529",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "sad_pepe",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EQk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Cherie. I'm not sure if I can make it to the potluck. Wanted to let you know that. Sorry about it :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d6cf9b26-d33c-4b7c-a565-fcdfa05b7910",
+    "type": "message",
+    "user": "U041DBXGPC4",
+    "text": "I can bring dessert.",
+    "ts": "1673124610.926869",
+    "thread_ts": "1673121812.622529",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "icecream",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l4=NK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can bring dessert."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-11/4355481552918_c20cc133c7f8dc3dbc6a_72.jpg",
+      "first_name": "dahumada3",
+      "real_name": "dahumada3",
+      "display_name": "David",
+      "team": "T03NCJFKCV8",
+      "name": "dahumada3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0B61D0CF-3EC7-4010-B623-0384DA039DD2",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "\u003c@U02DD5VQLBV\u003e I might not be able to host or attend that week. I’ve got some appointments that I’ve got to take care of that week ",
+    "ts": "1673127487.295749",
+    "thread_ts": "1673121812.622529",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "sad_pepe",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jw1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " I might not be able to host or attend that week. "
+              },
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " got some appointments that "
+              },
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " got to take care of that week "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

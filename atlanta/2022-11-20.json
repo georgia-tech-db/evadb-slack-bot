@@ -1,0 +1,50 @@
+[
+  {
+    "client_msg_id": "f1e2fd14-06c3-4ba4-a266-2b18ff7ee1cd",
+    "type": "message",
+    "user": "U042SUUF3NY",
+    "text": "Ed Tech \u0026amp; Adv. Int. Sys",
+    "ts": "1668969440.109169",
+    "thread_ts": "1668549876.104889",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A=Dj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ed Tech \u0026 Adv. Int. Sys"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-06/4329577938899_02ed38fc846b71d0a83b_72.jpg",
+      "first_name": "Dominick",
+      "real_name": "Dominick Blue",
+      "display_name": "Dominick Blue",
+      "team": "T03NCJFKCV8",
+      "name": "jblue8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

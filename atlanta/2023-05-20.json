@@ -1,0 +1,310 @@
+[
+  {
+    "client_msg_id": "59AD8B9C-15AB-4CFC-AF7C-8A2BA34630FB",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@UDWBBD1HC\u003e are you going?! :)",
+    "ts": "1684573675.065909",
+    "thread_ts": "1684373952.148169",
+    "parent_user_id": "U02MANZL55F",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GrA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UDWBBD1HC"
+              },
+              {
+                "type": "text",
+                "text": " are you going?! :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "491316EC-98F2-48F5-A619-DEF5A35A3715",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Good morning my beautiful classmates!!!\n\nHappy weekend. \u003c!channel\u003e\n\nDid everyone get into the classes they wanted?? I hope so!!! It's week one in. :pray: \n\nTwo things:\n\n1. Please vote on the above for fruit picking in July!!! / I cannot make it but Sara is over qualified and I wish I was there!! ^^^\n2. Vote below on a virtual game day!! Just to touch base. I will throw us into CodeNames or another online game but just come up to say hi and laugh \nJune virtual game:\n\n :soccer: Sat June 3- 1pm-2pm/3 est \n:football: Sun June 25- 1pm-2pm/est (this might change to Sat I need to confirm I'm not on a bus to Paris) \n:basketball: both work!! \n:hear_no_evil: none work! Communication is better than none\n\nPlease vote!!! \nAnd if you want to see something you haven't message here or DM me:) \n\nPs. Anybody in europe this summer? :eyes:\n\nNo matter where you are, know you're loved!!!!\nCherie Lum",
+    "ts": "1684574329.145499",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "basketball",
+        "count": 2,
+        "users": [
+          "U01N1775WSU",
+          "U04185JLG8M"
+        ]
+      },
+      {
+        "name": "football",
+        "count": 1,
+        "users": [
+          "U01JYRB9DL2"
+        ]
+      },
+      {
+        "name": "soccer",
+        "count": 1,
+        "users": [
+          "U02UAQKR56C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z6VUZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good morning my beautiful classmates!!!\n\nHappy weekend. "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nDid everyone get into the classes they wanted?? I hope so!!! It's week one in. "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " \n\nTwo things:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Please vote on the above for fruit picking in July!!! \\/ I cannot make it but Sara is over qualified and I wish I was there!! ^^^\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Vote below on a virtual game day!! Just to touch base. I will throw us into CodeNames or another online game but just come up to say hi and laugh \"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nJune virtual game:\n\n "
+              },
+              {
+                "type": "emoji",
+                "name": "soccer",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Sat June 3- 1pm-2pm/3 est \n"
+              },
+              {
+                "type": "emoji",
+                "name": "football",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Sun June 25- 1pm-2pm/est (this might change to Sat I need to confirm I'm not on a bus to Paris) \n"
+              },
+              {
+                "type": "emoji",
+                "name": "basketball",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " both work!! \n"
+              },
+              {
+                "type": "emoji",
+                "name": "hear_no_evil",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " none work! Communication is better than none\n\nPlease vote!!! \nAnd if you want to see something you haven't message here or DM me:) \n\nPs. Anybody in europe this summer? "
+              },
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nNo matter where you are, know you're loved!!!!\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a1365266-64dd-4f86-b23e-8c985499c4d0",
+    "type": "message",
+    "user": "UDWBBD1HC",
+    "text": "Yes, my wife and I are going",
+    "ts": "1684586280.353539",
+    "thread_ts": "1684373952.148169",
+    "parent_user_id": "U02MANZL55F",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "party-blob",
+        "count": 1,
+        "users": [
+          "U02MANZL55F"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0SLb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes, my wife and I are going"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/8c0876629a676b199b4e06c082d58400.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "",
+      "real_name": "Thien Van",
+      "display_name": "",
+      "team": "T03NCJFKCV8",
+      "name": "tvan6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7ca6f7d0-0807-470f-88b7-9e9c09c3cbf9",
+    "type": "message",
+    "user": "U04JD403P7A",
+    "text": ":basketball:",
+    "ts": "1684597158.927709",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N/Bw8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "basketball",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-01-05/4602162006306_ff6bfcd23f996d182c1a_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Jolicoeur",
+      "display_name": "Ryan Jolicoeur",
+      "team": "T03NCJFKCV8",
+      "name": "rjolicoeur3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

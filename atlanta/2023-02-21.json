@@ -1,0 +1,70 @@
+[
+  {
+    "client_msg_id": "89a42587-9543-4bc9-b298-0e02a0aae1f4",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": ":drowning: DL reading/homework is holding me back:sob::disappointed::dizzy_face:",
+    "ts": "1677007585.012289",
+    "thread_ts": "1676866536.581039",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mam",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "drowning",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " DL reading/homework is holding me back"
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "dizzy_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

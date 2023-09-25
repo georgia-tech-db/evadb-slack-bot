@@ -1,0 +1,727 @@
+[
+  {
+    "client_msg_id": "a6ccdea6-7b2a-434e-98d9-9a3a74b757d5",
+    "type": "message",
+    "user": "U01SG18HJF4",
+    "text": "Oh I just posted about it there!",
+    "ts": "1665799885.831999",
+    "thread_ts": "1665777139.986719",
+    "parent_user_id": "U01SG18HJF4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ajM+j",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh I just posted about it there!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2019-01-03/516118637637_238d846fcf32a2c3ff82_72.png",
+      "first_name": "David",
+      "real_name": "David Joyner",
+      "display_name": "david.joyner",
+      "team": "T03NCJFKCV8",
+      "name": "david.joyner",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6E400B93-AA29-4FF0-9C68-2747C9F11B8B",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "Ok I just caught up on all the posts. It’s exciting to see a bunch of people are local in the program. I’m in my first semester in OMSCS and taking Computer Networks (anyone else?). \n\nA little more about me, I live up here on Lake Lanier with my family and dog. I enjoy hiking, roller skating (been a minute since Covid), board games, traveling. I was a Peace Corps volunteer in Panamá 2015-2017",
+    "ts": "1665804840.781689",
+    "thread_ts": "1665804840.781689",
+    "edited": {
+      "user": "U040WB5GXRV",
+      "ts": "1665805031.000000"
+    },
+    "reply_count": 13,
+    "replies": [
+      {
+        "user": "U040WGDCG07",
+        "ts": "1665857913.392379"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1665858857.185519"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1665880118.651229"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1665880163.777319"
+      },
+      {
+        "user": "U040WGDCG07",
+        "ts": "1665880181.286989"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1665880202.949319"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1665880218.520619"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1665880236.828959"
+      },
+      {
+        "user": "U040WGDCG07",
+        "ts": "1665880259.896709"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1665946834.859929"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1665946849.058349"
+      },
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1665947580.872589"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1665950143.780639"
+      }
+    ],
+    "latest_reply": "1665950143.780639",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FT/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok I just caught up on all the posts. It’s exciting to see a bunch of people are local in the program. I’m in my first semester in OMSCS and taking Computer Networks (anyone else?). \n\nA little more about me, I live up here on Lake Lanier with my family and dog. I enjoy hiking, roller skating (been a minute since Covid), board games, traveling. I was a Peace Corps volunteer in Panamá 2015-2017"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U040WB5GXRV",
+      "U040WGDCG07"
+    ]
+  },
+  {
+    "client_msg_id": "B0BB6228-B76E-46C0-A302-E6710F4E7763",
+    "type": "message",
+    "user": "U042SUUF3NY",
+    "text": "Looks like I came to town just in time:raised_hands::skin-tone-3:",
+    "ts": "1665805321.535929",
+    "thread_ts": "1665776972.009659",
+    "parent_user_id": "U01SG18HJF4",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TqCCO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looks"
+              },
+              {
+                "type": "text",
+                "text": " like "
+              },
+              {
+                "type": "text",
+                "text": "I came to town just in time"
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-06/4329577938899_02ed38fc846b71d0a83b_72.jpg",
+      "first_name": "Dominick",
+      "real_name": "Dominick Blue",
+      "display_name": "Dominick Blue",
+      "team": "T03NCJFKCV8",
+      "name": "jblue8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "33b463e6-907c-497a-b01c-e907f4d3068a",
+    "type": "message",
+    "user": "U041AU4QN4S",
+    "text": "And just like that, everyone realized they were missing out on the Slack channel.",
+    "ts": "1665833160.674399",
+    "thread_ts": "1665776972.009659",
+    "parent_user_id": "U01SG18HJF4",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U042SUUF3NY"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JZVc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And just like that, everyone realized they were missing out on the Slack channel."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-15/4229427398340_6f85a2617464b3db513c_72.jpg",
+      "first_name": "petetheo",
+      "real_name": "petetheo",
+      "display_name": "petetheo",
+      "team": "T03NCJFKCV8",
+      "name": "petetheo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0fe725ce-1946-4de2-a3d4-a8db36699a0a",
+    "type": "message",
+    "user": "U041AU4QN4S",
+    "text": "So this is where all the cool kids are hanging out?",
+    "ts": "1665833277.400859",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QDzht",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So this is where all the cool kids are hanging out?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-15/4229427398340_6f85a2617464b3db513c_72.jpg",
+      "first_name": "petetheo",
+      "real_name": "petetheo",
+      "display_name": "petetheo",
+      "team": "T03NCJFKCV8",
+      "name": "petetheo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1f31c0ee-b01d-4d5a-83cc-b23972736f0e",
+    "type": "message",
+    "user": "U041AU4QN4S",
+    "text": "I live in Marietta and work in Smyrna. I have zero friends, so I'm always cool with meeting up.",
+    "ts": "1665833330.363789",
+    "thread_ts": "1665833330.363789",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1665869825.748829"
+      },
+      {
+        "user": "U041AU4QN4S",
+        "ts": "1665869851.894529"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1665883009.262529"
+      }
+    ],
+    "latest_reply": "1665883009.262529",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "laughing",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zX/My",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I live in Marietta and work in Smyrna. I have zero friends, so I'm always cool with meeting up."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-15/4229427398340_6f85a2617464b3db513c_72.jpg",
+      "first_name": "petetheo",
+      "real_name": "petetheo",
+      "display_name": "petetheo",
+      "team": "T03NCJFKCV8",
+      "name": "petetheo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U03UM07E4D8",
+      "U041AU4QN4S"
+    ]
+  },
+  {
+    "client_msg_id": "f5b07a36-454b-4cbf-a9d9-5e5e31f51e1a",
+    "type": "message",
+    "user": "U042SUUF3NY",
+    "text": "I realize I never introduced myself yesterday.\n\nI don't actually live in the ATL area. I'm from Raleigh, NC. This is my first time coming to the ATL area!",
+    "ts": "1665843653.292179",
+    "thread_ts": "1665843653.292179",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1665881869.488069"
+      },
+      {
+        "user": "U042SUUF3NY",
+        "ts": "1665931971.336709"
+      }
+    ],
+    "latest_reply": "1665931971.336709",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "wave",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U040WB5GXRV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C8m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I realize I never introduced myself yesterday.\n\nI don't actually live in the ATL area. I'm from Raleigh, NC. This is my first time coming to the ATL area!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-06/4329577938899_02ed38fc846b71d0a83b_72.jpg",
+      "first_name": "Dominick",
+      "real_name": "Dominick Blue",
+      "display_name": "Dominick Blue",
+      "team": "T03NCJFKCV8",
+      "name": "jblue8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U042SUUF3NY"
+    ]
+  },
+  {
+    "client_msg_id": "d5c66ffb-af50-4c30-832e-8eb6c02f3037",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "How much will top golf cost?",
+    "ts": "1665850761.756349",
+    "thread_ts": "1665758694.330819",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+a5Xc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How much will top golf cost?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2bf432ec-9cce-41ec-b81e-d9c21b00c35c",
+    "type": "message",
+    "user": "U040WGDCG07",
+    "text": "Heyo, I'm also in CN",
+    "ts": "1665857913.392379",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HH45Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Heyo, I'm also in CN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-06/4045038326323_e7a3108aa8756676643e_72.png",
+      "first_name": "Reed",
+      "real_name": "Reed Morris",
+      "display_name": "Reed",
+      "team": "T03NCJFKCV8",
+      "name": "mreed40",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f905be5d-e5cd-42f7-863e-6ed6eb0e2fd6",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "ohhh Panama is very beautiful",
+    "ts": "1665858857.185519",
+    "thread_ts": "1665804840.781689",
+    "parent_user_id": "U040WB5GXRV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pfy9C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ohhh Panama is very beautiful"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d8cc407f-adde-4b8f-8e63-0f2a85cf8dd4",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "You are a mean without clusters?!\nWorry not, we will be your clusters :grin:",
+    "ts": "1665869825.748829",
+    "thread_ts": "1665833330.363789",
+    "parent_user_id": "U041AU4QN4S",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U041AU4QN4S"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KQD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You are a mean without clusters?!\nWorry not, we will be your clusters "
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6e078173-3228-4539-9659-27f47232e6e5",
+    "type": "message",
+    "user": "U041AU4QN4S",
+    "text": "Haha! I love it!",
+    "ts": "1665869851.894529",
+    "thread_ts": "1665833330.363789",
+    "parent_user_id": "U041AU4QN4S",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/rq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Haha! I love it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-15/4229427398340_6f85a2617464b3db513c_72.jpg",
+      "first_name": "petetheo",
+      "real_name": "petetheo",
+      "display_name": "petetheo",
+      "team": "T03NCJFKCV8",
+      "name": "petetheo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,861 @@
+[
+  {
+    "client_msg_id": "cbe776c2-b4e6-456c-b4b7-e9eb839d41a8",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "I have a 50L bag I always carry with me lol. I'm pretty noob at hiking xD but I'm very enthusiastic and prepared :v: :)",
+    "ts": "1670237397.489139",
+    "thread_ts": "1669862927.304769",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3LyvI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have a 50L bag I always carry with me lol. I'm pretty noob at hiking xD but I'm very enthusiastic and prepared "
+              },
+              {
+                "type": "emoji",
+                "name": "v",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2a0a6d4c-6027-4736-a0c1-251b8fd73255",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "I think we'll carry \u003c@U8QDSG1G9\u003e lol, wouldn't want to miss his energy during the hike :)",
+    "ts": "1670237472.222389",
+    "thread_ts": "1669862927.304769",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n=ka",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think we'll carry "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " lol, wouldn't want to miss his energy during the hike :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fe0eb884-010a-45e6-806a-24fc9ecc9d41",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Excited that the long and tough semester is ending in a few days :relieved:\n\nLooking forward to the events with y'all.",
+    "ts": "1670237848.695139",
+    "thread_ts": "1670082869.583669",
+    "edited": {
+      "user": "U02BQJX5TB8",
+      "ts": "1670237912.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L3k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Excited that the long and tough semester is ending in a few days "
+              },
+              {
+                "type": "emoji",
+                "name": "relieved",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nLooking forward to the events with y'all."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a9239963-a6af-417a-9aeb-4457b3188b7b",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Also, \u003c@U02DD5VQLBV\u003e I think you missed adding Jeanette's +1 to the hiking event :)",
+    "ts": "1670237964.253409",
+    "thread_ts": "1670082869.583669",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WoZR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also, "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " I think you missed adding Jeanette's +1 to the hiking event :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c29a77ad-ee37-408b-ae93-fb1dfbf7c544",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "\u003c@U03UM07E4D8\u003e said we could hike after 13th, any particular dates when those that opted to go would be down to hike? Also, have any suggestions for hiking locations? \nSince we're going to the escape room on 17th, we'll skip that date.\n\nI don't mind week days, but we'll go on a date when most people can make it :)",
+    "ts": "1670240294.809299",
+    "thread_ts": "1670240294.809299",
+    "edited": {
+      "user": "U02BQJX5TB8",
+      "ts": "1670240364.000000"
+    },
+    "reply_count": 15,
+    "replies": [
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1670292509.665839"
+      },
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1670293196.057529"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1670293302.484449"
+      },
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1670293491.762749"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1670295591.946759"
+      },
+      {
+        "user": "UJM8GC35H",
+        "ts": "1670296275.864309"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1670297500.457489"
+      },
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1670302113.923029"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1670469160.854629"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1670469180.364479"
+      },
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1670588425.993139"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1671064597.551229"
+      },
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1671102970.779539"
+      },
+      {
+        "user": "U041RUXVB97",
+        "ts": "1671232733.209869"
+      },
+      {
+        "user": "U041RUXVB97",
+        "ts": "1671232821.449109"
+      }
+    ],
+    "latest_reply": "1671232821.449109",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MzEc/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "text",
+                "text": " said we could hike after 13th, any particular dates when those that opted to go would be down to hike? Also, have any suggestions for hiking locations? \nSince we're going to the escape room on 17th, we'll skip that date.\n\nI don't mind week days, but we'll go on a date when most people can make it :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 7,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U02BQJX5TB8",
+      "U02MANZL55F",
+      "U03UM07E4D8",
+      "U040V1EQYMS",
+      "U041RUXVB97",
+      "UJM8GC35H"
+    ]
+  },
+  {
+    "client_msg_id": "97C90978-CC1F-4D8E-BB95-FBD3BE00199B",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Come on guys - how is climbing up a mountain fun? The most fun thing to do is sleep in and eat ",
+    "ts": "1670244890.856939",
+    "thread_ts": "1669862927.304769",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "pizza",
+        "count": 1,
+        "users": [
+          "U02UAQKR56C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0jpV3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Come on guys - how is climbing up a mountain fun? The most fun thing to do is sleep in and eat "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E19EB236-425D-45BD-8015-53192AEAB0D7",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U02BQJX5TB8\u003e I didn't forget I just add him when I'm making final posts reminders ",
+    "ts": "1670247791.514179",
+    "thread_ts": "1670082869.583669",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02BQJX5TB8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dJgGR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02BQJX5TB8"
+              },
+              {
+                "type": "text",
+                "text": " I didn't forget I just add him when I'm making final posts reminders "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "14386b5e-c45a-44b4-a97c-c947434273dd",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "upvote sleep, upvote eat, and upvote hiking so we sleep and eat more again after a great hike :slightly_smiling_face:",
+    "ts": "1670256777.983769",
+    "thread_ts": "1669862927.304769",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ngi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "upvote sleep, upvote eat, and upvote hiking so we sleep and eat more again after a great hike "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b2a9010d-0adf-4ed1-8fb2-33a2eb2458ce",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "We'll eat at your choice of place \u003c@U8QDSG1G9\u003e after the hike, we'll even go hiking on a flat terrain",
+    "ts": "1670266845.018139",
+    "thread_ts": "1669862927.304769",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oBMCc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We'll eat at your choice of place "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " after the hike, we'll even go hiking on a flat terrain"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f4c57d22-f30f-4e8c-8d68-bb30ee0deccd",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Cool cool :)",
+    "ts": "1670266868.702309",
+    "thread_ts": "1670082869.583669",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dpy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cool cool :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CC5A4820-C749-4D43-BFD1-068ACFF5A9EA",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "How about I pick you guys up, drop you off at the hike, and meet you for lunch ",
+    "ts": "1670271843.298069",
+    "thread_ts": "1669862927.304769",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qOK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How about I pick you guys up, drop you off at the hike, and meet you for lunch "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "73026b55-5f07-45b7-b2e4-81f26a786c6e",
+    "type": "message",
+    "user": "U041137874P",
+    "text": "Hi! When and where is the ML networking event? was it on a newsletter somewhere?",
+    "ts": "1670279300.374599",
+    "thread_ts": "1670082869.583669",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YWtiX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi! When and where is the ML networking event? was it on a newsletter somewhere?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-28/4434256444467_37b67b94498643b4424a_72.jpg",
+      "first_name": "Anush",
+      "real_name": "Anush Mattapalli",
+      "display_name": "Anush",
+      "team": "T03NCJFKCV8",
+      "name": "amattapalli3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b84164f7-f520-4a95-a602-2edc54695b84",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U02L4D90KD0\u003e\u0026gt;\u0026gt; RE: Anush",
+    "ts": "1670281167.186629",
+    "thread_ts": "1670082869.583669",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zVvw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02L4D90KD0"
+              },
+              {
+                "type": "text",
+                "text": "\u003e\u003e RE: Anush"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ffe0e077-64a5-4e69-978e-206fc4151ae9",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "From ML@GT: Hi everyone JUST A REMINDER THAT OUR END OF SEMESTER GET TOGETHER IS TOMORROW AT 2pm in the 9th floor Atrium of CODA!\n\nLOOKING FORWARD TO SEEING EVERYONE THERE!!!",
+    "ts": "1670281782.587959",
+    "thread_ts": "1670082869.583669",
+    "edited": {
+      "user": "U02BQJX5TB8",
+      "ts": "1670281793.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "card_machine",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aAR4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "From ML@GT: Hi everyone JUST A REMINDER THAT OUR END OF SEMESTER GET TOGETHER IS TOMORROW AT 2pm in the 9th floor Atrium of CODA!\n\nLOOKING FORWARD TO SEEING EVERYONE THERE!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

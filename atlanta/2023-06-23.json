@@ -1,0 +1,52 @@
+[
+  {
+    "client_msg_id": "245d3a22-c95c-48c2-85d4-3bc09fbf1e2a",
+    "type": "message",
+    "user": "U04J4PZM4KE",
+    "text": "Hi all, I noticed a lot of folks here work for GTRI. I was wondering if anyone works specifically in the CHAI within ICL and, if so, would love to hear about your experience! I'll be in Atlanta next semester and was super interested in applying to that lab.",
+    "ts": "1687562602.550689",
+    "edited": {
+      "user": "U04J4PZM4KE",
+      "ts": "1687562623.000000"
+    },
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oCi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all, I noticed a lot of folks here work for GTRI. I was wondering if anyone works specifically in the CHAI within ICL and, if so, would love to hear about your experience! I'll be in Atlanta next semester and was super interested in applying to that lab."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/de2658d692bdf76b6eb242c8438be3f0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "jjun44",
+      "real_name": "jjun44",
+      "display_name": "jjun44",
+      "team": "T03NCJFKCV8",
+      "name": "jjun44",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

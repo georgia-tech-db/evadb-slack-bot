@@ -1,0 +1,668 @@
+[
+  {
+    "client_msg_id": "4bfd38a4-19cc-4254-abfc-43eeb87682f7",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "I wish but I will be out of town",
+    "ts": "1680232252.041019",
+    "thread_ts": "1680192478.170849",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "car",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lMnze",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wish but I will be out of town"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "64dd9405-d4c9-45ab-a41b-3e7077b7288c",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I might!",
+    "ts": "1680237391.259659",
+    "thread_ts": "1680192478.170849",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8zQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I might!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8056ff14-e963-4b71-b9c3-0cdf3c60ff33",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "We can do lunch...there is discount for grad student this week:grin:",
+    "ts": "1680269512.497979",
+    "thread_ts": "1680192478.170849",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hbcg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We can do lunch...there is discount for grad student this week"
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fcef9be8-4b59-43ce-99e0-500862e62f83",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I probably won’t eat due to ramadan but I’ll join you!",
+    "ts": "1680271696.331649",
+    "thread_ts": "1680192478.170849",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rV3vk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I probably won’t eat due to ramadan but I’ll join you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a3160382-c7f4-4e04-a769-820666b123ca",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "I'm taking next Friday off to appreciate myself as a grad student and get my profession headshot:joy:\n--\nyes I kept my head above the DL homework water:smiling_face_with_tear:",
+    "ts": "1680273897.062679",
+    "thread_ts": "1680192478.170849",
+    "edited": {
+      "user": "U03UM07E4D8",
+      "ts": "1680273931.000000"
+    },
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U02UAQKR56C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p1Uo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm taking next Friday off to appreciate myself as a grad student and get my profession headshot"
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n--\nyes I kept my head above the DL homework water"
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fe12b34a-7004-4fab-a384-64355bd27559",
+    "type": "message",
+    "user": "U041S3WQKND",
+    "text": "Happy Friday everyone!  We are still looking for a number of people to come out an run/walk/jog the GA Tech Pi Race on April 22.  The largest team gets an award!  :athletic_shoe:April 22- Pi Race (sign up \u003chttps://www.gtalumni.org/s/1481/alumni/17/magazine-pages.aspx?sid=1481\u0026amp;gid=21\u0026amp;pgid=7999|here\u003e). When you sign up _group name is_ *OMSCS ATL.*  Registering also provides you the opportunity to optionally give to GT's Roll Call.  Atlanta is often referred to as Running City USA so let's show our collective yellowjacket spirit.  Plus it is a great opportunity to get out and be active for a bit.",
+    "ts": "1680274217.779849",
+    "thread_ts": "1680274217.779849",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U01N1775WSU",
+        "ts": "1680289791.059769"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680368572.345319"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680368581.900619"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1680369079.739289"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682032155.760079"
+      }
+    ],
+    "latest_reply": "1682032155.760079",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TZF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy Friday everyone!  We are still looking for a number of people to come out an run/walk/jog the GA Tech Pi Race on April 22.  The largest team gets an award!  "
+              },
+              {
+                "type": "emoji",
+                "name": "athletic_shoe",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "April 22- Pi Race (sign up "
+              },
+              {
+                "type": "link",
+                "url": "https://www.gtalumni.org/s/1481/alumni/17/magazine-pages.aspx?sid=1481\u0026gid=21\u0026pgid=7999",
+                "text": "here"
+              },
+              {
+                "type": "text",
+                "text": "). When you sign up "
+              },
+              {
+                "type": "text",
+                "text": "group name is",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "OMSCS ATL.  ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "Registering also provides you the opportunity to optionally give to GT's Roll Call.  Atlanta is often referred to as Running City USA so let's show our collective yellowjacket spirit.  Plus it is a great opportunity to get out and be active for a bit."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-03-13/4956423528673_071c91af5db0c021ae8f_72.jpg",
+      "first_name": "L.",
+      "real_name": "L. A. Renoll, Jr. '17",
+      "display_name": "lrenoll",
+      "team": "T03NCJFKCV8",
+      "name": "lrenoll",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02DD5VQLBV"
+    ]
+  },
+  {
+    "client_msg_id": "1fada75f-3e83-47eb-990e-9ca7de9d756e",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "^ \u003c!channel\u003e let’s ruuuuuuuun together, or jog, or walk!! It’s only 3.14KMs :slightly_smiling_face:",
+    "ts": "1680277801.283589",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8G5r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "^ "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " let’s ruuuuuuuun together, or jog, or walk!! It’s only 3.14KMs "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ED3DC2BA-50CB-41D5-99D9-2985067063E7",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "I may join! ",
+    "ts": "1680279549.445709",
+    "thread_ts": "1680192478.170849",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "clapping-156",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7PY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I may join! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4f06cfcc-2e16-49c0-9bfc-861ba2528f71",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U040WB5GXRV\u003e please do! It would be great to see you again!",
+    "ts": "1680287588.416259",
+    "thread_ts": "1680192478.170849",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LAsi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U040WB5GXRV"
+              },
+              {
+                "type": "text",
+                "text": " please do! It would be great to see you again!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c144148-c910-422a-949b-663a25266585",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Thanks for the reminder! Just signed up! I'm going virtual though, since it might fall on Eid/I may be out of town.",
+    "ts": "1680289791.059769",
+    "thread_ts": "1680274217.779849",
+    "parent_user_id": "U041S3WQKND",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "thumbsup_all",
+        "count": 1,
+        "users": [
+          "U041S3WQKND"
+        ]
+      },
+      {
+        "name": "espeon_run",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+5yO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks for the reminder! Just signed up! I'm going virtual though, since it might fall on Eid/I may be out of town."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

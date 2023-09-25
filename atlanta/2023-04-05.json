@@ -1,0 +1,465 @@
+[
+  {
+    "client_msg_id": "90f4f534-f192-42ab-9125-e9a03887a39f",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Anybody on campus tomorrow? I’ll be on there in the AM! There’s also zumba….at 10:30 or 11.",
+    "ts": "1680663463.851959",
+    "thread_ts": "1680477702.615399",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XTqnP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anybody on campus tomorrow? I’ll be on there in the AM! There’s also zumba….at 10:30 or 11."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "32296fcc-73f7-4e67-8a71-c2ff689ed89c",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "Hello Atlanta community! We are looking for volunteers for the OMSCS Inaugural Conference to help us make this event a success.  As a volunteer, you will be responsible for various tasks such as helping us set up, assisting with registration, helping answer questions attendee might have, and assisting with audio-visual equipment. You will also have the opportunity to meet and network with OMSCS faculty and staff, companies in the mini career, and fellow student and alumni.\n\nIf you are interested in volunteering for the OMSCS Inaugural Conference, please fill out this survey: \u003chttps://gatech.co1.qualtrics.com/jfe/form/SV_6LKdFHITjTH2DvE\u003e",
+    "ts": "1680707791.529039",
+    "thread_ts": "1680707791.529039",
+    "attachments": [
+      {
+        "fallback": "OMSCS Conference Volunteer Form",
+        "id": 1,
+        "title": "OMSCS Conference Volunteer Form",
+        "title_link": "https://gatech.co1.qualtrics.com/jfe/form/SV_6LKdFHITjTH2DvE",
+        "text": "Volunteer form for the 2023 OMSCS Conference",
+        "service_name": "gatech.co1.qualtrics.com",
+        "service_icon": "https://gatech.co1.qualtrics.com/brand-management/apple-touch-icon",
+        "from_url": "https://gatech.co1.qualtrics.com/jfe/form/SV_6LKdFHITjTH2DvE",
+        "original_url": "https://gatech.co1.qualtrics.com/jfe/form/SV_6LKdFHITjTH2DvE",
+        "blocks": null
+      }
+    ],
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1680714674.422759"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1680715411.407799"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1680715720.050409"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1680715945.261599"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1680752755.228029"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680808588.474579"
+      }
+    ],
+    "latest_reply": "1680808588.474579",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=97+k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Atlanta community! We are looking for volunteers for the OMSCS Inaugural Conference to help us make this event a success.  As a volunteer, you will be responsible for various tasks such as helping us set up, assisting with registration, helping answer questions attendee might have, and assisting with audio-visual equipment. You will also have the opportunity to meet and network with OMSCS faculty and staff, companies in the mini career, and fellow student and alumni.\n\nIf you are interested in volunteering for the OMSCS Inaugural Conference, please fill out this survey: "
+              },
+              {
+                "type": "link",
+                "url": "https://gatech.co1.qualtrics.com/jfe/form/SV_6LKdFHITjTH2DvE",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02DD5VQLBV",
+      "U02EYBE4QNA",
+      "U03UM07E4D8"
+    ]
+  },
+  {
+    "client_msg_id": "3fdc0e65-09c7-404d-a12e-7d42432b6b38",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "Just realized that the conference on 5/4 ends 2 PM. ..another reason to take a day off from work to enjoy OMSCS conference:grin:",
+    "ts": "1680714674.422759",
+    "thread_ts": "1680707791.529039",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "smile",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gSZN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just realized that the conference on 5/4 ends 2 PM. ..another reason to take a day off from work to enjoy OMSCS conference"
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cbe3cd1a-d3de-40c1-bffa-c5b518fc78b9",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "Oh, on Friday, I will check out \"the lunar sample is now on display on the Grove-level of the Price Gilbert Library\" for sure.",
+    "ts": "1680715148.420809",
+    "thread_ts": "1680192478.170849",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pV+N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, on Friday, I will check out \"the lunar sample is now on display on the Grove-level of the Price Gilbert Library\" for sure."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a1567402-3f1c-4512-923a-b621faabdf8e",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "And a campus photo tour led by Dr. Joyner after if you want to join! :smile:",
+    "ts": "1680715411.407799",
+    "thread_ts": "1680707791.529039",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PyP1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And a campus photo tour led by Dr. Joyner after if you want to join! "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0a89928f-4575-4917-a228-724c56c8a310",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "That would be lovely! Solid definitely yes for me (let me put it that PTO request :slightly_smiling_face:",
+    "ts": "1680715720.050409",
+    "thread_ts": "1680707791.529039",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "smile",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qjh6+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That would be lovely! Solid definitely yes for me (let me put it that PTO request "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "56bf499e-582f-4cca-b749-0c325337de7d",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "Looking forward to having you there!",
+    "ts": "1680715945.261599",
+    "thread_ts": "1680707791.529039",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "smiling_face_with_3_hearts",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/bIS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looking forward to having you there!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

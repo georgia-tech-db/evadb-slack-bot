@@ -1,0 +1,168 @@
+[
+  {
+    "client_msg_id": "3C0EB519-171D-4A6B-BCB0-B8ECDAE86A37",
+    "type": "message",
+    "user": "U040XQFU7A5",
+    "text": "I’m going too! Just dropped my suit off at the dry cleaners",
+    "ts": "1674834906.562799",
+    "thread_ts": "1674754028.818789",
+    "parent_user_id": "U01N1775WSU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g2Xy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m going too"
+              },
+              {
+                "type": "text",
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "text": " Just dropped my suit off at the dry cleaners"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-31/4019449241203_151d6fb129d579f03684_72.jpg",
+      "first_name": "Brandon",
+      "real_name": "Brandon Conner",
+      "display_name": "Brandon",
+      "team": "T03NCJFKCV8",
+      "name": "bconner6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f1d18735-a511-46c9-8cfc-8c04a9b5e2ff",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Nice :sunglasses: hope to see you there!",
+    "ts": "1674836216.611199",
+    "thread_ts": "1674754028.818789",
+    "parent_user_id": "U01N1775WSU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s8CFk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice "
+              },
+              {
+                "type": "emoji",
+                "name": "sunglasses",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " hope to see you there!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7e534816-ee65-46b9-a5a9-fb9dc647fc8f",
+    "type": "message",
+    "user": "U041DBXGPC4",
+    "text": "I'll check it out :+1:",
+    "ts": "1674854074.056819",
+    "thread_ts": "1674754028.818789",
+    "parent_user_id": "U01N1775WSU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BUl=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll check it out "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-11/4355481552918_c20cc133c7f8dc3dbc6a_72.jpg",
+      "first_name": "dahumada3",
+      "real_name": "dahumada3",
+      "display_name": "David",
+      "team": "T03NCJFKCV8",
+      "name": "dahumada3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

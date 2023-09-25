@@ -1,0 +1,294 @@
+[
+  {
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "\u003c@U040V1EQYMS\u003e has joined the channel",
+    "ts": "1662079339.535779",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "94c81022-64e5-4535-941e-6d2479c49d7f",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "Name: Cody Goss.\n\nAbout Me: I started OMSCS this Fall 2022. I haven't picked a specialization just yet. Still thinking...\n\nInteresting Fact: I am a certified tea sommelier.\n\n~ I hope to get some folks together to get to know you guys better. I am in marietta but can drive to ATL no problem.",
+    "ts": "1662079881.449559",
+    "thread_ts": "1662079881.449559",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U040XQFU7A5",
+        "ts": "1662086092.235759"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1662484241.054399"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1662484340.619889"
+      }
+    ],
+    "latest_reply": "1662484340.619889",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 3,
+        "users": [
+          "U02DD5VQLBV",
+          "U041DBXNDLL",
+          "U041RUTKBG9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OUJN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Name: Cody Goss.\n\nAbout Me: I started OMSCS this Fall 2022. I haven't picked a specialization just yet. Still thinking...\n\nInteresting Fact: I am a certified tea sommelier.\n\n~ I hope to get some folks together to get to know you guys better. I am in marietta but can drive to ATL no problem."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U040V1EQYMS",
+      "U040XQFU7A5"
+    ]
+  },
+  {
+    "client_msg_id": "F688F4F9-9E56-42D2-AF81-8504E23A2094",
+    "type": "message",
+    "user": "U040XQFU7A5",
+    "text": "I think it’s mainly undergrads, but they also have options for people with more experience or knowledge in ML. You can either choose to do guided workshops or work on one of the handful of projects they kick off each semester. Next Tuesday is when they’re ideating projects, so if you have something you want to work on I’d go then!",
+    "ts": "1662085911.832259",
+    "thread_ts": "1661980557.063719",
+    "parent_user_id": "U040XQFU7A5",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02L4D90KD0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S7e3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think it’s mainly undergrads"
+              },
+              {
+                "type": "text",
+                "text": ","
+              },
+              {
+                "type": "text",
+                "text": " but they also have options for people with more experience or knowledge in ML. You can either choose to do guided workshops or work on one of the handful of projects they kick off each semester. Next Tuesday is when "
+              },
+              {
+                "type": "text",
+                "text": "they’re"
+              },
+              {
+                "type": "text",
+                "text": " ideating projects, so if you have something you want to work on "
+              },
+              {
+                "type": "text",
+                "text": "I’d"
+              },
+              {
+                "type": "text",
+                "text": " go then!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-31/4019449241203_151d6fb129d579f03684_72.jpg",
+      "first_name": "Brandon",
+      "real_name": "Brandon Conner",
+      "display_name": "Brandon",
+      "team": "T03NCJFKCV8",
+      "name": "bconner6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "91C9B09E-F5DB-4FA1-9C15-B3C7A224DE4D",
+    "type": "message",
+    "user": "U040XQFU7A5",
+    "text": "It sounded really interesting. I think it will be a good survey of different ML topics before i take there actual courses. It seems well run and active",
+    "ts": "1662086025.806779",
+    "thread_ts": "1661980557.063719",
+    "parent_user_id": "U040XQFU7A5",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02L4D90KD0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TDPPD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It sounded really interesting. I think it will be a good survey of different ML topics before i take there actual courses. It seems well run and active"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-31/4019449241203_151d6fb129d579f03684_72.jpg",
+      "first_name": "Brandon",
+      "real_name": "Brandon Conner",
+      "display_name": "Brandon",
+      "team": "T03NCJFKCV8",
+      "name": "bconner6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "00BA47F2-1ECA-42ED-A606-8408E329798D",
+    "type": "message",
+    "user": "U040XQFU7A5",
+    "text": "That’s an awesome fact. Do you recommend any tea houses in atlanta?",
+    "ts": "1662086092.235759",
+    "thread_ts": "1662079881.449559",
+    "parent_user_id": "U040V1EQYMS",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mmPgh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That’s an awesome fact. Do you recommend any tea houses in atlanta?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-31/4019449241203_151d6fb129d579f03684_72.jpg",
+      "first_name": "Brandon",
+      "real_name": "Brandon Conner",
+      "display_name": "Brandon",
+      "team": "T03NCJFKCV8",
+      "name": "bconner6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

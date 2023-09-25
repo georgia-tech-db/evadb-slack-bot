@@ -1,0 +1,591 @@
+[
+  {
+    "client_msg_id": "c1e56141-5144-4e43-b744-e096d6f881f1",
+    "type": "message",
+    "user": "U05M2AXBH3P",
+    "text": "Hi guys has anyone here taken GameAI by any chance? I keep getting lower points from thresh-hold but can’t figure out what am i missing since autograder won’t show tests unless it’s higher than 60 points. I could share with anyone if you guys could peek at my implementation of Grid Lattice, CreateGrid class.",
+    "ts": "1694481018.603899",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ghuz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys has anyone here taken GameAI by any chance? I keep getting lower points from thresh-hold but can’t figure out what am i missing since autograder won’t show tests unless it’s higher than 60 points. I could share with anyone if you guys could peek at my implementation of Grid Lattice, CreateGrid class."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/03998db8b73180e2115035e35ef22d73.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "adzhapashov3",
+      "real_name": "adzhapashov3",
+      "display_name": "adzhapashov3",
+      "team": "T03NCJFKCV8",
+      "name": "adzhapashov3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "93F42014-BF33-4099-BBAF-8961D917BBD7",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello beautiful people,\n\u003c!channel\u003e\n\nThrowing some ideas out for October and November that I heard on the last few trips to put up for up-coming months\n\n1. Camping on a beach for a weekend (ie st simon's island)- October? :one:\n2. Botanical gardens - October? :two:\n3. oakhurst porchfest October 14 \u003chttps://www.oakhurstporchfest.org|https://www.oakhurstporchfest.org\u003e :three:\n4. Indian buffet \u003chttp://www.viceroyindiandining.com/|http://www.viceroyindiandining.com/\u003e -October :four:\n5. Go karting- October? :five:\n6. Good with any October event :six:\n7. Chomp and stomp Chili festival Nov 4 \u003chttps://chompandstomp.com|https://chompandstomp.com\u003e :seven:\n8. Grab some dimsum- November :eight:\n9. Jeju sauna + kbbq afterwards - mid November celebrate thanksgiving and Christmas :nine:\n10. Good with any November eventl!! :keycap_ten:\nChoose an October preference and a November preference! Chose more than one event if you plan to go to more than one+ events or an ALL if you're flexible but plan to join just one event chosen by majority. Match your preference with the emoji number!\n\nThen we'll decide dates and times:) \n\nDecember will be off month or taking applications for someone to host! \n\nPs have a great career week to those going!! \n\nTalk to y'all soon from Texas, \nCherie Lum \n",
+    "ts": "1694523384.641929",
+    "thread_ts": "1694523384.641929",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1694532476.000000"
+    },
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1694529552.078519"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1694531314.826909"
+      }
+    ],
+    "latest_reply": "1694531314.826909",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "three",
+        "count": 3,
+        "users": [
+          "U01JSN2M9JP",
+          "U040WB5GXRV",
+          "U041DBXGPC4"
+        ]
+      },
+      {
+        "name": "two",
+        "count": 4,
+        "users": [
+          "U05N551A3RD",
+          "U04JTFXHEUB",
+          "U040B1UERRB",
+          "U04185JLG8M"
+        ]
+      },
+      {
+        "name": "eight",
+        "count": 4,
+        "users": [
+          "U05N551A3RD",
+          "U040B1UERRB",
+          "U042H5EAPJL",
+          "U04185JLG8M"
+        ]
+      },
+      {
+        "name": "nine",
+        "count": 7,
+        "users": [
+          "U05N551A3RD",
+          "U03UM07E4D8",
+          "U040V1EQYMS",
+          "U041DBXGPC4",
+          "U02BQJX5TB8",
+          "U040WB5GXRV",
+          "U04185JLG8M"
+        ]
+      },
+      {
+        "name": "six",
+        "count": 1,
+        "users": [
+          "U02UAQKR56C"
+        ]
+      },
+      {
+        "name": "four",
+        "count": 1,
+        "users": [
+          "U02BQJX5TB8"
+        ]
+      },
+      {
+        "name": "one",
+        "count": 2,
+        "users": [
+          "U040WB5GXRV",
+          "U04185JLG8M"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QrjV8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello beautiful people,\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nThrowing some ideas out for October and November that I heard on the last few trips to put up for up-coming months\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Camping on a beach for a weekend (ie st simon's island)- October? \"},{\"type\":\"emoji\",\"name\":\"one\",\"unicode\":\"0031-fe0f-20e3\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Botanical gardens - October? \"},{\"type\":\"emoji\",\"name\":\"two\",\"unicode\":\"0032-fe0f-20e3\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"oakhurst porchfest October 14 \"},{\"type\":\"link\",\"url\":\"https:\\/\\/www.oakhurstporchfest.org\",\"text\":\"https:\\/\\/www.oakhurstporchfest.org\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"emoji\",\"name\":\"three\",\"unicode\":\"0033-fe0f-20e3\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Indian buffet \"},{\"type\":\"link\",\"url\":\"http:\\/\\/www.viceroyindiandining.com\\/\",\"text\":\"http:\\/\\/www.viceroyindiandining.com\\/\"},{\"type\":\"text\",\"text\":\" -October \"},{\"type\":\"emoji\",\"name\":\"four\",\"unicode\":\"0034-fe0f-20e3\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Go karting- October? \"},{\"type\":\"emoji\",\"name\":\"five\",\"unicode\":\"0035-fe0f-20e3\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Good with any October event \"},{\"type\":\"emoji\",\"name\":\"six\",\"unicode\":\"0036-fe0f-20e3\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Chomp and stomp Chili festival Nov 4 \"},{\"type\":\"link\",\"url\":\"https:\\/\\/chompandstomp.com\",\"text\":\"https:\\/\\/chompandstomp.com\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"emoji\",\"name\":\"seven\",\"unicode\":\"0037-fe0f-20e3\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Grab some dimsum- November \"},{\"type\":\"emoji\",\"name\":\"eight\",\"unicode\":\"0038-fe0f-20e3\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Jeju sauna + kbbq afterwards - mid November celebrate thanksgiving and Christmas \"},{\"type\":\"emoji\",\"name\":\"nine\",\"unicode\":\"0039-fe0f-20e3\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Good with any November eventl!! \"},{\"type\":\"emoji\",\"name\":\"keycap_ten\",\"unicode\":\"1f51f\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nChoose an October preference and a November preference! Chose more than one event if you plan to go to more than one+ events or an ALL if you're flexible but plan to join just one event chosen by majority. Match your preference with the emoji number!\n\nThen we'll decide dates and times:) \n\nDecember will be off month or taking applications for someone to host! \n\nPs have a great career week to those going!! \n\nTalk to y'all soon from Texas, \nCherie Lum \n"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U03UM07E4D8"
+    ]
+  },
+  {
+    "client_msg_id": "3F101AC6-DB16-4379-864B-6070B1069BAF",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "Aww looks like fun wish I could have made it!",
+    "ts": "1694523566.735819",
+    "thread_ts": "1694385253.688129",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "cry",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vfyzp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Aww looks like fun wish I could have made it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8e367c20-3cb3-4410-ad14-d8c48af1fd2c",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Made a short for kicks: \u003chttps://youtube.com/shorts/av3Z8j1bJ3I?si=w7aAWWw5vi9x3GSQ\u003e",
+    "ts": "1694529319.155679",
+    "thread_ts": "1694385253.688129",
+    "attachments": [
+      {
+        "fallback": "YouTube: A retreat for yellow jackets at a cabin in the country! #morninginspiration #relaxing",
+        "id": 1,
+        "title": "A retreat for yellow jackets at a cabin in the country! #morninginspiration #relaxing",
+        "title_link": "https://youtube.com/shorts/av3Z8j1bJ3I?si=w7aAWWw5vi9x3GSQ",
+        "image_url": "https://i.ytimg.com/vi/av3Z8j1bJ3I/hqdefault.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYfyA9KBUwDw==\u0026rs=AOn4CLAdwwijl-yQ-M9I5JJlXVe8TqwzVA",
+        "thumb_url": "https://i.ytimg.com/vi/av3Z8j1bJ3I/hqdefault.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYfyA9KBUwDw==\u0026rs=AOn4CLAdwwijl-yQ-M9I5JJlXVe8TqwzVA",
+        "service_name": "YouTube",
+        "service_icon": "https://www.youtube.com/s/desktop/223e107e/img/favicon.ico",
+        "from_url": "https://youtube.com/shorts/av3Z8j1bJ3I?si=w7aAWWw5vi9x3GSQ",
+        "original_url": "https://youtube.com/shorts/av3Z8j1bJ3I?si=w7aAWWw5vi9x3GSQ",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "cabin",
+        "count": 1,
+        "users": [
+          "U05KATYUN9Z"
+        ]
+      },
+      {
+        "name": "exploding_head",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Grf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Made a short for kicks: "
+              },
+              {
+                "type": "link",
+                "url": "https://youtube.com/shorts/av3Z8j1bJ3I?si=w7aAWWw5vi9x3GSQ",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b6350c4-3529-4390-888b-a2dd18fd7385",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "I know a cool place for kbbq and individual hotpot buffet at Perimeter Costco :grin:\u003chttps://www.topkoreanbbq.com/\u003e\nMy Indian Buffet default is Vice Roy at Dunwoody\n\u003chttp://www.viceroyindiandining.com/\u003e\nAtlanta Botanical Garden in October = pictures, lots of pictures:+1:",
+    "ts": "1694529552.078519",
+    "thread_ts": "1694523384.641929",
+    "attachments": [
+      {
+        "fallback": "Top Korean BBQ \u0026amp; Hot Pot",
+        "id": 1,
+        "title": "Top Korean BBQ \u0026amp; Hot Pot",
+        "title_link": "https://www.topkoreanbbq.com/",
+        "text": "Top Korean BBQ \u0026amp; Hot Pot, All You Can Eat, Over 100 items, Come see us",
+        "service_name": "topkoreanbbq.com",
+        "service_icon": "https://www.topkoreanbbq.com/images/favicon.png",
+        "from_url": "https://www.topkoreanbbq.com/",
+        "original_url": "https://www.topkoreanbbq.com/",
+        "blocks": null
+      },
+      {
+        "fallback": "Viceroy",
+        "id": 2,
+        "title": "Viceroy",
+        "title_link": "http://www.viceroyindiandining.com/",
+        "text": "Viceroy Indian Dining",
+        "service_name": "viceroyindiandining.com",
+        "service_icon": "http://www.viceroyindiandining.com/favicon.ico",
+        "from_url": "http://www.viceroyindiandining.com/",
+        "original_url": "http://www.viceroyindiandining.com/",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U03UM07E4D8",
+      "ts": "1694529713.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+xC0W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I know a cool place for kbbq and individual hotpot buffet at Perimeter Costco "
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              },
+              {
+                "type": "link",
+                "url": "https://www.topkoreanbbq.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\nMy Indian Buffet default is Vice Roy at Dunwoody\n"
+              },
+              {
+                "type": "link",
+                "url": "http://www.viceroyindiandining.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\nAtlanta Botanical Garden in October = pictures, lots of pictures"
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5a342fc2-6d68-451e-a20a-bdea15926f18",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "I thought Iron Age was the best kbbq?",
+    "ts": "1694531314.826909",
+    "thread_ts": "1694523384.641929",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      },
+      {
+        "name": "joy",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cpL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I thought Iron Age was the best kbbq?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "38F33258-D431-403B-99BD-D56342BC50B9",
+    "type": "message",
+    "user": "U04HVDA1022",
+    "text": "Hey, anyone in ML??",
+    "ts": "1694536924.660759",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "nope",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "catjam",
+        "count": 1,
+        "users": [
+          "U040XQFU7A5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZSU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey, anyone in ML??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-08/4769315920325_0ba8025b357211caa251_72.jpg",
+      "first_name": "giacona3",
+      "real_name": "giacona3",
+      "display_name": "giacona3",
+      "team": "T03NCJFKCV8",
+      "name": "giacona3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

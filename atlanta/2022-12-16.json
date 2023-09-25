@@ -1,0 +1,538 @@
+[
+  {
+    "client_msg_id": "0e981cd9-9f15-455c-be1c-4ef6c9615eae",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "I'm at Sandy Spring. Where you need to be picked up \u003c@U02MANZL55F\u003e?",
+    "ts": "1671151853.202999",
+    "thread_ts": "1671032914.320319",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jGW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm at Sandy Spring. Where you need to be picked up "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2582e55d-93f7-46a9-a855-c70f703f2954",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Let me DM you! \u003c@U03UM07E4D8\u003e",
+    "ts": "1671153816.662109",
+    "thread_ts": "1671032914.320319",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Grz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let me DM you! "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "57D176FF-A087-4ECF-9F12-9208BABBB007",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "My new roommate got me sick as well so I don’t think I’ll make it this weekend. Sorry guys! Have fun! ",
+    "ts": "1671160786.836789",
+    "thread_ts": "1671032914.320319",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "slightly_frowning_face",
+        "count": 1,
+        "users": [
+          "U02BQJX5TB8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rkj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My new roommate got me sick as well so I "
+              },
+              {
+                "type": "text",
+                "text": "don’t"
+              },
+              {
+                "type": "text",
+                "text": " think "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " make it this weekend. Sorry guys! Have fun! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ab5f914e-f46d-4616-b306-a6d7b2384595",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Anyone in midtown or Atlantic station wanna go together to the escape room? Lyft/Marta whatever works :)",
+    "ts": "1671164625.751119",
+    "thread_ts": "1671032914.320319",
+    "edited": {
+      "user": "U02BQJX5TB8",
+      "ts": "1671164643.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4BL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone in midtown or Atlantic station wanna go together to the escape room? Lyft/Marta whatever works :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "40b7e4ff-9c80-4f4e-aaf9-3929b95aa98e",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Hope you get well soon \u003c@U8QDSG1G9\u003e. We'll miss you XD",
+    "ts": "1671164743.271069",
+    "thread_ts": "1671032914.320319",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U8QDSG1G9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0JZT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hope you get well soon "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": ". We'll miss you XD"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9f06f9f3-78f4-42e8-943b-ca70981bc6fa",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "\u003c@U02DD5VQLBV\u003e I'm a foodie?",
+    "ts": "1671196890.967059",
+    "thread_ts": "1671032914.320319",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Syza",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " I'm a foodie?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e07205df-80b0-4e5a-a936-7817a7077c37",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "get better \u003c@U040B1UERRB\u003e",
+    "ts": "1671221251.229769",
+    "thread_ts": "1671146845.701899",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "loudly_crying_face",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PmiH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "get better "
+              },
+              {
+                "type": "user",
+                "user_id": "U040B1UERRB"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2abdd457-5a0d-40c0-8b0f-0bbef1bc0387",
+    "type": "message",
+    "user": "U041RUXVB97",
+    "text": "I'm down for hiking on 18th Dec too!",
+    "ts": "1671232733.209869",
+    "thread_ts": "1670240294.809299",
+    "parent_user_id": "U02BQJX5TB8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BiaW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm down for hiking on 18th Dec too!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13d80d7343bf5e20bc6aff8eb3ac4eed.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "lfung7",
+      "real_name": "lfung7",
+      "display_name": "lfung7",
+      "team": "T03NCJFKCV8",
+      "name": "lfung7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7eaa6bf4-9c08-46e3-b936-c1a8d7a9fe80",
+    "type": "message",
+    "user": "U041RUXVB97",
+    "text": "East Palisades Trail is close to the city \n\u003ctel:6785381273|(678) 538-1273\u003e\n\u003chttps://maps.app.goo.gl/z2kxf1rFXwcyrmAD6|https://maps.app.goo.gl/z2kxf1rFXwcyrmAD6\u003e",
+    "ts": "1671232821.449109",
+    "thread_ts": "1670240294.809299",
+    "attachments": [
+      {
+        "fallback": "East Palisades Trail · 4058 Whitewater Creek Rd NW, Atlanta, GA 30327",
+        "id": 1,
+        "title": "East Palisades Trail · 4058 Whitewater Creek Rd NW, Atlanta, GA 30327",
+        "title_link": "https://maps.app.goo.gl/z2kxf1rFXwcyrmAD6",
+        "text": "★★★★★ · Hiking area",
+        "thumb_url": "https://lh5.googleusercontent.com/p/AF1QipPIPkAZ4AJEMd1gBMa6WXMR3vI80-Fku4-uxwg",
+        "service_name": "google.com",
+        "service_icon": "https://www.google.com/favicon.ico",
+        "from_url": "https://maps.app.goo.gl/z2kxf1rFXwcyrmAD6",
+        "original_url": "https://maps.app.goo.gl/z2kxf1rFXwcyrmAD6",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U02BQJX5TB8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Zpr0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "East Palisades Trail is close to the city \n"
+              },
+              {
+                "type": "link",
+                "url": "tel:6785381273",
+                "text": "(678) 538-1273"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://maps.app.goo.gl/z2kxf1rFXwcyrmAD6",
+                "text": "https://maps.app.goo.gl/z2kxf1rFXwcyrmAD6"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13d80d7343bf5e20bc6aff8eb3ac4eed.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "lfung7",
+      "real_name": "lfung7",
+      "display_name": "lfung7",
+      "team": "T03NCJFKCV8",
+      "name": "lfung7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

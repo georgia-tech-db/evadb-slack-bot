@@ -1,0 +1,154 @@
+[
+  {
+    "client_msg_id": "0d9d46a1-cb58-49de-8730-529e8bc4b0c3",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "HAPPY NEW YEARS EVE ya beautiful people! :heart:\n\nDon’t forget a meetup is happening January 14, 2022 :slightly_smiling_face:\nPotluck where you care your cooking or eating skills. Will send a post to organize what people will bring in upcoming weeks.\n\nWith love from London,\nCherie Lum",
+    "ts": "1672506956.782699",
+    "thread_ts": "1672506956.782699",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U040WB5GXRV",
+        "ts": "1672521318.444459"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1672623231.563199"
+      }
+    ],
+    "latest_reply": "1672623231.563199",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 7,
+        "users": [
+          "U040WB5GXRV",
+          "U041DBXGPC4",
+          "U03UM07E4D8",
+          "U040V1EQYMS",
+          "U02L4D90KD0",
+          "U0417UDBBUM",
+          "U02UAQKR56C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QZSiF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "HAPPY NEW YEARS EVE ya beautiful people! "
+              },
+              {
+                "type": "emoji",
+                "name": "heart",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nDon’t forget a meetup is happening January 14, 2022 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nPotluck where you care your cooking or eating skills. Will send a post to organize what people will bring in upcoming weeks.\n\nWith love from London,\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U040V1EQYMS",
+      "U040WB5GXRV"
+    ]
+  },
+  {
+    "client_msg_id": "DD800937-0A82-49F1-BD94-8C666845F845",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "Happy NYE! I wish you all a merry and prosperous new year!",
+    "ts": "1672521318.444459",
+    "thread_ts": "1672506956.782699",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K0t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy NYE! I wish you all a merry and prosperous new year!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

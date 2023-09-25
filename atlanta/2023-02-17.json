@@ -1,0 +1,140 @@
+[
+  {
+    "client_msg_id": "83697ffa-d6e4-4496-87fe-a15e03238c15",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "I was able to finish one of my assignments that took like 20 hours today. Wooo!\n\nHope everyone had a good v-day!\n\nAlso \u003chttps://www.youtube.com/watch?v=kRAWwdzNL6c\u0026amp;ab_channel=MarkCee|this song\u003e bumps on V-Day!",
+    "ts": "1676598211.678869",
+    "thread_ts": "1676394439.821279",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Happy Valentines Day - OutKast (HD)",
+        "id": 1,
+        "author_name": "Mark Cee",
+        "author_link": "https://www.youtube.com/@TheMacsPower",
+        "title": "Happy Valentines Day - OutKast (HD)",
+        "title_link": "https://www.youtube.com/watch?v=kRAWwdzNL6c\u0026amp;ab_channel=MarkCee",
+        "thumb_url": "https://i.ytimg.com/vi/kRAWwdzNL6c/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=kRAWwdzNL6c\u0026amp;ab_channel=MarkCee",
+        "original_url": "https://www.youtube.com/watch?v=kRAWwdzNL6c\u0026amp;ab_channel=MarkCee",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gVU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was able to finish one of my assignments that took like 20 hours today. Wooo!\n\nHope everyone had a good v-day!\n\nAlso "
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=kRAWwdzNL6c\u0026ab_channel=MarkCee",
+                "text": "this song"
+              },
+              {
+                "type": "text",
+                "text": " bumps on V-Day!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b2a777d4-f2fe-430b-b227-1ff44599460c",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "\u003c@U02DD5VQLBV\u003e What is the details on the “Volunteer with me painting at an Assisted Living” thing?",
+    "ts": "1676599236.634289",
+    "thread_ts": "1676051897.007129",
+    "edited": {
+      "user": "U040V1EQYMS",
+      "ts": "1676599247.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GdLTY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " What is the details on the “Volunteer with me painting at an Assisted Living” thing?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

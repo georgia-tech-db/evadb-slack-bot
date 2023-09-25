@@ -1,0 +1,717 @@
+[
+  {
+    "client_msg_id": "735b3e4b-4abe-42fc-a780-09a3bb8f87d7",
+    "type": "message",
+    "user": "U04263B0EMP",
+    "text": "It looks like a 50% chance of rain tomorrow morning.",
+    "ts": "1679670325.691519",
+    "thread_ts": "1679423730.171959",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "melting_face",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ctnFA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It looks like a 50% chance of rain tomorrow morning."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4080586870964_286ffd522208a686a8ba_72.jpg",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rega",
+      "display_name": "thomas.rega",
+      "team": "T03NCJFKCV8",
+      "name": "thomas.rega",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f5186e18-be69-4ee3-87df-c54d93d80a21",
+    "type": "message",
+    "user": "U04263B0EMP",
+    "text": "I'm really sorry everyone. Something came up and I cannot make this. See you all next time!",
+    "ts": "1679671843.695069",
+    "thread_ts": "1679423730.171959",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "UDWBBD1HC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PpEZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm really sorry everyone. Something came up and I cannot make this. See you all next time!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4080586870964_286ffd522208a686a8ba_72.jpg",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rega",
+      "display_name": "thomas.rega",
+      "team": "T03NCJFKCV8",
+      "name": "thomas.rega",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "190f861b-3205-4ee4-ba92-afb851045879",
+    "type": "message",
+    "user": "UJX8BPJMC",
+    "text": "I'm planning on attending the conference. (Coming from \u003c#C04HQHWNFLH|los-angeles\u003e)  Any tips on where to stay, and travel to/from the airport?",
+    "ts": "1679676273.318169",
+    "thread_ts": "1679676273.318169",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1679676348.231779"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1679676505.575439"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1679676568.585489"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1679682617.750809"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1679682661.426089"
+      },
+      {
+        "user": "UJX8BPJMC",
+        "ts": "1679686427.721159"
+      }
+    ],
+    "latest_reply": "1679686427.721159",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RX=iR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm planning on attending the conference. (Coming from "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C04HQHWNFLH"
+              },
+              {
+                "type": "text",
+                "text": ")  Any tips on where to stay, and travel to/from the airport?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-14/4804841815524_59d3db02918944de0b4a_72.jpg",
+      "first_name": "Maxx",
+      "real_name": "Maxx Lee",
+      "display_name": "xlee",
+      "team": "T03NCJFKCV8",
+      "name": "maxxlee",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02EYBE4QNA",
+      "UJX8BPJMC"
+    ]
+  },
+  {
+    "client_msg_id": "a8dafd0c-7b59-43ff-9ab2-b2e844bab6e6",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "Below is a list of nearby hotels, roughly in increasing order of distance from the venue. All of them are within a mile of the venue, walkable, and near public transit:\n• \u003chttps://www.gatechhotel.com/|Georgia Tech Hotel\u003e (in Tech Square)\n• \u003chttps://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/|Renaissance Atlanta Midtown\u003e\n• \u003chttps://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail|Hotel Indigo Atlanta Midtown\u003e\n• \u003chttps://thegeorgianterrace.com/|The Georgian Terrace\u003e\n• \u003chttps://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/|Element Atlanta Midtown\u003e\n• \u003chttps://www.marriott.com/en-us/hotels/atlyc-courtyard-atlanta-midtown|Courtyard by Marriott Atlanta Midtown\u003e\n",
+    "ts": "1679676348.231779",
+    "thread_ts": "1679676273.318169",
+    "attachments": [
+      {
+        "fallback": "Georgia Tech Hotel and Conference Center: Georgia Tech Hotel and Conference Center - Midtown Atlanta Hotel",
+        "id": 1,
+        "title": "Georgia Tech Hotel and Conference Center - Midtown Atlanta Hotel",
+        "title_link": "https://www.gatechhotel.com/",
+        "text": "Welcome to Georgia Tech Hotel and Conference Center, the best equipped hotel in Midtown Atlanta, where business and total relaxation meet.",
+        "service_name": "Georgia Tech Hotel and Conference Center",
+        "from_url": "https://www.gatechhotel.com/",
+        "original_url": "https://www.gatechhotel.com/",
+        "blocks": null
+      },
+      {
+        "fallback": "4-star Midtown Atlanta Hotel | Renaissance Atlanta Midtown",
+        "id": 2,
+        "title": "4-star Midtown Atlanta Hotel | Renaissance Atlanta Midtown",
+        "title_link": "https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/",
+        "text": "Discover newly reimagined accommodations, scenic rooftop bar and restaurant, modern amenities and revitalized event space at Renaissance Atlanta Midtown Hotel.",
+        "service_name": "marriott.com",
+        "service_icon": "https://cache.marriott.com/Images/Mobile/MC_Logos/MarriottApple57x57.png",
+        "from_url": "https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/",
+        "original_url": "https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/",
+        "blocks": null
+      },
+      {
+        "fallback": "IHG: Pet-Friendly Hotels In Atlanta Near Georgia Tech | Hotel Indigo Atlanta Midtown",
+        "id": 3,
+        "title": "Pet-Friendly Hotels In Atlanta Near Georgia Tech | Hotel Indigo Atlanta Midtown",
+        "title_link": "https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail",
+        "text": "Hotel Indigo Atlanta Midtown is a boutique hotel that features neighborhood charm, serves people \u0026amp; pets, and provides the Best Price Guarantee.",
+        "service_name": "IHG",
+        "service_icon": "https://digital.ihg.com/is/image/ihg/app-web-chiclet-hotelindigo?fmt=png-alpha",
+        "from_url": "https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail",
+        "original_url": "https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail",
+        "blocks": null
+      },
+      {
+        "fallback": "The Georgian Terrace: Atlanta Hotels | Official Website | Georgian Terrace",
+        "id": 4,
+        "title": "Atlanta Hotels | Official Website | Georgian Terrace",
+        "title_link": "https://thegeorgianterrace.com/",
+        "text": "The Georgian Terrace is a modern luxury hotel with sophisticated amenities and comfortable rooms near the financial and cultural district in Midtown Atlanta.",
+        "image_url": "https://thegeorgianterrace.com/wp-content/uploads/2021/10/GeorgianTerrace-01-WelcomeGeorgianTerrace.jpg",
+        "service_name": "The Georgian Terrace",
+        "service_icon": "https://thegeorgianterrace.com/wp-content/uploads/2021/10/cropped-GeorgianTerrace-00-Nav-Logomark-180x180.png",
+        "from_url": "https://thegeorgianterrace.com/",
+        "original_url": "https://thegeorgianterrace.com/",
+        "fields": [
+          {
+            "title": "Est. reading time",
+            "value": "8 minutes",
+            "short": true
+          }
+        ],
+        "blocks": null
+      },
+      {
+        "fallback": "Hotels in Atlanta - Atlanta Business Hotel - Element Atlanta Midtown",
+        "id": 5,
+        "title": "Hotels in Atlanta - Atlanta Business Hotel - Element Atlanta Midtown",
+        "title_link": "https://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/",
+        "text": "Come stay at our pet friendly hotel in Atlanta! We're a long term stay hotel in midtown Atlanta focused on contemporary design \u0026amp; health accommodations.",
+        "service_name": "marriott.com",
+        "service_icon": "https://cache.marriott.com/Images/Mobile/MC_Logos/MarriottApple57x57.png",
+        "from_url": "https://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/",
+        "original_url": "https://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "UJX8BPJMC",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "thank_you",
+        "count": 1,
+        "users": [
+          "UJX8BPJMC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uvgKO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Below is a list of nearby hotels, roughly in increasing order of distance from the venue. All of them are within a mile of the venue, walkable, and near public transit:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.gatechhotel.com\\/\",\"text\":\"Georgia Tech Hotel\"},{\"type\":\"text\",\"text\":\" (in Tech Square)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.marriott.com\\/en-us\\/hotels\\/atlbd-renaissance-atlanta-midtown-hotel\\/\",\"text\":\"Renaissance Atlanta Midtown\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.ihg.com\\/hotelindigo\\/hotels\\/us\\/en\\/atlanta\\/atlfx\\/hoteldetail\",\"text\":\"Hotel Indigo Atlanta Midtown\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/thegeorgianterrace.com\\/\",\"text\":\"The Georgian Terrace\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.marriott.com\\/en-us\\/hotels\\/atlle-element-atlanta-midtown\\/\",\"text\":\"Element Atlanta Midtown\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.marriott.com\\/en-us\\/hotels\\/atlyc-courtyard-atlanta-midtown\",\"text\":\"Courtyard by Marriott Atlanta Midtown\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "86062da5-4092-4752-a708-052779fa7d0e",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "As for the airport, the ATL airport is HUGE but well run so you won't have too much trouble navigating the airport. As for ground Transporation int he airport, please visit this page \u003chttps://www.atl.com/ground-transportation/#1641608153140-d0345a89-0495\u003e",
+    "ts": "1679676505.575439",
+    "thread_ts": "1679676273.318169",
+    "parent_user_id": "UJX8BPJMC",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KABbs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "As for the airport, the ATL airport is HUGE but well run so you won't have too much trouble navigating the airport. As for ground Transporation int he airport, please visit this page "
+              },
+              {
+                "type": "link",
+                "url": "https://www.atl.com/ground-transportation/#1641608153140-d0345a89-0495",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dfa388b4-36f5-4d3b-acce-d1321fe740c6",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "I normally just get a taxi from the airport and an Uber to the airport. The Taxis are a little bit tricky to find, when you get your luggage at Baggage Claim, you go out the doors and round the corner to the Taxi station.",
+    "ts": "1679676568.585489",
+    "thread_ts": "1679676273.318169",
+    "parent_user_id": "UJX8BPJMC",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m8/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I normally just get a taxi from the airport and an Uber to the airport. The Taxis are a little bit tricky to find, when you get your luggage at Baggage Claim, you go out the doors and round the corner to the Taxi station."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9EBCA9A4-6E49-405A-8241-32C80D7727A1",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "If you are wanting to save, MARTA public transportation is really simple. But only if you are staying by a marta stop. ",
+    "ts": "1679682617.750809",
+    "thread_ts": "1679676273.318169",
+    "parent_user_id": "UJX8BPJMC",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u194",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you are wanting to save, MARTA public transportation is really simple. But only if you are staying by a marta stop. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0F0A4EEF-0CE7-4258-B5B1-4655F74C4CDC",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "If you want to stay near GT, the hotels above are closest and maybe most expensive! But up to you. I cannot wait to meet you!",
+    "ts": "1679682661.426089",
+    "thread_ts": "1679676273.318169",
+    "parent_user_id": "UJX8BPJMC",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9oa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you want to stay near GT, the hotels above are closest and maybe most expensive! But up to you. I cannot wait to meet you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "20619546-d5f2-4042-8ccf-807e96afb191",
+    "type": "message",
+    "user": "UJX8BPJMC",
+    "text": "Thanks for the tips! Excited to meet you all as well!",
+    "ts": "1679686427.721159",
+    "thread_ts": "1679676273.318169",
+    "edited": {
+      "user": "UJX8BPJMC",
+      "ts": "1679694238.000000"
+    },
+    "parent_user_id": "UJX8BPJMC",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      },
+      {
+        "name": "smile",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PRe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks for the tips! Excited to meet you all as well!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-14/4804841815524_59d3db02918944de0b4a_72.jpg",
+      "first_name": "Maxx",
+      "real_name": "Maxx Lee",
+      "display_name": "xlee",
+      "team": "T03NCJFKCV8",
+      "name": "maxxlee",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "133ABA05-28E4-44A0-A553-46E45CBEBBB3",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hey all, 10am you guys saw?! Or prefer 11?",
+    "ts": "1679702274.614109",
+    "thread_ts": "1679423730.171959",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wTd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all, 10am you guys saw?! Or prefer 11?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "22540533-7639-4f02-9656-aeacd4996b26",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "11",
+    "ts": "1679702293.039739",
+    "thread_ts": "1679423730.171959",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8FMq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "11"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

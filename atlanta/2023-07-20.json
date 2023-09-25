@@ -1,0 +1,224 @@
+[
+  {
+    "client_msg_id": "F7361E97-BE1C-48F7-A707-6C6D087162B8",
+    "type": "message",
+    "user": "U0575G39PK4",
+    "text": "that works for me! i vote ponce",
+    "ts": "1689815942.893489",
+    "thread_ts": "1689435649.050889",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SwRe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that works for me! i vote ponce"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-13/5263025978500_c55dd425df7f17385ce2_72.png",
+      "first_name": "Junaid",
+      "real_name": "Junaid Mohamed",
+      "display_name": "Junaid Mohamed",
+      "team": "T03NCJFKCV8",
+      "name": "jmohamed8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4b526f9e-8307-40b7-88da-86550619b07a",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "I might not be able to make it Sunday night. But I hope yall have fun!",
+    "ts": "1689869170.776499",
+    "thread_ts": "1689435649.050889",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PTfQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I might not be able to make it Sunday night. But I hope yall have fun!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "930D05FA-5C4D-4069-B754-965F4130B4F1",
+    "type": "message",
+    "user": "U0495G3QQ1W",
+    "text": "This may be a good chance to work together with on campus grad students too since we’re all studying for the same interviews. They also have on campus events with recruiters. It’s mostly undergraduates at the moment, but I’m sure they need more grad student mentors\n\n\n\u003chttps://discord.com/invite/aF2S6AzrAP|https://discord.com/invite/aF2S6AzrAP\u003e",
+    "ts": "1689871002.857859",
+    "thread_ts": "1689457513.401659",
+    "parent_user_id": "UDWBBD1HC",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "UDWBBD1HC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jiM6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This may be a good chance to work together with on campus grad students too since we’re all studying for the same interviews. They also have on campus events with recruiters. "
+              },
+              {
+                "type": "text",
+                "text": "It’s"
+              },
+              {
+                "type": "text",
+                "text": " mostly undergraduates at the moment, but "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " sure they need more grad student mentors\n\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://discord.com/invite/aF2S6AzrAP",
+                "text": "https://discord.com/invite/aF2S6AzrAP"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-27/4290324769572_a9e776395623c3b9f13f_72.jpg",
+      "first_name": "Elan",
+      "real_name": "Elan Grossman",
+      "display_name": "Elan",
+      "team": "T03NCJFKCV8",
+      "name": "egrossman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "496D871D-5C33-46E4-8CBB-26C041FA4BA2",
+    "type": "message",
+    "user": "U04184BSKM3",
+    "text": "I vote Ponce on Sunday",
+    "ts": "1689891431.317199",
+    "thread_ts": "1689435649.050889",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aR4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I vote Ponce on Sunday"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-29/4156649541732_8909dc835ece85cf769f_72.png",
+      "first_name": "karol",
+      "real_name": "karol gutierrez",
+      "display_name": "karol",
+      "team": "T03NCJFKCV8",
+      "name": "ksuarez8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

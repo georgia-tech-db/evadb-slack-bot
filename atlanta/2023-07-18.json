@@ -1,0 +1,182 @@
+[
+  {
+    "client_msg_id": "df8de604-b242-4c06-82f7-f8051e5be5c2",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Thanks for the tips! I am a senior engineer and am just trying to brush up on some basics. Those times done work with me since I have to work. But like the others am flexible to meet anywhere at other non-working hours!",
+    "ts": "1689642542.480399",
+    "thread_ts": "1689457513.401659",
+    "edited": {
+      "user": "U02MANZL55F",
+      "ts": "1689642557.000000"
+    },
+    "parent_user_id": "UDWBBD1HC",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pe9hv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks for the tips! I am a senior engineer and am just trying to brush up on some basics. Those times done work with me since I have to work. But like the others am flexible to meet anywhere at other non-working hours!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8fd8eea4-eac4-42b0-9bf0-64fc2c74e606",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U041PH0B1DF\u003e seeing what I can do! If people agree to 4PM on Sunday",
+    "ts": "1689650693.496089",
+    "thread_ts": "1689435649.050889",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U041PH0B1DF",
+          "U04184BSKM3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9BF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": " seeing what I can do! If people agree to 4PM on Sunday"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D0AC9FDA-340D-43DE-8EB0-ACFA7447630C",
+    "type": "message",
+    "user": "U0495G3QQ1W",
+    "text": "Great idea! After this week I don’t mind practicing leet code or system design a bit. Always good to stay fresh.\n\nI’ve seen the GT CS Careers Club hold practice sessions around Fall interview time too and some students (majority undergrad) are active in the discord leetcode forums",
+    "ts": "1689685069.264449",
+    "thread_ts": "1689457513.401659",
+    "parent_user_id": "UDWBBD1HC",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dkovq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great idea! After this week I don’t mind practicing leet code or system design a bit. Always good to stay fresh.\n\nI’ve seen the GT CS Careers Club hold practice sessions around Fall interview time too and some students (majority undergrad) are active in the discord leetcode forums"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-27/4290324769572_a9e776395623c3b9f13f_72.jpg",
+      "first_name": "Elan",
+      "real_name": "Elan Grossman",
+      "display_name": "Elan",
+      "team": "T03NCJFKCV8",
+      "name": "egrossman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,1633 @@
+[
+  {
+    "client_msg_id": "a265b79b-a2f5-4787-9b17-c078a89f54f7",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Eid Mubarak everyone! :crescent_moon: Happy Eid! :tada:\nYesterday was the last day of Ramadan as the new moon was sighted! :sparkles:\nPeace and blessings to everyone on this wonderful day no matter what you celebrate. :confetti_ball:",
+    "ts": "1682082430.329139",
+    "thread_ts": "1682082430.329139",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U01N1775WSU",
+        "ts": "1682082476.791129"
+      },
+      {
+        "user": "U02EEGFEYHH",
+        "ts": "1682084211.444589"
+      }
+    ],
+    "latest_reply": "1682084211.444589",
+    "files": [
+      {
+        "id": "F054CGMDU2W",
+        "created": 1682082381,
+        "timestamp": 1682082381,
+        "name": "eid-mubarak-greeting.gif",
+        "title": "eid-mubarak-greeting.gif",
+        "mimetype": "image/gif",
+        "image_exif_rotation": 0,
+        "filetype": "gif",
+        "pretty_type": "GIF",
+        "user": "U01N1775WSU",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1127182,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F054CGMDU2W-eid-mubarak-greeting.gif",
+        "url_private_download": "attachments/F054CGMDU2W-eid-mubarak-greeting.gif",
+        "original_h": 438,
+        "original_w": 500,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F054CGMDU2W-2fc103c48c/eid-mubarak-greeting_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F054CGMDU2W-2fc103c48c/eid-mubarak-greeting_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F054CGMDU2W-2fc103c48c/eid-mubarak-greeting_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F054CGMDU2W-2fc103c48c/eid-mubarak-greeting_360.png",
+        "thumb_360_gif": "https://files.slack.com/files-tmb/TKM8PQGNP-F054CGMDU2W-2fc103c48c/eid-mubarak-greeting_360.gif",
+        "thumb_360_w": 360,
+        "thumb_360_h": 315,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F054CGMDU2W-2fc103c48c/eid-mubarak-greeting_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 420,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://gatech.enterprise.slack.com/files/U01N1775WSU/F054CGMDU2W/eid-mubarak-greeting.gif",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F054CGMDU2W-c9cc0330a2",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 6,
+        "users": [
+          "U02EEGFEYHH",
+          "U02DD5VQLBV",
+          "U040XQFU7A5",
+          "U041PH0B1DF",
+          "U02BQJX5TB8",
+          "U03V8G3NGP4"
+        ]
+      },
+      {
+        "name": "confetti_ball",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y1h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Eid Mubarak everyone! "
+              },
+              {
+                "type": "emoji",
+                "name": "crescent_moon",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Happy Eid! "
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nYesterday was the last day of Ramadan as the new moon was sighted! "
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nPeace and blessings to everyone on this wonderful day no matter what you celebrate. "
+              },
+              {
+                "type": "emoji",
+                "name": "confetti_ball",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02EEGFEYHH"
+    ]
+  },
+  {
+    "client_msg_id": "189aaad0-c074-48ac-95d0-71d6dffe6f0e",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Also, some people may be observing Eid tomorrow because they decided they did not see the new moon, which decides whether the new month has started or not!",
+    "ts": "1682082476.791129",
+    "thread_ts": "1682082430.329139",
+    "parent_user_id": "U01N1775WSU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EzH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also, some people may be observing Eid tomorrow because they decided they did not see the new moon, which decides whether the new month has started or not!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7198c135-c407-48f2-8843-e17a72139556",
+    "type": "message",
+    "user": "U02EEGFEYHH",
+    "text": "!عيد مبارك",
+    "ts": "1682084211.444589",
+    "thread_ts": "1682082430.329139",
+    "parent_user_id": "U01N1775WSU",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zH0iU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "!عيد مبارك"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-03-26/3285281466023_2b0e74cefeb2b942ebab_72.jpg",
+      "first_name": "Kai",
+      "real_name": "Kai Ouyang",
+      "display_name": "",
+      "team": "T03NCJFKCV8",
+      "name": "ko40",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EF70EE6B-47A4-48DD-A80F-AD2846FCCC94",
+    "type": "message",
+    "user": "U040XQFU7A5",
+    "text": "Cherie, I just mentioned the snake plants to Lauren, and she really wants a stem!",
+    "ts": "1682084604.933869",
+    "thread_ts": "1681844885.272359",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w2q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cherie"
+              },
+              {
+                "type": "text",
+                "text": ", I just mentioned "
+              },
+              {
+                "type": "text",
+                "text": "the "
+              },
+              {
+                "type": "text",
+                "text": "snake plants to Lauren, and she really wants a "
+              },
+              {
+                "type": "text",
+                "text": "stem!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-31/4019449241203_151d6fb129d579f03684_72.jpg",
+      "first_name": "Brandon",
+      "real_name": "Brandon Conner",
+      "display_name": "Brandon",
+      "team": "T03NCJFKCV8",
+      "name": "bconner6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5B92632F-CFBD-498A-81CF-F9805CDC9A1F",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Goooood morning!\n\n1. Quick reminder to runners, joggers, walkers tomorrow for pi race!! We have \u003c@U041S3WQKND\u003e \u003c@U02MANZL55F\u003e \u003c@U02UAQKR56C\u003e \u003c@U040V1EQYMS\u003e \u003c@U01N1775WSU\u003e (virtually), \u003c@U01JYRB9DL2\u003e and me! And \u003c@U041DBXGPC4\u003e signing up soon. I’m going to pick up my shirt today but you can get it tomorrow I believe at 6:30AM! *Race at 7:30AM!!!* Did \u003c@U041PH0B1DF\u003e sign up?\n2. Eid Mubarak - as stated by Saeeda above!\n3. OMSCS conference in May/ 3-4! \nP.S. totally random but does anybody know any good places to show off my children books? Age 4-8. I created a few and want to share with families but don’t have many friends with kids right now.\n\nPps for race day people- anybody bringing a car? I forgot I’m doing a hackathon after and have to bring my laptop. Worst case I can jog with it!\n\n\n---------\nEXTRA INFO FOR THE RUNNERS WHO NEED IT:\n\n*Time*\n6:30am: Day of race packet pick up and registration\n7:30am: Race Start\n8:45am: Award Ceremony \u0026amp; Post race celebration\n\n*Location*\nThe race will start and finish within steps of the Tech Tower Lawn which is where all pre and post-race festivities will happen. \u003chttps://www.gtalumni.org/s/1481/images/gid21/editor_documents/pi_mile/microsoftteams-image__2_.png|RACE MAP\u003e \u0026amp; \u003chttps://goo.gl/maps/SdjrPrnaxPVFoxpy7|GOOGLE MAP\u003e\n\n*Parking*\nFriday, April 21st - Please park in the lower surface Lot (E49) on the east side of the Alumni House and proceed to the Alumni House at 190 North Avenue.\n\nSaturday, April 22nd – Free Race Day parking is available from 5am – 10am in the following areas which can be found on the \u003chttps://pts.gatech.edu/sites/default/files/images/gt_parking_zones_map_2_18_20.pdf|GT Parking map\u003e:\n\nE46 Burge Deck\nAREA 1 North Avenue Parking Lot\nAREA 2 Student Center Visitor Parking\nCourse map\nThe 2023 course map is currently being finalized and will be posted here as soon as it has been approved\n\n*Packet Pickup*\nEARLY: Friday, 4/21, 10am-5pm- Georgia Tech Alumni Association- \u003chttps://www.google.com/maps/place/Georgia+Tech+Alumni+Association/@33.7717326,-84.3954596,18z/data=!4m5!3m4!1s0x88f5048a8c05743b:0x17ddf4ecc35ff171!8m2!3d33.7710243!4d-84.393511?shorturl=1|MAP\u003e\n- Please park in Visitor area 1- \u003chttps://www.google.com/maps/place/Visitor+Area+1/@33.7717221,-84.3954386,18.02z/data=!4m5!3m4!1s0x88f50462c3f3cee5:0xe0dbe96335dc0d29!8m2!3d33.7710066!4d-84.3944944?shorturl=1|MAP\u003e\nRACE DAY: Saturday, 4/22, 6:30-7:15am, Tech Tower Lawn- \u003chttps://www.google.com/maps/place/Tech+Tower+Lawn/@33.7717326,-84.396554,17z/data=!3m1!4b1!4m5!3m4!1s0x88f50462ef6f0bb5:0x8baa29b73178dc8d!8m2!3d33.7717326!4d-84.3943653?shorturl=1|MAP\u003e\n\n*Hydration*\nThe 5k course will have one aid station at approximately the halfway point.\n\n*Awards*\nAwards will be presented in the following categories:\n- Overall male/ Overall female\n- 1st place Alumni male/female\n- 1st place Faculty/Staff male/female\n- 1st place Student male/female\n- Top Team (based on participation)\n- Top three finishers in each of the following age groups (M/F)\n-9 \u0026amp; Under, 10-14, 15-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70+\n(Virtual participants are not eligible for awards)\n-------\n\nHave a great finals week!!\nCherie Lum",
+    "ts": "1682085255.557109",
+    "thread_ts": "1682085255.557109",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1682132717.000000"
+    },
+    "reply_count": 38,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682085401.543319"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1682085555.235789"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682086422.772329"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682086440.328319"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1682086539.379889"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1682086585.188979"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682086604.393809"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682086857.240539"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682087313.674219"
+      },
+      {
+        "user": "U01JYRB9DL2",
+        "ts": "1682088187.564819"
+      },
+      {
+        "user": "U040XQFU7A5",
+        "ts": "1682089597.603819"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682102183.832309"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682102199.176769"
+      },
+      {
+        "user": "U041PH0B1DF",
+        "ts": "1682102517.086609"
+      },
+      {
+        "user": "U01JYRB9DL2",
+        "ts": "1682103467.057279"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1682123292.925289"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682125932.320479"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682125945.206579"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682125980.428929"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1682126050.738359"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1682131642.258229"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682132098.271169"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682132161.860849"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1682132244.400479"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1682132593.000459"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682132634.253649"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682132664.459629"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682132722.892739"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682132769.193349"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1682133204.805579"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1682133320.803859"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1682158275.325579"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682159186.084369"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1682159923.953909"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682159960.883709"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1682161401.461279"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682161695.293459"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1682161719.012879"
+      }
+    ],
+    "latest_reply": "1682161719.012879",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ei4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Goooood morning!\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Quick reminder to runners, joggers, walkers tomorrow for pi race!! We have \"},{\"type\":\"user\",\"user_id\":\"U041S3WQKND\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"user\",\"user_id\":\"U02MANZL55F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"user\",\"user_id\":\"U02UAQKR56C\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"user\",\"user_id\":\"U040V1EQYMS\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"user\",\"user_id\":\"U01N1775WSU\"},{\"type\":\"text\",\"text\":\" (virtually), \"},{\"type\":\"user\",\"user_id\":\"U01JYRB9DL2\"},{\"type\":\"text\",\"text\":\" and me! And \"},{\"type\":\"user\",\"user_id\":\"U041DBXGPC4\"},{\"type\":\"text\",\"text\":\" signing up soon. I\\u2019m going to pick up my shirt today but you can get it tomorrow I believe at 6:30AM! \"},{\"type\":\"text\",\"text\":\"Race at 7:30AM!!!\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" Did \"},{\"type\":\"user\",\"user_id\":\"U041PH0B1DF\"},{\"type\":\"text\",\"text\":\" sign up?\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Eid Mubarak - as stated by Saeeda above!\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"OMSCS conference in May\\/ 3-4! \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nP.S. totally random but does anybody know any good places to show off my children books? Age 4-8. I created a few and want to share with families but don’t have many friends with kids right now.\n\nPps for race day people- anybody bringing a car? I forgot I’m doing a hackathon after and have to bring my laptop. Worst case I can jog with it!\n\n\n---------\nEXTRA INFO FOR THE RUNNERS WHO NEED IT:\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Time",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n6:30am: Day of race packet pick up and registration\n7:30am: Race Start\n8:45am: Award Ceremony \u0026 Post race celebration\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Location",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nThe race will start and finish within steps of the Tech Tower Lawn which is where all pre and post-race festivities will happen. "
+              },
+              {
+                "type": "link",
+                "url": "https://www.gtalumni.org/s/1481/images/gid21/editor_documents/pi_mile/microsoftteams-image__2_.png",
+                "text": "RACE MAP"
+              },
+              {
+                "type": "text",
+                "text": " \u0026 "
+              },
+              {
+                "type": "link",
+                "url": "https://goo.gl/maps/SdjrPrnaxPVFoxpy7",
+                "text": "GOOGLE MAP"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Parking",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nFriday, April 21st - Please park in the lower surface Lot (E49) on the east side of the Alumni House and proceed to the Alumni House at 190 North Avenue.\n\nSaturday, April 22nd – Free Race Day parking is available from 5am – 10am in the following areas which can be found on the "
+              },
+              {
+                "type": "link",
+                "url": "https://pts.gatech.edu/sites/default/files/images/gt_parking_zones_map_2_18_20.pdf",
+                "text": "GT Parking map"
+              },
+              {
+                "type": "text",
+                "text": ":\n\nE46 Burge Deck\nAREA 1 North Avenue Parking Lot\nAREA 2 Student Center Visitor Parking\nCourse map\nThe 2023 course map is currently being finalized and will be posted here as soon as it has been approved\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Packet Pickup",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nEARLY: Friday, 4/21, 10am-5pm- Georgia Tech Alumni Association- "
+              },
+              {
+                "type": "link",
+                "url": "https://www.google.com/maps/place/Georgia+Tech+Alumni+Association/@33.7717326,-84.3954596,18z/data=!4m5!3m4!1s0x88f5048a8c05743b:0x17ddf4ecc35ff171!8m2!3d33.7710243!4d-84.393511?shorturl=1",
+                "text": "MAP"
+              },
+              {
+                "type": "text",
+                "text": "\n- Please park in Visitor area 1- "
+              },
+              {
+                "type": "link",
+                "url": "https://www.google.com/maps/place/Visitor+Area+1/@33.7717221,-84.3954386,18.02z/data=!4m5!3m4!1s0x88f50462c3f3cee5:0xe0dbe96335dc0d29!8m2!3d33.7710066!4d-84.3944944?shorturl=1",
+                "text": "MAP"
+              },
+              {
+                "type": "text",
+                "text": "\nRACE DAY: Saturday, 4/22, 6:30-7:15am, Tech Tower Lawn- "
+              },
+              {
+                "type": "link",
+                "url": "https://www.google.com/maps/place/Tech+Tower+Lawn/@33.7717326,-84.396554,17z/data=!3m1!4b1!4m5!3m4!1s0x88f50462ef6f0bb5:0x8baa29b73178dc8d!8m2!3d33.7717326!4d-84.3943653?shorturl=1",
+                "text": "MAP"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Hydration",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nThe 5k course will have one aid station at approximately the halfway point.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Awards",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nAwards will be presented in the following categories:\n- Overall male/ Overall female\n- 1st place Alumni male/female\n- 1st place Faculty/Staff male/female\n- 1st place Student male/female\n- Top Team (based on participation)\n- Top three finishers in each of the following age groups (M/F)\n-9 \u0026 Under, 10-14, 15-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70+\n(Virtual participants are not eligible for awards)\n-------\n\nHave a great finals week!!\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 8,
+    "reply_users": [
+      "U01JYRB9DL2",
+      "U02DD5VQLBV",
+      "U02MANZL55F",
+      "U02UAQKR56C",
+      "U03UM07E4D8",
+      "U040V1EQYMS",
+      "U040XQFU7A5",
+      "U041PH0B1DF"
+    ]
+  },
+  {
+    "client_msg_id": "CB460159-1A67-4F3B-8008-D5900D2EBD05",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Link for \u003c@U041DBXGPC4\u003e \u003chttps://www.gtalumni.org/s/1481/alumni/17/magazine-pages.aspx?sid=1481\u0026amp;gid=21\u0026amp;pgid=7999|https://www.gtalumni.org/s/1481/alumni/17/magazine-pages.aspx?sid=1481\u0026amp;gid=21\u0026amp;pgid=7999\u003e",
+    "ts": "1682085401.543319",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kJ48z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Link for "
+              },
+              {
+                "type": "user",
+                "user_id": "U041DBXGPC4"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://www.gtalumni.org/s/1481/alumni/17/magazine-pages.aspx?sid=1481\u0026gid=21\u0026pgid=7999",
+                "text": "https://www.gtalumni.org/s/1481/alumni/17/magazine-pages.aspx?sid=1481\u0026gid=21\u0026pgid=7999"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d7560d85-534e-4d7c-bf8a-31de50db3fb0",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Breakfast before or after?",
+    "ts": "1682085555.235789",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3rE9P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Breakfast before or after?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "71E5C635-E8BA-440C-9F05-012D386EA9DD",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Breakfast after!! ",
+    "ts": "1682086422.772329",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b53",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Breakfast after!! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2B8BD959-BA6F-4165-AE06-5E1D33FE01D6",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Also I'm at alumni place- does anybody want me to pick up their shirt?? ",
+    "ts": "1682086440.328319",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i2H8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also I'm at alumni place- does anybody want me to pick up their shirt?? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e1fe9a5e-97bd-4adb-a617-453a3626fcbf",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "The race shirt? If so, could you pick up mine please?",
+    "ts": "1682086539.379889",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aQ0qt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The race shirt? If so, could you pick up mine please?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0cd43776-9670-4e6b-9bbe-8f127e43c092",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Also Cherie, maybe you could try the library to showcase your book?",
+    "ts": "1682086585.188979",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IgKO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also Cherie, maybe you could try the library to showcase your book?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "736BD0DF-BCA1-4D17-8777-65A69C04B46D",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U02MANZL55F\u003e ping me or tell me your last name",
+    "ts": "1682086604.393809",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02MANZL55F"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wCmHm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " ping me or tell me your last name"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "046022EA-6030-415D-A6DE-56B2F2FB815C",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U02UAQKR56C\u003e shirt pick up?",
+    "ts": "1682086857.240539",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z7F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " shirt pick up?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "539C5572-A617-4879-9150-B6217B778987",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Ok I'm leaving now! ",
+    "ts": "1682087313.674219",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Zdqpl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok I'm leaving now! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4125C17B-D988-4798-8B8A-8DE0457BBEDD",
+    "type": "message",
+    "user": "U01JYRB9DL2",
+    "text": "I’ll be there at 6:30 to pick up my shirt. Where should we meet for the race? ",
+    "ts": "1682088187.564819",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JnUC/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " be there at 6:30 to pick up my shirt"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Where should we meet for the race"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-01/5840892077588_6572e9283f928a0b7666_72.jpg",
+      "first_name": "",
+      "real_name": "StephanieD",
+      "display_name": "StephanieD",
+      "team": "T03NCJFKCV8",
+      "name": "sdeen6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C1EFABE6-4630-4C7D-90E3-EAF5707EEE46",
+    "type": "message",
+    "user": "U040XQFU7A5",
+    "text": "“doing a hackathon after the 5k” - the most Cherie thing i’ve ever heard",
+    "ts": "1682089597.603819",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "carlton_3",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      },
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 1,
+        "users": [
+          "U041S3WQKND"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VyT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "“doing a hackathon after the 5k” - the most Cherie thing i’ve ever heard"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-31/4019449241203_151d6fb129d579f03684_72.jpg",
+      "first_name": "Brandon",
+      "real_name": "Brandon Conner",
+      "display_name": "Brandon",
+      "team": "T03NCJFKCV8",
+      "name": "bconner6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "27BDA492-46A5-45EA-8549-5617A13B3C4A",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U01JYRB9DL2\u003e at tech tower green on google map! I cannot wait to see you there! \n\nAlso they'll be taking walk-ups too at 6:30am!! :heart_hands: ",
+    "ts": "1682102183.832309",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y9334",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01JYRB9DL2"
+              },
+              {
+                "type": "text",
+                "text": " at tech tower green on google map! I cannot wait to see you there! \n\nAlso they'll be taking walk-ups too at 6:30am!! "
+              },
+              {
+                "type": "emoji",
+                "name": "heart_hands",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "18156874-92D0-4C80-B424-3E47FD9F739D",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": ":joy: :joy:  \u003c@U040XQFU7A5\u003e you crack me up!!",
+    "ts": "1682102199.176769",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "otqe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U040XQFU7A5"
+              },
+              {
+                "type": "text",
+                "text": " you crack me up!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0488913D-685F-40ED-8912-28B713E65C4E",
+    "type": "message",
+    "user": "U041PH0B1DF",
+    "text": "I signed up \u003c@U02DD5VQLBV\u003e",
+    "ts": "1682102517.086609",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U041S3WQKND"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W8vR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I signed up "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4046860678949_86ddc0989e7ac96e2976_72.jpg",
+      "first_name": "Yashwant",
+      "real_name": "Yashwant Koyyana",
+      "display_name": "Yash Koyyana",
+      "team": "T03NCJFKCV8",
+      "name": "kyashwant3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "486AE5DA-7A4E-470F-808D-70F2FA10F969",
+    "type": "message",
+    "user": "U01JYRB9DL2",
+    "text": "This is exciting, I’m looking forward to seeing everyone! ",
+    "ts": "1682103467.057279",
+    "thread_ts": "1682085255.557109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RUm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is exciting, "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " looking forward to seeing everyone! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-01/5840892077588_6572e9283f928a0b7666_72.jpg",
+      "first_name": "",
+      "real_name": "StephanieD",
+      "display_name": "StephanieD",
+      "team": "T03NCJFKCV8",
+      "name": "sdeen6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ea0d8561-1a72-4818-aa88-0d16a55af888",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U040XQFU7A5\u003e oooo yay!!! I cannot wait to share!! Will you be on campus anytime soon?\n\n1. I can pull some out and you can grab from me tomorrow around campus after my 5K run between 8:30 and 10am /but I’ll be on campus all weekend at Klaus\n\n2. Other- Next week will be on campus\n   2.1 Wednesday after 3pm\n   2.2 Thursday after lunch hours",
+    "ts": "1682113100.516849",
+    "thread_ts": "1681844885.272359",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1682113208.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DPyiE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U040XQFU7A5"
+              },
+              {
+                "type": "text",
+                "text": " oooo yay!!! I cannot wait to share!! Will you be on campus anytime soon?\n\n1. I can pull some out and you can grab from me tomorrow around campus after my 5K run between 8:30 and 10am /but I’ll be on campus all weekend at Klaus\n\n2. Other- Next week will be on campus\n   2.1 Wednesday after 3pm\n   2.2 Thursday after lunch hours"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

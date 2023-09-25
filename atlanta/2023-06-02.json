@@ -1,0 +1,386 @@
+[
+  {
+    "client_msg_id": "9d331dca-1fca-4b73-a811-05a197e4e7a1",
+    "type": "message",
+    "user": "UJNR8MXM4",
+    "text": "What time on the 24th?",
+    "ts": "1685669582.570299",
+    "thread_ts": "1684373952.148169",
+    "parent_user_id": "U02MANZL55F",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PkX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What time on the 24th?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-03-01/4876220159541_cc798300838b6ba2b8f6_72.jpg",
+      "first_name": "",
+      "real_name": "Yaw",
+      "display_name": "Yaw",
+      "team": "T03NCJFKCV8",
+      "name": "yagyepong3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0bcd624f-3612-417b-8217-b386c2a99f4e",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "4th semester in a row of IIS for me this fall",
+    "ts": "1685675143.467779",
+    "thread_ts": "1685649585.278469",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6HV=G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "4th semester in a row of IIS for me this fall"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "542ade3f-fd75-4ec7-b410-50b7e8340c4a",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "*Hi!* \n\nSo it seems like we're aiming for Southern Bell farm  on the 24th, The farm is opened from 10am – 5pm on Saturday. I was thinking about meeting up at the farm around 10-11am so that we could avoid the heat.\n\nBut it seems like its a good time for us to have another poll to see if this works.\n\nPlease respond with\n:+1:  if 10am is good\n:ok_hand:  if 12 is better\n:face_with_rolling_eyes:  if we should choose a different time",
+    "ts": "1685679326.348679",
+    "thread_ts": "1684373952.148169",
+    "edited": {
+      "user": "U02MANZL55F",
+      "ts": "1685679569.000000"
+    },
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 7,
+        "users": [
+          "U0425F983DE",
+          "UDWBBD1HC",
+          "U03TCLMDTLM",
+          "UJNR8MXM4",
+          "U040V1EQYMS",
+          "U0495G3QQ1W",
+          "U01JYRB9DL2"
+        ]
+      },
+      {
+        "name": "ok_hand",
+        "count": 2,
+        "users": [
+          "U03TP5GML95",
+          "U01N1775WSU"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kO+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nSo it seems like we're aiming for Southern Bell farm  on the 24th, The farm is opened from 10am – 5pm on Saturday. I was thinking about meeting up at the farm around 10-11am so that we could avoid the heat.\n\nBut it seems like its a good time for us to have another poll to see if this works.\n\nPlease respond with\n"
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  if 10am is good\n"
+              },
+              {
+                "type": "emoji",
+                "name": "ok_hand",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  if 12 is better\n"
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_rolling_eyes",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  if we should choose a different time"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "542ade3f-fd75-4ec7-b410-50b7e8340c4a",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "*Hi!* \n\nSo it seems like we're aiming for Southern Bell farm  on the 24th, The farm is opened from 10am – 5pm on Saturday. I was thinking about meeting up at the farm around 10-11am so that we could avoid the heat.\n\nBut it seems like its a good time for us to have another poll to see if this works.\n\nPlease respond with\n:+1:  if 10am is good\n:ok_hand:  if 12 is better\n:face_with_rolling_eyes:  if we should choose a different time",
+    "ts": "1685679326.348679",
+    "thread_ts": "1684373952.148169",
+    "edited": {
+      "user": "U02MANZL55F",
+      "ts": "1685679569.000000"
+    },
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 7,
+        "users": [
+          "U0425F983DE",
+          "UDWBBD1HC",
+          "U03TCLMDTLM",
+          "UJNR8MXM4",
+          "U040V1EQYMS",
+          "U0495G3QQ1W",
+          "U01JYRB9DL2"
+        ]
+      },
+      {
+        "name": "ok_hand",
+        "count": 2,
+        "users": [
+          "U03TP5GML95",
+          "U01N1775WSU"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kO+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nSo it seems like we're aiming for Southern Bell farm  on the 24th, The farm is opened from 10am – 5pm on Saturday. I was thinking about meeting up at the farm around 10-11am so that we could avoid the heat.\n\nBut it seems like its a good time for us to have another poll to see if this works.\n\nPlease respond with\n"
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  if 10am is good\n"
+              },
+              {
+                "type": "emoji",
+                "name": "ok_hand",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  if 12 is better\n"
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_rolling_eyes",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  if we should choose a different time"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "866692a5-7860-44f4-9b54-f900b8b0d050",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I’m thinking intro to cog!",
+    "ts": "1685747727.420589",
+    "thread_ts": "1685649585.278469",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K65",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m thinking intro to cog!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

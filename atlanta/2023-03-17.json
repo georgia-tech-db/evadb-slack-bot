@@ -1,0 +1,789 @@
+[
+  {
+    "client_msg_id": "ef5d2207-3c37-48aa-b892-5422e9700552",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Haven't signed up yet but will do so soon!",
+    "ts": "1679011574.375309",
+    "thread_ts": "1678199668.591469",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U041PH0B1DF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "joa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Haven't signed up yet but will do so soon!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bd61f031-5d49-4567-aa7c-46147ac56b48",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U02MANZL55F\u003e you’re going too? WOO HOO :heart_eyes:",
+    "ts": "1679012878.517399",
+    "thread_ts": "1678199668.591469",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G5v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " you’re going too? WOO HOO "
+              },
+              {
+                "type": "emoji",
+                "name": "heart_eyes",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f3c34563-4967-46e8-b0ef-ed1e1836369f",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "Just a reminder that the OMSCS Conference Registration closes next Friday and there are a limited amount of spots available :slightly_smiling_face:",
+    "ts": "1679069919.488849",
+    "thread_ts": "1679069919.488849",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1679072247.819529"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1679073969.781499"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1679076398.991079"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1679076404.419849"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1679078800.419659"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1679082922.672379"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1679082928.998159"
+      },
+      {
+        "user": "U02EYBE4QNA",
+        "ts": "1679082997.086989"
+      }
+    ],
+    "latest_reply": "1679082997.086989",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9K7g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just a reminder that the OMSCS Conference Registration closes next Friday and there are a limited amount of spots available "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U02EYBE4QNA"
+    ]
+  },
+  {
+    "client_msg_id": "0326b58a-b9a4-41eb-a346-9aad34f83ad3",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "I really need an agenda before I can commit to it!",
+    "ts": "1679072247.819529",
+    "thread_ts": "1679069919.488849",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V8G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I really need an agenda before I can commit to it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a312ff9c-4355-4df4-a3af-0fc00f208dd0",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "As soon as all of our presenters confirm their registration, we will release the finalized agenda. However, tentatively the conference times will be:\n\nMay 3: 8:00 am-6:00 pm (catering, presentations, and a Keynote), with a networking/social event from 6:15-~8:00\nMay 4: 8:00 am-1:15 pm",
+    "ts": "1679073969.781499",
+    "thread_ts": "1679069919.488849",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XsE1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "As soon as all of our presenters confirm their registration, we will release the finalized agenda. However, tentatively the conference times will be:\n\nMay 3: 8:00 am-6:00 pm (catering, presentations, and a Keynote), with a networking/social event from 6:15-~8:00\nMay 4: 8:00 am-1:15 pm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c7c34f14-a254-46e0-8860-337720a49bfb",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "yeah that's the problem.  Both business days and so I need the agenda to justify going there instead of work",
+    "ts": "1679076398.991079",
+    "thread_ts": "1679069919.488849",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JAH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah that's the problem.  Both business days and so I need the agenda to justify going there instead of work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9313bc53-8ecf-4e33-824a-85e0dbbd4720",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "but appreciate the reminder!",
+    "ts": "1679076404.419849",
+    "thread_ts": "1679069919.488849",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "38YWZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but appreciate the reminder!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "354ef505-baa7-4c9b-9a03-0c48bcd80b06",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "Will this work?",
+    "ts": "1679078800.419659",
+    "thread_ts": "1679069919.488849",
+    "parent_user_id": "U02EYBE4QNA",
+    "files": [
+      {
+        "id": "F04UJK9RJ6N",
+        "created": 1679078788,
+        "timestamp": 1679078788,
+        "name": "OMSCS Conference Agenda.pdf",
+        "title": "OMSCS Conference Agenda.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U02EYBE4QNA",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 220759,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04UJK9RJ6N-OMSCS Conference Agenda.pdf",
+        "url_private_download": "attachments/F04UJK9RJ6N-OMSCS Conference Agenda.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02EYBE4QNA/F04UJK9RJ6N/omscs_conference_agenda.pdf",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F04UJK9RJ6N-ee992fca65",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zDBq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Will this work?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4a1d4133-1862-4778-874a-4fc88ce0902c",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hi beautiful people !\n\u003c!channel\u003e\n\nFor those of you who want to join a beginner friendly XR \u003chttps://ggqbjxtu5wa.typeform.com/to/LlcDYgKi?typeform-source=www.immersegt.io|hackathon\u003e, join by _today_ for priority deadline. *April 7-9*! In person OR virtual! Then let’s join forces!\n\nPS OMSCS Conference *May 3-4* apply for the limited spots as mentioned above by Ana if you’re interested!\n\nPPS Look out for our hike *May 25th*!!! I look forward to it and to seeing you.\n\nHave a happy weekend.\n\nCourageously,\nCherie",
+    "ts": "1679079677.998729",
+    "attachments": [
+      {
+        "fallback": "ImmerseGT application",
+        "id": 1,
+        "title": "ImmerseGT application",
+        "title_link": "https://ggqbjxtu5wa.typeform.com/to/LlcDYgKi?typeform-source=www.immersegt.io",
+        "text": "Turn data collection into an experience with Typeform. Create beautiful online forms, surveys, quizzes, and so much more. Try it for FREE.",
+        "image_url": "https://images.typeform.com/images/2VWurKeiR4R7/image/default",
+        "service_name": "ggqbjxtu5wa.typeform.com",
+        "from_url": "https://ggqbjxtu5wa.typeform.com/to/LlcDYgKi?typeform-source=www.immersegt.io",
+        "original_url": "https://ggqbjxtu5wa.typeform.com/to/LlcDYgKi?typeform-source=www.immersegt.io",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1679115255.000000"
+    },
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xxF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi beautiful people !\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nFor those of you who want to join a beginner friendly XR "
+              },
+              {
+                "type": "link",
+                "url": "https://ggqbjxtu5wa.typeform.com/to/LlcDYgKi?typeform-source=www.immersegt.io",
+                "text": "hackathon"
+              },
+              {
+                "type": "text",
+                "text": ", join by "
+              },
+              {
+                "type": "text",
+                "text": "today",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " for priority deadline. "
+              },
+              {
+                "type": "text",
+                "text": "April 7-9",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "! In person OR virtual! Then let’s join forces!\n\nPS OMSCS Conference "
+              },
+              {
+                "type": "text",
+                "text": "May 3-4 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "apply for the limited spots as mentioned above by Ana if you’re interested!\n\nPPS Look out for our hike "
+              },
+              {
+                "type": "text",
+                "text": "May 25th",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "!!! I look forward to it and to seeing you.\n\nHave a happy weekend.\n\nCourageously,\nCherie"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5750d53d-00a1-442a-b29e-233529dcae33",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "They'll want to know what the topics are that are being covered.  For my role they will need to be focused on things like vulnerability detection and analysis as either static analysis or dynamic analysis, most likely.  Otherwise they will want me to take leave to go",
+    "ts": "1679082922.672379",
+    "thread_ts": "1679069919.488849",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AR+P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "They'll want to know what the topics are that are being covered.  For my role they will need to be focused on things like vulnerability detection and analysis as either static analysis or dynamic analysis, most likely.  Otherwise they will want me to take leave to go"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4146721d-f08c-4ae2-bfb0-1ae07e0085e2",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Can I register just for the social event?",
+    "ts": "1679082928.998159",
+    "thread_ts": "1679069919.488849",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZENEH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can I register just for the social event?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f4415c65-c6e6-4f8d-982c-da267dac73c2",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "Ah I see, as soon as we have a finalized agenda, I'll send it your way! As for the social event, it is tied to the conference registration.",
+    "ts": "1679082997.086989",
+    "thread_ts": "1679069919.488849",
+    "parent_user_id": "U02EYBE4QNA",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xUSH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ah I see, as soon as we have a finalized agenda, I'll send it your way! As for the social event, it is tied to the conference registration."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

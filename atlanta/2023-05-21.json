@@ -1,0 +1,169 @@
+[
+  {
+    "client_msg_id": "baf05e0d-6f15-41c4-80c4-1e7218fab3a4",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Does anyone here use Ubuntu? My PC is stuck on boot and I need some help :)",
+    "ts": "1684631923.125469",
+    "thread_ts": "1684631923.125469",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U041DBXGPC4",
+        "ts": "1684646955.589579"
+      },
+      {
+        "user": "U02BQJX5TB8",
+        "ts": "1684655146.271729"
+      }
+    ],
+    "latest_reply": "1684655146.271729",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sP4fx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does anyone here use Ubuntu? My PC is stuck on boot and I need some help :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U02BQJX5TB8",
+      "U041DBXGPC4"
+    ]
+  },
+  {
+    "client_msg_id": "825dfff6-ecb1-4005-a173-57792565bcf7",
+    "type": "message",
+    "user": "U041DBXGPC4",
+    "text": "Make a bootable USB with an Ubuntu image to do recovery",
+    "ts": "1684646955.589579",
+    "thread_ts": "1684631923.125469",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "point",
+        "count": 1,
+        "users": [
+          "U013YD2ACLC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D4z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Make a bootable USB with an Ubuntu image to do recovery"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-11/4355481552918_c20cc133c7f8dc3dbc6a_72.jpg",
+      "first_name": "dahumada3",
+      "real_name": "dahumada3",
+      "display_name": "David",
+      "team": "T03NCJFKCV8",
+      "name": "dahumada3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "637af34f-de58-425b-a451-5f9e8241a48d",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "I recommend what David says. Always having a bootable linux USB comes in handy. Windows tends to wipe out the bootloader when it uodates",
+    "ts": "1684655146.271729",
+    "thread_ts": "1684631923.125469",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H65vC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I recommend what David says. Always having a bootable linux USB comes in handy. Windows tends to wipe out the bootloader when it uodates"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

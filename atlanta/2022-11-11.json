@@ -1,0 +1,1481 @@
+[
+  {
+    "client_msg_id": "7c309622-30ce-4e82-a58f-b8982ddd0c70",
+    "type": "message",
+    "user": "U04185JLG8M",
+    "text": "\u003c@U02DD5VQLBV\u003e I can go to lunch but need to leave by 3:30",
+    "ts": "1668128894.075589",
+    "thread_ts": "1668037620.328909",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a/C4N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " I can go to lunch but need to leave by 3:30"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-02/4156135726982_8173a7fe45ea9ef39826_72.jpg",
+      "first_name": "Bosun",
+      "real_name": "Bosun A.",
+      "display_name": "Bosun A.",
+      "team": "T03NCJFKCV8",
+      "name": "oadepoju3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CEDCB79D-59E8-4FE6-BDD1-6501906EB00F",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Great time backstage at the ASO! :heart_hands:",
+    "ts": "1668148455.837539",
+    "thread_ts": "1668148455.837539",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U0425F983DE",
+        "ts": "1668173098.414489"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668182744.069889"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1668185403.668309"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668187051.371039"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668282010.343209"
+      }
+    ],
+    "latest_reply": "1668282010.343209",
+    "files": [
+      {
+        "id": "F04AW310KNV",
+        "created": 1668148426,
+        "timestamp": 1668148426,
+        "name": "IMG_7058.jpg",
+        "title": "IMG_7058",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02DD5VQLBV",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 872419,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04AW310KNV-IMG_7058.jpg",
+        "url_private_download": "attachments/F04AW310KNV-IMG_7058.jpg",
+        "original_h": 2320,
+        "original_w": 3088,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F04AW310KNV-129dd81c0d/img_7058_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F04AW310KNV-129dd81c0d/img_7058_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F04AW310KNV-129dd81c0d/img_7058_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F04AW310KNV-129dd81c0d/img_7058_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F04AW310KNV-129dd81c0d/img_7058_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 361,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F04AW310KNV-129dd81c0d/img_7058_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 541,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F04AW310KNV-129dd81c0d/img_7058_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 721,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F04AW310KNV-129dd81c0d/img_7058_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 769,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02DD5VQLBV/F04AW310KNV/img_7058.jpg",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F04AW310KNV-82bb11f9c4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "UMQUVR2VD",
+          "U04185JLG8M",
+          "U045243F552"
+        ]
+      },
+      {
+        "name": "maestro_playing_violin",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U03UM07E4D8"
+        ]
+      },
+      {
+        "name": "swag",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "dance-blob",
+        "count": 2,
+        "users": [
+          "U01N1775WSU",
+          "U042SUUF3NY"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u8W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great time backstage at the ASO! "
+              },
+              {
+                "type": "emoji",
+                "name": "heart_hands",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U040V1EQYMS",
+      "U0425F983DE"
+    ]
+  },
+  {
+    "client_msg_id": "eb50f3d4-a314-4b63-9b5a-d4a447cea6e7",
+    "type": "message",
+    "user": "U0425F983DE",
+    "text": "oooo how was it? do they do that at the art museum?",
+    "ts": "1668173098.414489",
+    "thread_ts": "1668148455.837539",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C1xs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oooo how was it? do they do that at the art museum?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4083809197266_e707c4228597e875853d_72.png",
+      "first_name": "dylan.husserl",
+      "real_name": "dylan.husserl",
+      "display_name": "dylan.husserl",
+      "team": "T03NCJFKCV8",
+      "name": "dylan.husserl",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a76f9485-dcac-4551-8a3a-d7db80aca1d3",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U0425F983DE\u003e no idea! I’m sure someone could get you in with the right connections!! My violin teacher plays in the ASO so we got the hookup!",
+    "ts": "1668182744.069889",
+    "thread_ts": "1668148455.837539",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hg1ee",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0425F983DE"
+              },
+              {
+                "type": "text",
+                "text": " no idea! I’m sure someone could get you in with the right connections!! My violin teacher plays in the ASO so we got the hookup!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f790987-32fb-4a98-a6c4-a7cc6a1b11d1",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I’ll repeat this on Saturday but for those who might donate for the reservation of top golf lane under Vinay, his Venmo is Vinay-Easwaran",
+    "ts": "1668182800.538199",
+    "thread_ts": "1668037620.328909",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U04263B0EMP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZPYYw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ll repeat this on Saturday but for those who might donate for the reservation of top golf lane under Vinay, his Venmo is Vinay-Easwaran"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1467ca51-f8a4-45c9-8ce5-2655e994ebbe",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U04185JLG8M\u003e okay! We’ll definitely leave around 2/2:30!",
+    "ts": "1668182819.910979",
+    "thread_ts": "1668037620.328909",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9KU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " okay! We’ll definitely leave around 2/2:30!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a16d654f-8e4f-48e1-9e24-9bda69a29262",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "My girlfriend’s Dad is in the GSO choir so we get tickets to go to ASO concerts sometimes. I am really looking forward to the holiday one. The last few years it has been super awesome.",
+    "ts": "1668185403.668309",
+    "thread_ts": "1668148455.837539",
+    "edited": {
+      "user": "U040V1EQYMS",
+      "ts": "1668185432.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t2t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My girlfriend’s Dad is in the GSO choir so we get tickets to go to ASO concerts sometimes. I am really looking forward to the holiday one. The last few years it has been super awesome."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1d15ba10-047e-42fe-a46a-9bb488f499ac",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "I have cash so I can give moneys to whoever on arrival if that is alright with \u003c@U02UAQKR56C\u003e",
+    "ts": "1668185479.745499",
+    "thread_ts": "1668037620.328909",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NRH=R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have cash so I can give moneys to whoever on arrival if that is alright with "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5d32e36a-ca25-420d-98d3-d6f1e6a9a796",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "If there are any topgolf cost questions please refer to \u003c@U040V1EQYMS\u003e and \u003c@U8QDSG1G9\u003e they’re the experts!",
+    "ts": "1668186134.020859",
+    "thread_ts": "1668037620.328909",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "yas",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RYq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If there are any topgolf cost questions please refer to "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " they’re the experts!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1255ad50-1955-46b1-b0b1-870d71af1346",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "omg my neighbor is in the choir! Yes if you go post pictures!",
+    "ts": "1668187051.371039",
+    "thread_ts": "1668148455.837539",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "fire",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IoN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "omg my neighbor is in the choir! Yes if you go post pictures!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "USLACKBOT",
+    "text": "This message was deleted.",
+    "ts": "1668194095.702589",
+    "thread_ts": "1668194095.702589",
+    "subtype": "tombstone",
+    "hidden": true,
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U04263B0EMP",
+        "ts": "1668194995.098339"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1668195947.687609"
+      },
+      {
+        "user": "U04263B0EMP",
+        "ts": "1668196134.369439"
+      },
+      {
+        "user": "U04263B0EMP",
+        "ts": "1668196176.104269"
+      }
+    ],
+    "parent_user_id": "USLACKBOT",
+    "latest_reply": "1668196176.104269",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+      "first_name": "slackbot",
+      "real_name": "Slackbot",
+      "display_name": "Slackbot",
+      "team": "T03NCJFKCV8",
+      "name": "slackbot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U04263B0EMP"
+    ]
+  },
+  {
+    "client_msg_id": "a572fa76-2bfa-4a2c-82fb-ce4ba5e3d16f",
+    "type": "message",
+    "user": "U04263B0EMP",
+    "text": "Sounds good. That reminds me-- I keep seeing meme pictures of $8 bills with Elon Musk's face on them... Nevermind. :joy:",
+    "ts": "1668194995.098339",
+    "thread_ts": "1668194095.702589",
+    "parent_user_id": "USLACKBOT",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UspbA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good. That reminds me-- I keep seeing meme pictures of $8 bills with Elon Musk's face on them... Nevermind. "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4080586870964_286ffd522208a686a8ba_72.jpg",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rega",
+      "display_name": "thomas.rega",
+      "team": "T03NCJFKCV8",
+      "name": "thomas.rega",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cadf81b6-1b48-4749-afe2-1c62277c75bd",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "\u003c@U03UM07E4D8\u003e\u003c@U02L4D90KD0\u003e \u003c@U02UAQKR56C\u003e \u003c@U04263B0EMP\u003e \u003c@U0414MF04F8\u003e \u003c@U04185JLG8M\u003e \u003c@U041PH0B1DF\u003e  \u003c@U03TCLMDTLM\u003e  \u003c@U0495G3QQ1W\u003e \u003c@U01N1775WSU\u003e \u003c@U013YD2ACLC\u003e \u003c@U040V1EQYMS\u003e\nJust a reminder to those coming to TopGolf this weekend -\nIt’s a maximum of $50 per hour per bay and each bay holds 6\nThat’s about $8 per person per hour.",
+    "ts": "1668195764.725609",
+    "thread_ts": "1668037620.328909",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zHz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "user",
+                "user_id": "U02L4D90KD0"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04263B0EMP"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0414MF04F8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TCLMDTLM"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U013YD2ACLC"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": "\nJust a reminder to those coming to TopGolf this weekend -\nIt’s a maximum of $50 per hour per bay and each bay holds 6\nThat’s about $8 per person per hour."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cadf81b6-1b48-4749-afe2-1c62277c75bd",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "\u003c@U03UM07E4D8\u003e\u003c@U02L4D90KD0\u003e \u003c@U02UAQKR56C\u003e \u003c@U04263B0EMP\u003e \u003c@U0414MF04F8\u003e \u003c@U04185JLG8M\u003e \u003c@U041PH0B1DF\u003e  \u003c@U03TCLMDTLM\u003e  \u003c@U0495G3QQ1W\u003e \u003c@U01N1775WSU\u003e \u003c@U013YD2ACLC\u003e \u003c@U040V1EQYMS\u003e\nJust a reminder to those coming to TopGolf this weekend -\nIt’s a maximum of $50 per hour per bay and each bay holds 6\nThat’s about $8 per person per hour.",
+    "ts": "1668195764.725609",
+    "thread_ts": "1668037620.328909",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zHz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              },
+              {
+                "type": "user",
+                "user_id": "U02L4D90KD0"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04263B0EMP"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0414MF04F8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TCLMDTLM"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U013YD2ACLC"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": "\nJust a reminder to those coming to TopGolf this weekend -\nIt’s a maximum of $50 per hour per bay and each bay holds 6\nThat’s about $8 per person per hour."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "735E145A-B4C6-43BD-965D-436A3A2C6A20",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Thanks Ram :heart: \nif you have financial difficulties tell me we want as many people to come as possible ",
+    "ts": "1668195912.380959",
+    "thread_ts": "1668037620.328909",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4zWvu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks"
+              },
+              {
+                "type": "text",
+                "text": " Ram "
+              },
+              {
+                "type": "emoji",
+                "name": "heart",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " \nif you have financial difficulties tell me "
+              },
+              {
+                "type": "text",
+                "text": "we"
+              },
+              {
+                "type": "text",
+                "text": " want as many people to come as possible "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A4BC5FEE-5E59-4983-BC15-500B28030A41",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Oh gosh I wonder why. #8 is super lucky and means wealth in Chinese ",
+    "ts": "1668195947.687609",
+    "thread_ts": "1668194095.702589",
+    "parent_user_id": "USLACKBOT",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GOOFR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh gosh I wonder why. #8 is super lucky and means wealth in Chinese "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c186113c-1d63-43c5-826d-c311a9f70835",
+    "type": "message",
+    "user": "U04263B0EMP",
+    "text": "Its because he wants to charge $8/mo for twitter.",
+    "ts": "1668196134.369439",
+    "thread_ts": "1668194095.702589",
+    "parent_user_id": "USLACKBOT",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BD8e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Its because he wants to charge $8/mo for twitter."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4080586870964_286ffd522208a686a8ba_72.jpg",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rega",
+      "display_name": "thomas.rega",
+      "team": "T03NCJFKCV8",
+      "name": "thomas.rega",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e6e310da-b186-41e3-b79b-c723f92013cc",
+    "type": "message",
+    "user": "U04263B0EMP",
+    "text": "Yeah, 8 is lucky and 4 is unlucky. I'm aware that a lot of buildings don't have 4th floors.",
+    "ts": "1668196176.104269",
+    "thread_ts": "1668194095.702589",
+    "parent_user_id": "USLACKBOT",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NYJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, 8 is lucky and 4 is unlucky. I'm aware that a lot of buildings don't have 4th floors."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4080586870964_286ffd522208a686a8ba_72.jpg",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rega",
+      "display_name": "thomas.rega",
+      "team": "T03NCJFKCV8",
+      "name": "thomas.rega",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a0a5dfbb-62b0-4fe9-8a0f-33308fff0df4",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "I have a $10 coupon I plan to use on my lane to help reduce the cost as well.\n\nIf anyone needs help with the money for golf I don’t mind helping out. Just DM or give me a heads up Saturday.",
+    "ts": "1668197776.955989",
+    "thread_ts": "1668037620.328909",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/TJxW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have a $10 coupon I plan to use on my lane to help reduce the cost as well.\n\nIf anyone needs help with the money for golf I don’t mind helping out. Just DM or give me a heads up Saturday."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82214dff-c5ca-4e0a-9e15-ea33c5c38aed",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Same here but don't have a coupon tho",
+    "ts": "1668197819.006529",
+    "thread_ts": "1668037620.328909",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y1qSI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Same here but don't have a coupon tho"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eee5e882-6130-491d-b529-e3ee56ca3669",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "You can double count my +1 as many time as needed for one lane :slightly_smiling_face: We are more than happy to cover the fee",
+    "ts": "1668198892.923669",
+    "thread_ts": "1668037620.328909",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MH5P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You can double count my +1 as many time as needed for one lane "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " We are more than happy to cover the fee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,1403 @@
+[
+  {
+    "client_msg_id": "a211216e-ddf7-40f9-856b-07940dbefe30",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U03V8G3NGP4\u003e all good usually there are a few driving up and people are really nice or can pick you up there or at a Marta (depending on the person)!",
+    "ts": "1675988747.127339",
+    "thread_ts": "1675695533.108239",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QIlo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03V8G3NGP4"
+              },
+              {
+                "type": "text",
+                "text": " all good usually there are a few driving up and people are really nice or can pick you up there or at a Marta (depending on the person)!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "720cf6ff-2546-41a2-99ed-4960b74e8f03",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Y'all what's the plan for Superbowl",
+    "ts": "1676040161.192169",
+    "thread_ts": "1676040161.192169",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U01N1775WSU",
+        "ts": "1676041225.794939"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1676047787.507969"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1676082696.273679"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1676093066.243429"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1676130944.738489"
+      }
+    ],
+    "latest_reply": "1676130944.738489",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lcm=4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Y'all what's the plan for Superbowl"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02DD5VQLBV",
+      "U02UAQKR56C"
+    ]
+  },
+  {
+    "client_msg_id": "bd566d80-729a-447f-aef5-36605459a258",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "Do you want to host? :football_parrot:",
+    "ts": "1676041225.794939",
+    "thread_ts": "1676040161.192169",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+Tr=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do you want to host? "
+              },
+              {
+                "type": "emoji",
+                "name": "football_parrot",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "043e7636-bf94-474b-aff0-43433a7eeb41",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Sure, I could",
+    "ts": "1676047787.507969",
+    "thread_ts": "1676040161.192169",
+    "parent_user_id": "U02UAQKR56C",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "919",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sure, I could"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4cf2da18-a03a-47c6-9a34-d989bd6c64e7",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Happy Friday,\n\nFeel free to keep polling above on activities \u003c!channel\u003e if you have not.\n\nThanks to all who came to the last event potluck, it was a blast seeing returning students and new ones! It can only get stronger from here!!\n\nFor upcoming months, it is looking like this:\n\nFeb -\n*Side Event*: Vinay wants a superbowl gathering so if you’re interested, message in the thread above! :football:\n\n*School Event*: Feb 24 6pm-8pm for artsy people…open house on what undergrads have made at one of GT’s maker spaces! :bee:\n\nMarch -\n*Main Event:* Hiking + Food :hiking_boot: (if you’re down for March 4, 2023 11:30AM-1:30PM- Sweetwater Creek State Park (Suggestion of some OMSCS students and 35 minutes from Atlanta). I just chose a date but if you have a preference let me know)\n\n*Side event:* Volunteer with me painting at an Assisted Living home for an hour or two (2-3 people). I’ll set this up but it’s by Lenox Park. Will probably at 3-4:30PM on a Saturday or Weekday if you can. :art: (if you’re creative and still want to participate hit the art emoji here and I’ll create a mini chat!) \u003c@U01N1775WSU\u003e \u003c@U040V1EQYMS\u003e \u003c@UJM8GC35H\u003e\n\nApril -\n*Main Event*: Go Karting - Need someone who can suggest a place. :car:\u003c@U02UAQKR56C\u003e \u003c@U02BQJX5TB8\u003e \u003c@U01N1775WSU\u003e \u003c@U04FPU4J3QE\u003e \u003c@U03V8G3NGP4\u003e \u003c@U040V1EQYMS\u003e \u003c@U0417UDBBUM\u003e\n\n*Side Event*: Cabin away…. 3-5 people. :hut:\n\nMay -\n*Main Event*: Pottery Class - Suggestions?!\n\n*Side Event*: May 3-4 OMSCS Conference, TBD on time.\n\nThere will be a social from 3-5PM or 5-7PM with OMSCS students from all over the world. I’ll be helping to coordinate so stay tuned.\n\nIf you have a project you want to present or a game you made feel free to join the conference. It’s $25 to participate to get food and swag as presenter or viewer. (RE: \u003chttps://omscs.gatech.edu/2023-omscs-conference\u003e) :chart_with_upwards_trend: (if you sign up let me know!)\n\nThe social afterwards is not connected to the conference and it’ll be like our regular meetup but more people! :beers: (beers if you are coming! Joyner will probably be here)\n\nCherie Lum",
+    "ts": "1676051897.007129",
+    "thread_ts": "1676051897.007129",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1676088889.000000"
+    },
+    "reply_count": 17,
+    "replies": [
+      {
+        "user": "U04JTFXHEUB",
+        "ts": "1676052396.825889"
+      },
+      {
+        "user": "USLDMLNSK",
+        "ts": "1676052460.727189"
+      },
+      {
+        "user": "U04FPU4J3QE",
+        "ts": "1676052561.107449"
+      },
+      {
+        "user": "U01N1775WSU",
+        "ts": "1676052780.277129"
+      },
+      {
+        "user": "U04FPU4J3QE",
+        "ts": "1676052965.768179"
+      },
+      {
+        "user": "U02L4D90KD0",
+        "ts": "1676061209.989779"
+      },
+      {
+        "user": "USLDMLNSK",
+        "ts": "1676062084.237309"
+      },
+      {
+        "user": "UJNR8MXM4",
+        "ts": "1676087187.923359"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1676089032.772179"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1676159092.807409"
+      },
+      {
+        "user": "UJM8GC35H",
+        "ts": "1676299445.794799"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1676402210.439469"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1676599236.634289"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1676704461.169359"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1676782520.676949"
+      },
+      {
+        "user": "UJM8GC35H",
+        "ts": "1676847757.936069"
+      },
+      {
+        "user": "U04JTFXHEUB",
+        "ts": "1676847790.058219"
+      }
+    ],
+    "latest_reply": "1676847790.058219",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "hiking_boot",
+        "count": 7,
+        "users": [
+          "U04JTFXHEUB",
+          "U04263B0EMP",
+          "U041DBXGPC4",
+          "USLDMLNSK",
+          "U040WB5GXRV",
+          "U02BQJX5TB8",
+          "U02MANZL55F"
+        ]
+      },
+      {
+        "name": "art",
+        "count": 5,
+        "users": [
+          "U04JTFXHEUB",
+          "U01N1775WSU",
+          "U02CFCE4QE8",
+          "USLDMLNSK",
+          "U02MANZL55F"
+        ]
+      },
+      {
+        "name": "chart_with_upwards_trend",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      },
+      {
+        "name": "beers",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pqv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy Friday,\n\nFeel free to keep polling above on activities "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " if you have not.\n\nThanks to all who came to the last event potluck, it was a blast seeing returning students and new ones! It can only get stronger from here!!\n\nFor upcoming months, it is looking like this:\n\nFeb -\n"
+              },
+              {
+                "type": "text",
+                "text": "Side Event",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Vinay wants a superbowl gathering so if you’re interested, message in the thread above! "
+              },
+              {
+                "type": "emoji",
+                "name": "football",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "School Event",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Feb 24 6pm-8pm for artsy people…open house on what undergrads have made at one of GT’s maker spaces! "
+              },
+              {
+                "type": "emoji",
+                "name": "bee",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nMarch -\n"
+              },
+              {
+                "type": "text",
+                "text": "Main Event: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "Hiking + Food "
+              },
+              {
+                "type": "emoji",
+                "name": "hiking_boot",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " (if you’re down for March 4, 2023 11:30AM-1:30PM- Sweetwater Creek State Park (Suggestion of some OMSCS students and 35 minutes from Atlanta). I just chose a date but if you have a preference let me know)\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Side event:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Volunteer with me painting at an Assisted Living home for an hour or two (2-3 people). I’ll set this up but it’s by Lenox Park. Will probably at 3-4:30PM on a Saturday or Weekday if you can. "
+              },
+              {
+                "type": "emoji",
+                "name": "art",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " (if you’re creative and still want to participate hit the art emoji here and I’ll create a mini chat!) "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "UJM8GC35H"
+              },
+              {
+                "type": "text",
+                "text": "\n\nApril -\n"
+              },
+              {
+                "type": "text",
+                "text": "Main Event",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Go Karting - Need someone who can suggest a place. "
+              },
+              {
+                "type": "emoji",
+                "name": "car",
+                "skin_tone": 0
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02BQJX5TB8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04FPU4J3QE"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8G3NGP4"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0417UDBBUM"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Side Event",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Cabin away…. 3-5 people. "
+              },
+              {
+                "type": "emoji",
+                "name": "hut",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nMay -\n"
+              },
+              {
+                "type": "text",
+                "text": "Main Event",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Pottery Class - Suggestions?!\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Side Event",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": May 3-4 OMSCS Conference, TBD on time.\n\nThere will be a social from 3-5PM or 5-7PM with OMSCS students from all over the world. I’ll be helping to coordinate so stay tuned.\n\nIf you have a project you want to present or a game you made feel free to join the conference. It’s $25 to participate to get food and swag as presenter or viewer. (RE: "
+              },
+              {
+                "type": "link",
+                "url": "https://omscs.gatech.edu/2023-omscs-conference",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ") "
+              },
+              {
+                "type": "emoji",
+                "name": "chart_with_upwards_trend",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " (if you sign up let me know!)\n\nThe social afterwards is not connected to the conference and it’ll be like our regular meetup but more people! "
+              },
+              {
+                "type": "emoji",
+                "name": "beers",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " (beers if you are coming! Joyner will probably be here)\n\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 9,
+    "reply_users": [
+      "U01N1775WSU",
+      "U02DD5VQLBV",
+      "U02L4D90KD0",
+      "U040V1EQYMS",
+      "U04FPU4J3QE",
+      "U04JTFXHEUB",
+      "UJM8GC35H",
+      "UJNR8MXM4",
+      "USLDMLNSK"
+    ]
+  },
+  {
+    "client_msg_id": "ba10cf70-bf16-417f-84a9-7973270a57e9",
+    "type": "message",
+    "user": "U04JTFXHEUB",
+    "text": "Andretti is the best for Go Karting",
+    "ts": "1676052396.825889",
+    "thread_ts": "1676051897.007129",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PRn+M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Andretti is the best for Go Karting"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-01-13/4666814158272_114b46e18ea49c3b8204_72.jpg",
+      "first_name": "Mahesh",
+      "real_name": "Mahesh Chukka",
+      "display_name": "mahesh.chukka",
+      "team": "T03NCJFKCV8",
+      "name": "mahesh.chukka",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "73526b47-f796-4b19-8cc7-101d367a712e",
+    "type": "message",
+    "user": "USLDMLNSK",
+    "text": "For gokarting, if you want to go legit, then there's an outdoor track in Dawsonville in AMP, these karts go 60mph. But yeah andretti on Wednesdays connect up both tracks to make one large one",
+    "ts": "1676052460.727189",
+    "thread_ts": "1676051897.007129",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U04JTFXHEUB"
+        ]
+      },
+      {
+        "name": "yaaasss",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q36",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For gokarting, if you want to go legit, then there's an outdoor track in Dawsonville in AMP, these karts go 60mph. But yeah andretti on Wednesdays connect up both tracks to make one large one"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4027258340737_52f8f24c427e2db3d373_72.jpg",
+      "first_name": "Ankit",
+      "real_name": "Ankit B.",
+      "display_name": "Ankit B.",
+      "team": "T03NCJFKCV8",
+      "name": "abaraskar6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "345BC9B0-D1E9-463C-915D-A50215D763DB",
+    "type": "message",
+    "user": "U04FPU4J3QE",
+    "text": "\u003c@USLDMLNSK\u003e I second AMP! I raced karts and cars growing up and AMP is as legit as you can get without buying a racing kart.  ",
+    "ts": "1676052561.107449",
+    "thread_ts": "1676051897.007129",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "this",
+        "count": 2,
+        "users": [
+          "USLDMLNSK",
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U04JTFXHEUB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cHePK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "text",
+                "text": " I second AMP! I raced karts and cars growing up and AMP is as legit as you can get without buying a racing kart"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": "  "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-12-19/4540569625762_f058d2a49d1390685624_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua",
+      "display_name": "jlawrence81",
+      "team": "T03NCJFKCV8",
+      "name": "jlawrence81",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d280dcd0-591d-4b23-b0bc-f0e240a268df",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "I'm very excited for the conference!!",
+    "ts": "1676052780.277129",
+    "thread_ts": "1676051897.007129",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U02EYBE4QNA",
+          "U040WB5GXRV"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H8fY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm very excited for the conference!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B71D505E-8C90-4815-A20E-50CAA5F52669",
+    "type": "message",
+    "user": "U04FPU4J3QE",
+    "text": "Andretti is a great option as well. Not as far to drive. ",
+    "ts": "1676052965.768179",
+    "thread_ts": "1676051897.007129",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ej/U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Andretti is a great option as well"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Not as far to drive"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-12-19/4540569625762_f058d2a49d1390685624_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua",
+      "display_name": "jlawrence81",
+      "team": "T03NCJFKCV8",
+      "name": "jlawrence81",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "972E216A-2C7F-4B0E-973E-10313672A6B1",
+    "type": "message",
+    "user": "U02CFCE4QE8",
+    "text": "Sorry guys, I am replying so late! Didnt notice this before somehow. Thanks for the comments. ",
+    "ts": "1676053768.515279",
+    "thread_ts": "1662592815.692939",
+    "parent_user_id": "U02CFCE4QE8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FbBk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry guys, I am replying so late! Didnt notice this before somehow. Thanks for the comments. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4047835061221_fb210c049b351263d26f_72.jpg",
+      "first_name": "Shahriar",
+      "real_name": "Shahriar Tanvir Pavel",
+      "display_name": "Shah",
+      "team": "T03NCJFKCV8",
+      "name": "spavel6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7CED7916-E3D0-4302-AC09-96DB0956B906",
+    "type": "message",
+    "user": "U02L4D90KD0",
+    "text": "Dang bunch of racers. I was debating doing this \u003chttps://caffeine-and-octane-lanier-raceway.myshopify.com/products/camp-drift-caffeine-octane-lanier-raceway-1|https://caffeine-and-octane-lanier-raceway.myshopify.com/products/camp-drift-caffeine-octane-lanier-raceway-1\u003e\n\nI've never done something like this so I thought I might try it at least once with my BRZ",
+    "ts": "1676061209.989779",
+    "thread_ts": "1676051897.007129",
+    "attachments": [
+      {
+        "fallback": "Caffeine and Octane Lanier Raceway: CAMP DRIFT - Caffeine \u0026amp; Octane Lanier Raceway",
+        "id": 1,
+        "title": "CAMP DRIFT - Caffeine \u0026amp; Octane Lanier Raceway",
+        "title_link": "https://caffeine-and-octane-lanier-raceway.myshopify.com/products/camp-drift-caffeine-octane-lanier-raceway-1",
+        "text": "CAFFEINE \u0026amp; OCTANE CAMP DRIFT This special drift event includes beginner class time \u0026amp; instructor Q\u0026amp;A session, on-track 'tandem' \u0026amp; 'course control' breakout sessions led by advanced driver CAMP DRIFT counselors, followed by open drift practice. Special Thanks to Dustin Miles of MILES OF STYLE RACING for b",
+        "image_url": "http://cdn.shopify.com/s/files/1/0682/6839/2730/products/DriverPre-Registration_150.png?v=1673025551",
+        "service_name": "Caffeine and Octane Lanier Raceway",
+        "from_url": "https://caffeine-and-octane-lanier-raceway.myshopify.com/products/camp-drift-caffeine-octane-lanier-raceway-1",
+        "original_url": "https://caffeine-and-octane-lanier-raceway.myshopify.com/products/camp-drift-caffeine-octane-lanier-raceway-1",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U02L4D90KD0",
+      "ts": "1676061242.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "fire",
+        "count": 2,
+        "users": [
+          "USLDMLNSK",
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4an",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Dang bunch of racers. I was debating doing this "
+              },
+              {
+                "type": "link",
+                "url": "https://caffeine-and-octane-lanier-raceway.myshopify.com/products/camp-drift-caffeine-octane-lanier-raceway-1",
+                "text": "https://caffeine-and-octane-lanier-raceway.myshopify.com/products/camp-drift-caffeine-octane-lanier-raceway-1"
+              },
+              {
+                "type": "text",
+                "text": "\n\nI've never done something like this so I thought I might try it at least once with my BRZ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4144955360679_94f51bd64f2b7e34bb6e_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Scott",
+      "display_name": "Daniel Scott",
+      "team": "T03NCJFKCV8",
+      "name": "dscott45",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f9cdf00-f176-4ceb-bb2f-76ffcfe89a12",
+    "type": "message",
+    "user": "USLDMLNSK",
+    "text": "\u003c@U02L4D90KD0\u003e looks awesome, a good way to use up stock tires and get better new ones",
+    "ts": "1676062084.237309",
+    "thread_ts": "1676051897.007129",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02L4D90KD0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QHYDF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02L4D90KD0"
+              },
+              {
+                "type": "text",
+                "text": " looks awesome, a good way to use up stock tires and get better new ones"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4027258340737_52f8f24c427e2db3d373_72.jpg",
+      "first_name": "Ankit",
+      "real_name": "Ankit B.",
+      "display_name": "Ankit B.",
+      "team": "T03NCJFKCV8",
+      "name": "abaraskar6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F65D53E6-E3A9-431E-93FB-775E0B3F111B",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "Oh wait we can’t pick 5??",
+    "ts": "1676066180.705709",
+    "thread_ts": "1675695533.108239",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JX1S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh wait we "
+              },
+              {
+                "type": "text",
+                "text": "can’t"
+              },
+              {
+                "type": "text",
+                "text": " pick 5??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "24F3B361-7D82-4613-A5DB-CB8C339F7CB2",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "Wish I could have made it, I’ve been drowning in hw :smiling_face_with_tear: ",
+    "ts": "1676066273.024969",
+    "thread_ts": "1675552989.617029",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TWyXA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wish I could have made it, "
+              },
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " been drowning in hw "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "436a9780-4670-4ba3-acbc-db1f3ff98850",
+    "type": "message",
+    "user": "UJNR8MXM4",
+    "text": "Can we not pick multiple?",
+    "ts": "1676071418.496229",
+    "thread_ts": "1675695533.108239",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "95P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can we not pick multiple?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-03-01/4876220159541_cc798300838b6ba2b8f6_72.jpg",
+      "first_name": "",
+      "real_name": "Yaw",
+      "display_name": "Yaw",
+      "team": "T03NCJFKCV8",
+      "name": "yagyepong3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dca253e0-e0cd-4ac7-9777-c86aa22b4a81",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "I think it's because we usually do 1 event a month. We'll do them one by one I assume",
+    "ts": "1676071940.392079",
+    "thread_ts": "1675695533.108239",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "carlton_3",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AhLh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think it's because we usually do 1 event a month. We'll do them one by one I assume"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

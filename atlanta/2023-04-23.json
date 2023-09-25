@@ -1,0 +1,474 @@
+[
+  {
+    "client_msg_id": "22E79024-D5AF-4EF9-B5AD-721E67956687",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello beautiful people \u003c!channel\u003e\n\nForgot to add the breakfast if champions yesterday!\n\nAnd happy belated earth day (yesterday).\n\nPs. Vote on type of berries you want to pick which will be led by \u003c@U02MANZL55F\u003e it’ll determine which month we do it! (FEEL free to bring your kids \u003c@U040WB5GXRV\u003e \u003c@U01SG18HJF4\u003e and anybody else with kids!!)\n\n:strawberry: strawberries\n:blueberries: blueberries\n:b: rasberries\n:peach: peaches\n:apple: apples\n:raised_hands: all fruits are good with you\n\nPPS also vote on (if you plan to go) in Aug/Sept led by \u003c@USLDMLNSK\u003e (Choose the one you prefer\n:hut: cabin getaway or\n:camping: tent/trailer getaway\n:hand_with_index_finger_and_thumb_crossed: either is good with me\n\n-Cherie Lum",
+    "ts": "1682253770.243409",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1682288707.000000"
+    },
+    "files": [
+      {
+        "id": "F054LA32U2Y",
+        "created": 1682253426,
+        "timestamp": 1682253426,
+        "name": "IMG_0903.jpg",
+        "title": "IMG_0903",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02DD5VQLBV",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1184459,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F054LA32U2Y-IMG_0903.jpg",
+        "url_private_download": "attachments/F054LA32U2Y-IMG_0903.jpg",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F054LA32U2Y-536bf35c50/img_0903_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F054LA32U2Y-536bf35c50/img_0903_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F054LA32U2Y-536bf35c50/img_0903_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F054LA32U2Y-536bf35c50/img_0903_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F054LA32U2Y-536bf35c50/img_0903_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F054LA32U2Y-536bf35c50/img_0903_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F054LA32U2Y-536bf35c50/img_0903_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F054LA32U2Y-536bf35c50/img_0903_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02DD5VQLBV/F054LA32U2Y/img_0903.jpg",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F054LA32U2Y-6da9156968",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "blueberries",
+        "count": 2,
+        "users": [
+          "U04JTFXHEUB",
+          "U0425F983DE"
+        ]
+      },
+      {
+        "name": "peach",
+        "count": 1,
+        "users": [
+          "U04JTFXHEUB"
+        ]
+      },
+      {
+        "name": "hut",
+        "count": 3,
+        "users": [
+          "U01JYRB9DL2",
+          "UJM8GC35H",
+          "UJNR8MXM4"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 5,
+        "users": [
+          "U01N1775WSU",
+          "U040V1EQYMS",
+          "UJM8GC35H",
+          "U041PH0B1DF",
+          "U040WB5GXRV"
+        ]
+      },
+      {
+        "name": "hand_with_index_finger_and_thumb_crossed",
+        "count": 4,
+        "users": [
+          "U040V1EQYMS",
+          "U041PH0B1DF",
+          "U02UAQKR56C",
+          "U040WB5GXRV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "13dYC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello beautiful people "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nForgot to add the breakfast if champions yesterday!\n\nAnd happy belated earth day (yesterday).\n\nPs. Vote on type of berries you want to pick which will be led by "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " it’ll determine which month we do it! (FEEL free to bring your kids "
+              },
+              {
+                "type": "user",
+                "user_id": "U040WB5GXRV"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U01SG18HJF4"
+              },
+              {
+                "type": "text",
+                "text": " and anybody else with kids!!)\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "strawberry",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " strawberries\n"
+              },
+              {
+                "type": "emoji",
+                "name": "blueberries",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " blueberries\n"
+              },
+              {
+                "type": "emoji",
+                "name": "b",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " rasberries\n"
+              },
+              {
+                "type": "emoji",
+                "name": "peach",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " peaches\n"
+              },
+              {
+                "type": "emoji",
+                "name": "apple",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " apples\n"
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " all fruits are good with you\n\nPPS also vote on (if you plan to go) in Aug/Sept led by "
+              },
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "text",
+                "text": " (Choose the one you prefer\n"
+              },
+              {
+                "type": "emoji",
+                "name": "hut",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " cabin getaway or\n"
+              },
+              {
+                "type": "emoji",
+                "name": "camping",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " tent/trailer getaway\n"
+              },
+              {
+                "type": "emoji",
+                "name": "hand_with_index_finger_and_thumb_crossed",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " either is good with me\n\n-Cherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "FE68C1B4-8416-436A-8863-A1EB5A2596C1",
+    "type": "message",
+    "user": "U040XQFU7A5",
+    "text": "\u003c@U02DD5VQLBV\u003e snake plant [name pending] successfully integrated into the pack ",
+    "ts": "1682258005.488719",
+    "thread_ts": "1681844885.272359",
+    "parent_user_id": "U02DD5VQLBV",
+    "files": [
+      {
+        "id": "F054F04FKV3",
+        "created": 1682258001,
+        "timestamp": 1682258001,
+        "name": "IMG_4835.jpg",
+        "title": "IMG_4835",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U040XQFU7A5",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 989772,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F054F04FKV3-IMG_4835.jpg",
+        "url_private_download": "attachments/F054F04FKV3-IMG_4835.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F054F04FKV3-556efe70d5/img_4835_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F054F04FKV3-556efe70d5/img_4835_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F054F04FKV3-556efe70d5/img_4835_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F054F04FKV3-556efe70d5/img_4835_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F054F04FKV3-556efe70d5/img_4835_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F054F04FKV3-556efe70d5/img_4835_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F054F04FKV3-556efe70d5/img_4835_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F054F04FKV3-556efe70d5/img_4835_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://gatech.enterprise.slack.com/files/U040XQFU7A5/F054F04FKV3/img_4835.jpg",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F054F04FKV3-77232c0ce7",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DyNai",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " snake plant [name pending] successfully integrated into the pack "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-31/4019449241203_151d6fb129d579f03684_72.jpg",
+      "first_name": "Brandon",
+      "real_name": "Brandon Conner",
+      "display_name": "Brandon",
+      "team": "T03NCJFKCV8",
+      "name": "bconner6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "96b1a76e-c485-4cd4-8080-eae0ec469da8",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "OMG this is SO GOOD!! It looks wonderful. The OG plant was named Spike Lee! But I am excited to know what the offspring will be called one day! :heart_eyes: \u003c@U040XQFU7A5\u003e",
+    "ts": "1682263145.935249",
+    "thread_ts": "1681844885.272359",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1682263154.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6XD84",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "OMG this is SO GOOD!! It looks wonderful. The OG plant was named Spike Lee! But I am excited to know what the offspring will be called one day! "
+              },
+              {
+                "type": "emoji",
+                "name": "heart_eyes",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040XQFU7A5"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

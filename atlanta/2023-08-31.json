@@ -1,0 +1,2124 @@
+[
+  {
+    "client_msg_id": "2831d1c8-f5f5-49cb-a085-c51a32499abc",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U05NS6MBHNE\u003e I can!",
+    "ts": "1693451166.223999",
+    "thread_ts": "1693354834.898939",
+    "parent_user_id": "U040V1EQYMS",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "keS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05NS6MBHNE"
+              },
+              {
+                "type": "text",
+                "text": " I can!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bdb6bb4d-60c9-4f01-b97a-03c0429f99ee",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U01N1775WSU\u003e so there’s a definite hike on the 2nd with Zvi, but also \u003c@U02UAQKR56C\u003e if people want, I’m planning people gather maybe like late afternoon to explore the blue ridge area/hike around 1PM, then we can all checkin around 3PM.",
+    "ts": "1693451279.777349",
+    "thread_ts": "1693346663.976399",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rvM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " so there’s a definite hike on the 2nd with Zvi, but also "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " if people want, I’m planning people gather maybe like late afternoon to explore the blue ridge area/hike around 1PM, then we can all checkin around 3PM."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a4def8c7-ab44-4981-a3d5-c5865322b5c2",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Also please DM me your venmo !",
+    "ts": "1693454284.379799",
+    "thread_ts": "1693354834.898939",
+    "parent_user_id": "U040V1EQYMS",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q4R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also please DM me your venmo !"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "698b7d48-f234-42d0-a51f-7bf5bc42cf0e",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello camp/stargazing crew!\n\n*Who*: \u003c@U04185JLG8M\u003e \u003c@U02UAQKR56C\u003e \u003c@U040V1EQYMS\u003e \u003c@U0495G3QQ1W\u003e \u003c@U02MANZL55F\u003e \u003c@U04184BSKM3\u003e \u003c@U041PH0B1DF\u003e \u003c@U04S6L1NS9M\u003e \u003c@U05NS6MBHNE\u003e + Cherie\nWho for the day: \u003c@U01N1775WSU\u003e\n*When*: Sept 9, 2023\n*Time*: Meet at 1PM for a late lunch and mini hike! Then go to the house at check-in (I assume that’s 3PM right now)\n*Rides*: For those who need a ride…. I think Karol, make sure to find your favorite friend to ride with or DM me to find you someone. I also need someone nearest riding past Buckhead/Lenox Marta :pray:\n\nHere’s what’s happening, more people have joined, which is great. So after reading what ya’lls wanted at a glance (ie. bond fire, hot tub, price points, activities) mixed with knowing what you guys really want (I.e. entertainment, sleep semi-comfortably, and connecting with your fellow friends with practicality (e.g. a hot tub for 4 is not going to entertain us all)). I found two different fantastic places, but there’s a trade off….\n\nALSO understand there’s a high chance you’ll be sharing a bed.\nSo find someone you trust who won’t kick ya at night if you haven’t already.\nAnd there’s a tiny chance you’ll get a cool bunk alone…with others in the room :upside_down_face:\n\n*Where:* (VOTE once more ASAP please, thank you--\nI mainly worry about the bougiest (\u003c@U040V1EQYMS\u003e) + the most energetic (\u003c@U02UAQKR56C\u003e) + everyone, but back to business, here they are:\n:one: Closer to Atlanta, no hot tub, golf, random games like pool, and a tennis court nearby, but no hot tub, in Jasper, GA.  I would propose we either drive up to Blue ridge, grab lunch and check out the town at 1PM (37 min from Jasper), then hike the trail by the house for those who want, and check in at 3PM to do more sports (tennis, pool, golf, walk, relax, your hw). Gas firepits…maybe we can grill for dinner! Lots of picnic tables. S_o if you *haven’t joined yet, but want to, we probably have room for 4 more* in this house if we wanted. And if we’re desperate we maybe can open it up to OMSCS friends. (_\u003chttps://www.airbnb.com/rooms/871953381644885702?adults=8\u0026amp;check_in=2023-09-09\u0026amp;check_out=2023-09-10\u0026amp;source_impression_id=p3_1693512561_o33tZ2LvnWJYyx61\u0026amp;previous_page_section_name=1000\u0026amp;federated_search_id=cd73c459-9ba3-4986-b181-4027c08165bd|https://www.airbnb.com/rooms/871953381644885702?adults=8\u0026amp;check_in=2023-09-09\u0026amp;check_o[…]1000\u0026amp;federated_search_id=cd73c459-9ba3-4986-b181-4027c08165bd\u003e_) ------\u0026gt; updating house because last one had a minimum_ \n:two: Has one hot tub (~4 at a time), and if you wanted to go tubing down some river, they have tubes! I just don’t know how warm it will be in Sept….but perhaps not terrible or we can bond suffering together? At night, when it gets cold, there is pool, darts, tv and of course games we bring. Oh and in the morning, you might spot a deer. And there’s fishing spots. After fees and taxes, _*I’ll be requesting $79.78 via Venmo*_ or Zelle tomorrow 8/31, however if more people join, I’ll send a difference. So if you _haven’t joined but want to, we probably have rom for 1 more here_. (\u003chttps://www.airbnb.com/rooms/554281239189102763?adults=8\u0026amp;check_in=2023-09-09\u0026amp;check_out=2023-09-10\u0026amp;source_impression_id=p3_1693455540_rgfBZWfjL%2FPBhYuc\u0026amp;previous_page_section_name=1000\u0026amp;federated_search_id=d8a808f2-87c7-447d-98eb-14f5c60d03ca|https://www.airbnb.com/rooms/554281239189102763?adults=8\u0026amp;check_in=2023-09-09\u0026amp;check_o[…]1000\u0026amp;federated_search_id=d8a808f2-87c7-447d-98eb-14f5c60d03ca\u003e)\n\nSo there you have it, two places, both country, but with different amenities to accommodate ya’ll!  Please choose :one: or :two:, and I’ll book by about 3PM tomorrow! Oh  I almost forgot my :three: fine with whichever!\n\nIf we get super bored, I will bring cards……. and teach you a game I enjoy playing o_o it’s called Big 2(\u003chttps://www.scribd.com/document/256536761/Cho-Dai-Di-Big-2-Rulebook#\u003e), if you want to learn the rules in advance, it’s a lot like poker, but not. I don’t drink, nor am I encouraging it, but apparently it’s a great drinking game for those who do.\n\nPS for those who I do not have the Venmo sn of please DM it to me.\nI’ll mass send a request shortly after I book.\nIt’ll be from _@intheparkco_ with my heart logo!\n\nI appreciate your cooperation in reading these fun posts that I much enjoy writing :wink:\n\nAwait my next messages!\nCherie Lum",
+    "ts": "1693459966.911689",
+    "thread_ts": "1693459966.911689",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1693513338.000000"
+    },
+    "reply_count": 11,
+    "replies": [
+      {
+        "user": "U05G64BQLH0",
+        "ts": "1693461079.245069"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1693502507.225619"
+      },
+      {
+        "user": "U05NS6MBHNE",
+        "ts": "1693503039.437909"
+      },
+      {
+        "user": "U05NS6MBHNE",
+        "ts": "1693503097.043099"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693510459.362029"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693510914.686769"
+      },
+      {
+        "user": "U04S6L1NS9M",
+        "ts": "1693512281.039349"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693513267.384299"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693513398.876049"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693518365.555649"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1693518460.602059"
+      }
+    ],
+    "latest_reply": "1693518460.602059",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "three",
+        "count": 3,
+        "users": [
+          "U04S6L1NS9M",
+          "U041PH0B1DF",
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "meow_fancy_pants",
+        "count": 2,
+        "users": [
+          "U040V1EQYMS",
+          "U02BQJX5TB8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Ed",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello camp/stargazing crew!\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Who",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04184BSKM3"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U05NS6MBHNE"
+              },
+              {
+                "type": "text",
+                "text": " + Cherie\nWho for the day: "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "When",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Sept 9, 2023\n"
+              },
+              {
+                "type": "text",
+                "text": "Time",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Meet at 1PM for a late lunch and mini hike! Then go to the house at check-in (I assume that’s 3PM right now)\n"
+              },
+              {
+                "type": "text",
+                "text": "Rides",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": For those who need a ride…. I think Karol, make sure to find your favorite friend to ride with or DM me to find you someone. I also need someone nearest riding past Buckhead/Lenox Marta "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nHere’s what’s happening, more people have joined, which is great. So after reading what ya’lls wanted at a glance (ie. bond fire, hot tub, price points, activities) mixed with knowing what you guys really want (I.e. entertainment, sleep semi-comfortably, and connecting with your fellow friends with practicality (e.g. a hot tub for 4 is not going to entertain us all)). I found two different fantastic places, but there’s a trade off….\n\nALSO understand there’s a high chance you’ll be sharing a bed.\nSo find someone you trust who won’t kick ya at night if you haven’t already.\nAnd there’s a tiny chance you’ll get a cool bunk alone…with others in the room "
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Where:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " (VOTE once more ASAP please, thank you--\nI mainly worry about the bougiest ("
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": ") + the most energetic ("
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": ") + everyone, but back to business, here they are:\n"
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Closer to Atlanta, no hot tub, golf, random games like pool, and a tennis court nearby, but no hot tub, in Jasper, GA.  I would propose we either drive up to Blue ridge, grab lunch and check out the town at 1PM (37 min from Jasper), then hike the trail by the house for those who want, and check in at 3PM to do more sports (tennis, pool, golf, walk, relax, your hw). Gas firepits…maybe we can grill for dinner! Lots of picnic tables. S"
+              },
+              {
+                "type": "text",
+                "text": "o if you ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "haven’t joined yet, but want to, we probably have room for 4 more",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " in this house if we wanted. And if we’re desperate we maybe can open it up to OMSCS friends. (",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://www.airbnb.com/rooms/871953381644885702?adults=8\u0026check_in=2023-09-09\u0026check_out=2023-09-10\u0026source_impression_id=p3_1693512561_o33tZ2LvnWJYyx61\u0026previous_page_section_name=1000\u0026federated_search_id=cd73c459-9ba3-4986-b181-4027c08165bd",
+                "text": "https://www.airbnb.com/rooms/871953381644885702?adults=8\u0026check_in=2023-09-09\u0026check_o[…]1000\u0026federated_search_id=cd73c459-9ba3-4986-b181-4027c08165bd"
+              },
+              {
+                "type": "text",
+                "text": ") ------\u003e updating house because last one had a minimum ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "emoji",
+                "name": "two",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Has one hot tub (~4 at a time), and if you wanted to go tubing down some river, they have tubes! I just don’t know how warm it will be in Sept….but perhaps not terrible or we can bond suffering together? At night, when it gets cold, there is pool, darts, tv and of course games we bring. Oh and in the morning, you might spot a deer. And there’s fishing spots. After fees and taxes, "
+              },
+              {
+                "type": "text",
+                "text": "I’ll be requesting $79.78 via Venmo ",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "or Zelle tomorrow 8/31, however if more people join, I’ll send a difference. So if you "
+              },
+              {
+                "type": "text",
+                "text": "haven’t joined but want to, we probably have rom for 1 more here",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ". ("
+              },
+              {
+                "type": "link",
+                "url": "https://www.airbnb.com/rooms/554281239189102763?adults=8\u0026check_in=2023-09-09\u0026check_out=2023-09-10\u0026source_impression_id=p3_1693455540_rgfBZWfjL%2FPBhYuc\u0026previous_page_section_name=1000\u0026federated_search_id=d8a808f2-87c7-447d-98eb-14f5c60d03ca",
+                "text": "https://www.airbnb.com/rooms/554281239189102763?adults=8\u0026check_in=2023-09-09\u0026check_o[…]1000\u0026federated_search_id=d8a808f2-87c7-447d-98eb-14f5c60d03ca"
+              },
+              {
+                "type": "text",
+                "text": ")\n\nSo there you have it, two places, both country, but with different amenities to accommodate ya’ll!  Please choose "
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "emoji",
+                "name": "two",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ", and I’ll book by about 3PM tomorrow! Oh  I almost forgot my "
+              },
+              {
+                "type": "emoji",
+                "name": "three",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " fine with whichever!\n\nIf we get super bored, I will bring cards……. and teach you a game I enjoy playing o_o it’s called Big 2("
+              },
+              {
+                "type": "link",
+                "url": "https://www.scribd.com/document/256536761/Cho-Dai-Di-Big-2-Rulebook#",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "), if you want to learn the rules in advance, it’s a lot like poker, but not. I don’t drink, nor am I encouraging it, but apparently it’s a great drinking game for those who do.\n\nPS for those who I do not have the Venmo sn of please DM it to me.\nI’ll mass send a request shortly after I book.\nIt’ll be from "
+              },
+              {
+                "type": "text",
+                "text": "@intheparkco",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " with my heart logo!\n\nI appreciate your cooperation in reading these fun posts that I much enjoy writing "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nAwait my next messages!\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 6,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U040V1EQYMS",
+      "U0495G3QQ1W",
+      "U04S6L1NS9M",
+      "U05G64BQLH0",
+      "U05NS6MBHNE"
+    ]
+  },
+  {
+    "client_msg_id": "88ee5dfe-dd53-41f2-a425-d85bbd0d876d",
+    "type": "message",
+    "user": "U05G64BQLH0",
+    "text": "Wahh, sounds nice. Hope you guys have fun :D",
+    "ts": "1693461079.245069",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "60Oa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wahh, sounds nice. Hope you guys have fun :D"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-31/5831523991476_f79fbe06ebe469425ebb_72.jpg",
+      "first_name": "dpham81",
+      "real_name": "dpham81",
+      "display_name": "dpham81",
+      "team": "T03NCJFKCV8",
+      "name": "dpham81",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "55fa46f0-0c27-4cb8-9e92-60e1b06e4024",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "Hey \u003c@U02DD5VQLBV\u003e, I'm not able to make it to the hike this weekend. My roommate got COVID, I tested negative but there's a chance the test was faulty and that I'm an asymptomatic transmitter. I'll join later events, hope y'all have a great time with the events this September! They sound so much fun!",
+    "ts": "1693463987.511149",
+    "thread_ts": "1693100443.254679",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "d-sad",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      },
+      {
+        "name": "sad_pepe",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "pensive",
+        "count": 1,
+        "users": [
+          "U02MANZL55F"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vfKr9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": ", I'm not able to make it to the hike this weekend. My roommate got COVID, I tested negative but there's a chance the test was faulty and that I'm an asymptomatic transmitter. I'll join later events, hope y'all have a great time with the events this September! They sound so much fun!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "326f95da-6089-49ab-8203-7df40d32579b",
+    "type": "message",
+    "user": "U0495G3QQ1W",
+    "text": "The first one says:\n\"minumum stay: 3 nights\"",
+    "ts": "1693502507.225619",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FTu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The first one says:\n\"minumum stay: 3 nights\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-27/4290324769572_a9e776395623c3b9f13f_72.jpg",
+      "first_name": "Elan",
+      "real_name": "Elan Grossman",
+      "display_name": "Elan",
+      "team": "T03NCJFKCV8",
+      "name": "egrossman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "08f0d85c-31df-493b-9f95-605958e104a5",
+    "type": "message",
+    "user": "U05NS6MBHNE",
+    "text": "Both look pretty good. 1st looks nicer but 2nd one has tubing and stuff so maybe 2nd one",
+    "ts": "1693503039.437909",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "63d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Both look pretty good. 1st looks nicer but 2nd one has tubing and stuff so maybe 2nd one"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-30/5850892854320_33c165aa1a1610ba4eed_72.jpg",
+      "first_name": "vmadem6",
+      "real_name": "vmadem6",
+      "display_name": "vmadem6",
+      "team": "T03NCJFKCV8",
+      "name": "vmadem6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "51dc1deb-2c26-4fe7-a8a4-76614dee003a",
+    "type": "message",
+    "user": "U05NS6MBHNE",
+    "text": "I can probably invite a friend of mine. He was an OMSCS student back from 2016(I think) but didn't finish it",
+    "ts": "1693503097.043099",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8k02x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can probably invite a friend of mine. He was an OMSCS student back from 2016(I think) but didn't finish it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-30/5850892854320_33c165aa1a1610ba4eed_72.jpg",
+      "first_name": "vmadem6",
+      "real_name": "vmadem6",
+      "display_name": "vmadem6",
+      "team": "T03NCJFKCV8",
+      "name": "vmadem6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dbbb712f-9e29-4087-a029-b7f0b718a52b",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U0495G3QQ1W\u003e shoot you’re right I don’t know why I didn’t see it earlier. Okay looking into it now",
+    "ts": "1693510459.362029",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1tK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " shoot you’re right I don’t know why I didn’t see it earlier. Okay looking into it now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c42cd52-68f2-4340-8257-9720105ec64b",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "oh I know why- last night there was no minimum",
+    "ts": "1693510914.686769",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "sad-pepe",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jXhE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh I know why- last night there was no minimum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "822DFB0E-2DE6-42E6-A38A-D70A40ABCC10",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "They’re both nice, so I’m fine with either. I can also volunteer to drive. I have space in my car and live close to Atlantic Station",
+    "ts": "1693512281.039349",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U04184BSKM3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hLO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "They’re"
+              },
+              {
+                "type": "text",
+                "text": " both nice, so "
+              },
+              {
+                "type": "text",
+                "text": "I’m fine"
+              },
+              {
+                "type": "text",
+                "text": " with either. I can also volunteer to drive. I have space in my car and live close to Atlantic Station"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8BF5F6E9-EFC6-4FB8-9C84-B996F2F25A51",
+    "type": "message",
+    "user": "U0577EXET0F",
+    "text": "I’d love to! Coming for the match on 9/30, and more after that \u003c@U02DD5VQLBV\u003e ",
+    "ts": "1693512516.058489",
+    "thread_ts": "1693256434.150739",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UZjv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’d"
+              },
+              {
+                "type": "text",
+                "text": " love to! Coming for the match on 9/30, and more after that "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-26/5808161924052_322080f613071adee7e6_72.png",
+      "first_name": "Gurkirat",
+      "real_name": "Gurkirat Singh Sekhon",
+      "display_name": "Gurkirat",
+      "team": "T03NCJFKCV8",
+      "name": "sekhongurkirat",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0E1631AF-CC6A-47AE-A156-B556FCD5C445",
+    "type": "message",
+    "user": "U0577EXET0F",
+    "text": "Haha no that was in DC \u003c@U02UAQKR56C\u003e\nYou have lived in Sunnyvale?\nNow I know where to eat when I am there :grin: ",
+    "ts": "1693512615.292089",
+    "thread_ts": "1693256434.150739",
+    "edited": {
+      "user": "U0577EXET0F",
+      "ts": "1693514739.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RHd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Haha no that was in DC "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": "\nYou have lived in Sunnyvale?\nNow I know where to eat when I am there "
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-26/5808161924052_322080f613071adee7e6_72.png",
+      "first_name": "Gurkirat",
+      "real_name": "Gurkirat Singh Sekhon",
+      "display_name": "Gurkirat",
+      "team": "T03NCJFKCV8",
+      "name": "sekhongurkirat",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b36510e5-82c0-4231-bd4c-66b935aeb1b6",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I’m contacting a few places to make sure.",
+    "ts": "1693513267.384299",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ydpT7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m contacting a few places to make sure."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "17c18a98-f1b0-42fd-a838-c7d19fc8bf88",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I updated a new link/place to replace the old one.\n\nYou guys are so chill :upside_down_face: I will book one soon! after one of the hosts response and I’ll update ya’lllll",
+    "ts": "1693513398.876049",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PNw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I updated a new link/place to replace the old one.\n\nYou guys are so chill "
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " I will book one soon! after one of the hosts response and I’ll update ya’lllll"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f8bf8eac-ee10-4954-9a19-8ddfc5396e00",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U05NS6MBHNE\u003eokay tell me what he says",
+    "ts": "1693518365.555649",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WCL4K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05NS6MBHNE"
+              },
+              {
+                "type": "text",
+                "text": "okay tell me what he says"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c9acfcb6-8295-43fe-858b-3f7b24b48c7c",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "Hey we never took a vote on most energetic :party-blob: and most bougie :meow_fancy_pants:\n\nI am :guccigucci:  with whatever. I have slept in a 3rd world country thatch hut in the rain during a tea war so as long as there are not spiders larger than my face I can dig it.",
+    "ts": "1693518460.602059",
+    "thread_ts": "1693459966.911689",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 2,
+        "users": [
+          "U02DD5VQLBV",
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ot9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey we never took a vote on most energetic "
+              },
+              {
+                "type": "emoji",
+                "name": "party-blob",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " and most bougie "
+              },
+              {
+                "type": "emoji",
+                "name": "meow_fancy_pants",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nI am "
+              },
+              {
+                "type": "emoji",
+                "name": "guccigucci",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  with whatever. I have slept in a 3rd world country thatch hut in the rain during a tea war so as long as there are not spiders larger than my face I can dig it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1327e3e9-69f7-4860-a342-d0d60a336191",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello camp/getaway/stargazing crew!\n\nI got us an airbnb finally. Thanks for the votes.\n\n*Who*: \u003c@U04185JLG8M\u003e \u003c@U02UAQKR56C\u003e \u003c@U040V1EQYMS\u003e \u003c@U0495G3QQ1W\u003e \u003c@U02MANZL55F\u003e \u003c@U04184BSKM3\u003e \u003c@U041PH0B1DF\u003e \u003c@U04S6L1NS9M\u003e \u003c@U05NS6MBHNE\u003e \u003c@U8QDSG1G9\u003e\n\n*Who for the day*: \u003c@U01N1775WSU\u003e + Sister (if anybody else wants to join for the day or have lunch with us in BlueRidge feel free to! \u003c!channel\u003e)\n*When*: Sept 9, 2023- September 10, 2023\n*Time*:\n1. Meet at 12:30PM, eat + shop/explore Blue ridge till 2:30PM!! \n    a. if any foodies wants to take a stab at choosing a restaurant that looks good I’d appreciate it! \n2. Drive back 2:30PM\n    a. Raid a Walmart or grocery store along the way for snacks/dinner. \n3. Be at house around 2:30-2:45PM and split up \n    a. grab some tubes- 10 of them or hike/golf**\n    b. (Official check-in is at 4pm- but he said if nobody earlier we can take)\n4. Dinner around 5-8PM --\u0026gt; any chefs? grillers? or we can eat out/order in too \n5. Evening activities (hot tub sits 6-7, s’more eaters + fire, card gammers***, stargazers)\n**Guests can also purchase day passes from the Coosawattee River Resort to enjoy the heated Indoor pool, out door pools, game room, fitness room, 18 hole put put golf and tennis. Call the CRR for more info and to purchase passes.\n\n***Future idea: we should all rent a room and play Age of Empire multiplayer. Is that too weird? Probably. Moving on……..\n\n*Rides*: For those who need a ride…. I think Karol, make sure to find your favorite friend to ride with or DM me to find you someone. I also need someone nearest riding past Buckhead/Lenox Marta :pray:\n\n*Where*: Ellijay, GA ---\u0026gt; Will update with address within 3 days of 9/9\n\nPS for those who I do not have the Venmo sn of please DM it to me.\nI’ll mass send a request shortly after I book.\nIt’ll be from _@intheparkco_ with my heart logo!\n\nPS Apparently there’s fishing, so if you have poles and want to catch dinner……… I’d be impressed. I think there’s catfish……. which can be tasty when fresh. Does anyone fish?\n\nAwait my messages,\nCherie Lum",
+    "ts": "1693518874.888849",
+    "thread_ts": "1693518874.888849",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1693520711.000000"
+    },
+    "reply_count": 14,
+    "replies": [
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1693519160.982419"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1693520894.338259"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693520968.263849"
+      },
+      {
+        "user": "U04S6L1NS9M",
+        "ts": "1693520993.976899"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693521009.902919"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693521039.273449"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693580347.775529"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1693580397.037219"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1693580585.082609"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693581525.645239"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693581696.551929"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1693581782.361649"
+      },
+      {
+        "user": "U041PH0B1DF",
+        "ts": "1693585610.018079"
+      },
+      {
+        "user": "U04185JLG8M",
+        "ts": "1693591223.801079"
+      }
+    ],
+    "latest_reply": "1693591223.801079",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U04S6L1NS9M",
+          "U05NS6MBHNE",
+          "U02EEGFEYHH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vntb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello camp/getaway/stargazing crew!\n\nI got us an airbnb finally. Thanks for the votes.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Who",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04184BSKM3"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U05NS6MBHNE"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Who for the day",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " + Sister (if anybody else wants to join for the day or have lunch with us in BlueRidge feel free to! "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ")\n"
+              },
+              {
+                "type": "text",
+                "text": "When",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Sept 9, 2023- September 10, 2023\n"
+              },
+              {
+                "type": "text",
+                "text": "Time",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ":\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Meet at 12:30PM, eat + shop\\/explore Blue ridge till 2:30PM!! \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"if any foodies wants to take a stab at choosing a restaurant that looks good I\\u2019d appreciate it! \"}]}],\"style\":\"ordered\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Drive back 2:30PM\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Raid a Walmart or grocery store along the way for snacks\\/dinner. \"}]}],\"style\":\"ordered\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Be at house around 2:30-2:45PM and split up \"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":2,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"grab some tubes- 10 of them or hike\\/golf**\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"(Official check-in is at 4pm- but he said if nobody earlier we can take)\"}]}],\"style\":\"ordered\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Dinner around 5-8PM --\u003e any chefs? grillers? or we can eat out\\/order in too \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Evening activities (hot tub sits 6-7, s\\u2019more eaters + fire, card gammers***, stargazers)\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":3,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n**Guests can also purchase day passes from the Coosawattee River Resort to enjoy the heated Indoor pool, out door pools, game room, fitness room, 18 hole put put golf and tennis. Call the CRR for more info and to purchase passes.\n\n***Future idea: we should all rent a room and play Age of Empire multiplayer. Is that too weird? Probably. Moving on……..\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Rides",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": For those who need a ride…. I think Karol, make sure to find your favorite friend to ride with or DM me to find you someone. I also need someone nearest riding past Buckhead/Lenox Marta "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Where",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Ellijay, GA ---\u003e Will update with address within 3 days of 9/9\n\nPS for those who I do not have the Venmo sn of please DM it to me.\nI’ll mass send a request shortly after I book.\nIt’ll be from "
+              },
+              {
+                "type": "text",
+                "text": "@intheparkco",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " with my heart logo!\n\nPS Apparently there’s fishing, so if you have poles and want to catch dinner……… I’d be impressed. I think there’s catfish……. which can be tasty when fresh. Does anyone fish?\n\nAwait my messages,\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 6,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02UAQKR56C",
+      "U040V1EQYMS",
+      "U04185JLG8M",
+      "U041PH0B1DF",
+      "U04S6L1NS9M"
+    ]
+  },
+  {
+    "client_msg_id": "c807ae91-d9a5-4362-8c06-9e2fa2218884",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "I have a conference that morning and will driving up later in the day from Marietta. If anyone needs a ride after 5ish I can help out.",
+    "ts": "1693519160.982419",
+    "thread_ts": "1693518874.888849",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "btrW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have a conference that morning and will driving up later in the day from Marietta. If anyone needs a ride after 5ish I can help out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ab4908c8-7cba-4db2-83f8-076d4e7315b8",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Cherie you have my venmo right?",
+    "ts": "1693520894.338259",
+    "thread_ts": "1693518874.888849",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JAO6x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cherie you have my venmo right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1fc2b5bd-6e80-422e-843b-5259f95a5af7",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Yes! Thanks \u003c@U02UAQKR56C\u003e",
+    "ts": "1693520968.263849",
+    "thread_ts": "1693518874.888849",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TDHGg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes! Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A94DC422-EDAB-4C4A-9011-68E420951E10",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "You have mine as well right Cherie?",
+    "ts": "1693520993.976899",
+    "thread_ts": "1693518874.888849",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rB8e/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You have mine as well right Cherie?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c7d39864-08a9-4675-bee9-553610f9405f",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I have everyone but \u003c@U04185JLG8M\u003e and \u003c@U05NS6MBHNE\u003e + potential friend of Vmadem",
+    "ts": "1693521009.902919",
+    "thread_ts": "1693518874.888849",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U04S6L1NS9M"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jylrV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have everyone but "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U05NS6MBHNE"
+              },
+              {
+                "type": "text",
+                "text": " + potential friend of Vmadem"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "81c41dce-1c67-4fcc-bcf6-a7352e5303a3",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "So if you are friends with them please help me give a nudge",
+    "ts": "1693521039.273449",
+    "thread_ts": "1693518874.888849",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1693526511.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DXh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So if you are friends with them please help me give a nudge"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

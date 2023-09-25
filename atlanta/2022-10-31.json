@@ -1,0 +1,74 @@
+[
+  {
+    "client_msg_id": "17443745-d126-4647-9092-7e6574b07b2b",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Happy Halloween Friends!\n\nHope you all are being safe and enjoying the candies and the tooth brushings to come.\n\nI know you guys love each other, feel free to share your halloween costumes if you’d like in this thread….\n\nPS just throwing out the Sun November 13th gathering reminder incase it isn’t already on your calendar. And if you’re coming and haven’t voted in the poll above, please do!\n\nHave a gourd night :jack_o_lantern:\nCherie Lum",
+    "ts": "1667260533.354829",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "smile",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      },
+      {
+        "name": "jackolantern",
+        "count": 2,
+        "users": [
+          "U01N1775WSU",
+          "U041PH0B1DF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MjZa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy Halloween Friends!\n\nHope you all are being safe and enjoying the candies and the tooth brushings to come.\n\nI know you guys love each other, feel free to share your halloween costumes if you’d like in this thread….\n\nPS just throwing out the Sun November 13th gathering reminder incase it isn’t already on your calendar. And if you’re coming and haven’t voted in the poll above, please do!\n\nHave a gourd night "
+              },
+              {
+                "type": "emoji",
+                "name": "jack_o_lantern",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -26,9 +26,19 @@ def build_search_index(cursor):
             USING FAISS
         """
         ).df()
+    
+    
+    if "OMSCSSlackJson" not in table_list:
+        cursor.query("""LOAD TABLE '2022-09-16.json' INTO OMSCSSlackJson""").df()
+        cursor.query(
+            """CREATE INDEX IF NOT EXISTS OMSCSSlackJsonIndex 
+            ON OMSCSSlackJson (SentenceFeatureExtractor(data))
+            USING FAISS
+        """
+        ).df()
 
 
-def build_relevant_knowledge_body(cursor, user_query, logger):
+def build_relevant_knowledge_body_pdf(cursor, user_query, logger):
     query = f"""
         SELECT * FROM OMSCSDocPDF
         ORDER BY Similarity(
@@ -44,6 +54,27 @@ def build_relevant_knowledge_body(cursor, user_query, logger):
         referece_pageno_list = set(response["omscsdocpdf.page"].tolist()[:3])
         reference_pdf_name = response["omscsdocpdf.name"].tolist()[0]
         return knowledge_body, reference_pdf_name, referece_pageno_list
+    except Exception as e:
+        logger.error(str(e))
+        return None, None
+
+
+def build_relevant_knowledge_body_json(cursor, user_query, logger):
+    query = f"""
+        SELECT * FROM OMSCSSlackJson
+        ORDER BY Similarity(
+            SentenceFeatureExtractor('{user_query}'), 
+            SentenceFeatureExtractor(data)
+        ) LIMIT 3
+    """
+
+    try:
+        response = cursor.query(query).df()
+        # DataFrame response to single string.
+        knowledge_body = response["omscsslackjson.data"].str.cat(sep="; ")
+        # referece_pageno_list = set(response["omscsslackjson.page"].tolist()[:3])
+        # reference_pdf_name = response["omscsslackjson.name"].tolist()[0]
+        return knowledge_body # , reference_pdf_name, referece_pageno_list
     except Exception as e:
         logger.error(str(e))
         return None, None

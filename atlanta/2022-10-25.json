@@ -1,0 +1,511 @@
+[
+  {
+    "client_msg_id": "F9190FF6-7369-493B-BFC6-71F0616E1ECB",
+    "type": "message",
+    "user": "U042SUUF3NY",
+    "text": "Happy Diwali :fireworks:",
+    "ts": "1666706939.895769",
+    "thread_ts": "1666619993.293069",
+    "parent_user_id": "U8QDSG1G9",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZbKi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy Diwali "
+              },
+              {
+                "type": "emoji",
+                "name": "fireworks",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-06/4329577938899_02ed38fc846b71d0a83b_72.jpg",
+      "first_name": "Dominick",
+      "real_name": "Dominick Blue",
+      "display_name": "Dominick Blue",
+      "team": "T03NCJFKCV8",
+      "name": "jblue8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1ACB55AE-50A1-4B34-AA92-ACCC76C21047",
+    "type": "message",
+    "user": "U042SUUF3NY",
+    "text": " :wave::skin-tone-3: ATL Crew,\n\nI briefly mentioned that we were starting the GT Association of Computing Machinery - Student Chapter. We would love to have you all join! \n\nThe *why* behind joining is to build relationships with your fellow students, have an opportunity to hear about courses, research, and industry opportunities. We are lining up folks to discuss all of these topics. We also plan to work with industry and acadmia to come speak. \n\nLastly, we are also looking for folks interested in taking on a leadership position (e.g., Secretary, Web Master, and or Social Media Manager) :eyes: :eyes:\n\nPlease share here or reach out if you’re interested or know someone interested!",
+    "ts": "1666707201.541419",
+    "thread_ts": "1666707201.541419",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1666707470.046039"
+      },
+      {
+        "user": "U042SUUF3NY",
+        "ts": "1666717728.662989"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1666733393.558319"
+      },
+      {
+        "user": "U042SUUF3NY",
+        "ts": "1666872662.290519"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1666878687.238529"
+      }
+    ],
+    "latest_reply": "1666878687.238529",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CyRV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "wave",
+                "skin_tone": 3
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "A"
+              },
+              {
+                "type": "text",
+                "text": "TL Crew,\n\nI briefly mentioned that we were starting the GT Association of Computing Machinery - Student Chapter. We would love to have you all join! \n\nThe "
+              },
+              {
+                "type": "text",
+                "text": "why",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " behind joining is to build relationships with your fellow students, have an opportunity to hear about courses, research, and industry opportunities. We are lining up folks to discuss all of these topics. We also plan to work with industry and acadmia to come speak. \n\nLastly, we are also looking for folks interested in taking on a leadership position (e.g., Secretary, Web Master, and or Social Media Manager) "
+              },
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nPlease share here or reach out if "
+              },
+              {
+                "type": "text",
+                "text": "you’re"
+              },
+              {
+                "type": "text",
+                "text": " interested or know someone interested"
+              },
+              {
+                "type": "text",
+                "text": "!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-06/4329577938899_02ed38fc846b71d0a83b_72.jpg",
+      "first_name": "Dominick",
+      "real_name": "Dominick Blue",
+      "display_name": "Dominick Blue",
+      "team": "T03NCJFKCV8",
+      "name": "jblue8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03UM07E4D8",
+      "U042SUUF3NY"
+    ]
+  },
+  {
+    "client_msg_id": "26079008-c4dc-48e2-a55a-cc4d689a89d1",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "GT version of ACM? I love to learn more about ML :)",
+    "ts": "1666707470.046039",
+    "thread_ts": "1666707201.541419",
+    "parent_user_id": "U042SUUF3NY",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xjik",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "GT version of ACM? I love to learn more about ML :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b2b7488e-c8d4-4ac0-93f7-1dfaff8fb9e6",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "I ate some delicious food, played cards, and did fireworks!",
+    "ts": "1666711995.086789",
+    "thread_ts": "1666619993.293069",
+    "parent_user_id": "U8QDSG1G9",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U042SUUF3NY"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sxa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I ate some delicious food, played cards, and did fireworks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6c502779-ebe3-4885-a06f-e8679fa10d8c",
+    "type": "message",
+    "user": "U042SUUF3NY",
+    "text": "Awesome!\n\nYeah - ACM has student chapters around the world! Surprisingly GT did not have one (we had one 7 years ago apparently, and it became defunct)\n\nThat sounds great! What in particular about ML?",
+    "ts": "1666717728.662989",
+    "thread_ts": "1666707201.541419",
+    "parent_user_id": "U042SUUF3NY",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QNIEE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome!\n\nYeah - ACM has student chapters around the world! Surprisingly GT did not have one (we had one 7 years ago apparently, and it became defunct)\n\nThat sounds great! What in particular about ML?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-06/4329577938899_02ed38fc846b71d0a83b_72.jpg",
+      "first_name": "Dominick",
+      "real_name": "Dominick Blue",
+      "display_name": "Dominick Blue",
+      "team": "T03NCJFKCV8",
+      "name": "jblue8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b454762c-7832-492b-bc09-b7d3b372e2b3",
+    "type": "message",
+    "user": "U042SUUF3NY",
+    "text": "Hopefully you were able to celebrate with some friends and family??",
+    "ts": "1666717755.350979",
+    "thread_ts": "1666619993.293069",
+    "parent_user_id": "U8QDSG1G9",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/FC+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hopefully you were able to celebrate with some friends and family??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-06/4329577938899_02ed38fc846b71d0a83b_72.jpg",
+      "first_name": "Dominick",
+      "real_name": "Dominick Blue",
+      "display_name": "Dominick Blue",
+      "team": "T03NCJFKCV8",
+      "name": "jblue8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d282f9ae-47d2-4d99-96a5-c6f05ca41b8a",
+    "type": "message",
+    "user": "U02MANZL55F",
+    "text": "Yup! I celebrated with my family and friends!",
+    "ts": "1666719188.083289",
+    "thread_ts": "1666619993.293069",
+    "parent_user_id": "U8QDSG1G9",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "party-blob",
+        "count": 1,
+        "users": [
+          "U042SUUF3NY"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8kC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yup! I celebrated with my family and friends!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6124558562b4843942e6e0ff5848b831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "ssrivastav_31",
+      "real_name": "ssrivastav_31",
+      "display_name": "sara s",
+      "team": "T03NCJFKCV8",
+      "name": "ssrivastav_31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "759ea8af-5dee-40fa-9c13-da1f2e760562",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "Probably not natural language processing\nlearn and predict lab tests outcome\nlab tests that perform with simulated cell",
+    "ts": "1666733393.558319",
+    "thread_ts": "1666707201.541419",
+    "parent_user_id": "U042SUUF3NY",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "party-blob",
+        "count": 1,
+        "users": [
+          "U042SUUF3NY"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R8//+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Probably not natural language processing\nlearn and predict lab tests outcome\nlab tests that perform with simulated cell"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,1449 @@
+[
+  {
+    "client_msg_id": "BE331CB6-82E9-42CB-B28D-8E65498D9BAC",
+    "type": "message",
+    "user": "U02L4D90KD0",
+    "text": "I stopped by this, was coo",
+    "ts": "1677460827.645369",
+    "thread_ts": "1677373847.453079",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8GwI3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I stopped by this, was coo"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4144955360679_94f51bd64f2b7e34bb6e_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Scott",
+      "display_name": "Daniel Scott",
+      "team": "T03NCJFKCV8",
+      "name": "dscott45",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e0bedd93-199e-452e-86c1-07c8fb2e17e0",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@USLDMLNSK\u003e come!!!",
+    "ts": "1677466038.519529",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J4paO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "text",
+                "text": " come!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8d22a3f8-da5d-4bf8-a994-04949e152443",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "yay!!! I was hoping you would \u003c@U02L4D90KD0\u003e it had anime on the sign :smile:",
+    "ts": "1677466134.424749",
+    "thread_ts": "1677373847.453079",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1677466241.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "kekw",
+        "count": 1,
+        "users": [
+          "U02L4D90KD0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d7Hg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yay!!! I was hoping you would "
+              },
+              {
+                "type": "user",
+                "user_id": "U02L4D90KD0"
+              },
+              {
+                "type": "text",
+                "text": " it had anime on the sign "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "08a27d90-496d-4927-99d1-994647efc518",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Also \u003c@USLDMLNSK\u003e take us to see stars!!",
+    "ts": "1677466150.884479",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "USLDMLNSK"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2zSvE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also "
+              },
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "text",
+                "text": " take us to see stars!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7273b068-4196-4d65-99b4-5e1b2615d82b",
+    "type": "message",
+    "user": "USLDMLNSK",
+    "text": "\u003c@U02DD5VQLBV\u003e \u003c@U02UAQKR56C\u003e I’m down!! March might be a chiller month for my course. Cherie good idea, weather is getting better, Perseid meteor shower is in Aug but we could do a time to look at the milkyway, it will be a little visible in georgia unless we go out to national parks",
+    "ts": "1677467568.333289",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02UAQKR56C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vr6A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " I’m down!! March might be a chiller month for my course. Cherie good idea, weather is getting better, Perseid meteor shower is in Aug but we could do a time to look at the milkyway, it will be a little visible in georgia unless we go out to national parks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4027258340737_52f8f24c427e2db3d373_72.jpg",
+      "first_name": "Ankit",
+      "real_name": "Ankit B.",
+      "display_name": "Ankit B.",
+      "team": "T03NCJFKCV8",
+      "name": "abaraskar6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "34DCE333-9DAA-4ECB-B0B4-461EFD50826B",
+    "type": "message",
+    "user": "U040WB5GXRV",
+    "text": "Do you think today will have a lot going on or was the big day yesterday?",
+    "ts": "1677510365.164099",
+    "thread_ts": "1677373847.453079",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wCC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do you think today will have a lot going on or was the big day yesterday?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-14/5897672735842_e6ab4f5c473fe9f48f3c_72.png",
+      "first_name": "Christina",
+      "real_name": "Christina Boak",
+      "display_name": "cboak3",
+      "team": "T03NCJFKCV8",
+      "name": "cboak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "42ccab62-a490-4242-ba29-d88973af0411",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@USLDMLNSK\u003e we can do the hike in March… then do stars in August?! Or if there’s time sprinkle a quick trip in April or May? Depending on schedules. I’ve never seen a meteor shower, or the milky way or a shooting star ha ha. I just realized how noob I am. We can grab the people who are down to head out to the national parks or north towards the Appalachian? I think a good 3-6 people are down to maybe spend a night out there in a cool airbnb depending on the date… \u003c@U040V1EQYMS\u003e \u003c@U02CFCE4QE8\u003e \u003c@U02UAQKR56C\u003e \u003c@U0495G3QQ1W\u003e and then we can watch the stars! Then return back!",
+    "ts": "1677510748.964199",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0Xy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "text",
+                "text": " we can do the hike in March… then do stars in August?! Or if there’s time sprinkle a quick trip in April or May? Depending on schedules. I’ve never seen a meteor shower, or the milky way or a shooting star ha ha. I just realized how noob I am. We can grab the people who are down to head out to the national parks or north towards the Appalachian? I think a good 3-6 people are down to maybe spend a night out there in a cool airbnb depending on the date… "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02CFCE4QE8"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " and then we can watch the stars! Then return back!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f2df3ed3-2834-4abd-9a50-48eb8ab0ca9d",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U04JTFXHEUB\u003e That’s the perfect spot, would you be down to give me a lift?",
+    "ts": "1677511831.911919",
+    "thread_ts": "1676866536.581039",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gUAn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04JTFXHEUB"
+              },
+              {
+                "type": "text",
+                "text": " That’s the perfect spot, would you be down to give me a lift?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "35d47870-00a4-41af-abe1-f9dc8a15643f",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Good morning beautiful people!!\n\u003c!channel\u003e\n\nLast reminder and change for March event.\nThe next message will be a day or two before event.\nI expect those who say they’ll show up to show.\nBecause accountability is funability! …what? Just come!\n\n*March Hike will be the following date and time:*\n~When: 11:30AM- 1:30PM~\nTENTATIVE TIME: 10AM-12PM??\n(EJ says parking is better at 10AM…)\n(But If majority says no, we’ll go back to 11:30)\nWe’ll grab food after…. for those that want.\nWhere \u003chttps://gastateparks.org/sites/default/files/parks/pdf/trailmaps/SweetwaterCreek_TrailMap.pdf|Sweetwater Creek State Park\u003e\nDate: March 25, 2023\nCOST: $5 to park\nMeet: Learning from past experience, let’s meet at the Parking lot- by the *Group shelter* - attached screen shot, but full map linked above.\n^Experts can confirm if this is a good place to gather.\n\n_Thanks to all who voted to solidify this._ \nFor those that didn’t vote but will join smash the *like* button :+1: Those who voted in the last post (tagged below) I will safely assume you are attending so if you are too busy to busy to press this icon I totally understand: \u003c@U02UAQKR56C\u003e\u003c@U04263B0EMP\u003e\u003c@UDWBBD1HC\u003e\u003c@U0425F983DE\u003e\u003c@U0417UDBBUM\u003e\u003c@U040V1EQYMS\u003e\u003c@U02MANZL55F\u003e\u003c@U04JTFXHEUB\u003e\u003c@U0414A5PDV4\u003e\u003c@USLDMLNSK\u003e\u003c@U019GF47VJ8\u003e+dog.\n\nFor those that didn’t vote and will not join, feel free to use a fun emoji of support, that isn’t the thumbs up or the face below to not confuse the attendance count on event day.\n\nFor those who are a I might come 80% but life is hectic and I’ll have to tell you the day before and most likely won’t give this face of indifference! :neutral_face: this gives me a heads up for head counts.\n\nLastly, if anybody is driving from midtown, \u003c@U04184BSKM3\u003e and \u003c@U03V8G3NGP4\u003e need a ride - please give a lift so they don’t have to walk for 9 hours and 32 minutes if they take the US-78 E, although I’m sure it’d be a great adventure…. :no_pedestrians:\n\nThat’s it. Have a lovely week!!\nCherie Lum",
+    "ts": "1677512156.542109",
+    "thread_ts": "1677512156.542109",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1677518259.000000"
+    },
+    "reply_count": 13,
+    "replies": [
+      {
+        "user": "U04184BSKM3",
+        "ts": "1677515296.908659"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677517974.197939"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677518000.637309"
+      },
+      {
+        "user": "UMQUVR2VD",
+        "ts": "1677522715.366429"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1677524720.245039"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1678200265.404369"
+      },
+      {
+        "user": "U041DBXGPC4",
+        "ts": "1678207107.059049"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1678207671.702049"
+      },
+      {
+        "user": "U0425F983DE",
+        "ts": "1678210373.190929"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1678212645.694859"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1678403389.631679"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1678403426.792549"
+      },
+      {
+        "user": "UMQUVR2VD",
+        "ts": "1678546988.969369"
+      }
+    ],
+    "latest_reply": "1678546988.969369",
+    "files": [
+      {
+        "id": "F04R0PUQFSB",
+        "created": 1677511561,
+        "timestamp": 1677511561,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DD5VQLBV",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 223891,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04R0PUQFSB-image.png",
+        "url_private_download": "attachments/F04R0PUQFSB-image.png",
+        "original_h": 568,
+        "original_w": 706,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F04R0PUQFSB-b750b8246f/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F04R0PUQFSB-b750b8246f/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F04R0PUQFSB-b750b8246f/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F04R0PUQFSB-b750b8246f/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 290,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F04R0PUQFSB-b750b8246f/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 386,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02DD5VQLBV/F04R0PUQFSB/image.png",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F04R0PUQFSB-e2bc8471b3",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U04JTFXHEUB",
+          "U041DBXGPC4",
+          "U04263B0EMP",
+          "U041RP95SMP"
+        ]
+      },
+      {
+        "name": "neutral_face",
+        "count": 3,
+        "users": [
+          "U040WB5GXRV",
+          "U040V1EQYMS",
+          "U01JYRB9DL2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B6T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good morning beautiful people!!\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nLast reminder and change for March event.\nThe next message will be a day or two before event.\nI expect those who say they’ll show up to show.\nBecause accountability is funability! …what? Just come!\n\n"
+              },
+              {
+                "type": "text",
+                "text": "March Hike will be the following date and time:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "When: 11:30AM- 1:30PM",
+                "style": {
+                  "strike": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nTENTATIVE TIME: 10AM-12PM??\n(EJ says parking is better at 10AM…)\n(But If majority says no, we’ll go back to 11:30)\nWe’ll grab food after…. for those that want.\nWhere "
+              },
+              {
+                "type": "link",
+                "url": "https://gastateparks.org/sites/default/files/parks/pdf/trailmaps/SweetwaterCreek_TrailMap.pdf",
+                "text": "Sweetwater Creek State Park"
+              },
+              {
+                "type": "text",
+                "text": "\nDate: March 25, 2023\nCOST: $5 to park\nMeet: Learning from past experience, let’s meet at the Parking lot- by the"
+              },
+              {
+                "type": "text",
+                "text": " Group shelter",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " - attached screen shot, but full map linked above.\n^Experts can confirm if this is a good place to gather.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Thanks to all who voted to solidify this. ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nFor those that didn’t vote but will join smash the "
+              },
+              {
+                "type": "text",
+                "text": "like",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " button "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Those who voted in the last post (tagged below) I will safely assume you are attending so if you are too busy to busy to press this icon I totally understand: "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "user",
+                "user_id": "U04263B0EMP"
+              },
+              {
+                "type": "user",
+                "user_id": "UDWBBD1HC"
+              },
+              {
+                "type": "user",
+                "user_id": "U0425F983DE"
+              },
+              {
+                "type": "user",
+                "user_id": "U0417UDBBUM"
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "user",
+                "user_id": "U04JTFXHEUB"
+              },
+              {
+                "type": "user",
+                "user_id": "U0414A5PDV4"
+              },
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "user",
+                "user_id": "U019GF47VJ8"
+              },
+              {
+                "type": "text",
+                "text": "+dog.\n\nFor those that didn’t vote and will not join, feel free to use a fun emoji of support, that isn’t the thumbs up or the face below to not confuse the attendance count on event day.\n\nFor those who are a I might come 80% but life is hectic and I’ll have to tell you the day before and most likely won’t give this face of indifference! "
+              },
+              {
+                "type": "emoji",
+                "name": "neutral_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " this gives me a heads up for head counts.\n\nLastly, if anybody is driving from midtown, "
+              },
+              {
+                "type": "user",
+                "user_id": "U04184BSKM3"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8G3NGP4"
+              },
+              {
+                "type": "text",
+                "text": " need a ride - please give a lift so they don’t have to walk for 9 hours and 32 minutes if they take the US-78 E, although I’m sure it’d be a great adventure…. "
+              },
+              {
+                "type": "emoji",
+                "name": "no_pedestrians",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nThat’s it. Have a lovely week!!\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 6,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U02DD5VQLBV",
+      "U04184BSKM3",
+      "U041DBXGPC4",
+      "U0425F983DE",
+      "UMQUVR2VD"
+    ]
+  },
+  {
+    "client_msg_id": "cbbf653f-1de5-424d-b9c2-56278ea5e643",
+    "type": "message",
+    "user": "U04JTFXHEUB",
+    "text": "You got it \u003c@U02DD5VQLBV\u003e",
+    "ts": "1677512264.389469",
+    "thread_ts": "1676866536.581039",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Evqw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You got it "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-01-13/4666814158272_114b46e18ea49c3b8204_72.jpg",
+      "first_name": "Mahesh",
+      "real_name": "Mahesh Chukka",
+      "display_name": "mahesh.chukka",
+      "team": "T03NCJFKCV8",
+      "name": "mahesh.chukka",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5fdc87e6-5524-4783-b9d5-59eea46e1c97",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "I’m at 3481 lakeside drive NE heads up! \u003c@U04JTFXHEUB\u003e",
+    "ts": "1677513544.531669",
+    "thread_ts": "1676866536.581039",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U04JTFXHEUB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5hk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m at 3481 lakeside drive NE heads up! "
+              },
+              {
+                "type": "user",
+                "user_id": "U04JTFXHEUB"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CF0A5C52-0137-4E72-B68E-81A8C54F8D98",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Just a note that parking is $5 and it can fill up fast after about 10. ",
+    "ts": "1677515091.173679",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KQGRh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just a note that parking is $5 and it can fill up fast after about 10"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B91DC115-3554-43F5-AE45-359BEA56A765",
+    "type": "message",
+    "user": "U04184BSKM3",
+    "text": "\u003c@U02DD5VQLBV\u003e I will be out of the city the second half of March, I won’t be able to attend. See you all in April!",
+    "ts": "1677515296.908659",
+    "thread_ts": "1677512156.542109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+Fzs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DD5VQLBV"
+              },
+              {
+                "type": "text",
+                "text": " I will be out of the city the second half of March, I "
+              },
+              {
+                "type": "text",
+                "text": "won’t"
+              },
+              {
+                "type": "text",
+                "text": " be able to attend. See you all in April!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-29/4156649541732_8909dc835ece85cf769f_72.png",
+      "first_name": "karol",
+      "real_name": "karol gutierrez",
+      "display_name": "karol",
+      "team": "T03NCJFKCV8",
+      "name": "ksuarez8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fa923aaa-ecb9-46fa-8487-0be44d8d657f",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "OooooO that sounds fun",
+    "ts": "1677516139.064729",
+    "thread_ts": "1677360967.154509",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PNw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "OooooO that sounds fun"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7bcada0a-ed88-405e-8402-ab8b0e34eed7",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Thanks \u003c@U04184BSKM3\u003e have a great March!!",
+    "ts": "1677517974.197939",
+    "thread_ts": "1677512156.542109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nvwsG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U04184BSKM3"
+              },
+              {
+                "type": "text",
+                "text": " have a great March!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7004421a-b7e0-4483-bd66-115d4b261a16",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "EJ says that parking fills up fast after 10am… are you guys early bird enough to get there at 10? :see_no_evil:",
+    "ts": "1677518000.637309",
+    "thread_ts": "1677512156.542109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U04JTFXHEUB"
+        ]
+      },
+      {
+        "name": "-1",
+        "count": 1,
+        "users": [
+          "U02UAQKR56C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PmZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "EJ says that parking fills up fast after 10am… are you guys early bird enough to get there at 10? "
+              },
+              {
+                "type": "emoji",
+                "name": "see_no_evil",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "33813f29-33da-4ca1-82d7-50833f899c71",
+    "type": "message",
+    "user": "UMQUVR2VD",
+    "text": "i might join",
+    "ts": "1677522715.366429",
+    "thread_ts": "1677512156.542109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "carlton_3",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W7X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i might join"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/108c9f2ba196c93fcfae4dabb9776a4f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "A.P.",
+      "real_name": "A.P.",
+      "display_name": "A.P.",
+      "team": "T03NCJFKCV8",
+      "name": "abhishekpatil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EB813A76-6F0F-4346-81F4-1646F5573675",
+    "type": "message",
+    "user": "U02L4D90KD0",
+    "text": "It was Sat and Sun",
+    "ts": "1677523813.480899",
+    "thread_ts": "1677373847.453079",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "asHwQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It was Sat and Sun"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4144955360679_94f51bd64f2b7e34bb6e_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Scott",
+      "display_name": "Daniel Scott",
+      "team": "T03NCJFKCV8",
+      "name": "dscott45",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "56e10d49-dbd2-46f1-b780-4454e3ff8678",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@UMQUVR2VD\u003e Feel free to give a :neutral_face: on the post so I know to MAYBE expect you! When will you know by?",
+    "ts": "1677524720.245039",
+    "thread_ts": "1677512156.542109",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6QR1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UMQUVR2VD"
+              },
+              {
+                "type": "text",
+                "text": " Feel free to give a "
+              },
+              {
+                "type": "emoji",
+                "name": "neutral_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " on the post so I know to MAYBE expect you! When will you know by?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

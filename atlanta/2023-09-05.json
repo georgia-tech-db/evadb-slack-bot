@@ -1,0 +1,1131 @@
+[
+  {
+    "client_msg_id": "9e105a19-ba5b-4e96-a01e-f06a8c2a92dc",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "This is great!!! Can I share this possibly in our Weekly Digest, Student Center,  and/or our social media?",
+    "ts": "1693875918.121849",
+    "thread_ts": "1693847462.204199",
+    "edited": {
+      "user": "U02EYBE4QNA",
+      "ts": "1693876083.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cn=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is great!!! Can I share this possibly in our Weekly Digest, Student Center,  and/or our social media?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f0296a8-cac3-4174-8ca2-f313fcdd48ac",
+    "type": "message",
+    "user": "U01N1775WSU",
+    "text": "\u003c@U02EYBE4QNA\u003e Yes! I would love to share it! But it's not done yet :sweat_smile: Not sure I can come up with 99, but I'll try as many as I can. I'll send it to you when it's done, though!!",
+    "ts": "1693876125.373049",
+    "thread_ts": "1693847462.204199",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I2H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02EYBE4QNA"
+              },
+              {
+                "type": "text",
+                "text": " Yes! I would love to share it! But it's not done yet "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Not sure I can come up with 99, but I'll try as many as I can. I'll send it to you when it's done, though!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-17/4386676803829_54e9d46ff2802fdab7d5_72.png",
+      "first_name": "Saeeda",
+      "real_name": "Saeeda Choudhury",
+      "display_name": "Saeeda",
+      "team": "T03NCJFKCV8",
+      "name": "schoudhury60",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8d145ee0-46b2-4e12-8560-bbfab10b0ab6",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": "\u003c@U040V1EQYMS\u003e how do I get cool stickers like you lol",
+    "ts": "1693877611.607419",
+    "thread_ts": "1693666575.799639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R6rA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " how do I get cool stickers like you lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7cbb24cf-2fd8-4f24-90b2-d7884ef3829c",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "How about: Attend an OMSCS Conference, Be part of a Research Project, Be Featured in a Student Spotlight, Meet Buzz...I'll try to come up with more!",
+    "ts": "1693877803.449189",
+    "thread_ts": "1693847462.204199",
+    "edited": {
+      "user": "U02EYBE4QNA",
+      "ts": "1693878725.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 4,
+        "users": [
+          "U02DD5VQLBV",
+          "U01N1775WSU",
+          "U02BQJX5TB8",
+          "U05G9A9DJF9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VkN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How about: Attend an OMSCS Conference, Be part of a Research Project, Be Featured in a Student Spotlight, Meet Buzz...I'll try to come up with more!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f626a0d6-ea0a-43b0-89e3-be60aaf31357",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "-visit GT campus at least once (may include graduation)\n-get a free t-shirt\n-participate in pi race\n-make an OMSCS banner with 5 OMSCS friends\n-go to an OMSCS student life meetup!\n-meet at least two OMSCS students from a city other than your own\n-attend one OMSCS conference\n-go on an overnight trip with more than 8 OMSCS classmates\n-eat breakfast with an OMSCS student\n-teach one OMSCS student something\n-own one thing with GT on it\n-submit a homework assignment at 11:58PM on a Sunday\n-attend a GT lunch and learn virtually or in person\n-have a 1:1 with at least one professor",
+    "ts": "1693878589.597479",
+    "thread_ts": "1693847462.204199",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v/AB2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "-visit GT campus at least once (may include graduation)\n-get a free t-shirt\n-participate in pi race\n-make an OMSCS banner with 5 OMSCS friends\n-go to an OMSCS student life meetup!\n-meet at least two OMSCS students from a city other than your own\n-attend one OMSCS conference\n-go on an overnight trip with more than 8 OMSCS classmates\n-eat breakfast with an OMSCS student\n-teach one OMSCS student something\n-own one thing with GT on it\n-submit a homework assignment at 11:58PM on a Sunday\n-attend a GT lunch and learn virtually or in person\n-have a 1:1 with at least one professor"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "78552ef2-b7fd-4b95-843c-d7f35efa9dee",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hey cabin-stargazers,\n\nSo I noticed that many people are going to be driving to the cabin late. Does anybody WANT to go to Blue Ridge to explore it and grab food?? If not, we can all majority meet at 3:45PM/4PM there and go tubing.\n\n\u003c@U01N1775WSU\u003e + sister --\u0026gt; arrive 4PM\n\u003c@U02UAQKR56C\u003e + \u003c@U041PH0B1DF\u003e  + \u003c@U04184BSKM3\u003e --\u0026gt; arrive 4/5PM\n\u003c@U8QDSG1G9\u003e + \u003c@U04185JLG8M\u003e --\u0026gt; unknown time\n\u003c@U04S6L1NS9M\u003e --\u0026gt; unknown time\n\u003c@U02MANZL55F\u003e \u003c@U0495G3QQ1W\u003e \u003c@U040V1EQYMS\u003e —\u0026gt; thoughts?!\n\nAlso is anybody driving up lenox or by a marta? asking for me…….\nCherie Lum",
+    "ts": "1693881058.631609",
+    "thread_ts": "1693881058.631609",
+    "reply_count": 13,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1694046617.484059"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1694046637.836109"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1694046680.508999"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1694049553.538099"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1694051217.296769"
+      },
+      {
+        "user": "U04185JLG8M",
+        "ts": "1694089672.696579"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1694098958.033429"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1694099108.582139"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1694099721.836719"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1694195991.493979"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1694204028.650649"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1694204104.895709"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1694210264.832899"
+      }
+    ],
+    "latest_reply": "1694210264.832899",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U041PH0B1DF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HDd=J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey cabin-stargazers,\n\nSo I noticed that many people are going to be driving to the cabin late. Does anybody WANT to go to Blue Ridge to explore it and grab food?? If not, we can all majority meet at 3:45PM/4PM there and go tubing.\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " + sister --\u003e arrive 4PM\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " + "
+              },
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": "  + "
+              },
+              {
+                "type": "user",
+                "user_id": "U04184BSKM3"
+              },
+              {
+                "type": "text",
+                "text": " --\u003e arrive 4/5PM\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": " + "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " --\u003e unknown time\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": " --\u003e unknown time\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " —\u003e thoughts?!\n\nAlso is anybody driving up lenox or by a marta? asking for me…….\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U040V1EQYMS",
+      "U04185JLG8M",
+      "U0495G3QQ1W",
+      "U8QDSG1G9"
+    ]
+  },
+  {
+    "client_msg_id": "78b520ff-9f16-4626-8c6d-ff5d7d090624",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "We should invite Buzz to our next OMSCS conference :+1:",
+    "ts": "1693882795.756509",
+    "thread_ts": "1693847462.204199",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "wow-cat",
+        "count": 2,
+        "users": [
+          "U01N1775WSU",
+          "U02BQJX5TB8"
+        ]
+      },
+      {
+        "name": "partying_face",
+        "count": 1,
+        "users": [
+          "U02EYBE4QNA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CxS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We should invite Buzz to our next OMSCS conference "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "afc2c3e7-f097-4322-82a4-57105b57a1dd",
+    "type": "message",
+    "user": "U02EYBE4QNA",
+    "text": "Buzz will indeed be at the conference :grin:",
+    "ts": "1693926399.328699",
+    "thread_ts": "1693847462.204199",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart_eyes",
+        "count": 3,
+        "users": [
+          "U02DD5VQLBV",
+          "U03UM07E4D8",
+          "U05G9A9DJF9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fLJ3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Buzz will indeed be at the conference "
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-09-21/2528133162353_92943627b44a7a014c5b_72.jpg",
+      "first_name": "Ana",
+      "real_name": "Ana Rusch",
+      "display_name": "Ana",
+      "team": "T03NCJFKCV8",
+      "name": "arusch3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E07E9EA2-E099-4600-805A-49DB4A6D2462",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "Eta for me is arriving at or around cabin at 5",
+    "ts": "1693931253.660249",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xqDz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Eta for me is arriving at or around cabin at 5"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "31D29B4C-221A-4480-BD02-18C7F80D20E5",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "Haha we all have access to them. \n\nThey are the GT Slack's emojis. Click on the add emojis button and the navigate to the tab that is the \"slack icon.\" Once there you can peruse through the collection. ",
+    "ts": "1693931402.165839",
+    "thread_ts": "1693666575.799639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "aww_eyes",
+        "count": 1,
+        "users": [
+          "U02BQJX5TB8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9bBeR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Haha we all have access to them. \n\nThey are the GT Slack's emojis. Click on the add emojis button and the navigate to the tab that is the \"slack icon.\" Once there you can peruse through the collection. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "48F0270F-49D6-4E9A-B4F4-9FDD1212033E",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": ":party-blob: ",
+    "ts": "1693931416.487929",
+    "thread_ts": "1693666575.799639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZZZL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "party-blob",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "be50067e-8124-40ba-a51c-289dca3b693e",
+    "type": "message",
+    "user": "U05G64BQLH0",
+    "text": "+ read George P Burdell's wikipedia page (the greatest man to ever exist)\n+ sleep happy knowing you saved a lot of money doing OMSCS\n+ cry in the shower during finals week\n+ order your BuzzCard\n+ try to remember what \"free time\" felt like",
+    "ts": "1693933151.748679",
+    "thread_ts": "1693847462.204199",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=Dfg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "+ read George P Burdell's wikipedia page (the greatest man to ever exist)\n+ sleep happy knowing you saved a lot of money doing OMSCS\n+ cry in the shower during finals week\n+ order your BuzzCard\n+ try to remember what \"free time\" felt like"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-31/5831523991476_f79fbe06ebe469425ebb_72.jpg",
+      "first_name": "dpham81",
+      "real_name": "dpham81",
+      "display_name": "dpham81",
+      "team": "T03NCJFKCV8",
+      "name": "dpham81",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fa25512a-759f-42ba-9272-02013c52fc46",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "BuzzCard is a must:smiling_face_with_3_hearts:\n• Easily locate your GT Id if you are asked for it when you fill out different forms\n• show it during your proctored exams\n• access to grad student lounge at the student center (when you visit the campus)\n",
+    "ts": "1693936103.464199",
+    "thread_ts": "1693847462.204199",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vpy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "BuzzCard is a must"
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_3_hearts",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Easily locate your GT Id if you are asked for it when you fill out different forms\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"show it during your proctored exams\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"access to grad student lounge at the student center (when you visit the campus)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "77feeb16-c47b-4a52-a8c8-107d7992bce7",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "OMG such a goood point! I LOVE my buzzcard",
+    "ts": "1693939381.939809",
+    "thread_ts": "1693847462.204199",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4jJi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "OMG such a goood point! I LOVE my buzzcard"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e9af34ad-58b0-4400-9109-5e1b5eee2f35",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": ":aww-blob:",
+    "ts": "1693941070.968909",
+    "thread_ts": "1693666575.799639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nErEX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "aww-blob",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "22e0a2df-860b-4d9d-b8e4-797e0d3158b6",
+    "type": "message",
+    "user": "U02BQJX5TB8",
+    "text": ":beautiful:",
+    "ts": "1693941104.404979",
+    "thread_ts": "1693666575.799639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mdev",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "beautiful",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5551013879431_839481820187d4c4b644_72.jpg",
+      "first_name": "Alagappan",
+      "real_name": "Alagappan Swaminathan",
+      "display_name": "Alag",
+      "team": "T03NCJFKCV8",
+      "name": "alagappan.swaminathan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d17c4f3a-b3f9-471e-96de-04877f6bb900",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U04S6L1NS9M\u003e + \u003c@U040V1EQYMS\u003e I for sure go to campus usually on Tuesdays and Wednesdays but times vary. And sometimes the other days when there’s an event or I just feel like. I usually go too CODA.",
+    "ts": "1693949992.926589",
+    "thread_ts": "1693527359.206939",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U04S6L1NS9M"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MV+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": " + "
+              },
+              {
+                "type": "user",
+                "user_id": "U040V1EQYMS"
+              },
+              {
+                "type": "text",
+                "text": " I for sure go to campus usually on Tuesdays and Wednesdays but times vary. And sometimes the other days when there’s an event or I just feel like. I usually go too CODA."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "client_msg_id": "C557ABAC-C676-4F13-B4E2-2FB24F7D9569",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Bonjour beautiful people! \n\nQuick reminder to those running on 4/22!! \u0026amp; to anybody joining last minute\n\nHad a lot of fun at my first and the largest XR Hackathon in the world with \u003c@U0495G3QQ1W\u003e and team this weekend building a platform called, _Light Notes_ that helps you remember what you did last so you never forget again! \n\nHave a great week and good luck to those doing homework due soon :nerd_face:\n\nCherie Lum",
+    "ts": "1681068125.369749",
+    "thread_ts": "1681068125.369749",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1681080527.119389"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1681080540.941089"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1681085529.423429"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1681085933.729049"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1681092560.329889"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1681092670.726139"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1681516567.086199"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1681531074.457319"
+      }
+    ],
+    "latest_reply": "1681531074.457319",
+    "files": [
+      {
+        "id": "F052EJRGGGJ",
+        "created": 1681067854,
+        "timestamp": 1681067854,
+        "name": "IMG_0754.jpg",
+        "title": "IMG_0754",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02DD5VQLBV",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1051313,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F052EJRGGGJ-IMG_0754.jpg",
+        "url_private_download": "attachments/F052EJRGGGJ-IMG_0754.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/TKM8PQGNP-F052EJRGGGJ-70398fc249/img_0754_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/TKM8PQGNP-F052EJRGGGJ-70398fc249/img_0754_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/TKM8PQGNP-F052EJRGGGJ-70398fc249/img_0754_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/TKM8PQGNP-F052EJRGGGJ-70398fc249/img_0754_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/TKM8PQGNP-F052EJRGGGJ-70398fc249/img_0754_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/TKM8PQGNP-F052EJRGGGJ-70398fc249/img_0754_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/TKM8PQGNP-F052EJRGGGJ-70398fc249/img_0754_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/TKM8PQGNP-F052EJRGGGJ-70398fc249/img_0754_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://gatech.enterprise.slack.com/files/U02DD5VQLBV/F052EJRGGGJ/img_0754.jpg",
+        "permalink_public": "https://slack-files.com/TKM8PQGNP-F052EJRGGGJ-d21eafe4f1",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 6,
+        "users": [
+          "U02EYBE4QNA",
+          "U04JD403P7A",
+          "U042H5EAPJL",
+          "U01N1775WSU",
+          "UDWBBD1HC",
+          "U02MANZL55F"
+        ]
+      },
+      {
+        "name": "fire",
+        "count": 2,
+        "users": [
+          "U040V1EQYMS",
+          "U041S3WQKND"
+        ]
+      },
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 5,
+        "users": [
+          "U040V1EQYMS",
+          "U03UM07E4D8",
+          "U04JTFXHEUB",
+          "U03TV0WPGPM",
+          "U041PH0B1DF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ANE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Bonjour beautiful people! \n\nQuick reminder to those running on 4/22!! \u0026 to anybody joining last minute\n\nHad a lot of fun at my first and the largest XR Hackathon in the world with "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " and team this weekend building a platform called, "
+              },
+              {
+                "type": "text",
+                "text": "Light Notes ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "that helps you remember what you did last so you never forget again! \n\nHave a great week and good luck to those doing homework due soon "
+              },
+              {
+                "type": "emoji",
+                "name": "nerd_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U040V1EQYMS",
+      "U0495G3QQ1W"
+    ]
+  },
+  {
+    "client_msg_id": "aafe05b9-686a-4403-b202-e9b48f97f29c",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "Proud of you guys.",
+    "ts": "1681080527.119389",
+    "thread_ts": "1681068125.369749",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v=CKg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Proud of you guys."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c9123a87-d618-4b44-ac79-6bbdb80cb169",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "Looks like fun. Wish I could have joined",
+    "ts": "1681080540.941089",
+    "thread_ts": "1681068125.369749",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rgg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looks like fun. Wish I could have joined"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

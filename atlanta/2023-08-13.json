@@ -1,0 +1,1131 @@
+[
+  {
+    "client_msg_id": "a1926923-61d8-41b8-8c8e-f70e3c110479",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "A few of us are brunching at Egg Harbor Cafe at Buckhead! Yall are welcome to join",
+    "ts": "1691947163.747299",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=8NK2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "A few of us are brunching at Egg Harbor Cafe at Buckhead! Yall are welcome to join"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F2102682-5C46-4421-B571-3F0F3476A791",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "Egg harbor is awesome! I can’t join for brunch but if people want to hang out later I’d be down!",
+    "ts": "1691947380.128249",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b3r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Egg harbor is awesome! I "
+              },
+              {
+                "type": "text",
+                "text": "can’t"
+              },
+              {
+                "type": "text",
+                "text": " join for brunch but if people want to hang out later "
+              },
+              {
+                "type": "text",
+                "text": "I’d"
+              },
+              {
+                "type": "text",
+                "text": " be down!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9D1B1993-B331-4BE6-B83E-8AF999D82CFC",
+    "type": "message",
+    "user": "U04HVDA1022",
+    "text": "Ohhh sick, at what times",
+    "ts": "1691950247.204139",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r6i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ohhh sick, at what times"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-08/4769315920325_0ba8025b357211caa251_72.jpg",
+      "first_name": "giacona3",
+      "real_name": "giacona3",
+      "display_name": "giacona3",
+      "team": "T03NCJFKCV8",
+      "name": "giacona3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "62FBEF42-F8E2-4FD8-8337-DD0930C96BA4",
+    "type": "message",
+    "user": "U04HVDA1022",
+    "text": "??",
+    "ts": "1691950249.852989",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=5kbG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-08/4769315920325_0ba8025b357211caa251_72.jpg",
+      "first_name": "giacona3",
+      "real_name": "giacona3",
+      "display_name": "giacona3",
+      "team": "T03NCJFKCV8",
+      "name": "giacona3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "950A014F-CAB0-4E4D-A1C0-A2D1FA5DAA37",
+    "type": "message",
+    "user": "U04HVDA1022",
+    "text": "\u003c@U02UAQKR56C\u003e just hopped in the car i’ll be there in like 5, not sure if you’re still there",
+    "ts": "1691950779.479069",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w8DhH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " just hopped in the car "
+              },
+              {
+                "type": "text",
+                "text": "i’ll"
+              },
+              {
+                "type": "text",
+                "text": " be there in like 5, not sure if "
+              },
+              {
+                "type": "text",
+                "text": "you’re"
+              },
+              {
+                "type": "text",
+                "text": " still there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-08/4769315920325_0ba8025b357211caa251_72.jpg",
+      "first_name": "giacona3",
+      "real_name": "giacona3",
+      "display_name": "giacona3",
+      "team": "T03NCJFKCV8",
+      "name": "giacona3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4709A0FC-F24D-4E44-B096-309403AABC61",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "If people are there lmk, I’ll try and join as well!",
+    "ts": "1691951039.577819",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mAoh7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If people are there lmk, "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " try and join as well!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "10FB99B7-1F9C-4A40-BFC5-B2FDEE154244",
+    "type": "message",
+    "user": "U04HVDA1022",
+    "text": "bro just pull up",
+    "ts": "1691951057.503889",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wpO76",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "bro just pull up"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-08/4769315920325_0ba8025b357211caa251_72.jpg",
+      "first_name": "giacona3",
+      "real_name": "giacona3",
+      "display_name": "giacona3",
+      "team": "T03NCJFKCV8",
+      "name": "giacona3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EB0638D7-06F0-42CB-8A07-6B096B5F0999",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "Are you there now? I can be there in like 15ish, I have to fill up gas",
+    "ts": "1691951268.619849",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RFs=2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are you there now? I can be there in like 15ish, I have to fill up gas"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BAA2796F-C502-44D8-8D46-1272D9CB38AC",
+    "type": "message",
+    "user": "U04HVDA1022",
+    "text": "yeah just got here",
+    "ts": "1691951556.547279",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MH7d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah just got here"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-08/4769315920325_0ba8025b357211caa251_72.jpg",
+      "first_name": "giacona3",
+      "real_name": "giacona3",
+      "display_name": "giacona3",
+      "team": "T03NCJFKCV8",
+      "name": "giacona3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B91914DF-D863-410B-8773-692C69689E82",
+    "type": "message",
+    "user": "U04HVDA1022",
+    "text": "\u003c@U04S6L1NS9M\u003e update: kitchen is closed and no one is here. L",
+    "ts": "1691951684.126499",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MQgBi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": " update: kitchen is closed and no one is here. L"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-08/4769315920325_0ba8025b357211caa251_72.jpg",
+      "first_name": "giacona3",
+      "real_name": "giacona3",
+      "display_name": "giacona3",
+      "team": "T03NCJFKCV8",
+      "name": "giacona3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "64ddd182-9547-4335-a45b-9d1f6b6571c0",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Yeah bro we in the back",
+    "ts": "1691951747.774559",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kIM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah bro we in the back"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5D7E23E5-75F4-44DC-8C81-34F68365061E",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "I can be there in 15 if people are still there or will be there",
+    "ts": "1691951771.786149",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H3h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can be there in 15 if people are still there or will be there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "64a389af-e434-4e2a-87a8-9f2f0029f0a2",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "\u003c@U04HVDA1022\u003e what's your number",
+    "ts": "1691951876.293369",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uPd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04HVDA1022"
+              },
+              {
+                "type": "text",
+                "text": " what's your number"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8CD160E7-EFC4-4A61-BAC9-35B546C69590",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "I’m about to head over should be there in 10",
+    "ts": "1691951966.363499",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ujk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " about to head over should be there in 10"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2BD0AB25-D822-44D6-8768-B0A262A132F1",
+    "type": "message",
+    "user": "U04HVDA1022",
+    "text": "Oh shoot?",
+    "ts": "1691952056.543199",
+    "thread_ts": "1691761398.622629",
+    "edited": {
+      "user": "U04HVDA1022",
+      "ts": "1691952065.000000"
+    },
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pVR3=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh shoot?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-08/4769315920325_0ba8025b357211caa251_72.jpg",
+      "first_name": "giacona3",
+      "real_name": "giacona3",
+      "display_name": "giacona3",
+      "team": "T03NCJFKCV8",
+      "name": "giacona3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4C8BA00E-5E1E-4C8B-8930-912FFCC62BF1",
+    "type": "message",
+    "user": "U04HVDA1022",
+    "text": "Ok turning back around lol, didn’t check this",
+    "ts": "1691952077.048179",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t8It",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok turning back around lol, "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " check this"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-08/4769315920325_0ba8025b357211caa251_72.jpg",
+      "first_name": "giacona3",
+      "real_name": "giacona3",
+      "display_name": "giacona3",
+      "team": "T03NCJFKCV8",
+      "name": "giacona3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B0DBC126-EE4D-4250-9B81-425BAF262CED",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "\u003c@U04HVDA1022\u003e my number is \u003ctel:571-246-3259|571-246-3259\u003e",
+    "ts": "1691952175.226789",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PNiO6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04HVDA1022"
+              },
+              {
+                "type": "text",
+                "text": " my number is "
+              },
+              {
+                "type": "link",
+                "url": "tel:571-246-3259",
+                "text": "571-246-3259"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "240FD0F9-A196-4FC3-8B1A-8E801532DBE1",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "We might get there at the same time so we can meet up and find them",
+    "ts": "1691952185.700909",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gA9s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We might get there at the same time so we can meet up and find them"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "66AFEA69-65A0-47E0-AD14-F087512438FC",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "I just parked ",
+    "ts": "1691952686.339429",
+    "thread_ts": "1691761398.622629",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kxtzp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just parked "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c14da5d2-d143-4859-9bee-41360ec758f0",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Who's down for top golf/some kind of activity in a bit? \u003c@U04S6L1NS9M\u003e \u003c@U04HVDA1022\u003e",
+    "ts": "1691957453.452419",
+    "thread_ts": "1691957453.452419",
+    "reply_count": 15,
+    "replies": [
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1692022644.782539"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1692022677.938429"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1692022759.955269"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1692022807.616869"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1692022824.030669"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1692022855.006759"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1692022870.965329"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1692022882.932829"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1692022968.166809"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1692023027.404349"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1692036738.262669"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1692057442.384239"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1692461170.832659"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1692738279.776489"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1692738301.271969"
+      }
+    ],
+    "latest_reply": "1692738301.271969",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U04S6L1NS9M",
+          "U04HVDA1022",
+          "U01JSN2M9JP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "17w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Who's down for top golf/some kind of activity in a bit? "
+              },
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04HVDA1022"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02UAQKR56C",
+      "U03UM07E4D8",
+      "U040V1EQYMS",
+      "U8QDSG1G9"
+    ]
+  }
+]

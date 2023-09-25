@@ -1,0 +1,792 @@
+[
+  {
+    "client_msg_id": "2CC9DD9B-9B06-47CA-83DD-DCFA0F8FBA59",
+    "type": "message",
+    "user": "U02EEGFEYHH",
+    "text": " 24th to 27th*",
+    "ts": "1680919022.832859",
+    "thread_ts": "1680808714.398149",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gXs+u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": " 24th to 27th*"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-03-26/3285281466023_2b0e74cefeb2b942ebab_72.jpg",
+      "first_name": "Kai",
+      "real_name": "Kai Ouyang",
+      "display_name": "",
+      "team": "T03NCJFKCV8",
+      "name": "ko40",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "43821659-dcfd-4ee8-9062-e42515996b67",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Bonjour beautiful brains!\n\n1st thanks for all the support from the above!! :face_holding_back_tears:\n\n2nd, Elan and I are at a hackathon (ImmerseGT this weekend focused on utilizing XR. :face_with_monocle:\n\nBut we wanted to test our idea and talk to some real users this early Saturday morning (_we’re focused on people who have a lot of tasks they deal with at work or at home and organizing it_).\n\nIf this is you and you have 10-15 minutes message me! And if you’re tired but can do a quick back and forth DM with me, I’m okay with that. Anyone who ever took HCI knows… we are not our user!\n\nThanks,\nCherie Lum",
+    "ts": "1680960447.909459",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1680960608.000000"
+    },
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U02EYBE4QNA",
+          "U04JD403P7A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u6zwt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Bonjour beautiful brains!\n\n1st thanks for all the support from the above!! "
+              },
+              {
+                "type": "emoji",
+                "name": "face_holding_back_tears",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n2nd, Elan and I are at a hackathon (ImmerseGT this weekend focused on utilizing XR. "
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_monocle",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nBut we wanted to test our idea and talk to some real users this early Saturday morning ("
+              },
+              {
+                "type": "text",
+                "text": "we’re focused on people who have a lot of tasks they deal with at work or at home and organizing it",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ").\n\nIf this is you and you have 10-15 minutes message me! And if you’re tired but can do a quick back and forth DM with me, I’m okay with that. Anyone who ever took HCI knows… we are not our user!\n\nThanks,\nCherie Lum"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0cbb1c7-34f8-410e-8427-8ae6401713b5",
+    "type": "message",
+    "user": "U040B1UERRB",
+    "text": "Could use some input on what class I should take next for the summer semester. Trying to decide between KBAI, DL and RL. It seems KBAI is less intense considering the shorter amount of time for a summer but I get mixed reviews on that class. It will be my 7th class and I am doing an ML specialization. I'm 100% more interested in DL and RL but don't want to feel too much of a crunch during a summer semester. Anyone take one did those over the summer and can speak to intensity?",
+    "ts": "1680969004.654189",
+    "thread_ts": "1680969004.654189",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680974089.528299"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1680974135.105659"
+      },
+      {
+        "user": "USLDMLNSK",
+        "ts": "1680975184.081589"
+      },
+      {
+        "user": "U040B1UERRB",
+        "ts": "1680975363.704289"
+      },
+      {
+        "user": "USLDMLNSK",
+        "ts": "1680975586.669669"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1680978196.985959"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1680978391.279949"
+      },
+      {
+        "user": "U040B1UERRB",
+        "ts": "1680987218.521509"
+      },
+      {
+        "user": "U040B1UERRB",
+        "ts": "1680987219.446549"
+      }
+    ],
+    "latest_reply": "1680987219.446549",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZebP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Could use some input on what class I should take next for the summer semester. Trying to decide between KBAI, DL and RL. It seems KBAI is less intense considering the shorter amount of time for a summer but I get mixed reviews on that class. It will be my 7th class and I am doing an ML specialization. I'm 100% more interested in DL and RL but don't want to feel too much of a crunch during a summer semester. Anyone take one did those over the summer and can speak to intensity?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d12ab50e2213a44e9e9c333a890ae6fc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "creid31",
+      "real_name": "creid31",
+      "display_name": "creid31",
+      "team": "T03NCJFKCV8",
+      "name": "creid31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02UAQKR56C",
+      "U03UM07E4D8",
+      "U040B1UERRB",
+      "USLDMLNSK"
+    ]
+  },
+  {
+    "client_msg_id": "12d34b23-ec4a-46f8-95ee-4b0a91702433",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Here’s some ppl who have taken one or more of your classes ^^ \u003c@U01N1775WSU\u003e \u003c@USLDMLNSK\u003e \u003c@U02UAQKR56C\u003e \u003c@U03UM07E4D8\u003e",
+    "ts": "1680974089.528299",
+    "thread_ts": "1680969004.654189",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1680974235.000000"
+    },
+    "parent_user_id": "U040B1UERRB",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "thanks",
+        "count": 1,
+        "users": [
+          "U040B1UERRB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GK9wN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here’s some ppl who have taken one or more of your classes ^^ "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UM07E4D8"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4d84479b-16cc-4f55-b18c-a08f1d0842a6",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Anybody else feel free to chime in if you took these classes in summer!",
+    "ts": "1680974135.105659",
+    "thread_ts": "1680969004.654189",
+    "parent_user_id": "U040B1UERRB",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VHY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anybody else feel free to chime in if you took these classes in summer!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f348ac4a-04c6-47c5-a817-5f6ae01df706",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "I think I might go with Computer Networks!",
+    "ts": "1680974247.705059",
+    "thread_ts": "1680798945.298629",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9/Fo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think I might go with Computer Networks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e8127a6a-ee25-4ddc-8010-d8483a3f5a05",
+    "type": "message",
+    "user": "USLDMLNSK",
+    "text": "DL was my 6th and RL is my 7th this sem. My opinion is that DL is harder than RL but that could also be because many parts of RL use DL. I’d say DL is doable if not going for a perfect score since it was intense even during a full fall semester. RL without knowing DL might be a little more intense\nDon’t know anything about kbai",
+    "ts": "1680975184.081589",
+    "thread_ts": "1680969004.654189",
+    "edited": {
+      "user": "USLDMLNSK",
+      "ts": "1680975195.000000"
+    },
+    "parent_user_id": "U040B1UERRB",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8Vn5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "DL was my 6th and RL is my 7th this sem. My opinion is that DL is harder than RL but that could also be because many parts of RL use DL. I’d say DL is doable if not going for a perfect score since it was intense even during a full fall semester. RL without knowing DL might be a little more intense\nDon’t know anything about kbai"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4027258340737_52f8f24c427e2db3d373_72.jpg",
+      "first_name": "Ankit",
+      "real_name": "Ankit B.",
+      "display_name": "Ankit B.",
+      "team": "T03NCJFKCV8",
+      "name": "abaraskar6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9f8133c0-1f6e-476e-8ea0-0371e6687e0d",
+    "type": "message",
+    "user": "U040B1UERRB",
+    "text": "Thanks \u003c@USLDMLNSK\u003e Just aiming for a B!",
+    "ts": "1680975363.704289",
+    "thread_ts": "1680969004.654189",
+    "parent_user_id": "U040B1UERRB",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AL4oZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "text",
+                "text": " Just aiming for a B!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d12ab50e2213a44e9e9c333a890ae6fc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "creid31",
+      "real_name": "creid31",
+      "display_name": "creid31",
+      "team": "T03NCJFKCV8",
+      "name": "creid31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1200de08-737e-4947-879e-dfc110163567",
+    "type": "message",
+    "user": "USLDMLNSK",
+    "text": "yeah should be doable, 79 was a B in fall",
+    "ts": "1680975586.669669",
+    "thread_ts": "1680969004.654189",
+    "parent_user_id": "U040B1UERRB",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jgaN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah should be doable, 79 was a B in fall"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4027258340737_52f8f24c427e2db3d373_72.jpg",
+      "first_name": "Ankit",
+      "real_name": "Ankit B.",
+      "display_name": "Ankit B.",
+      "team": "T03NCJFKCV8",
+      "name": "abaraskar6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f675718d-103b-4dd4-bec3-99efa8ea687a",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "Given the current state of Generative Pre-Trained Transformer, DL will be a good choice for introduction, they do ask you have a solid foundation of ML, i.e. DL is not your first ML class. I took ML fall 2022 before taking DL this semester. I found that what I learned from ML helped in general. Solid understanding of matric calculus is also essential. I enjoyed DL so far (although I do not agree with the grading rubric every now and then:upside_down_face:)",
+    "ts": "1680978196.985959",
+    "thread_ts": "1680969004.654189",
+    "parent_user_id": "U040B1UERRB",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iZga",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Given the current state of Generative Pre-Trained Transformer, DL will be a good choice for introduction, they do ask you have a solid foundation of ML, i.e. DL is not your first ML class. I took ML fall 2022 before taking DL this semester. I found that what I learned from ML helped in general. Solid understanding of matric calculus is also essential. I enjoyed DL so far (although I do not agree with the grading rubric every now and then"
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "54bf95a5-9aa8-4d4e-a381-dec0209d6111",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "I took ML4T before DL. DL was my 3rd class of the program. I will reiterate that I have a very average understanding of matrices and 2 variable calculus but I still made it through the class. It is a very time demanding class though, so I would reiterate what my friends Jeanette and Ankit have already mentioned about your expected rigor for the grade you're aiming for",
+    "ts": "1680978391.279949",
+    "thread_ts": "1680969004.654189",
+    "parent_user_id": "U040B1UERRB",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U2Ali",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I took ML4T before DL. DL was my 3rd class of the program. I will reiterate that I have a very average understanding of matrices and 2 variable calculus but I still made it through the class. It is a very time demanding class though, so I would reiterate what my friends Jeanette and Ankit have already mentioned about your expected rigor for the grade you're aiming for"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "edd14fb6-8fd6-47c5-819f-cb8c4105ec19",
+    "type": "message",
+    "user": "U040B1UERRB",
+    "text": "I started ML this semester didn't finish though because I had 2 classes and work got hectic half way through the semester after the midterm. I had to drop something and ML was it. Plan on taking it this fall instead.",
+    "ts": "1680987218.521509",
+    "thread_ts": "1680969004.654189",
+    "parent_user_id": "U040B1UERRB",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SaT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I started ML this semester didn't finish though because I had 2 classes and work got hectic half way through the semester after the midterm. I had to drop something and ML was it. Plan on taking it this fall instead."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d12ab50e2213a44e9e9c333a890ae6fc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "creid31",
+      "real_name": "creid31",
+      "display_name": "creid31",
+      "team": "T03NCJFKCV8",
+      "name": "creid31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f9c4adf7-98ad-4012-a9fa-225f7e69af42",
+    "type": "message",
+    "user": "U040B1UERRB",
+    "text": "Thanks for this insight! Sounds like DL before RL definitely.",
+    "ts": "1680987219.446549",
+    "thread_ts": "1680969004.654189",
+    "parent_user_id": "U040B1UERRB",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bihKc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks for this insight! Sounds like DL before RL definitely."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d12ab50e2213a44e9e9c333a890ae6fc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "creid31",
+      "real_name": "creid31",
+      "display_name": "creid31",
+      "team": "T03NCJFKCV8",
+      "name": "creid31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,1055 @@
+[
+  {
+    "client_msg_id": "172DB589-CEC5-4DA7-B1CA-14259A869774",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U04S6L1NS9M\u003e looks like giacon3 grabbed the last 9/30 bleacher seats but in the event someone can't make it, you can have next dibs! ",
+    "ts": "1692754249.039559",
+    "thread_ts": "1692735832.716149",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XUX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": " looks like giacon3 grabbed the last 9/30 bleacher seats but in the event someone can't make it, you can have next dibs! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "01C75C65-6973-459D-805E-00F8AB4C2789",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "All good, thanks!",
+    "ts": "1692761708.818399",
+    "thread_ts": "1692735832.716149",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Ft",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All good, thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d30af85f-613d-4f12-8592-843abda49347",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Sorry for the trouble, but for those with a ticket, can you DM me this information (or here if you’re comfortable) as soon as you can, sooner for those with earlier GT games:\n\n• Name of ticket holder, (with the quantity of stand tickets - dates)\n• Email for the ticketholder\n• Cell phone number of the ticketholder (tickets will be texted a few days prior to the game)\n• Confirm if ticketholder will be taking Marta, or will need parking pass for Student Center\nThanks!\nCherie",
+    "ts": "1692809580.007049",
+    "thread_ts": "1692735832.716149",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1692809597.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "done-2791",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4R+DP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry for the trouble, but for those with a ticket, can you DM me this information (or here if you’re comfortable) as soon as you can, sooner for those with earlier GT games:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Name of ticket holder, (with the quantity of stand tickets - dates)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Email for the ticketholder\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Cell phone number of the ticketholder (tickets will be texted a few days prior to the game)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Confirm if ticketholder will be taking Marta, or will need parking pass for Student Center\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nThanks!\nCherie"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4b750b18-1d2a-4727-bbbc-009f460712e2",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello beautiful people!\n\u003c!channel\u003e\n\nLooks like camping people broke a tie to glamp camp on Sept 10! Anybody a pro at finding air bnbs?? If not I will look for some. Looks like these are the people who can join for the day:\n\nWe will probably drive up there, do a hike, and explore the area. For those who want to be lazy and are staying over night, feel free to sleep or work if you’re running away from kids, work or just life.\n\nStargazers:\u003c@U040WB5GXRV\u003e  \u003c@U0495G3QQ1W\u003e \u003c@U02UAQKR56C\u003e \u003c@U04185JLG8M\u003e\u003c@U0417UDBBUM\u003e \u003c@U04184BSKM3\u003e  \u003c@U02MANZL55F\u003e \u003c@U0495G3QQ1W\u003e \u003c@U02UAQKR56C\u003e \u003c@U04185JLG8M\u003e \u003c@U04S6L1NS9M\u003e\n\nDay-welcomed guests: \u003c@U01N1775WSU\u003e\n\nLocation: Blue Ridge area sound good to people???\nAwaiting \u003c@USLDMLNSK\u003e for tips.\n\nTotally random, but are there any *golfers* in this group?? I’m thinking about practicing sorta seriously this semester at the range and a course. Maybe qualify for tournaments? I’m at zero right now but I love the sport.\n\nPS don’t forget to send me your info for GT Tickets so you get tickets sent to your phone.\n\nStoked to be ATL chapter head,\nCherie",
+    "ts": "1692817115.596639",
+    "thread_ts": "1692817115.596639",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1692817332.000000"
+    },
+    "reply_count": 15,
+    "replies": [
+      {
+        "user": "UJNR8MXM4",
+        "ts": "1692817415.661679"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1692818987.840589"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1692823086.624189"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1692829437.131079"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1692926710.841629"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1692938542.277619"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693012257.940739"
+      },
+      {
+        "user": "U04S6L1NS9M",
+        "ts": "1693029242.286819"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1693076170.334519"
+      },
+      {
+        "user": "U02UAQKR56C",
+        "ts": "1693090637.540099"
+      },
+      {
+        "user": "U04185JLG8M",
+        "ts": "1693093113.599549"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693100257.654909"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693100373.527469"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1693172298.853179"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1693184355.175199"
+      }
+    ],
+    "latest_reply": "1693184355.175199",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 6,
+        "users": [
+          "U01N1775WSU",
+          "U02UAQKR56C",
+          "U04S6L1NS9M",
+          "U040V1EQYMS",
+          "U02MANZL55F",
+          "U04185JLG8M"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/KDe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello beautiful people!\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nLooks like camping people broke a tie to glamp camp on Sept 10! Anybody a pro at finding air bnbs?? If not I will look for some. Looks like these are the people who can join for the day:\n\nWe will probably drive up there, do a hike, and explore the area. For those who want to be lazy and are staying over night, feel free to sleep or work if you’re running away from kids, work or just life.\n\nStargazers:"
+              },
+              {
+                "type": "user",
+                "user_id": "U040WB5GXRV"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "user",
+                "user_id": "U0417UDBBUM"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04184BSKM3"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U02MANZL55F"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0495G3QQ1W"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UAQKR56C"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04185JLG8M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04S6L1NS9M"
+              },
+              {
+                "type": "text",
+                "text": "\n\nDay-welcomed guests: "
+              },
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": "\n\nLocation: Blue Ridge area sound good to people???\nAwaiting "
+              },
+              {
+                "type": "user",
+                "user_id": "USLDMLNSK"
+              },
+              {
+                "type": "text",
+                "text": " for tips.\n\nTotally random, but are there any "
+              },
+              {
+                "type": "text",
+                "text": "golfers",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " in this group?? I’m thinking about practicing sorta seriously this semester at the range and a course. Maybe qualify for tournaments? I’m at zero right now but I love the sport.\n\nPS don’t forget to send me your info for GT Tickets so you get tickets sent to your phone.\n\nStoked to be ATL chapter head,\nCherie"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 6,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02UAQKR56C",
+      "U040V1EQYMS",
+      "U04185JLG8M",
+      "U04S6L1NS9M",
+      "UJNR8MXM4"
+    ]
+  },
+  {
+    "client_msg_id": "6e8b7192-4a33-4c40-9485-3cf7bb08e11d",
+    "type": "message",
+    "user": "UJNR8MXM4",
+    "text": "Is the glamping all happening on Sept 10?",
+    "ts": "1692817415.661679",
+    "thread_ts": "1692817115.596639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BCH=w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is the glamping all happening on Sept 10?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-03-01/4876220159541_cc798300838b6ba2b8f6_72.jpg",
+      "first_name": "",
+      "real_name": "Yaw",
+      "display_name": "Yaw",
+      "team": "T03NCJFKCV8",
+      "name": "yagyepong3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c32f1ff5-ffc3-424d-8537-50a49509bfcd",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "Anyone going to GradWelcome this Friday 8/26?\n\u003chttps://specialevents.gatech.edu/gradwelcome\u003e\n4 - 6:30 PM\nI will be there:tada:",
+    "ts": "1692818872.814919",
+    "thread_ts": "1692818872.814919",
+    "edited": {
+      "user": "U03UM07E4D8",
+      "ts": "1692830699.000000"
+    },
+    "reply_count": 11,
+    "replies": [
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1692824104.276609"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1692825673.624989"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1692829505.588809"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1692830675.128639"
+      },
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1692832981.797429"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1692880712.606679"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1692887125.424639"
+      },
+      {
+        "user": "U02MANZL55F",
+        "ts": "1692888065.004089"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1692895915.254689"
+      },
+      {
+        "user": "U02DD5VQLBV",
+        "ts": "1692903631.595779"
+      },
+      {
+        "user": "U0495G3QQ1W",
+        "ts": "1692903721.302269"
+      }
+    ],
+    "latest_reply": "1692903721.302269",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K8I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone going to GradWelcome this Friday 8/26?\n"
+              },
+              {
+                "type": "link",
+                "url": "https://specialevents.gatech.edu/gradwelcome",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n4 - 6:30 PM\nI will be there"
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U02DD5VQLBV",
+      "U02MANZL55F",
+      "U03UM07E4D8",
+      "U040V1EQYMS",
+      "U0495G3QQ1W"
+    ]
+  },
+  {
+    "client_msg_id": "2782933e-6489-4fa1-b137-2b0ef25b26af",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "oh shooot, well Ankit says star gazing might be more clear last week of Sept -the 26th",
+    "ts": "1692818987.840589",
+    "thread_ts": "1692817115.596639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "thinking_face",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V4bR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh shooot, well Ankit says star gazing might be more clear last week of Sept -the 26th"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fdbce671-c13f-4316-84fa-60236810d7b4",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003c@U01N1775WSU\u003e for those who want to stargaze at night when sleeping over",
+    "ts": "1692823086.624189",
+    "thread_ts": "1692817115.596639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U01N1775WSU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hfU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01N1775WSU"
+              },
+              {
+                "type": "text",
+                "text": " for those who want to stargaze at night when sleeping over"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B236EBA0-32C4-44F3-9D9E-BA40965BE80B",
+    "type": "message",
+    "user": "U0495G3QQ1W",
+    "text": "Get there really early! The line for food/swag was easily an hour long if you showed up late",
+    "ts": "1692824104.276609",
+    "thread_ts": "1692818872.814919",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 2,
+        "users": [
+          "U03UM07E4D8",
+          "U053S8KANSK"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NhWH/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Get there really early! The line for food/swag was easily an hour long if you showed up late"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-27/4290324769572_a9e776395623c3b9f13f_72.jpg",
+      "first_name": "Elan",
+      "real_name": "Elan Grossman",
+      "display_name": "Elan",
+      "team": "T03NCJFKCV8",
+      "name": "egrossman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "63f463b7-1ed8-4b2b-98b9-7d4fcafc853d",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "what would one do for free food and swag?",
+    "ts": "1692825673.624989",
+    "thread_ts": "1692818872.814919",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TbZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what would one do for free food and swag?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8A8A44CB-6381-451B-8244-8FFA60FD9AEF",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "I golf but by no means pro. Would love to go to the range or play whenever ",
+    "ts": "1692829437.131079",
+    "thread_ts": "1692817115.596639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C0PZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I golf but by no means pro. Would love to go to the range or play whenever "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "35E11AF9-8038-41B7-A41B-1C9080A0D6CC",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "I want to go but work is kicking my butt so I probably won't be able to make it ",
+    "ts": "1692829505.588809",
+    "thread_ts": "1692818872.814919",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dR2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I want to go but work is kicking my butt so I probably won't be able to make it "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09a79caf-188f-4a40-9e0c-5f348b9395a5",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "I will be there for project meeting.\nWork more/harder on Thursday :smiling_face_with_tear:",
+    "ts": "1692830675.128639",
+    "thread_ts": "1692818872.814919",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sbOkz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will be there for project meeting.\nWork more/harder on Thursday "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F234BB8C-6D8A-4FFF-98B2-B17B1DA84634",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "I will do my best. :grimacing: ",
+    "ts": "1692832981.797429",
+    "thread_ts": "1692818872.814919",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hfn7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will do my best. "
+              },
+              {
+                "type": "emoji",
+                "name": "grimacing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

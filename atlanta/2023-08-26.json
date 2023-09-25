@@ -1,0 +1,342 @@
+[
+  {
+    "client_msg_id": "cf1e0138-6b7b-4880-8583-ded4a5786fe8",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "\u003chttps://www.airbnb.com/s/Blue-Ridge--Georgia--United-States/homes?adults=7\u0026amp;checkin=2023-09-09\u0026amp;checkout=2023-09-10\u0026amp;tab_id=home_tab\u0026amp;refinement_paths%5B%5D=%2Fhomes\u0026amp;query=Blue%20Ridge%2C%20Georgia%2C%20United%20States\u0026amp;place_id=ChIJMW3RaFimX4gRELMSN6oF2wY\u0026amp;flexible_trip_lengths%5B%5D=one_week\u0026amp;monthly_start_date=2023-09-01\u0026amp;monthly_length=3\u0026amp;price_filter_input_type=0\u0026amp;price_filter_num_nights=1\u0026amp;channel=EXPLORE\u0026amp;ne_lat=34.92833025609325\u0026amp;ne_lng=-84.23400021012566\u0026amp;sw_lat=34.78191649044508\u0026amp;sw_lng=-84.38467798013966\u0026amp;zoom=12.270801478109032\u0026amp;zoom_level=12\u0026amp;search_by_map=true\u0026amp;search_type=filter_change\u0026amp;date_picker_type=calendar\u0026amp;source=structured_search_input_header|https://www.airbnb.com/s/Blue-Ridge--Georgia--United-States/homes?adults=7\u0026amp;checkin=2[…]te_picker_type=calendar\u0026amp;source=structured_search_input_header\u003e\n\nThoughts?",
+    "ts": "1693012257.940739",
+    "thread_ts": "1692817115.596639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "57kX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.airbnb.com/s/Blue-Ridge--Georgia--United-States/homes?adults=7\u0026checkin=2023-09-09\u0026checkout=2023-09-10\u0026tab_id=home_tab\u0026refinement_paths%5B%5D=%2Fhomes\u0026query=Blue%20Ridge%2C%20Georgia%2C%20United%20States\u0026place_id=ChIJMW3RaFimX4gRELMSN6oF2wY\u0026flexible_trip_lengths%5B%5D=one_week\u0026monthly_start_date=2023-09-01\u0026monthly_length=3\u0026price_filter_input_type=0\u0026price_filter_num_nights=1\u0026channel=EXPLORE\u0026ne_lat=34.92833025609325\u0026ne_lng=-84.23400021012566\u0026sw_lat=34.78191649044508\u0026sw_lng=-84.38467798013966\u0026zoom=12.270801478109032\u0026zoom_level=12\u0026search_by_map=true\u0026search_type=filter_change\u0026date_picker_type=calendar\u0026source=structured_search_input_header",
+                "text": "https://www.airbnb.com/s/Blue-Ridge--Georgia--United-States/homes?adults=7\u0026checkin=2[…]te_picker_type=calendar\u0026source=structured_search_input_header"
+              },
+              {
+                "type": "text",
+                "text": "\n\nThoughts?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "48DF2815-E190-4437-9B0B-CB3D81EC0355",
+    "type": "message",
+    "user": "U04S6L1NS9M",
+    "text": "They all look really nice",
+    "ts": "1693029242.286819",
+    "thread_ts": "1692817115.596639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FK0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "They all look really nice"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-02/5691423433361_6fde82e017ca6849c9e5_72.png",
+      "first_name": "Vignesh",
+      "real_name": "Vignesh Sinha",
+      "display_name": "Vignesh",
+      "team": "T03NCJFKCV8",
+      "name": "vigneshsinha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D31330EE-C3DC-4F31-A19F-B6BFE752CF9A",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "The sanctuary in blue is my vote. I'm a tad bougie though. I like hot tubs and fire pits ",
+    "ts": "1693076170.334519",
+    "thread_ts": "1692817115.596639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U04S6L1NS9M",
+          "U02UAQKR56C",
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Pv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The sanctuary in blue is my vote. I'm a tad bougie though. I like hot tubs and fire pits "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0189a310-7c94-439c-acaf-a948ada9b118",
+    "type": "message",
+    "user": "U040B1UERRB",
+    "text": "Very last minute but anyone want 4 Atlanta united tickets for tonight's game? $40 a piece in section 221.",
+    "ts": "1693085699.515089",
+    "thread_ts": "1693085699.515089",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U040V1EQYMS",
+        "ts": "1693184375.291859"
+      }
+    ],
+    "latest_reply": "1693184375.291859",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0yZbp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Very last minute but anyone want 4 Atlanta united tickets for tonight's game? $40 a piece in section 221."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d12ab50e2213a44e9e9c333a890ae6fc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "creid31",
+      "real_name": "creid31",
+      "display_name": "creid31",
+      "team": "T03NCJFKCV8",
+      "name": "creid31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U040V1EQYMS"
+    ]
+  },
+  {
+    "client_msg_id": "7337b8d8-022b-4c1c-b430-ee8387da1a78",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "hot tubs and fire pits :raised_hands:",
+    "ts": "1693090637.540099",
+    "thread_ts": "1692817115.596639",
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LKxSD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hot tubs and fire pits "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5cbc28bd-b8e0-40a5-98c8-8d441e926c31",
+    "type": "message",
+    "user": "U04185JLG8M",
+    "text": "AIrbnb looks good. I say we go for it. Sanctuary in blue",
+    "ts": "1693093113.599549",
+    "thread_ts": "1692817115.596639",
+    "edited": {
+      "user": "U04185JLG8M",
+      "ts": "1693093176.000000"
+    },
+    "parent_user_id": "U02DD5VQLBV",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M/e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AIrbnb looks good. I say we go for it. Sanctuary in blue"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-02/4156135726982_8173a7fe45ea9ef39826_72.jpg",
+      "first_name": "Bosun",
+      "real_name": "Bosun A.",
+      "display_name": "Bosun A.",
+      "team": "T03NCJFKCV8",
+      "name": "oadepoju3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]
