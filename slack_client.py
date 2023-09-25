@@ -41,8 +41,8 @@ import evadb
 
 
 # Make sure necessary tokens are set.
-SLACK_BOT_TOKEN = "xoxb-4264212692400-5937392355813-BrxGX0WQ8cIq78x9N1ivJKeW" # os.environ.get("SLACK_BOT_TOKEN")
-SLACK_SIGNING_SECRET = "33d88e3017617fdf38c1c8426616e1d3" #os.environ.get("SLACK_SIGNING_SECRET")
+SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
+SLACK_SIGNING_SECRET = os.environ.get("SLACK_SIGNING_SECRET")
 
 # Slack app, bot, and client.
 app = App(token=SLACK_BOT_TOKEN)
