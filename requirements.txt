@@ -2,3 +2,9 @@ flask
 slack
 slack-bolt
 evadb==0.3.5
+slackclient
+ngrok
+openai
+evadb
+ray
+sentence-transformers
