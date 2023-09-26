@@ -55,9 +55,8 @@ queue_list = start_llm_backend(2)
 
 # Cursor of EvaDB.
 cursor = evadb.connect().cursor()
-# build_search_index(cursor)
+build_search_index(cursor)
 hasSlackDump = build_slack_dump_search_index(cursor)
-function_list = cursor.query("""SHOW FUNCTIONS""").df()["name"].tolist()
 
 #########################################################
 # Helper functions                                      #

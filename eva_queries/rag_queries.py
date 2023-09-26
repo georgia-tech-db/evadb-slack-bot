@@ -1,7 +1,7 @@
 import os
 import openai
 
-# from gpt4all import GPT4All
+from gpt4all import GPT4All
 
 import evadb
 
@@ -126,8 +126,8 @@ def openai_respond(conversation):
 
 @ray.remote(num_cpus=6)
 def gpt4all_respond(queue_list):
-    #gpt4all = GPT4All("orca-mini-3b.ggmlv3.q4_0.bin")
-    #gpt4all.model.set_thread_count(6)
+    gpt4all = GPT4All("orca-mini-3b.ggmlv3.q4_0.bin")
+    gpt4all.model.set_thread_count(6)
 
     # Remote processing to detach from client process.
     while True:
@@ -142,8 +142,7 @@ def gpt4all_respond(queue_list):
             user_template = "Document:{0}\nQuestion:{1}\nAnswer:".format(
                 document, query
             )
-            #response = gpt4all.generate(system_template + user_template, temp=0)
-            response = "This is a response"
+            response = gpt4all.generate(system_template + user_template, temp=0)
             oq.put(response)
 
 
