@@ -4,3 +4,5 @@
 __pycache__/
 evadb_data/
 eva_queries/tmp.py
+env/
+slack_dump/

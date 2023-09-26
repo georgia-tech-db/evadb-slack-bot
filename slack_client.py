@@ -25,9 +25,10 @@ from slack_bolt.adapter.flask import SlackRequestHandler
 
 from eva_queries.rag_queries import (
     build_relevant_knowledge_body_pdf,
-    build_relevant_knowledge_body_json,
+    build_relevant_knowledge_body_SlackDump,
     build_rag_query,
     build_search_index,
+    build_slack_dump_search_index,
     start_llm_backend,
 )
 from utils.formatted_messages.welcome import MSG as WELCOME_MSG
@@ -54,8 +55,9 @@ queue_list = start_llm_backend(2)
 
 # Cursor of EvaDB.
 cursor = evadb.connect().cursor()
-build_search_index(cursor)
-
+# build_search_index(cursor)
+hasSlackDump = build_slack_dump_search_index(cursor)
+function_list = cursor.query("""SHOW FUNCTIONS""").df()["name"].tolist()
 
 #########################################################
 # Helper functions                                      #
@@ -127,12 +129,14 @@ def handle_mention(body, say, logger):
         QUERY_LOGGER.info(f"{user_query}")
 
         if user_query:
-            # knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_json(
-            #     cursor, user_query, logger
-            # )
-            knowledge_body = build_relevant_knowledge_body_json(
-                cursor, user_query, logger
-            )
+            if (hasSlackDump):
+                knowledge_body = build_relevant_knowledge_body_SlackDump(
+                    cursor, user_query, logger
+                )
+            else:
+                knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_pdf(
+                    cursor, user_query, logger
+                )
             conversation = build_rag_query(knowledge_body, user_query)
 
             if knowledge_body is not None:
@@ -145,11 +149,12 @@ def handle_mention(body, say, logger):
 
                 # Attach reference
                 response += REF_MSG_HEADER
-                # for i, pageno in enumerate(reference_pageno_list):
-                #     # TODO: change hardcoded url.
-                #     # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
-                #     response += f"[{reference_pdf_name}, page {pageno}] "
-                # response += "\n"
+                if (not(hasSlackDump)):
+                    for _, pageno in enumerate(reference_pageno_list):
+                        # TODO: change hardcoded url.
+                        # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
+                        response += f"[{reference_pdf_name}, page {pageno}] "
+                    response += "\n"
 
                 # Reply back with welcome msg randomly.
                 if random.random() < 0.1:

@@ -1,12 +1,13 @@
 import os
 import openai
 
-from gpt4all import GPT4All
+# from gpt4all import GPT4All
 
 import evadb
 
 import ray
-
+import pandas as pd
+import os
 
 def build_search_index(cursor):
     cursor.query(
@@ -26,16 +27,35 @@ def build_search_index(cursor):
             USING FAISS
         """
         ).df()
-    
-    
-    if "OMSCSSlackJson" not in table_list:
-        cursor.query("""LOAD TABLE '2022-09-16.json' INTO OMSCSSlackJson""").df()
+
+
+def build_slack_dump_search_index(cursor):
+    if (not("slack_dump" in os.listdir("."))):
+        return False
+    path = "./slack_dump/"
+    files = os.listdir(path)
+    df = pd.DataFrame()
+    if (len(files) == 0):
+        return False
+
+    for file in files:
+        if file.endswith(".json"):
+            df1 = pd.read_json(path + file)
+            df = pd.concat([df, df1[df1.columns.intersection(set(['client_msg_id', 'type', 'user', 'text', 'ts']))]])
+    df.to_csv("SlackDump.csv", encoding='utf-8', index=False)
+    table_list = cursor.query("""SHOW TABLES""").df()["name"].tolist()
+    if "SlackDumpTable" not in table_list:
+        cursor.query("CREATE TABLE IF NOT EXISTS SlackDumpTable (client_msg_id TEXT(50), type TEXT(50), user TEXT(1000), text TEXT(50), ts TEXT(50));").df()
+        table_list = cursor.query("""SHOW TABLES""").df()["name"].tolist()
+        cursor.query("""LOAD CSV 'SlackDump.csv' INTO SlackDumpTable;""").df()
         cursor.query(
-            """CREATE INDEX IF NOT EXISTS OMSCSSlackJsonIndex 
-            ON OMSCSSlackJson (SentenceFeatureExtractor(data))
-            USING FAISS
+            """CREATE INDEX IF NOT EXISTS SlackDumpIndex 
+            ON SlackDumpTable (SentenceFeatureExtractor(text))
+            USING FAISS;
         """
         ).df()
+        return True
+    return False
 
 
 def build_relevant_knowledge_body_pdf(cursor, user_query, logger):
@@ -59,26 +79,24 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, logger):
         return None, None
 
 
-def build_relevant_knowledge_body_json(cursor, user_query, logger):
+def build_relevant_knowledge_body_SlackDump(cursor, user_query, logger):
     query = f"""
-        SELECT * FROM OMSCSSlackJson
+        SELECT * FROM SlackDumpTable
         ORDER BY Similarity(
             SentenceFeatureExtractor('{user_query}'), 
-            SentenceFeatureExtractor(data)
+            SentenceFeatureExtractor(text)
         ) LIMIT 3
     """
 
     try:
         response = cursor.query(query).df()
+
         # DataFrame response to single string.
-        knowledge_body = response["omscsslackjson.data"].str.cat(sep="; ")
-        # referece_pageno_list = set(response["omscsslackjson.page"].tolist()[:3])
-        # reference_pdf_name = response["omscsslackjson.name"].tolist()[0]
-        return knowledge_body # , reference_pdf_name, referece_pageno_list
+        knowledge_body = response["slackdumptable.text"].str.cat(sep="; ")
+        return knowledge_body
     except Exception as e:
         logger.error(str(e))
-        return None, None
-
+        return None
 
 def build_rag_query(knowledge_body, query):
     conversation = [
@@ -108,8 +126,8 @@ def openai_respond(conversation):
 
 @ray.remote(num_cpus=6)
 def gpt4all_respond(queue_list):
-    gpt4all = GPT4All("orca-mini-3b.ggmlv3.q4_0.bin")
-    gpt4all.model.set_thread_count(6)
+    #gpt4all = GPT4All("orca-mini-3b.ggmlv3.q4_0.bin")
+    #gpt4all.model.set_thread_count(6)
 
     # Remote processing to detach from client process.
     while True:
@@ -124,7 +142,8 @@ def gpt4all_respond(queue_list):
             user_template = "Document:{0}\nQuestion:{1}\nAnswer:".format(
                 document, query
             )
-            response = gpt4all.generate(system_template + user_template, temp=0)
+            #response = gpt4all.generate(system_template + user_template, temp=0)
+            response = "This is a response"
             oq.put(response)
 
 
