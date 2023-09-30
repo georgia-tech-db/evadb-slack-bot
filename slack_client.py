@@ -29,7 +29,7 @@ from eva_queries.rag_queries import (
     build_search_index,
     load_slack_dump,
     load_omscs_pdfs,
-    create_feature_extractor
+    create_feature_extractor,
     start_llm_backend,
 )
 from utils.formatted_messages.welcome import MSG as WELCOME_MSG
