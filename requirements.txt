@@ -8,3 +8,4 @@ openai
 evadb
 ray
 sentence-transformers
+pdfdocument
