@@ -7,4 +7,4 @@ evadb_data/
 eva_queries/tmp.py
 env/
 slack_dump/
-SlackDump.pdf
+slack_dump_pdfs/

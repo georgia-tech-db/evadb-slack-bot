@@ -9,3 +9,6 @@ evadb
 ray
 sentence-transformers
 pdfdocument
+PyMuPDF
+faiss-cpu
+faiss-gpu
