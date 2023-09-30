@@ -34,7 +34,7 @@ def build_slack_dump_search_index(cursor):
         if (len(files) == 0):
             return False
 
-        pdf = PDFDocument("slack_dump.pdf")
+        pdf = PDFDocument("SlackDump.pdf")
         pdf.init_report()
         for file in files:
             if file.endswith(".json"):
@@ -42,7 +42,7 @@ def build_slack_dump_search_index(cursor):
                 df = pd.concat([df, df1[df1.columns.intersection(set(['client_msg_id', 'type', 'user', 'text', 'ts']))]])
                 pdf.p(df.to_csv(index=False))
         pdf.generate()
-        build_search_index(cursor, "slack_dump.pdf")
+        build_search_index(cursor, "SlackDump.pdf")
 
 
 def build_relevant_knowledge_body_pdf(cursor, user_query, logger):
