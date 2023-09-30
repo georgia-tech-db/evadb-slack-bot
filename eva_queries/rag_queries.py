@@ -2,14 +2,14 @@ import os
 import openai
 
 from gpt4all import GPT4All
-
+from pdfdocument.document import PDFDocument
 import evadb
 
 import ray
 import pandas as pd
 import os
 
-def build_search_index(cursor):
+def build_search_index(cursor, doc_name):
     cursor.query(
         """
         CREATE FUNCTION IF NOT EXISTS SentenceFeatureExtractor
@@ -17,50 +17,37 @@ def build_search_index(cursor):
     """
     ).df()
 
-    table_list = cursor.query("""SHOW TABLES""").df()["name"].tolist()
-
-    if "OMSCSDocPDF" not in table_list:
-        cursor.query("""LOAD PDF 'omscs_doc.pdf' INTO OMSCSDocPDF""").df()
-        cursor.query(
-            """CREATE INDEX IF NOT EXISTS OMSCSDocPDFIndex 
-            ON OMSCSDocPDF (SentenceFeatureExtractor(data))
-            USING FAISS
-        """
-        ).df()
+    cursor.query("""LOAD PDF '""" + doc_name + """' INTO OMSCSPDFTable""").df()
+    cursor.query(
+        """CREATE INDEX IF NOT EXISTS OMSCSIndex 
+        ON OMSCSPDFTable (SentenceFeatureExtractor(data))
+        USING FAISS
+    """
+    ).df()
 
 
 def build_slack_dump_search_index(cursor):
-    if (not("slack_dump" in os.listdir("."))):
-        return False
-    path = "./slack_dump/"
-    files = os.listdir(path)
-    df = pd.DataFrame()
-    if (len(files) == 0):
-        return False
+    if ("slack_dump" in os.listdir(".")):
+        path = "./slack_dump/"
+        files = os.listdir(path)
+        df = pd.DataFrame()
+        if (len(files) == 0):
+            return False
 
-    for file in files:
-        if file.endswith(".json"):
-            df1 = pd.read_json(path + file)
-            df = pd.concat([df, df1[df1.columns.intersection(set(['client_msg_id', 'type', 'user', 'text', 'ts']))]])
-    df.to_csv("SlackDump.csv", encoding='utf-8', index=False)
-    table_list = cursor.query("""SHOW TABLES""").df()["name"].tolist()
-    if "SlackDumpTable" not in table_list:
-        cursor.query("CREATE TABLE IF NOT EXISTS SlackDumpTable (client_msg_id TEXT(50), type TEXT(50), user TEXT(1000), text TEXT(50), ts TEXT(50));").df()
-        table_list = cursor.query("""SHOW TABLES""").df()["name"].tolist()
-        cursor.query("""LOAD CSV 'SlackDump.csv' INTO SlackDumpTable;""").df()
-        cursor.query(
-            """CREATE INDEX IF NOT EXISTS SlackDumpIndex 
-            ON SlackDumpTable (SentenceFeatureExtractor(text))
-            USING FAISS;
-        """
-        ).df()
-        return True
-    return False
+        pdf = PDFDocument("slack_dump.pdf")
+        pdf.init_report()
+        for file in files:
+            if file.endswith(".json"):
+                df1 = pd.read_json(path + file)
+                df = pd.concat([df, df1[df1.columns.intersection(set(['client_msg_id', 'type', 'user', 'text', 'ts']))]])
+                pdf.p(df.to_csv(index=False))
+        pdf.generate()
+        build_search_index(cursor, "slack_dump.pdf")
 
 
 def build_relevant_knowledge_body_pdf(cursor, user_query, logger):
     query = f"""
-        SELECT * FROM OMSCSDocPDF
+        SELECT * FROM OMSCSPDFTable
         ORDER BY Similarity(
             SentenceFeatureExtractor('{user_query}'), 
             SentenceFeatureExtractor(data)
@@ -70,33 +57,14 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, logger):
     try:
         response = cursor.query(query).df()
         # DataFrame response to single string.
-        knowledge_body = response["omscsdocpdf.data"].str.cat(sep="; ")
-        referece_pageno_list = set(response["omscsdocpdf.page"].tolist()[:3])
-        reference_pdf_name = response["omscsdocpdf.name"].tolist()[0]
+        knowledge_body = response["omscspdftable.data"].str.cat(sep="; ")
+        referece_pageno_list = set(response["omscspdftable.page"].tolist()[:3])
+        reference_pdf_name = response["omscspdftable.name"].tolist()[0]
         return knowledge_body, reference_pdf_name, referece_pageno_list
     except Exception as e:
         logger.error(str(e))
         return None, None
 
-
-def build_relevant_knowledge_body_SlackDump(cursor, user_query, logger):
-    query = f"""
-        SELECT * FROM SlackDumpTable
-        ORDER BY Similarity(
-            SentenceFeatureExtractor('{user_query}'), 
-            SentenceFeatureExtractor(text)
-        ) LIMIT 3
-    """
-
-    try:
-        response = cursor.query(query).df()
-
-        # DataFrame response to single string.
-        knowledge_body = response["slackdumptable.text"].str.cat(sep="; ")
-        return knowledge_body
-    except Exception as e:
-        logger.error(str(e))
-        return None
 
 def build_rag_query(knowledge_body, query):
     conversation = [

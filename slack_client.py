@@ -25,7 +25,6 @@ from slack_bolt.adapter.flask import SlackRequestHandler
 
 from eva_queries.rag_queries import (
     build_relevant_knowledge_body_pdf,
-    build_relevant_knowledge_body_SlackDump,
     build_rag_query,
     build_search_index,
     build_slack_dump_search_index,
@@ -55,8 +54,8 @@ queue_list = start_llm_backend(2)
 
 # Cursor of EvaDB.
 cursor = evadb.connect().cursor()
-build_search_index(cursor)
-hasSlackDump = build_slack_dump_search_index(cursor)
+build_search_index(cursor, 'omscs_doc.pdf')
+build_slack_dump_search_index(cursor)
 
 #########################################################
 # Helper functions                                      #
@@ -128,14 +127,9 @@ def handle_mention(body, say, logger):
         QUERY_LOGGER.info(f"{user_query}")
 
         if user_query:
-            if (hasSlackDump):
-                knowledge_body = build_relevant_knowledge_body_SlackDump(
-                    cursor, user_query, logger
-                )
-            else:
-                knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_pdf(
-                    cursor, user_query, logger
-                )
+            knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_pdf(
+                cursor, user_query, logger
+            )
             conversation = build_rag_query(knowledge_body, user_query)
 
             if knowledge_body is not None:
