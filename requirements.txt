@@ -1,4 +1,15 @@
 flask
 slack
 slack-bolt
-evadb==0.3.5
+evadb
+slackclient
+ngrok
+openai
+evadb
+ray
+sentence-transformers
+gpt4all
+pdfdocument
+PyMuPDF
+faiss-cpu
+faiss-gpu
