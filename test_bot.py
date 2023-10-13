@@ -1,4 +1,4 @@
-from slack_client import handle_mention
+import slack_client
 import json
 from logging import Logger
 
@@ -26,4 +26,5 @@ def test_slack_bot():
         "U0LAN0Z89"
     ]
 }"""
-    handle_mention(json.load(body), say, Logger)
+    slack_client.handle_mention(json.load(body), say, Logger)
+test_slack_bot()
