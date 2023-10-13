@@ -26,5 +26,5 @@ def test_slack_bot():
         "U0LAN0Z89"
     ]
 }"""
-    slack_client.handle_mention(json.load(body), say, Logger)
+    slack_client.handle_mention(json.loads(body), say, Logger)
 test_slack_bot()
