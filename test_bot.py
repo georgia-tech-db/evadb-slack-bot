@@ -2,8 +2,8 @@ from slack_client import handle_mention
 import json
 from logging import Logger
 
-def say (**kwargs):
-    pass
+def say (arg1, **kwargs):
+    print(arg1)
 
 def test_slack_bot():
     body = """
