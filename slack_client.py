@@ -40,26 +40,28 @@ from utils.usage_tracker import time_tracker
 from utils.logging import QUERY_LOGGER, APP_LOGGER
 
 import evadb
-
-
 # Make sure necessary tokens are set.
 SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
 os.environ.get("SLACK_SIGNING_SECRET")
-
-# Slack app, bot, and client.
 app = App(token=SLACK_BOT_TOKEN)
-handler = SlackRequestHandler(app)
-client = WebClient(token=SLACK_BOT_TOKEN)
 
-# Queue list to connect to backend.
-queue_list = start_llm_backend(2)
+def setup():
 
-# Cursor of EvaDB.
-cursor = evadb.connect().cursor()
-create_feature_extractor(cursor)
-load_omscs_pdfs(cursor)
-load_slack_dump(cursor)
-build_search_index(cursor)
+    # Slack app, bot, and client.
+    
+    handler = SlackRequestHandler(app)
+    client = WebClient(token=SLACK_BOT_TOKEN)
+
+    # Queue list to connect to backend.
+    queue_list = start_llm_backend(2)
+
+    # Cursor of EvaDB.
+    cursor = evadb.connect().cursor()
+    create_feature_extractor(cursor)
+    load_omscs_pdfs(cursor)
+    load_slack_dump(cursor)
+    build_search_index(cursor)
+
 #########################################################
 # Helper functions                                      #
 #########################################################
@@ -94,6 +96,7 @@ def log_request(logger, body, next):
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
+    setup()
     event_id = body["event_id"]
 
     # Thread id to reply.

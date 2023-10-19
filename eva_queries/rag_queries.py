@@ -41,10 +41,8 @@ def load_omscs_pdfs (cursor):
         print ("Skipped loading pdf: omscs_doc.pdf")
 
 
-def load_slack_dump(cursor):
+def load_slack_dump(cursor, path = "./slack_dump/", pdf_path = "./slack_dump_pdfs/"):
     if ("slack_dump" in os.listdir(".")):
-        path = "./slack_dump/"
-        pdf_path = "./slack_dump_pdfs/"
         if not os.path.exists(pdf_path):
             print("Creating dir `" + pdf_path + "` for slack dump PDFs")
             os.makedirs(pdf_path)
@@ -56,15 +54,16 @@ def load_slack_dump(cursor):
         os.chdir(pdf_path)
         load_counter = 0
         total_counter = 0
-        for file, i in zip(slackDumpFiles, range(len(slackDumpFiles))):
+        for file in slackDumpFiles:
             total_counter += 1
             if file.endswith(".json"):
-                pdf_name = "SlackDump" + str(i+1) + ".pdf"
+                pdf_name = "SlackDump_" + file[:-5] + ".pdf"
                 if pdf_name not in slackDumpPDFFiles:
                     pdf = PDFDocument(pdf_name)
                     pdf.init_report()
                     df1 = pd.read_json("../" + path + file)
                     df = pd.concat([df, df1[df1.columns.intersection(set(['client_msg_id', 'type', 'user', 'text', 'ts']))]])
+                    df = df[~df['text'].str.contains("has joined the channel")]
                     pdf.p(df.to_csv(index=False))
                     pdf.generate()
                 if load_pdf_into_eva (cursor, pdf_name):
@@ -86,7 +85,6 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, logger):
             SentenceFeatureExtractor(data)
         ) LIMIT 3
     """
-
     try:
         response = cursor.query(query).df()
         # DataFrame response to single string.
@@ -96,7 +94,7 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, logger):
         return knowledge_body, reference_pdf_name, referece_pageno_list
     except Exception as e:
         logger.error(str(e))
-        return None, None
+        return None, None, None
 
 
 def build_rag_query(knowledge_body, query):
