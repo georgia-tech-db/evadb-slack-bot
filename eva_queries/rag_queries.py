@@ -17,7 +17,6 @@ def build_search_index(cursor):
     ).df()
 
     table_list = cursor.query("""SHOW TABLES""").df()["name"].tolist()
-
     if "OMSCSDocPDF" not in table_list:
         cursor.query("""LOAD PDF 'omscs_doc.pdf' INTO OMSCSDocPDF""").df()
         cursor.query(
@@ -36,7 +35,6 @@ def build_relevant_knowledge_body(cursor, user_query, logger):
             SentenceFeatureExtractor(data)
         ) LIMIT 3
     """
-
     try:
         response = cursor.query(query).df()
         # DataFrame response to single string.
@@ -46,7 +44,7 @@ def build_relevant_knowledge_body(cursor, user_query, logger):
         return knowledge_body, reference_pdf_name, referece_pageno_list
     except Exception as e:
         logger.error(str(e))
-        return None, None
+        return None, None, None
 
 
 def build_rag_query(knowledge_body, query):
