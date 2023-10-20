@@ -1,11 +1,10 @@
 flask
 slack
 slack-bolt
-evadb
+evadb[dev]
 slackclient
 ngrok
 openai
-evadb
 ray
 sentence-transformers
 gpt4all

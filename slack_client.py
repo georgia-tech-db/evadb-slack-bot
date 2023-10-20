@@ -44,28 +44,24 @@ import evadb
 SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
 os.environ.get("SLACK_SIGNING_SECRET")
 app = App(token=SLACK_BOT_TOKEN)
+# Slack app, bot, and client.
+
+client = WebClient(token=SLACK_BOT_TOKEN)
+
 
 def setup():
-
-    # Slack app, bot, and client.
-    
-    handler = SlackRequestHandler(app)
-    client = WebClient(token=SLACK_BOT_TOKEN)
-
-    # Queue list to connect to backend.
-    queue_list = start_llm_backend(2)
-
     # Cursor of EvaDB.
     cursor = evadb.connect().cursor()
     create_feature_extractor(cursor)
     load_omscs_pdfs(cursor)
     load_slack_dump(cursor)
     build_search_index(cursor)
+    return cursor
 
 #########################################################
 # Helper functions                                      #
 #########################################################
-def queue_backend_llm(conversation):
+def queue_backend_llm(conversation, queue_list):
     for iq, oq in queue_list:
         if iq.full():
             continue
@@ -75,7 +71,7 @@ def queue_backend_llm(conversation):
     return None
 
 
-def is_all_queue_full():
+def is_all_queue_full(queue_list):
     for iq, _ in queue_list:
         if not iq.full():
             return False
@@ -96,7 +92,11 @@ def log_request(logger, body, next):
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
-    setup()
+    cursor = setup()
+
+    # Queue list to connect to backend.
+    queue_list = start_llm_backend(2)
+
     event_id = body["event_id"]
 
     # Thread id to reply.
@@ -113,7 +113,7 @@ def handle_mention(body, say, logger):
         time_tracker[user] = time.time()
 
     # Abort early, if all queues are full.
-    if is_all_queue_full():
+    if is_all_queue_full(queue_list):
         APP_LOGGER.info(f"{event_id} - all queue full (early abort)")
         say(BUSY_MSG, thread_ts=thread_ts)
         return
@@ -140,7 +140,7 @@ def handle_mention(body, say, logger):
 
             if knowledge_body is not None:
                 # Only reply when there is knowledge body.
-                response = queue_backend_llm(conversation)
+                response = queue_backend_llm(conversation, queue_list)
                 if response is None:
                     APP_LOGGER.info(f"{event_id} - all queue full (late abort)")
                     say(BUSY_MSG, thread_ts=thread_ts)
@@ -200,4 +200,4 @@ flask_app = Flask(__name__)
 
 @flask_app.route("/slack/events", methods=["POST"])
 def slack_events():
-    return handler.handle(request)
+    return SlackRequestHandler(app).handle(request)
