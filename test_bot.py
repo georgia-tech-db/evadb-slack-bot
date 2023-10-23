@@ -25,7 +25,7 @@ def clean_setup(cursor):
 
 def slack_dump_conversion(cursor):
     clean_setup(cursor)
-    load_slack_dump(cursor, path="test_inputs", pdf_path="test_inputs_pdf")
+    load_slack_dump(cursor, path="test_inputs", pdf_path="test_inputs_pdf", workspace_name="OMSCSStudentLife", channel_name="atlanta")
 
 def test_slack_dump_conversion():
     cursor = evadb.connect().cursor()
@@ -67,6 +67,6 @@ def test_slack_bot_answer():
     clean_setup(evadb.connect().cursor())
     handle_mention(json.loads(handle_message_body), say, logging)
 
-# test_slack_dump_conversion()
-test_e2e_pipeline()
+test_slack_dump_conversion()
+# test_e2e_pipeline()
 # test_slack_bot_answer()

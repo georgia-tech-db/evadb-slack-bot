@@ -87,27 +87,30 @@ def load_slack_dump(cursor, path = "slack_dump", pdf_path = "slack_dump_pdfs", w
     print("Loading slack dump")
     if (path in os.listdir(".")):
         path = "./" + path + "/"
-        if not os.path.exists(pdf_path):
-            pdf_path = "./" + pdf_path + "/"
-            print("Creating dir `" + pdf_path + "` for slack dump PDFs")
-            os.makedirs(pdf_path)
-        slackDumpFiles = os.listdir(path)
+        dirs = os.listdir(path)
+        if ((workspace_name + "___" + channel_name) in dirs):
+            full_path = path + workspace_name + "___" + channel_name + "/"
+            slackDumpFiles = os.listdir(full_path)
 
-        # Change pwd to output dir
-        os.chdir(pdf_path)
-        load_counter = 0
-        df = pd.DataFrame()
-        for file in slackDumpFiles:
-            if file.endswith(".json"):
-                load_counter += 1
-                df1 = pd.read_json("../" + path + file)
-                df = pd.concat([df, df1])
-        pdf_name = workspace_name + "___" + channel_name + "___slackdump.pdf"
-        preprocess_json_and_create_pdf(df, pdf_name)
-        load_pdf_into_eva (cursor, pdf_name)
-        os.chdir("./../")
-        print(str(load_counter), " new slack dumps loaded")
-    print("Finished loading slack dump")
+            # Change pwd to output dir
+            os.chdir(pdf_path)
+            load_counter = 0
+            df = pd.DataFrame()
+            for file in slackDumpFiles:
+                if file.endswith(".json"):
+                    load_counter += 1
+                    df1 = pd.read_json("../" + full_path + file)
+                    df = pd.concat([df, df1])
+            pdf_name = workspace_name + "___" + channel_name + "___slackdump.pdf"
+            preprocess_json_and_create_pdf(df, pdf_name)
+            load_pdf_into_eva (cursor, pdf_name)
+            os.chdir("./../")
+            print(str(load_counter), " new slack dumps loaded")
+            print("Finished loading slack dump")
+        else:
+            print("Could not file the correct slack dump dir.")
+    else:
+        print("Could not file the correct slack dump dir.")
 
 
 def build_relevant_knowledge_body_pdf(cursor, user_query, logger):

@@ -49,12 +49,12 @@ app = App(token=SLACK_BOT_TOKEN)
 client = WebClient(token=SLACK_BOT_TOKEN)
 
 
-def setup():
+def setup(workspace_name = "", channel_name = ""):
     # Cursor of EvaDB.
     cursor = evadb.connect().cursor()
     create_feature_extractor(cursor)
     load_omscs_pdfs(cursor)
-    load_slack_dump(cursor)
+    load_slack_dump(cursor, workspace_name=workspace_name, channel_name=channel_name)
     build_search_index(cursor)
     return cursor
 
@@ -92,7 +92,7 @@ def log_request(logger, body, next):
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
-    cursor = setup()
+    cursor = setup(body['team_id'], body['channel'])
 
     # Queue list to connect to backend.
     queue_list = start_llm_backend(2)
