@@ -7,7 +7,6 @@ __pycache__/
 evadb_data/
 eva_queries/tmp.py
 env/
-slack_dump/
 slack_dump_pdfs/
 test_inputs/
 test_inputs_pdf/

@@ -83,7 +83,7 @@ def preprocess_json_and_create_pdf(df1, pdf_file):
         pdf.pagebreak()
     pdf.generate()
 
-def load_slack_dump(cursor, path = "slack_dump", pdf_path = "slack_dump_pdfs"):
+def load_slack_dump(cursor, path = "slack_dump", pdf_path = "slack_dump_pdfs", workspace_name = "", channel_name = ""):
     print("Loading slack dump")
     if (path in os.listdir(".")):
         path = "./" + path + "/"
@@ -102,7 +102,7 @@ def load_slack_dump(cursor, path = "slack_dump", pdf_path = "slack_dump_pdfs"):
                 load_counter += 1
                 df1 = pd.read_json("../" + path + file)
                 df = pd.concat([df, df1])
-        pdf_name = "SlackDump.pdf"
+        pdf_name = workspace_name + "___" + channel_name + "___slackdump.pdf"
         preprocess_json_and_create_pdf(df, pdf_name)
         load_pdf_into_eva (cursor, pdf_name)
         os.chdir("./../")
