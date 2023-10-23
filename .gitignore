@@ -8,4 +8,3 @@ evadb_data/
 eva_queries/tmp.py
 env/
 slack_dump_pdfs/
-test_inputs_pdf/
