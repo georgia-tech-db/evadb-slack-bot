@@ -2,54 +2,143 @@ import os
 import openai
 
 from gpt4all import GPT4All
-
-import evadb
+from pdfdocument.document import PDFDocument
+import math
 
 import ray
+import pandas as pd
+import os
 
-
-def build_search_index(cursor):
+def create_feature_extractor(cursor):
+    print("Creating feature extractor.")
     cursor.query(
         """
         CREATE FUNCTION IF NOT EXISTS SentenceFeatureExtractor
         IMPL './utils/sentence_feature_extractor.py'
     """
     ).df()
+    print("Finished creating feature extractor.")
 
-    table_list = cursor.query("""SHOW TABLES""").df()["name"].tolist()
+def load_pdf_into_eva (cursor, doc_name):
+    print("Loading PDF into EVA")
+    try:
+        cursor.query("""LOAD PDF '""" + doc_name + """' INTO OMSCSPDFTable""").df()
+    except Exception:
+        print("Finished loading PDF into EVA")
+        return False
+    print("Finished loading PDF into EVA")
+    return True
 
-    if "OMSCSDocPDF" not in table_list:
-        cursor.query("""LOAD PDF 'omscs_doc.pdf' INTO OMSCSDocPDF""").df()
-        cursor.query(
-            """CREATE INDEX IF NOT EXISTS OMSCSDocPDFIndex 
-            ON OMSCSDocPDF (SentenceFeatureExtractor(data))
-            USING FAISS
-        """
-        ).df()
+
+def build_search_index(cursor):
+    print("Building search index")
+    cursor.query(
+        """CREATE INDEX IF NOT EXISTS OMSCSIndex 
+        ON OMSCSPDFTable (SentenceFeatureExtractor(data))
+        USING FAISS
+    """
+    ).df()
+    print("Finished building search index")
 
 
-def build_relevant_knowledge_body(cursor, user_query, logger):
+def load_omscs_pdfs (cursor):
+    if not(load_pdf_into_eva (cursor, 'omscs_doc.pdf')):
+        print ("Skipped loading pdf: omscs_doc.pdf")
+
+
+def preprocess_json_and_create_pdf(df1, pdf_file):
+    pdf = PDFDocument(pdf_file)
+    pdf.init_report()
+    df = pd.DataFrame()
+    df = pd.concat([df, df1[df1.columns.intersection(set(['user', 'ts', 'text', 'replies']))]])
+    df = df.dropna(subset=['text'])
+    df = df[~df['text'].str.contains("has joined the channel")]
+    df = df[["user", "ts", "text", "replies"]]
+    messages = df.values.tolist()
+    no_reply_messages = []
+    i = 0
+    while (i < len(messages)):
+        if (isinstance(messages[i][3], float) and math.isnan(messages[i][3])):
+            no_reply_messages.append(messages[i])
+            messages.pop(i)
+            continue
+        i += 1
+    for message in messages:
+        msg_to_print = message[2].replace("\n", " ")
+        pdf.p(message[0] + ": " + msg_to_print)
+        for reply in message[3]:
+            i = 0
+            while i < len(no_reply_messages):
+                if no_reply_messages[i][0] == reply['user'] and str(no_reply_messages[i][1]) == reply['ts']:
+                    msg_to_print = no_reply_messages[i][2].replace("\n", " ")
+                    pdf.p("\u2022" + no_reply_messages[i][0] + ": " + msg_to_print)
+                    no_reply_messages.pop(i)
+                    continue
+                i += 1
+        pdf.pagebreak()
+
+    for message in no_reply_messages:
+        msg_to_print = message[2].replace("\n", " ")
+        pdf.p(message[0] + ": " + msg_to_print)
+        pdf.pagebreak()
+    pdf.generate()
+
+def load_slack_dump(cursor, path = "slack_dump", pdf_path = "slack_dump_pdfs", workspace_name = "", channel_name = ""):
+    print("Loading slack dump")
+    if (path in os.listdir(".")):
+        path = "./" + path + "/"
+        dirs = os.listdir(path)
+        if ((workspace_name + "___" + channel_name) in dirs):
+            full_path = path + workspace_name + "___" + channel_name + "/"
+            slackDumpFiles = os.listdir(full_path)
+
+            # Change pwd to output dir
+            os.chdir(pdf_path)
+            load_counter = 0
+            df = pd.DataFrame()
+            for file in slackDumpFiles:
+                if file.endswith(".json"):
+                    load_counter += 1
+                    df1 = pd.read_json("../" + full_path + file)
+                    df = pd.concat([df, df1])
+            pdf_name = workspace_name + "___" + channel_name + "___slackdump.pdf"
+            preprocess_json_and_create_pdf(df, pdf_name)
+            load_pdf_into_eva (cursor, pdf_name)
+            os.chdir("./../")
+            print(str(load_counter), " new slack dumps loaded")
+            print("Finished loading slack dump")
+        else:
+            print("Could not file the correct slack dump dir.")
+    else:
+        print("Could not file the correct slack dump dir.")
+
+
+def build_relevant_knowledge_body_pdf(cursor, user_query, logger):
+    print("Building knowledge body.")
     query = f"""
-        SELECT * FROM OMSCSDocPDF
+        SELECT * FROM OMSCSPDFTable
         ORDER BY Similarity(
             SentenceFeatureExtractor('{user_query}'), 
             SentenceFeatureExtractor(data)
-        ) LIMIT 3
+        ) LIMIT 5
     """
-
     try:
         response = cursor.query(query).df()
         # DataFrame response to single string.
-        knowledge_body = response["omscsdocpdf.data"].str.cat(sep="; ")
-        referece_pageno_list = set(response["omscsdocpdf.page"].tolist()[:3])
-        reference_pdf_name = response["omscsdocpdf.name"].tolist()[0]
+        knowledge_body = response["data"].str.cat(sep="; ")
+        referece_pageno_list = set(response["page"].tolist()[:3])
+        reference_pdf_name = response["name"].tolist()[0]
+        print("Knowledge Body: ", knowledge_body)
+        print("Finished building knowledge body.")
         return knowledge_body, reference_pdf_name, referece_pageno_list
     except Exception as e:
         logger.error(str(e))
-        return None, None
+        print("Finished building knowledge body.")
+        return None, None, None
 
 
 def build_rag_query(knowledge_body, query):
+    print("Building RAG query.")
     conversation = [
         {
             "role": "system",
@@ -62,6 +151,7 @@ def build_rag_query(knowledge_body, query):
         {"role": "user", "content": f"""{knowledge_body}"""},
         {"role": "user", "content": f"{query}"},
     ]
+    print("Finished building RAG query.")
     return conversation
 
 

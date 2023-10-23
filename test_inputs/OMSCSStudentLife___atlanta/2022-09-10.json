@@ -1,0 +1,735 @@
+[
+  {
+    "client_msg_id": "0222f212-dd7e-4bed-9af7-29cfea1b7031",
+    "type": "message",
+    "user": "U04263B0EMP",
+    "text": "Hello everyone. I started OMSCS in 2018 and graduated this Spring with a computing systems specialization. I live in Marietta and work for an automotive company developing big data processing solutions. Nice to meet you all!",
+    "ts": "1662768709.079049",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+qN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone. I started OMSCS in 2018 and graduated this Spring with a computing systems specialization. I live in Marietta and work for an automotive company developing big data processing solutions. Nice to meet you all!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4080586870964_286ffd522208a686a8ba_72.jpg",
+      "first_name": "Thomas",
+      "real_name": "Thomas Rega",
+      "display_name": "thomas.rega",
+      "team": "T03NCJFKCV8",
+      "name": "thomas.rega",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "UJNR8MXM4",
+    "text": "\u003c@UJNR8MXM4\u003e has joined the channel",
+    "ts": "1662772503.886029",
+    "subtype": "channel_join",
+    "inviter": "U02EYBE4QNA",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-03-01/4876220159541_cc798300838b6ba2b8f6_72.jpg",
+      "first_name": "",
+      "real_name": "Yaw",
+      "display_name": "Yaw",
+      "team": "T03NCJFKCV8",
+      "name": "yagyepong3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "abd37366-09e6-4d3b-91ea-0b1147e49407",
+    "type": "message",
+    "user": "U02UAQKR56C",
+    "text": "Hey hey hey!\nI'm Vinay Easwaran! I started the OMSCS program in Spring this year and planning to specialize in Machine Learning.  I stay in Alpharetta and looking forward to meeting a lot of you folks soon. \n\nI'm big on sports and movies, and any activity really. \n\nSomething interesting about me is that I'm an undergraduate intramural champion at Badminton, so if any of you want to play sometime feel free to drop a message!",
+    "ts": "1662773057.695209",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "wave",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cN975",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey hey hey!\nI'm Vinay Easwaran! I started the OMSCS program in Spring this year and planning to specialize in Machine Learning.  I stay in Alpharetta and looking forward to meeting a lot of you folks soon. \n\nI'm big on sports and movies, and any activity really. \n\nSomething interesting about me is that I'm an undergraduate intramural champion at Badminton, so if any of you want to play sometime feel free to drop a message!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-08/5093908830897_01e62ca412a33dad9cfc_72.jpg",
+      "first_name": "Vinay",
+      "real_name": "Vinay Easwaran",
+      "display_name": "vinayyy",
+      "team": "T03NCJFKCV8",
+      "name": "veaswaran3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a351b369-753d-4883-bef9-06a3588eb4d5",
+    "type": "message",
+    "user": "USAM1EKN0",
+    "text": "Hello everyone!\nI'm Baturay. It's nice to be here with you all. Hope everybody's having a relaxed evening.\nI work in Kennesaw State as a software engineer. I started OMSCS in Spring 2020. It took me a while to decide on my concentration (Computing Systems)\nFun fact: I recently adopted a german shepherd dog. His name is Spike (after Spike from Cowboy Bebop) because he looks like he's about to start trouble all of a sudden all the time lol.\nOutside of work and school, I enjoy building stuff. I recently got into 3d printing hobby. I also do plastic models but it's on hiatus now since the semester started.\nTaking RAIT this semester as one of my elective.\nWishing everyone a successful semester!",
+    "ts": "1662778928.623149",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "dog",
+        "count": 1,
+        "users": [
+          "U03UM07E4D8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uDbOK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone!\nI'm Baturay. It's nice to be here with you all. Hope everybody's having a relaxed evening.\nI work in Kennesaw State as a software engineer. I started OMSCS in Spring 2020. It took me a while to decide on my concentration (Computing Systems)\nFun fact: I recently adopted a german shepherd dog. His name is Spike (after Spike from Cowboy Bebop) because he looks like he's about to start trouble all of a sudden all the time lol.\nOutside of work and school, I enjoy building stuff. I recently got into 3d printing hobby. I also do plastic models but it's on hiatus now since the semester started.\nTaking RAIT this semester as one of my elective.\nWishing everyone a successful semester!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2020-01-06/895177492176_5c550bf6b4ef79508fb9_72.png",
+      "first_name": "Baturay",
+      "real_name": "Baturay Daylak",
+      "display_name": "Baturay",
+      "team": "T03NCJFKCV8",
+      "name": "bdaylak3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b99dde5-21d2-4581-984e-610bd97c0bea",
+    "type": "message",
+    "user": "U04185JLG8M",
+    "text": "\u003c@U02T4TY0Z5K\u003e I’m also at T-mobile. What org?",
+    "ts": "1662786738.721819",
+    "thread_ts": "1662666225.547329",
+    "parent_user_id": "U02T4TY0Z5K",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QJ9q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02T4TY0Z5K"
+              },
+              {
+                "type": "text",
+                "text": " I’m also at T-mobile. What org?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-02/4156135726982_8173a7fe45ea9ef39826_72.jpg",
+      "first_name": "Bosun",
+      "real_name": "Bosun A.",
+      "display_name": "Bosun A.",
+      "team": "T03NCJFKCV8",
+      "name": "oadepoju3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e433eca7-8b96-4807-97ce-fdfd530ee048",
+    "type": "message",
+    "user": "U02DD5VQLBV",
+    "text": "Hello happy weekend! Thanks to all 197 of you who have joined. I’ll introduce myself again. I’m Cherie Lum chapter head of the Atlanta site and want to welcome you all both right now but also in person soon.\n\nBased on the polls I put out, some may have seen it and for some it was posted before you joined, it looks like a majority of you want to: 1) meet on a weekend, 2) for food and study/walk/drinks/frisbee. So I’m going to throw out one last pole\n\nDate for first meetup at Piedmont Park:\n:one: September 17 at 12:00PM, 1:00PM (:two:) --\u0026gt; :three: (prefer this day, either time is fine)\n:four: September 24 at 12:00PM, 1:00PM (:five:) --\u0026gt; :six: ( prefer this day, either time is fine)\n:seven: both dates and times are fine for me!\n:eight: both dates are bad for me\n:nine: location is bad for me\n\nTentative itinerary:\n1. 30 mins Piedmont Park with frisbee, cards and walking introductions :deciduous_tree: (will only attend park section)\n2. 1.5 hours Food depending on choice \n    a. :pizza: eat nearby (1 hour)\n    b. :chopsticks: gather people with cars and get dim sum at Oriental Pearl Seafood (20 min drive) \n        i. Can volunteer a seat in car :car:\n        ii. I need a ride and will come if I can get one :carlton_3:\n    c. :beers: Either is fine!\n    d. :apple: BYOB\nFuture question:\nAre you interested in virtually connecting too once a month?!\n1. yes :yes-2614:\n2. no :no_good:\n3. indifferent but I’ll come  :meow_shrug: ",
+    "ts": "1662821488.608579",
+    "edited": {
+      "user": "U02DD5VQLBV",
+      "ts": "1662835310.000000"
+    },
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "three",
+        "count": 16,
+        "users": [
+          "U02DD5VQLBV",
+          "U02MANZL55F",
+          "U041SLL8LBF",
+          "U041RUTKBG9",
+          "U03UM07E4D8",
+          "U040WGDCG07",
+          "U02L4D90KD0",
+          "U041DBXGPC4",
+          "U041B5GL282",
+          "U8QDSG1G9",
+          "U042H5EAPJL",
+          "U041N5KKR38",
+          "U041BASGNQJ",
+          "U041S3WQKND",
+          "U041DBXNDLL",
+          "U02UAQKR56C"
+        ]
+      },
+      {
+        "name": "six",
+        "count": 13,
+        "users": [
+          "U02DD5VQLBV",
+          "U02UP4J977S",
+          "U041DBJ58LU",
+          "U040YP0GMCP",
+          "U04185JLG8M",
+          "U04184BSKM3",
+          "U03EM1HAUPN",
+          "U013YD2ACLC",
+          "U040KQBU1PY",
+          "U03TU6ZPXS8",
+          "U041TEG4UTC",
+          "U02UAQKR56C",
+          "U03FL6L509K"
+        ]
+      },
+      {
+        "name": "pizza",
+        "count": 14,
+        "users": [
+          "U02DD5VQLBV",
+          "U041SLL8LBF",
+          "U03UM07E4D8",
+          "U02UP4J977S",
+          "U04263B0EMP",
+          "U040WGDCG07",
+          "U03FL6L509K",
+          "U040YP0GMCP",
+          "U8QDSG1G9",
+          "U040KQBU1PY",
+          "U03TU6ZPXS8",
+          "U041N5KKR38",
+          "U041BASGNQJ",
+          "U041DBXNDLL"
+        ]
+      },
+      {
+        "name": "chopsticks",
+        "count": 5,
+        "users": [
+          "U02DD5VQLBV",
+          "U02UP4J977S",
+          "U8QDSG1G9",
+          "U013YD2ACLC",
+          "U041BASGNQJ"
+        ]
+      },
+      {
+        "name": "seven",
+        "count": 3,
+        "users": [
+          "U01N1775WSU",
+          "U04263B0EMP",
+          "U041PH0B1DF"
+        ]
+      },
+      {
+        "name": "carlton_3",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      },
+      {
+        "name": "meow_shrug",
+        "count": 11,
+        "users": [
+          "U01N1775WSU",
+          "U03UM07E4D8",
+          "U041DBJ58LU",
+          "U04263B0EMP",
+          "U040WGDCG07",
+          "U041DBXGPC4",
+          "U03FL6L509K",
+          "U041B5GL282",
+          "U040KQBU1PY",
+          "U03TU6ZPXS8",
+          "U041DBXNDLL"
+        ]
+      },
+      {
+        "name": "deciduous_tree",
+        "count": 2,
+        "users": [
+          "U01N1775WSU",
+          "U041DBJ58LU"
+        ]
+      },
+      {
+        "name": "yes-2614",
+        "count": 16,
+        "users": [
+          "U02UP4J977S",
+          "USAM1EKN0",
+          "U040YP0GMCP",
+          "U04185JLG8M",
+          "U8QDSG1G9",
+          "U03EM1HAUPN",
+          "U042H5EAPJL",
+          "U014G30TBC0",
+          "U01TW7LATEJ",
+          "U041BASGNQJ",
+          "U041D7DKLQ3",
+          "U041S3WQKND",
+          "U02T4TY0Z5K",
+          "U02UAQKR56C",
+          "U041PH0B1DF",
+          "U02BQJX5TB8"
+        ]
+      },
+      {
+        "name": "eight",
+        "count": 1,
+        "users": [
+          "U04185JLG8M"
+        ]
+      },
+      {
+        "name": "car",
+        "count": 2,
+        "users": [
+          "U8QDSG1G9",
+          "U041PH0B1DF"
+        ]
+      },
+      {
+        "name": "beers",
+        "count": 4,
+        "users": [
+          "U8QDSG1G9",
+          "U042H5EAPJL",
+          "U02UAQKR56C",
+          "U041PH0B1DF"
+        ]
+      },
+      {
+        "name": "nine",
+        "count": 1,
+        "users": [
+          "U014G30TBC0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nP/P2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello happy weekend! Thanks to all 197 of you who have joined. I’ll introduce myself again. I’m Cherie Lum chapter head of the Atlanta site and want to welcome you all both right now but also in person soon.\n\nBased on the polls I put out, some may have seen it and for some it was posted before you joined, it looks like a majority of you want to: 1) meet on a weekend, 2) for food and study/walk/drinks/frisbee. So I’m going to throw out one last pole\n\nDate for first meetup at Piedmont Park:\n"
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " September 17 at 12:00PM, 1:00PM ("
+              },
+              {
+                "type": "emoji",
+                "name": "two",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ") --\u003e "
+              },
+              {
+                "type": "emoji",
+                "name": "three",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " (prefer this day, either time is fine)\n"
+              },
+              {
+                "type": "emoji",
+                "name": "four",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " September 24 at 12:00PM, 1:00PM ("
+              },
+              {
+                "type": "emoji",
+                "name": "five",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ") --\u003e "
+              },
+              {
+                "type": "emoji",
+                "name": "six",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " ( prefer this day, either time is fine)\n"
+              },
+              {
+                "type": "emoji",
+                "name": "seven",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " both dates and times are fine for me!\n"
+              },
+              {
+                "type": "emoji",
+                "name": "eight",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " both dates are bad for me\n"
+              },
+              {
+                "type": "emoji",
+                "name": "nine",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " location is bad for me\n\nTentative itinerary:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"30 mins Piedmont Park with frisbee, cards and walking introductions \"},{\"type\":\"emoji\",\"name\":\"deciduous_tree\",\"unicode\":\"1f333\"},{\"type\":\"text\",\"text\":\" (will only attend park section)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1.5 hours Food depending on choice \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"pizza\",\"unicode\":\"1f355\"},{\"type\":\"text\",\"text\":\" eat nearby (1 hour)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"chopsticks\",\"unicode\":\"1f962\"},{\"type\":\"text\",\"text\":\" gather people with cars and get dim sum at Oriental Pearl Seafood (20 min drive) \"}]}],\"style\":\"ordered\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Can volunteer a seat in car \"},{\"type\":\"emoji\",\"name\":\"car\",\"unicode\":\"1f697\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"I need a ride and will come if I can get one \"},{\"type\":\"emoji\",\"name\":\"carlton_3\",\"display_team_id\":\"EKM8PQGNP\",\"display_url\":\"https:\\/\\/emoji.slack-edge.com\\/TKM8PQGNP\\/carlton_3\\/15723107171c5cd5.gif\"}]}],\"style\":\"ordered\",\"indent\":2,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"beers\",\"unicode\":\"1f37b\"},{\"type\":\"text\",\"text\":\" Either is fine!\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"apple\",\"unicode\":\"1f34e\"},{\"type\":\"text\",\"text\":\" BYOB\"}]}],\"style\":\"ordered\",\"indent\":1,\"offset\":2,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nFuture question:\nAre you interested in virtually connecting too once a month?!\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"yes \"},{\"type\":\"emoji\",\"name\":\"yes-2614\",\"display_team_id\":\"EKM8PQGNP\",\"display_url\":\"https:\\/\\/emoji.slack-edge.com\\/TKM8PQGNP\\/yes-2614\\/865751a3efe6efd1.gif\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"no \"},{\"type\":\"emoji\",\"name\":\"no_good\",\"unicode\":\"1f645\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"indifferent but I\\u2019ll come  \"},{\"type\":\"emoji\",\"name\":\"meow_shrug\",\"display_team_id\":\"EKM8PQGNP\",\"display_url\":\"https:\\/\\/emoji.slack-edge.com\\/TKM8PQGNP\\/meow_shrug\\/eb084ec9ad131e5b.png\"},{\"type\":\"text\",\"text\":\" \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-30/4013803105060_182db195273b4f433c85_72.jpg",
+      "first_name": "Cherie",
+      "real_name": "Cherie",
+      "display_name": "Cherie [Atlanta Chapter Head]",
+      "team": "T03NCJFKCV8",
+      "name": "clum7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9679125d-243c-4419-92a1-fa961b418a02",
+    "type": "message",
+    "user": "U041SLL8LBF",
+    "text": "Right there with you, in GA now and graduating in December. If I keep saying it, it will become true, right? I'm also in Marietta/Cobb.",
+    "ts": "1662825579.305799",
+    "thread_ts": "1662602712.971469",
+    "parent_user_id": "UMJFPM0P6",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j=X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Right there with you, in GA now and graduating in December. If I keep saying it, it will become true, right? I'm also in Marietta/Cobb."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/255e12bf28244f3f96d75341c86eb59e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "jswiderski",
+      "real_name": "jswiderski",
+      "display_name": "jswiderski",
+      "team": "T03NCJFKCV8",
+      "name": "jswiderski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "38002f6c-f967-4579-b768-8b7dc08ac865",
+    "type": "message",
+    "user": "U041S3WQKND",
+    "text": "\u003c@U02UP4J977S\u003e I originally started out first in Computing Systems but changed to Interactive Intelligence at a later time.  AI/ML and Cybersecurity/InfoSec are both interesting subjects and there is some interesting overlap there.",
+    "ts": "1662839927.508219",
+    "thread_ts": "1662595984.686499",
+    "parent_user_id": "U041S3WQKND",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UN/z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02UP4J977S"
+              },
+              {
+                "type": "text",
+                "text": " I originally started out first in Computing Systems but changed to Interactive Intelligence at a later time.  AI/ML and Cybersecurity/InfoSec are both interesting subjects and there is some interesting overlap there."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-03-13/4956423528673_071c91af5db0c021ae8f_72.jpg",
+      "first_name": "L.",
+      "real_name": "L. A. Renoll, Jr. '17",
+      "display_name": "lrenoll",
+      "team": "T03NCJFKCV8",
+      "name": "lrenoll",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0df2331c-07e4-4085-ac4b-3ab29130efbc",
+    "type": "message",
+    "user": "U041S3WQKND",
+    "text": "Wenke Lee was one of my favorite professors.  Take as many of his classes as you can!",
+    "ts": "1662840024.211079",
+    "thread_ts": "1662595984.686499",
+    "parent_user_id": "U041S3WQKND",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "notsureif",
+        "count": 1,
+        "users": [
+          "U019GF47VJ8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IhgDM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wenke Lee was one of my favorite professors.  Take as many of his classes as you can!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-03-13/4956423528673_071c91af5db0c021ae8f_72.jpg",
+      "first_name": "L.",
+      "real_name": "L. A. Renoll, Jr. '17",
+      "display_name": "lrenoll",
+      "team": "T03NCJFKCV8",
+      "name": "lrenoll",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

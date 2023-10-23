@@ -1,0 +1,3611 @@
+[
+  {
+    "client_msg_id": "B6780C64-E089-4951-A887-BB4CA1386654",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "There is one in the OMSCS study group and one info OMSCY slack. There might be one on discord as well? ",
+    "ts": "1662595882.340369",
+    "thread_ts": "1662556576.008039",
+    "parent_user_id": "U02UP4J977S",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DCjJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There is one in the OMSCS study group and one info OMSCY slack. There might be one on discord as well? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "75977D2E-CD47-4912-9491-CEB812003E56",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "You can go 12-18 months without anyone saying anything in OMSCS. The OMSCY students try to get together once per semester around graduation ",
+    "ts": "1662595933.656189",
+    "thread_ts": "1662556576.008039",
+    "parent_user_id": "U02UP4J977S",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LJq2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You can go 12-18 months without anyone saying anything in OMSCS. The OMSCY students try to get together once per semester around graduation "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82894320-733F-48F2-9631-20F01B5F382E",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "I'm trying to hit all the continents mtself! ",
+    "ts": "1662595971.498489",
+    "thread_ts": "1662592815.692939",
+    "parent_user_id": "U02CFCE4QE8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02CFCE4QE8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Fe7+z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm trying to hit all the continents mtself! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f74a61bd-f628-4b14-83df-2662b0f7ea4c",
+    "type": "message",
+    "user": "U041S3WQKND",
+    "text": "Hey everyone, It's a pleasure to join the group.  My name is Lynn Renoll (Jr).  I live in Brookhaven, GA.  I am actually a graduate of OMSCS (class of '17).   I am not sure if I am the only OMSCS alumni here yet.  David Joyner asked if I wanted to be included so I said why not.  :slightly_smiling_face:  It is amazing how time flies by.  It seems like just yesterday that I was in class.  It can be quite challenging at times, but I found it oddly quite a lot of fun.  In my spare time I like to run/jog and listen to music.  Been reading some books recently as well.  As a side note, at one time there was a local meetup group here in town that would have a get together every few months or so but I don't think that they meet anymore (I could be wrong).  Hope to see some of you around sometime.",
+    "ts": "1662595984.686499",
+    "thread_ts": "1662595984.686499",
+    "reply_count": 15,
+    "replies": [
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662596891.188219"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662599183.910889"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662599353.809349"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662599476.974669"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662600239.344429"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662600838.705939"
+      },
+      {
+        "user": "U041S3WQKND",
+        "ts": "1662839927.508219"
+      },
+      {
+        "user": "U041S3WQKND",
+        "ts": "1662840024.211079"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662931949.683199"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662998064.766539"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1663002339.433469"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1663002495.825709"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1663011438.137979"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1663011469.324529"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1663011919.995549"
+      }
+    ],
+    "latest_reply": "1663011919.995549",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XUCwf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone, It's a pleasure to join the group.  My name is Lynn Renoll (Jr).  I live in Brookhaven, GA.  I am actually a graduate of OMSCS (class of '17).   I am not sure if I am the only OMSCS alumni here yet.  David Joyner asked if I wanted to be included so I said why not.  "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  It is amazing how time flies by.  It seems like just yesterday that I was in class.  It can be quite challenging at times, but I found it oddly quite a lot of fun.  In my spare time I like to run/jog and listen to music.  Been reading some books recently as well.  As a side note, at one time there was a local meetup group here in town that would have a get together every few months or so but I don't think that they meet anymore (I could be wrong).  Hope to see some of you around sometime."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-03-13/4956423528673_071c91af5db0c021ae8f_72.jpg",
+      "first_name": "L.",
+      "real_name": "L. A. Renoll, Jr. '17",
+      "display_name": "lrenoll",
+      "team": "T03NCJFKCV8",
+      "name": "lrenoll",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U02UP4J977S",
+      "U041S3WQKND"
+    ]
+  },
+  {
+    "client_msg_id": "121b7e1c-422c-48f8-911d-8f885e88d120",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "hi jeanette!  you were in the seminar i taught this summer on ML tooling, weren't you?",
+    "ts": "1662596038.365309",
+    "thread_ts": "1662584838.592279",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6BQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi jeanette!  you were in the seminar i taught this summer on ML tooling, weren't you?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ec3e7095-f83e-4cd8-abc2-8be8875373b7",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "Hi everyone!  I'm in Sandy Springs, graduated in FA18 from OMSCS specializing in ML.  I worked as a Research Scientist at GT as well in the DILab, was a TA for SP22 for ML, and taught a seminar in SU22 on ML/DS OSS tools.  Also just got accepted into the OMS Cybersecurity program for SP23, so just can't stay away.  :crazy_grin:\n\nCurrently working at IBM Security as a backend threat intel engineer.",
+    "ts": "1662596302.845619",
+    "thread_ts": "1662596302.845619",
+    "edited": {
+      "user": "U03EJQBTAG5",
+      "ts": "1662596308.000000"
+    },
+    "reply_count": 35,
+    "replies": [
+      {
+        "user": "U041S3WQKND",
+        "ts": "1662596806.203749"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1662596918.123439"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662596924.882089"
+      },
+      {
+        "user": "U041S3WQKND",
+        "ts": "1662596948.058269"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1662596956.940109"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662597428.385629"
+      },
+      {
+        "user": "U03UM07E4D8",
+        "ts": "1662597653.295299"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662598571.472439"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662599209.667879"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662599213.805019"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1662644377.293609"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662644483.053999"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1662645521.132019"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1662645560.458379"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1662645613.266869"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662650305.958439"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662650333.319669"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662650352.276349"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662650361.916079"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1662652245.607089"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1662653051.085979"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662654070.498249"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662933313.347249"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662933324.598389"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662997997.010429"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1663002118.104309"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1663002125.208399"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1663002529.001409"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1663005912.746289"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1663005943.214899"
+      },
+      {
+        "user": "U03EJQBTAG5",
+        "ts": "1663006030.527009"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1663006224.482259"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1663025375.379969"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1663025396.588159"
+      },
+      {
+        "user": "U02UP4J977S",
+        "ts": "1663025402.457019"
+      }
+    ],
+    "latest_reply": "1663025402.457019",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 3,
+        "users": [
+          "U041S3WQKND",
+          "U041AQWL283",
+          "U041DBXGPC4"
+        ]
+      },
+      {
+        "name": "gt",
+        "count": 1,
+        "users": [
+          "U040WGDCG07"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9aXU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi everyone!  I'm in Sandy Springs, graduated in FA18 from OMSCS specializing in ML.  I worked as a Research Scientist at GT as well in the DILab, was a TA for SP22 for ML, and taught a seminar in SU22 on ML/DS OSS tools.  Also just got accepted into the OMS Cybersecurity program for SP23, so just can't stay away.  "
+              },
+              {
+                "type": "emoji",
+                "name": "crazy_grin",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nCurrently working at IBM Security as a backend threat intel engineer."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U02UP4J977S",
+      "U03EJQBTAG5",
+      "U03UM07E4D8",
+      "U041S3WQKND"
+    ]
+  },
+  {
+    "client_msg_id": "306b169c-3397-48bb-be39-8e863509952c",
+    "type": "message",
+    "user": "U041S3WQKND",
+    "text": "Great to see that I am not the only alum here.  :hugging_face:Congrats on getting into OMS Cybersecurity!",
+    "ts": "1662596806.203749",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0KhY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great to see that I am not the only alum here.  "
+              },
+              {
+                "type": "emoji",
+                "name": "hugging_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "Congrats on getting into OMS Cybersecurity!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-03-13/4956423528673_071c91af5db0c021ae8f_72.jpg",
+      "first_name": "L.",
+      "real_name": "L. A. Renoll, Jr. '17",
+      "display_name": "lrenoll",
+      "team": "T03NCJFKCV8",
+      "name": "lrenoll",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F5FF6988-BBD6-4A13-AAD0-898669B6EB04",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Hey \u003c@U041PH0B1DF\u003e ! It's nice to meet you as well. What do you ride currently? I have a Triumph Bobber. ",
+    "ts": "1662596827.028249",
+    "thread_ts": "1662558586.151609",
+    "parent_user_id": "U8QDSG1G9",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Q4wW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": " ! It's nice to meet you as well. What do you ride currently? I have a Triumph Bobber. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E1224773-775C-42BB-BB45-74B03F6EDE8B",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "I just graduated myself ",
+    "ts": "1662596891.188219",
+    "thread_ts": "1662595984.686499",
+    "parent_user_id": "U041S3WQKND",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U041S3WQKND"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XNpmF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just graduated myself "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DF7B828C-358C-46D0-AD1A-89F5A4A400B0",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Didn't know you played badminton as well! There's a good group of players here in Alpharetta if you're ever interested! ",
+    "ts": "1662596896.132519",
+    "thread_ts": "1662582468.495599",
+    "parent_user_id": "U041PH0B1DF",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r517",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Didn't know you played badminton as well! There's a good group of players here in Alpharetta if you're ever interested! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "37f9a69e-59c3-4815-9d12-a83db1394653",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "thanks!  so mostly current students so far?",
+    "ts": "1662596918.123439",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "deJz3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks!  so mostly current students so far?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "77D09CF3-FFE6-4B58-8CA0-187D7C0B2F1B",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Woooo OCY!!",
+    "ts": "1662596924.882089",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "As+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Woooo OCY!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a38b28a9-d850-4d1a-98fb-f9a70355b5a8",
+    "type": "message",
+    "user": "U041S3WQKND",
+    "text": "It looks like it.",
+    "ts": "1662596948.058269",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PkD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It looks like it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-03-13/4956423528673_071c91af5db0c021ae8f_72.jpg",
+      "first_name": "L.",
+      "real_name": "L. A. Renoll, Jr. '17",
+      "display_name": "lrenoll",
+      "team": "T03NCJFKCV8",
+      "name": "lrenoll",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5B82F685-C4C9-4267-B8F3-C8DB3FABFC46",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Well well well \u003c@U041137874P\u003e nice to see you here!",
+    "ts": "1662596950.493889",
+    "thread_ts": "1662577052.818439",
+    "parent_user_id": "U041137874P",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XI5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Well well well "
+              },
+              {
+                "type": "user",
+                "user_id": "U041137874P"
+              },
+              {
+                "type": "text",
+                "text": " nice to see you here!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cef5e0c2-676e-4665-b250-d12a0b762963",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "is that the acronym for the cyber program?",
+    "ts": "1662596956.940109",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vL9V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is that the acronym for the cyber program?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "edfb3c86-39ba-40e7-8d56-660088712dd6",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "wow... this thread makes me scared. i've joked that i'll never graduate. i just keep taking classes until i die :slightly_smiling_face:",
+    "ts": "1662597428.385629",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wvb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "wow... this thread makes me scared. i've joked that i'll never graduate. i just keep taking classes until i die "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "75860f58-50aa-4ce9-8381-6312d0c1cb37",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "Yes indeed I was, Robert. You got some cool slides. I wish I have more time to spend on NLP but ML4T got the best of me:rolling_on_the_floor_laughing: I have fun at ML tooling, wish I can learn more about LaTex in addition to markdown in Jupyter notebook. The datasets you put on the slides really helped with my ML4T and now ML course.",
+    "ts": "1662597540.905169",
+    "thread_ts": "1662584838.592279",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=2u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes indeed I was, Robert. You got some cool slides. I wish I have more time to spend on NLP but ML4T got the best of me"
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " I have fun at ML tooling, wish I can learn more about LaTex in addition to markdown in Jupyter notebook. The datasets you put on the slides really helped with my ML4T and now ML course."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1819ec0c-50f7-46aa-90e9-69019f669098",
+    "type": "message",
+    "user": "U03UM07E4D8",
+    "text": "\u003c@U02UP4J977S\u003e when you plan your next 3,5,7...years plan, OMSCS/OMA/OCY/O...has it covered :wink:",
+    "ts": "1662597653.295299",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U03EJQBTAG5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Jkq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02UP4J977S"
+              },
+              {
+                "type": "text",
+                "text": " when you plan your next 3,5,7...years plan, OMSCS/OMA/OCY/O...has it covered "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3973169749123_73af2566aa955d0df247_72.jpg",
+      "first_name": "Jeanette",
+      "real_name": "Jeanette Luu",
+      "display_name": "Jeanette",
+      "team": "T03NCJFKCV8",
+      "name": "jeanette.luu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7beeee0c-c1ce-483b-bfd5-3fd605b88421",
+    "type": "message",
+    "user": "U041DBJ58LU",
+    "text": "Hi everyone!\nI am a newcommer to OMSCS, just started this semster. I am located in the Midtown/Buckhead area and work at ADP as a software developer. Still deciding between ML and AI concentrations. Looking forward to meeting all of you!",
+    "ts": "1662597773.054949",
+    "thread_ts": "1662597773.054949",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662600970.148989"
+      },
+      {
+        "user": "U041DBJ58LU",
+        "ts": "1662601376.649859"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1662601431.592569"
+      },
+      {
+        "user": "U041DBJ58LU",
+        "ts": "1662601530.024699"
+      },
+      {
+        "user": "U8QDSG1G9",
+        "ts": "1662601597.420289"
+      },
+      {
+        "user": "U041DBJ58LU",
+        "ts": "1662603444.796569"
+      }
+    ],
+    "latest_reply": "1662603444.796569",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "clapping-156",
+        "count": 2,
+        "users": [
+          "U03UM07E4D8",
+          "U041S3WQKND"
+        ]
+      },
+      {
+        "name": "wave",
+        "count": 1,
+        "users": [
+          "U02DD5VQLBV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mFpYe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi everyone!\nI am a newcommer to OMSCS, just started this semster. I am located in the Midtown/Buckhead area and work at ADP as a software developer. Still deciding between ML and AI concentrations. Looking forward to meeting all of you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4053514589780_b20115f9287472487f83_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Penalver Bartolome",
+      "display_name": "Jose Penalver",
+      "team": "T03NCJFKCV8",
+      "name": "jpb6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U041DBJ58LU",
+      "U8QDSG1G9"
+    ]
+  },
+  {
+    "client_msg_id": "78caeb50-8478-4a75-9814-0ff76ee41f66",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "lol.. i've already got my master's in HCI. that was on campus though. so i can see how many acronyms i can collect :slightly_smiling_face:",
+    "ts": "1662598571.472439",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M+Um2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "lol.. i've already got my master's in HCI. that was on campus though. so i can see how many acronyms i can collect "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "75bfabed-1fbe-4d01-b55f-56537a4494e5",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "Btw... i used to do wedding, family and event photography too!",
+    "ts": "1662599116.233369",
+    "thread_ts": "1662592815.692939",
+    "parent_user_id": "U02CFCE4QE8",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02CFCE4QE8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eTH4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Btw... i used to do wedding, family and event photography too!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "59bc25c3-157c-4659-917e-832aa75e6d3c",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "what was your specialization?",
+    "ts": "1662599183.910889",
+    "thread_ts": "1662595984.686499",
+    "parent_user_id": "U041S3WQKND",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l/S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what was your specialization?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "71f4392c-995e-420f-96f2-2b8d70213528",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "yeah they call the program Online Cybersecurity OCY.  I literally just finished it.",
+    "ts": "1662599209.667879",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5EE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah they call the program Online Cybersecurity OCY.  I literally just finished it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "052fa605-f112-4c24-9fe0-612a2acb9d5c",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "which track?",
+    "ts": "1662599213.805019",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L6Wpg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "which track?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "71b68265-5bd6-423b-b0eb-f8bb985b45bf",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "information security.  So much fun but it is cheaper to do OMSCS and skip practicum for GA",
+    "ts": "1662599353.809349",
+    "thread_ts": "1662595984.686499",
+    "parent_user_id": "U041S3WQKND",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZFWmQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "information security.  So much fun but it is cheaper to do OMSCS and skip practicum for GA"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "588443f9-0872-42c7-a3c6-d2d83340a62a",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "CS6265 is a great class to take if you're OMCS or Info Sec, though.  My favorite class",
+    "ts": "1662599476.974669",
+    "thread_ts": "1662595984.686499",
+    "parent_user_id": "U041S3WQKND",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IMX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "CS6265 is a great class to take if you're OMCS or Info Sec, though.  My favorite class"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2d2a90aa-609e-4f2a-9891-a924277f6564",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "oh that looks intriguing! do you have to have a security background before taking the class?",
+    "ts": "1662600239.344429",
+    "thread_ts": "1662595984.686499",
+    "parent_user_id": "U041S3WQKND",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kA=ZZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh that looks intriguing! do you have to have a security background before taking the class?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e4cf3407-4a79-4a81-8ab5-93187a5fa424",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "AMA (CS/ECE/6747) is a great primer if you do not have a lot of experience with reverse engineering.  You get almost no source code.  Maybe 2 challenges per week include source code. Some of them are very tricky.  The challenges are very well engineered.",
+    "ts": "1662600838.705939",
+    "thread_ts": "1662595984.686499",
+    "parent_user_id": "U041S3WQKND",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vfa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AMA (CS/ECE/6747) is a great primer if you do not have a lot of experience with reverse engineering.  You get almost no source code.  Maybe 2 challenges per week include source code. Some of them are very tricky.  The challenges are very well engineered."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5e17adf6-836e-46c4-b3c0-4efcb7019f43",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "Do you work with \u003c@U8QDSG1G9\u003e?",
+    "ts": "1662600970.148989",
+    "thread_ts": "1662597773.054949",
+    "parent_user_id": "U041DBJ58LU",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U041DBJ58LU",
+          "U8QDSG1G9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u0gjI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do you work with "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7684789a-8c8a-4ceb-b6aa-a8043eeea54b",
+    "type": "message",
+    "user": "U041DBJ58LU",
+    "text": "I'm not sure. I'm fairly new to ADP too. But hopefully I'll see you around \u003c@U8QDSG1G9\u003e",
+    "ts": "1662601376.649859",
+    "thread_ts": "1662597773.054949",
+    "parent_user_id": "U041DBJ58LU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "slr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm not sure. I'm fairly new to ADP too. But hopefully I'll see you around "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4053514589780_b20115f9287472487f83_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Penalver Bartolome",
+      "display_name": "Jose Penalver",
+      "team": "T03NCJFKCV8",
+      "name": "jpb6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A5B1EB0C-11FE-44C0-ACFB-5FDBF18A6729",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Hey \u003c@U041DBJ58LU\u003e ! Which dept are you in ? I joined in February this year. ",
+    "ts": "1662601431.592569",
+    "thread_ts": "1662597773.054949",
+    "parent_user_id": "U041DBJ58LU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CtZCd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "user",
+                "user_id": "U041DBJ58LU"
+              },
+              {
+                "type": "text",
+                "text": " ! Which dept are you in ? I joined in February this year. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c828d2e8-70ef-4698-b4c3-6ac6481edf64",
+    "type": "message",
+    "user": "U041DBJ58LU",
+    "text": "I'm in HRO in the Windward office. I also started this February! What department are you in?",
+    "ts": "1662601530.024699",
+    "thread_ts": "1662597773.054949",
+    "parent_user_id": "U041DBJ58LU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yp6TE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm in HRO in the Windward office. I also started this February! What department are you in?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4053514589780_b20115f9287472487f83_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Penalver Bartolome",
+      "display_name": "Jose Penalver",
+      "team": "T03NCJFKCV8",
+      "name": "jpb6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3233F749-BAB1-44B9-87F4-3A1D415FEB71",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "Nice! I'm in NAS-Benefits Lifion. I'm based in Alpharetta at windward too but my team is based in New York so I hardly go into the office at all lol ",
+    "ts": "1662601597.420289",
+    "thread_ts": "1662597773.054949",
+    "parent_user_id": "U041DBJ58LU",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U041DBJ58LU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uNku",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice! I'm in NAS-Benefits Lifion. I'm based in Alpharetta at windward too but my team is based in New York so I hardly go into the office at all lol "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e5826ab8-78af-4c69-80d2-ac61a66c9048",
+    "type": "message",
+    "user": "UMJFPM0P6",
+    "text": "Hello. Marietta/East Cobb area. Work as SWE (for a year so far). Taking GA now. Hoping to pass and graduate. Pray for me.",
+    "ts": "1662602712.971469",
+    "thread_ts": "1662602712.971469",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U041AQWL283",
+        "ts": "1662603458.986849"
+      },
+      {
+        "user": "U03TU6ZPXS8",
+        "ts": "1662640612.477469"
+      },
+      {
+        "user": "UMJFPM0P6",
+        "ts": "1662641260.731459"
+      },
+      {
+        "user": "U03TU6ZPXS8",
+        "ts": "1662641550.331779"
+      },
+      {
+        "user": "UMJFPM0P6",
+        "ts": "1662641740.401419"
+      },
+      {
+        "user": "U041SLL8LBF",
+        "ts": "1662825579.305799"
+      }
+    ],
+    "latest_reply": "1662825579.305799",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 11,
+        "users": [
+          "U019GF47VJ8",
+          "U041S3WQKND",
+          "UMJFPM0P6",
+          "U03TU6ZPXS8",
+          "U03EJQBTAG5",
+          "U041RUTKBG9",
+          "U041DBJ58LU",
+          "U02T4TY0Z5K",
+          "U02DD5VQLBV",
+          "U01TW7LATEJ",
+          "U01ADN6E02E"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U040V1EQYMS"
+        ]
+      },
+      {
+        "name": "heavy_plus_sign",
+        "count": 1,
+        "users": [
+          "U041SLL8LBF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CUueY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello. Marietta/East Cobb area. Work as SWE (for a year so far). Taking GA now. Hoping to pass and graduate. Pray for me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-19/3552762236467_edb2cc7a6cd2019acd21_72.jpg",
+      "first_name": "Trenton",
+      "real_name": "Trenton Hoffman",
+      "display_name": "",
+      "team": "T03NCJFKCV8",
+      "name": "thoffman31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U03TU6ZPXS8",
+      "U041AQWL283",
+      "U041SLL8LBF",
+      "UMJFPM0P6"
+    ]
+  },
+  {
+    "client_msg_id": "2a7affcf-55b6-4a4c-bd2f-9c8ef8a42881",
+    "type": "message",
+    "user": "U041DBJ58LU",
+    "text": "Lol I go three times a week so if you're ever there feel free to hit me up",
+    "ts": "1662603444.796569",
+    "thread_ts": "1662597773.054949",
+    "parent_user_id": "U041DBJ58LU",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VNsd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Lol I go three times a week so if you're ever there feel free to hit me up"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4053514589780_b20115f9287472487f83_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Penalver Bartolome",
+      "display_name": "Jose Penalver",
+      "team": "T03NCJFKCV8",
+      "name": "jpb6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "54308103-729a-427e-aa6e-08827ca315fc",
+    "type": "message",
+    "user": "U041AQWL283",
+    "text": "All the best!",
+    "ts": "1662603458.986849",
+    "thread_ts": "1662602712.971469",
+    "parent_user_id": "UMJFPM0P6",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X=4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All the best!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0e7051b8d2dfe780221b47099ec000ed.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "sbandi31",
+      "real_name": "sbandi31",
+      "display_name": "sbandi31",
+      "team": "T03NCJFKCV8",
+      "name": "sbandi31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "862536E3-D7C3-4986-8098-D9557E677384",
+    "type": "message",
+    "user": "U03TU6ZPXS8",
+    "text": "Nice looking brew in your pic, what brewery is that?",
+    "ts": "1662640612.477469",
+    "thread_ts": "1662602712.971469",
+    "parent_user_id": "UMJFPM0P6",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qpD+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice looking brew in your pic, what brewery is that?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-01-09/4602683971127_c03199c0e63d6f1c2d41_72.jpg",
+      "first_name": "Richard",
+      "real_name": "Richard Hayes Crowley",
+      "display_name": "Hayes Crowley",
+      "team": "T03NCJFKCV8",
+      "name": "rcrowley9",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CAEAD03F-ECB6-4CB4-AD39-D4853CA8EA73",
+    "type": "message",
+    "user": "U03TU6ZPXS8",
+    "text": "He's a very interesting character, I take it you've heard of the Max Headroom incident?",
+    "ts": "1662640644.940889",
+    "thread_ts": "1662556428.899679",
+    "parent_user_id": "UJM8GC35H",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=V+2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "He's a very interesting character, I take it you've heard of the Max Headroom incident?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-01-09/4602683971127_c03199c0e63d6f1c2d41_72.jpg",
+      "first_name": "Richard",
+      "real_name": "Richard Hayes Crowley",
+      "display_name": "Hayes Crowley",
+      "team": "T03NCJFKCV8",
+      "name": "rcrowley9",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7192102b-b559-481a-9287-640078ce65ac",
+    "type": "message",
+    "user": "UMJFPM0P6",
+    "text": "Nogne. Near Arendal, Norway.",
+    "ts": "1662641260.731459",
+    "thread_ts": "1662602712.971469",
+    "parent_user_id": "UMJFPM0P6",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3uVVM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nogne. Near Arendal, Norway."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-19/3552762236467_edb2cc7a6cd2019acd21_72.jpg",
+      "first_name": "Trenton",
+      "real_name": "Trenton Hoffman",
+      "display_name": "",
+      "team": "T03NCJFKCV8",
+      "name": "thoffman31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b81c2553-ab89-4bed-8fcb-da6d1ff40eb0",
+    "type": "message",
+    "user": "U03TU6ZPXS8",
+    "text": "nice! wouldn't have guessed",
+    "ts": "1662641550.331779",
+    "thread_ts": "1662602712.971469",
+    "parent_user_id": "UMJFPM0P6",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gLfRF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nice! wouldn't have guessed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-01-09/4602683971127_c03199c0e63d6f1c2d41_72.jpg",
+      "first_name": "Richard",
+      "real_name": "Richard Hayes Crowley",
+      "display_name": "Hayes Crowley",
+      "team": "T03NCJFKCV8",
+      "name": "rcrowley9",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3a21ccf0-1301-42ee-b34f-910bd2dac13e",
+    "type": "message",
+    "user": "UMJFPM0P6",
+    "text": "I even had to look at Google maps to remind myself what it was called.",
+    "ts": "1662641740.401419",
+    "thread_ts": "1662602712.971469",
+    "parent_user_id": "UMJFPM0P6",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "laughing",
+        "count": 1,
+        "users": [
+          "U03TU6ZPXS8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U04",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I even had to look at Google maps to remind myself what it was called."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-19/3552762236467_edb2cc7a6cd2019acd21_72.jpg",
+      "first_name": "Trenton",
+      "real_name": "Trenton Hoffman",
+      "display_name": "",
+      "team": "T03NCJFKCV8",
+      "name": "thoffman31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3417160e-d22e-4e0e-a007-652e4c2299d0",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "i'm going the IS track",
+    "ts": "1662644377.293609",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GVDkL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i'm going the IS track"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ef9a88a7-24f7-4426-9f62-b2acf9ee780e",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "That is the best track! The ECE track looks pretty tough and the policy track really is missing some of the kinds of courses that I think would make it valuable... though they are adding some new electives in Spring that help close the gaps",
+    "ts": "1662644483.053999",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d=Gzq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That is the best track! The ECE track looks pretty tough and the policy track really is missing some of the kinds of courses that I think would make it valuable... though they are adding some new electives in Spring that help close the gaps"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b594fa97-c828-437c-9220-e59dd9fc105c",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "glad to hear some of the material helped out in your ML courses!  NLP is definitely a large field of study and has a lot of \"rabbit holes\" you can get lost in; unfortunately the best we could do in that short a timeframe was provide s kickoff point",
+    "ts": "1662644547.192709",
+    "thread_ts": "1662584838.592279",
+    "parent_user_id": "U03UM07E4D8",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jBmfO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "glad to hear some of the material helped out in your ML courses!  NLP is definitely a large field of study and has a lot of \"rabbit holes\" you can get lost in; unfortunately the best we could do in that short a timeframe was provide s kickoff point"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e542007f-559c-4cf5-8976-8298f85f4e18",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "\u003c@U02UP4J977S\u003e don't be scared!  i figure i'm going to just collect OMS degrees until there is an OPhD option (which amazes me there's still not one).",
+    "ts": "1662645521.132019",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gUWSY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02UP4J977S"
+              },
+              {
+                "type": "text",
+                "text": " don't be scared!  i figure i'm going to just collect OMS degrees until there is an OPhD option (which amazes me there's still not one)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "23867724-6ccc-49a4-9051-b9916ef3b8ac",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "maybe we get a punch card at some point where you get 4 OMS degrees and get a free PhD...? :rolling_on_the_floor_laughing:",
+    "ts": "1662645560.458379",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IaCOV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "maybe we get a punch card at some point where you get 4 OMS degrees and get a free PhD...? "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6120552c-674a-4fb6-a0a1-834822cd3418",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "\u003c@U019GF47VJ8\u003e yeah, i have zero interest in the policy track, and in my current line of work the IS track just makes more sense vs ECE",
+    "ts": "1662645613.266869",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QNeE4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U019GF47VJ8"
+              },
+              {
+                "type": "text",
+                "text": " yeah, i have zero interest in the policy track, and in my current line of work the IS track just makes more sense vs ECE"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c15f98ec-2b09-47d7-97f2-6c6d4179d6d3",
+    "type": "message",
+    "user": "UJM8GC35H",
+    "text": "I most certainly have.",
+    "ts": "1662646032.895699",
+    "thread_ts": "1662556428.899679",
+    "parent_user_id": "UJM8GC35H",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U03TU6ZPXS8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "alG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I most certainly have."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4061286979585_5faa47099dfa19971955_72.jpg",
+      "first_name": "",
+      "real_name": "Mitchell Hamilton",
+      "display_name": "Mitchell Hamilton",
+      "team": "T03NCJFKCV8",
+      "name": "mitchell.hamilton",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a4763f52-ae47-4674-8343-5d746a9fa0aa",
+    "type": "message",
+    "user": "U040V1EQYMS",
+    "text": "Hey I live like 5 mins walking distance from the marietta square. Have you ever tried Cool Bean Coffee House?",
+    "ts": "1662647115.230999",
+    "thread_ts": "1662520191.872159",
+    "parent_user_id": "USLDMLNSK",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uZh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey I live like 5 mins walking distance from the marietta square. Have you ever tried Cool Bean Coffee House?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-01/4026606115666_7d9529f722c0d75a65a9_72.jpg",
+      "first_name": "Cody",
+      "real_name": "Cody Goss",
+      "display_name": "Cody",
+      "team": "T03NCJFKCV8",
+      "name": "cgoss32",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7ba0d520-bcb0-4988-a74f-2eb15d88e303",
+    "type": "message",
+    "user": "UJM8GC35H",
+    "text": "Security and hacker history are of particular interest to me",
+    "ts": "1662649774.839279",
+    "thread_ts": "1662556428.899679",
+    "parent_user_id": "UJM8GC35H",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5HxBR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Security and hacker history are of particular interest to me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4061286979585_5faa47099dfa19971955_72.jpg",
+      "first_name": "",
+      "real_name": "Mitchell Hamilton",
+      "display_name": "Mitchell Hamilton",
+      "team": "T03NCJFKCV8",
+      "name": "mitchell.hamilton",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6e008714-43e1-44a7-857a-0b3eb5c92595",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "\u003c@U03EJQBTAG5\u003e I love that idea!!! :slightly_smiling_face: an OPhD or a punchcard for an honorary PhD (wont' call it a free PhD b/c we would have worked for it)",
+    "ts": "1662650305.958439",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QglLi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03EJQBTAG5"
+              },
+              {
+                "type": "text",
+                "text": " I love that idea!!! "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " an OPhD or a punchcard for an honorary PhD (wont' call it a free PhD b/c we would have worked for it)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4c37bf31-c855-4461-bb16-27bb862c2907",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "FWIW... Isbell mentioned on one of the Slack channels that you likely only need to be on campus for one year for the PhD program.",
+    "ts": "1662650333.319669",
+    "thread_ts": "1662596302.845619",
+    "edited": {
+      "user": "U02UP4J977S",
+      "ts": "1662650338.000000"
+    },
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zio",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "FWIW... Isbell mentioned on one of the Slack channels that you likely only need to be on campus for one year for the PhD program."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c3b04c5-48bb-4753-8bfc-a3762e03fb99",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "after that, you can be somewhere else",
+    "ts": "1662650352.276349",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=xb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "after that, you can be somewhere else"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f25a5598-d6d6-46af-a334-23e93647e165",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "so it's kind of close to an online PhD",
+    "ts": "1662650361.916079",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jv7Kl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so it's kind of close to an online PhD"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "73594e47-0e5e-4000-9624-a1dcdadf02f8",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "that's interesting news... my understanding was that very few of the required classes were available online which would require ~6 semesters of irl classes; dissertations are possible to handle remote after the fact.  if that's a new development i'd love to find out more about it!",
+    "ts": "1662652245.607089",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A/4k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that's interesting news... my understanding was that very few of the required classes were available online which would require ~6 semesters of irl classes; dissertations are possible to handle remote after the fact.  if that's a new development i'd love to find out more about it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "57ea599e-f956-4c9a-9d5f-e71d4404cae4",
+    "type": "message",
+    "user": "U03EJQBTAG5",
+    "text": "ah, found the thread... interesting.",
+    "ts": "1662653051.085979",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GC10",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ah, found the thread... interesting."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-09/3522644691712_827d7585ea0d3bcdae28_72.jpg",
+      "first_name": "rbates8",
+      "real_name": "rbates8",
+      "display_name": "Robert Bates",
+      "team": "T03NCJFKCV8",
+      "name": "rbates8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "abcccd5f-6a6f-4c8c-996e-7c7890d77a57",
+    "type": "message",
+    "user": "U041PH0B1DF",
+    "text": "Thanks \u003c@U019GF47VJ8\u003e",
+    "ts": "1662653515.671159",
+    "thread_ts": "1662582468.495599",
+    "parent_user_id": "U041PH0B1DF",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L9/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U019GF47VJ8"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4046860678949_86ddc0989e7ac96e2976_72.jpg",
+      "first_name": "Yashwant",
+      "real_name": "Yashwant Koyyana",
+      "display_name": "Yash Koyyana",
+      "team": "T03NCJFKCV8",
+      "name": "kyashwant3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8a6d1665-ad81-416d-ae5b-a5036e78566b",
+    "type": "message",
+    "user": "U041PH0B1DF",
+    "text": "Thanks \u003c@U8QDSG1G9\u003e, where do you guys play?",
+    "ts": "1662653564.840989",
+    "thread_ts": "1662582468.495599",
+    "parent_user_id": "U041PH0B1DF",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+1=mA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U8QDSG1G9"
+              },
+              {
+                "type": "text",
+                "text": ", where do you guys play?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4046860678949_86ddc0989e7ac96e2976_72.jpg",
+      "first_name": "Yashwant",
+      "real_name": "Yashwant Koyyana",
+      "display_name": "Yash Koyyana",
+      "team": "T03NCJFKCV8",
+      "name": "kyashwant3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EEB93DCF-F0FB-4F55-816A-ED7C8781E38F",
+    "type": "message",
+    "user": "U019GF47VJ8",
+    "text": "If you're local you could possibly arrange for a phd part time. Might be tricky. But I know someone at GTRI who was able sort it out. ",
+    "ts": "1662654070.498249",
+    "thread_ts": "1662596302.845619",
+    "parent_user_id": "U03EJQBTAG5",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ij78P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you're local you could possibly arrange for a phd part time. Might be tricky. But I know someone at GTRI who was able sort it out. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-04-18/1968075565798_3cf8525b2909cf28cae0_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Johnson",
+      "display_name": "EJ",
+      "team": "T03NCJFKCV8",
+      "name": "ejohnson367",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B9686684-7F4F-4533-87B7-851502A56F6E",
+    "type": "message",
+    "user": "U8QDSG1G9",
+    "text": "\u003c@U041PH0B1DF\u003e - let me DM you",
+    "ts": "1662655567.680729",
+    "thread_ts": "1662582468.495599",
+    "edited": {
+      "user": "U8QDSG1G9",
+      "ts": "1662655610.000000"
+    },
+    "parent_user_id": "U041PH0B1DF",
+    "team": "T03NCJFKCV8",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RxgXz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041PH0B1DF"
+              },
+              {
+                "type": "text",
+                "text": " - let me DM you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-07/4048345097891_a7de4c74f2cd29752508_72.png",
+      "first_name": "Sriram",
+      "real_name": "Sriram Anne",
+      "display_name": "Ram",
+      "team": "T03NCJFKCV8",
+      "name": "sanne31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2561bc65-cca2-49e5-9740-23e5d7547d1c",
+    "type": "message",
+    "user": "U02T4TY0Z5K",
+    "text": "Hello everyone.  I'm Dennis.  I currently reside in Marietta/East Cobb and work as a SWE at T-Mobile.  Taking my 5th class this semester (Embedded Software Optimization).  When I'm not breaking things at work or trying to get test cases to pass on Gradescope, I can be found shuttling two young kids to baseball/soccer practices or riding my mountain bike at Sope Creek.  Looking forward to meeting many of you in person!",
+    "ts": "1662666225.547329",
+    "thread_ts": "1662666225.547329",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U02UP4J977S",
+        "ts": "1662672720.104109"
+      },
+      {
+        "user": "U019GF47VJ8",
+        "ts": "1662687462.859619"
+      },
+      {
+        "user": "U02T4TY0Z5K",
+        "ts": "1662724520.910339"
+      },
+      {
+        "user": "U040XQFU7A5",
+        "ts": "1662742661.171639"
+      },
+      {
+        "user": "U04185JLG8M",
+        "ts": "1662786738.721819"
+      }
+    ],
+    "latest_reply": "1662786738.721819",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 3,
+        "users": [
+          "U041DBJ58LU",
+          "U041S3WQKND",
+          "U03TU6ZPXS8"
+        ]
+      },
+      {
+        "name": "baseball",
+        "count": 1,
+        "users": [
+          "U040WGDCG07"
+        ]
+      },
+      {
+        "name": "soccer",
+        "count": 1,
+        "users": [
+          "U040WGDCG07"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nLUio",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone.  I'm Dennis.  I currently reside in Marietta/East Cobb and work as a SWE at T-Mobile.  Taking my 5th class this semester (Embedded Software Optimization).  When I'm not breaking things at work or trying to get test cases to pass on Gradescope, I can be found shuttling two young kids to baseball/soccer practices or riding my mountain bike at Sope Creek.  Looking forward to meeting many of you in person!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-08/4056050188467_19bfea465ed9b765a41e_72.jpg",
+      "first_name": "Dennis",
+      "real_name": "Dennis Lumpkins",
+      "display_name": "Dennis Lumpkins",
+      "team": "T03NCJFKCV8",
+      "name": "rlumpkins3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U019GF47VJ8",
+      "U02T4TY0Z5K",
+      "U02UP4J977S",
+      "U040XQFU7A5",
+      "U04185JLG8M"
+    ]
+  },
+  {
+    "client_msg_id": "09900972-11cd-4478-b20a-f4906170bd02",
+    "type": "message",
+    "user": "U02UP4J977S",
+    "text": "LOL.. I like breaking things at work too :wink:",
+    "ts": "1662672720.104109",
+    "thread_ts": "1662666225.547329",
+    "parent_user_id": "U02T4TY0Z5K",
+    "team": "T03NCJFKCV8",
+    "reactions": [
+      {
+        "name": "laughing",
+        "count": 1,
+        "users": [
+          "U02T4TY0Z5K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SK/Au",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "LOL.. I like breaking things at work too "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NCJFKCV8",
+    "source_team": "T03NCJFKCV8",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c2a3f363e855786d5404606943022e40.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "gnguyen37",
+      "real_name": "gnguyen37",
+      "display_name": "gnguyen37",
+      "team": "T03NCJFKCV8",
+      "name": "gnguyen37",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

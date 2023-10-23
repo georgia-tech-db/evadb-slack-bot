@@ -24,9 +24,12 @@ from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
 
 from eva_queries.rag_queries import (
-    build_relevant_knowledge_body,
+    build_relevant_knowledge_body_pdf,
     build_rag_query,
     build_search_index,
+    load_slack_dump,
+    load_omscs_pdfs,
+    create_feature_extractor,
     start_llm_backend,
 )
 from utils.formatted_messages.welcome import MSG as WELCOME_MSG
@@ -37,29 +40,28 @@ from utils.usage_tracker import time_tracker
 from utils.logging import QUERY_LOGGER, APP_LOGGER
 
 import evadb
-
-
 # Make sure necessary tokens are set.
 SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
 os.environ.get("SLACK_SIGNING_SECRET")
-
-# Slack app, bot, and client.
 app = App(token=SLACK_BOT_TOKEN)
-handler = SlackRequestHandler(app)
+# Slack app, bot, and client.
+
 client = WebClient(token=SLACK_BOT_TOKEN)
 
-# Queue list to connect to backend.
-queue_list = start_llm_backend(2)
 
-# Cursor of EvaDB.
-cursor = evadb.connect().cursor()
-build_search_index(cursor)
-
+def setup(workspace_name = "", channel_name = ""):
+    # Cursor of EvaDB.
+    cursor = evadb.connect().cursor()
+    create_feature_extractor(cursor)
+    load_omscs_pdfs(cursor)
+    load_slack_dump(cursor, workspace_name=workspace_name, channel_name=channel_name)
+    build_search_index(cursor)
+    return cursor
 
 #########################################################
 # Helper functions                                      #
 #########################################################
-def queue_backend_llm(conversation):
+def queue_backend_llm(conversation, queue_list):
     for iq, oq in queue_list:
         if iq.full():
             continue
@@ -69,7 +71,7 @@ def queue_backend_llm(conversation):
     return None
 
 
-def is_all_queue_full():
+def is_all_queue_full(queue_list):
     for iq, _ in queue_list:
         if not iq.full():
             return False
@@ -90,6 +92,11 @@ def log_request(logger, body, next):
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
+    cursor = setup(body['team_id'], body['channel'])
+
+    # Queue list to connect to backend.
+    queue_list = start_llm_backend(2)
+
     event_id = body["event_id"]
 
     # Thread id to reply.
@@ -106,7 +113,7 @@ def handle_mention(body, say, logger):
         time_tracker[user] = time.time()
 
     # Abort early, if all queues are full.
-    if is_all_queue_full():
+    if is_all_queue_full(queue_list):
         APP_LOGGER.info(f"{event_id} - all queue full (early abort)")
         say(BUSY_MSG, thread_ts=thread_ts)
         return
@@ -126,14 +133,14 @@ def handle_mention(body, say, logger):
         QUERY_LOGGER.info(f"{user_query}")
 
         if user_query:
-            knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body(
+            knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_pdf(
                 cursor, user_query, logger
             )
             conversation = build_rag_query(knowledge_body, user_query)
 
             if knowledge_body is not None:
                 # Only reply when there is knowledge body.
-                response = queue_backend_llm(conversation)
+                response = queue_backend_llm(conversation, queue_list)
                 if response is None:
                     APP_LOGGER.info(f"{event_id} - all queue full (late abort)")
                     say(BUSY_MSG, thread_ts=thread_ts)
@@ -141,7 +148,7 @@ def handle_mention(body, say, logger):
 
                 # Attach reference
                 response += REF_MSG_HEADER
-                for i, pageno in enumerate(reference_pageno_list):
+                for _, pageno in enumerate(reference_pageno_list):
                     # TODO: change hardcoded url.
                     # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
                     response += f"[{reference_pdf_name}, page {pageno}] "
@@ -193,4 +200,4 @@ flask_app = Flask(__name__)
 
 @flask_app.route("/slack/events", methods=["POST"])
 def slack_events():
-    return handler.handle(request)
+    return SlackRequestHandler(app).handle(request)
