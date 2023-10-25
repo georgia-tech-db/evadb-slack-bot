@@ -113,14 +113,16 @@ def load_slack_dump(cursor, path = "slack_dump", pdf_path = "slack_dump_pdfs", w
         print("Could not file the correct slack dump dir.")
 
 
-def build_relevant_knowledge_body_pdf(cursor, user_query, logger):
+def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
     print("Building knowledge body.")
     query = f"""
         SELECT * FROM OMSCSPDFTable
+        WHERE name = "{channel_id}"
         ORDER BY Similarity(
             SentenceFeatureExtractor('{user_query}'), 
             SentenceFeatureExtractor(data)
-        ) LIMIT 5
+        ) 
+        LIMIT 5
     """
     try:
         response = cursor.query(query).df()

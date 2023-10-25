@@ -92,7 +92,10 @@ def log_request(logger, body, next):
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
-    cursor = setup(body['team_id'], body['channel'])
+    workspace_name = body['team_id']
+    channel_name = body['channel']
+    channel_id = f"{workspace_name}___{channel_name}___slackdump.pdf"
+    cursor = setup(workspace_name, channel_name)
 
     # Queue list to connect to backend.
     queue_list = start_llm_backend(2)
@@ -134,7 +137,7 @@ def handle_mention(body, say, logger):
 
         if user_query:
             knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_pdf(
-                cursor, user_query, logger
+                cursor, user_query,channel_id, logger
             )
             conversation = build_rag_query(knowledge_body, user_query)
 
