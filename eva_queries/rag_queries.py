@@ -22,7 +22,7 @@ def create_feature_extractor(cursor):
 def load_pdf_into_eva (cursor, doc_name):
     print("Loading PDF into EVA")
     try:
-        cursor.query("""LOAD PDF '""" + doc_name + """' INTO OMSCSPDFTable""").df()
+        cursor.query("""LOAD PDF 'assets/""" + doc_name + """' INTO OMSCSPDFTable""").df()
     except Exception:
         print("Finished loading PDF into EVA")
         return False
@@ -43,6 +43,8 @@ def build_search_index(cursor):
 
 def load_omscs_pdfs (cursor):
     if not(load_pdf_into_eva (cursor, 'omscs_doc.pdf')):
+        print ("Skipped loading pdf: omscs_doc.pdf")
+    if not(load_pdf_into_eva (cursor, 'coursesomscs_abb.pdf')):
         print ("Skipped loading pdf: omscs_doc.pdf")
 
 
@@ -117,7 +119,7 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
     print("Building knowledge body.")
     query = f"""
         SELECT * FROM OMSCSPDFTable
-        WHERE name = "{channel_id}"
+        WHERE name = "{channel_id}" OR name = "assets/omscs_doc.pdf" OR name = "assets/coursesomscs_abb.pdf"
         ORDER BY Similarity(
             SentenceFeatureExtractor('{user_query}'), 
             SentenceFeatureExtractor(data)

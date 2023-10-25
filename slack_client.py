@@ -93,7 +93,7 @@ def log_request(logger, body, next):
 @app.event("app_mention")
 def handle_mention(body, say, logger):
     workspace_name = body['team_id']
-    channel_name = body['channel']
+    channel_name = body['event']['channel']
     channel_id = f"{workspace_name}___{channel_name}___slackdump.pdf"
     cursor = setup(workspace_name, channel_name)
 
