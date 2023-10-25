@@ -19,7 +19,8 @@ def build_search_index(cursor):
     table_list = cursor.query("""SHOW TABLES""").df()["name"].tolist()
 
     if "OMSCSDocPDF" not in table_list:
-        cursor.query("""LOAD PDF 'omscs_doc.pdf' INTO OMSCSDocPDF""").df()
+        cursor.query("""LOAD PDF './assets/omscs_doc.pdf' INTO OMSCSDocPDF""").df()
+        cursor.query("""LOAD PDF './assets/coursesomscs_abb.pdf' INTO OMSCSDocPDF""").df()
         cursor.query(
             """CREATE INDEX IF NOT EXISTS OMSCSDocPDFIndex 
             ON OMSCSDocPDF (SentenceFeatureExtractor(data))
@@ -34,14 +35,16 @@ def build_relevant_knowledge_body(cursor, user_query, logger):
         ORDER BY Similarity(
             SentenceFeatureExtractor('{user_query}'), 
             SentenceFeatureExtractor(data)
-        ) LIMIT 3
+        ) LIMIT 10
     """
 
     try:
         response = cursor.query(query).df()
         # DataFrame response to single string.
-        knowledge_body = response["omscsdocpdf.data"].str.cat(sep="; ")
+        print(f"knowledge body {response['omscsdocpdf.data'].str.cat(sep='; ')}")
+        knowledge_body = response["omscsdocpdf.data"].iloc[:3].str.cat(sep="; ")
         referece_pageno_list = set(response["omscsdocpdf.page"].tolist()[:3])
+        print(f"knowledge body {knowledge_body}")
         return knowledge_body, referece_pageno_list
     except Exception as e:
         logger.error(str(e))
