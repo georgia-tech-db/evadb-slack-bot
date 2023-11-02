@@ -116,7 +116,7 @@ def gpt4all_respond(queue_list):
             user_template = "Document:{0}\nQuestion:{1}\nAnswer:".format(
                 document, query
             )
-            response = gpt4all.generate(system_template + user_template, temp=0)
+            response = gpt4all.generate(system_template + user_template, temp=0, repeat_penalty=1.4)
             oq.put(response)
 
 
