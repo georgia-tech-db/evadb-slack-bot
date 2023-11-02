@@ -131,7 +131,7 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
         # DataFrame response to single string.
         knowledge_body = response["data"].str.cat(sep="; ")
         referece_pageno_list = set(response["page"].tolist()[:3])
-        reference_pdf_name = response["name"].tolist()[0]
+        reference_pdf_name = response["name"].tolist()[:3]
         print("Knowledge Body: ", knowledge_body)
         print("Finished building knowledge body.")
         return knowledge_body, reference_pdf_name, referece_pageno_list
@@ -187,7 +187,7 @@ def gpt4all_respond(queue_list):
             user_template = "Document:{0}\nQuestion:{1}\nAnswer:".format(
                 document, query
             )
-            response = gpt4all.generate(system_template + user_template, temp=0)
+            response = gpt4all.generate(system_template + user_template, temp=0, repeat_penalty=1.4)
             oq.put(response)
 
 
