@@ -27,11 +27,11 @@ from eva_queries.rag_queries import (
     build_relevant_knowledge_body_pdf,
     build_rag_query,
     build_search_index,
-    load_slack_dump,
     load_omscs_pdfs,
     create_feature_extractor,
     start_llm_backend,
 )
+from utils.slack_dump_processing import load_slack_dump
 from utils.formatted_messages.welcome import MSG as WELCOME_MSG
 from utils.formatted_messages.wait import MSG as WAIT_MSG
 from utils.formatted_messages.busy import MSG as BUSY_MSG
@@ -49,6 +49,8 @@ app = App(token=SLACK_BOT_TOKEN)
 
 client = WebClient(token=SLACK_BOT_TOKEN)
 
+# Queue list to connect to backend.
+queue_list = start_llm_backend(2)
 
 def setup(workspace_name = "", channel_name = ""):
     # Cursor of EvaDB.

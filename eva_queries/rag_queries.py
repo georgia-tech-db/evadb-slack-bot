@@ -1,12 +1,7 @@
 import os
 import openai
-
 from gpt4all import GPT4All
-from pdfdocument.document import PDFDocument
-import math
-
 import ray
-import pandas as pd
 import os
 
 def create_feature_extractor(cursor):
@@ -47,72 +42,6 @@ def load_omscs_pdfs (cursor):
     if not(load_pdf_into_eva (cursor, 'coursesomscs_abb.pdf')):
         print ("Skipped loading pdf: omscs_doc.pdf")
 
-
-def preprocess_json_and_create_pdf(df1, pdf_file):
-    pdf = PDFDocument(pdf_file)
-    pdf.init_report()
-    df = pd.DataFrame()
-    df = pd.concat([df, df1[df1.columns.intersection(set(['user', 'ts', 'text', 'replies']))]])
-    df = df.dropna(subset=['text'])
-    df = df[~df['text'].str.contains("has joined the channel")]
-    df = df[["user", "ts", "text", "replies"]]
-    messages = df.values.tolist()
-    no_reply_messages = []
-    i = 0
-    while (i < len(messages)):
-        if (isinstance(messages[i][3], float) and math.isnan(messages[i][3])):
-            no_reply_messages.append(messages[i])
-            messages.pop(i)
-            continue
-        i += 1
-    for message in messages:
-        msg_to_print = message[2].replace("\n", " ")
-        pdf.p(message[0] + ": " + msg_to_print)
-        for reply in message[3]:
-            i = 0
-            while i < len(no_reply_messages):
-                if no_reply_messages[i][0] == reply['user'] and str(no_reply_messages[i][1]) == reply['ts']:
-                    msg_to_print = no_reply_messages[i][2].replace("\n", " ")
-                    pdf.p("\u2022" + no_reply_messages[i][0] + ": " + msg_to_print)
-                    no_reply_messages.pop(i)
-                    continue
-                i += 1
-        pdf.pagebreak()
-
-    for message in no_reply_messages:
-        msg_to_print = message[2].replace("\n", " ")
-        pdf.p(message[0] + ": " + msg_to_print)
-        pdf.pagebreak()
-    pdf.generate()
-
-def load_slack_dump(cursor, path = "slack_dump", pdf_path = "slack_dump_pdfs", workspace_name = "", channel_name = ""):
-    print("Loading slack dump")
-    if (path in os.listdir(".")):
-        path = "./" + path + "/"
-        dirs = os.listdir(path)
-        if ((workspace_name + "___" + channel_name) in dirs):
-            full_path = path + workspace_name + "___" + channel_name + "/"
-            slackDumpFiles = os.listdir(full_path)
-
-            # Change pwd to output dir
-            os.chdir(pdf_path)
-            load_counter = 0
-            df = pd.DataFrame()
-            for file in slackDumpFiles:
-                if file.endswith(".json"):
-                    load_counter += 1
-                    df1 = pd.read_json("../" + full_path + file)
-                    df = pd.concat([df, df1])
-            pdf_name = workspace_name + "___" + channel_name + "___slackdump.pdf"
-            preprocess_json_and_create_pdf(df, pdf_name)
-            load_pdf_into_eva (cursor, pdf_name)
-            os.chdir("./../")
-            print(str(load_counter), " new slack dumps loaded")
-            print("Finished loading slack dump")
-        else:
-            print("Could not file the correct slack dump dir.")
-    else:
-        print("Could not file the correct slack dump dir.")
 
 
 def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
