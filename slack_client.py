@@ -91,8 +91,6 @@ def log_request(logger, body, next):
     logger.debug(body)
     return next()
 
-queue_list = start_llm_backend(2)
-
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
