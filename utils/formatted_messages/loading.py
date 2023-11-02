@@ -1,0 +1,1 @@
+MSG = "Generating response ... Please wait."

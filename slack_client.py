@@ -35,6 +35,7 @@ from utils.slack_dump_processing import load_slack_dump
 from utils.formatted_messages.welcome import MSG as WELCOME_MSG
 from utils.formatted_messages.wait import MSG as WAIT_MSG
 from utils.formatted_messages.busy import MSG as BUSY_MSG
+from utils.formatted_messages.loading import MSG as LOADING_MSG
 from utils.formatted_messages.reference import MSG_HEADER as REF_MSG_HEADER
 from utils.usage_tracker import time_tracker
 from utils.logging import QUERY_LOGGER, APP_LOGGER
@@ -90,20 +91,19 @@ def log_request(logger, body, next):
     logger.debug(body)
     return next()
 
+queue_list = start_llm_backend(2)
+
 # Handle in app mention.
 @app.event("app_mention")
 def handle_mention(body, say, logger):
-    workspace_name = body['team_id']
-    # TODO: Slack dump does not contain 'channel' data
-    # channel_name = body['event']['channel']
-    channel_name = ""
-    channel_id = f"{workspace_name}___{channel_name}___slackdump.pdf"
-    cursor = setup(workspace_name, channel_name)
-
-    event_id = body["event_id"]
 
     # Thread id to reply.
     thread_ts = body["event"].get("thread_ts", None) or body["event"]["ts"]
+    
+    # Reply back with loading msg.
+    say(LOADING_MSG, thread_ts=thread_ts)
+
+    event_id = body["event_id"]
 
     # Check if users ask question too soon.
     user = body["event"]["user"]
@@ -114,6 +114,14 @@ def handle_mention(body, say, logger):
         return
     else:
         time_tracker[user] = time.time()
+    
+    workspace_name = "OMSCSStudentLife" # body['team_id']
+    channel_name = "atlanta" # body['event']['channel']
+    channel_id = f"{workspace_name}___{channel_name}___slackdump.pdf"
+    channel_id = f"OMSCSStudentLife___atlanta___slackdump.pdf"
+    cursor = setup(workspace_name, channel_name)
+
+    # Queue list to connect to backend.
 
     # Abort early, if all queues are full.
     if is_all_queue_full(queue_list):
@@ -151,10 +159,10 @@ def handle_mention(body, say, logger):
 
                 # Attach reference
                 response += REF_MSG_HEADER
-                for _, pageno in enumerate(reference_pageno_list):
+                for iterator, pageno in enumerate(reference_pageno_list):
                     # TODO: change hardcoded url.
                     # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
-                    response += f"[{reference_pdf_name}, page {pageno}] "
+                    response += f"[{reference_pdf_name[iterator]}, page {pageno}] "
                 response += "\n"
 
                 # Reply back with welcome msg randomly.
