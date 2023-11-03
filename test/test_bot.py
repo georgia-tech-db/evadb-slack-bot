@@ -71,4 +71,11 @@ def test_slack_bot_answer():
     clean_setup(evadb.connect().cursor())
     handle_mention(json.loads(handle_message_body), say, logging)
 
-
+def test_handle_message():
+    import pickle
+    body = pickle.load(open("test_inputs/body.pkl", "rb"))
+    def convert_say_to_print(message, thread_ts=None):
+        print(message)
+    say = convert_say_to_print
+    from slack_client import handle_message
+    handle_mention(body, say, QUERY_LOGGER)
