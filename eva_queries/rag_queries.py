@@ -57,6 +57,7 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
     """
     try:
         response = cursor.query(query).df()
+        print(f"Length of response: {len(response)}")
         # DataFrame response to single string.
         knowledge_body = response["omscspdftable.data"].str.cat(sep="\n ")
         referece_pageno_list = set(response["omscspdftable.page"].tolist()[:3])
@@ -87,7 +88,7 @@ def build_rag_query(knowledge_body, query):
     print("Finished building RAG query.")
     return conversation
 
-
+# @ray.remote(num_cpus=6)
 def openai_respond(conversation):
     # Set OpenAI key.
     openai.api_key = os.environ.get("OPENAI_API_KEY")
@@ -131,4 +132,5 @@ def start_llm_backend(max_con=1):
     # Concurrent queue to interact with backend GPT4ALL inference.
     queue_list = [(Queue(maxsize=1), Queue(maxsize=1)) for _ in range(max_con)]
     gpt4all_respond.remote(queue_list)
+    # openai_respond.remote(queue_list)
     return queue_list
