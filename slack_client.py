@@ -113,7 +113,7 @@ def handle_mention(body, say, logger):
     else:
         time_tracker[user] = time.time()
     
-    workspace_name = body['team_id']
+    workspace_name = "" #body['team_id']
     channel_name = body['event']['channel']
     channel_id = f"{channel_name}___slackdump.pdf"
     cursor = setup(workspace_name, channel_name)

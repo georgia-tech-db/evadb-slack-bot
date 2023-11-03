@@ -56,13 +56,15 @@ def preprocess_json_and_create_pdf(df1, pdf_file):
         pdf.pagebreak()
     pdf.generate()
 
-def load_slack_dump(cursor, path = "slack_dump", pdf_path = "slack_dump_pdfs", workspace_name = "", channel_name = ""):
+def load_slack_dump(cursor, path = "slack_dump", pdf_path = "assets", workspace_name = "", channel_name = ""):
     print("Loading slack dump")
     if (path in os.listdir(".")):
         path = "./" + path + "/"
         dirs = os.listdir(path)
-        if ((workspace_name + "___" + channel_name) in dirs):
-            full_path = path + workspace_name + "___" + channel_name + "/"
+        # if ((workspace_name + "___" + channel_name) in dirs):
+        if ((channel_name) in dirs):
+            # full_path = path + workspace_name + "___" + channel_name + "/"
+            full_path = path + channel_name + "/"
             slackDumpFiles = os.listdir(full_path)
 
             # Change pwd to output dir
@@ -74,13 +76,14 @@ def load_slack_dump(cursor, path = "slack_dump", pdf_path = "slack_dump_pdfs", w
                     load_counter += 1
                     df1 = pd.read_json("../" + full_path + file)
                     df = pd.concat([df, df1])
-            pdf_name = workspace_name + "___" + channel_name + "___slackdump.pdf"
+            # pdf_name = workspace_name + "___" + channel_name + "___slackdump.pdf"
+            pdf_name = channel_name + "___slackdump.pdf"
             preprocess_json_and_create_pdf(df, pdf_name)
-            load_pdf_into_eva (cursor, pdf_name)
             os.chdir("./../")
+            load_pdf_into_eva (cursor, pdf_name)
             print(str(load_counter), " new slack dumps loaded")
             print("Finished loading slack dump")
         else:
-            print("Could not file the correct slack dump dir.")
+            print("Could not find the correct slack dump dir.")
     else:
-        print("Could not file the correct slack dump dir.")
+        print("Could not find the correct slack dump dir.")

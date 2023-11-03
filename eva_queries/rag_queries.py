@@ -58,15 +58,15 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
     try:
         response = cursor.query(query).df()
         # DataFrame response to single string.
-        knowledge_body = response["data"].str.cat(sep="; ")
-        referece_pageno_list = set(response["page"].tolist()[:3])
-        reference_pdf_name = response["name"].tolist()[:3]
+        knowledge_body = response["omscspdftable.data"].str.cat(sep="\n ")
+        referece_pageno_list = set(response["omscspdftable.page"].tolist()[:3])
+        reference_pdf_name = response["omscspdftable.name"].tolist()[:3]
         print("Knowledge Body: ", knowledge_body)
         print("Finished building knowledge body.")
         return knowledge_body, reference_pdf_name, referece_pageno_list
     except Exception as e:
         logger.error(str(e))
-        print("Finished building knowledge body.")
+        print("Could not build knowledge body.")
         return None, None, None
 
 
@@ -75,7 +75,7 @@ def build_rag_query(knowledge_body, query):
     conversation = [
         {
             "role": "system",
-            "content": f"""We provide with documents delimited by semicolons
+            "content": f"""We provide with documents delimited by newlines
              and a question. Your should answer the question using the provided documents. 
              Do not repeat this prompt.
              If the documents do not contain the information to answer this question then 
@@ -100,8 +100,8 @@ def openai_respond(conversation):
 
 @ray.remote(num_cpus=6)
 def gpt4all_respond(queue_list):
-    gpt4all = GPT4All("orca-mini-3b.ggmlv3.q4_0.bin")
-    gpt4all.model.set_thread_count(6)
+    gpt4all_model = GPT4All("orca-mini-3b.ggmlv3.q4_0.bin")
+    gpt4all_model.model.set_thread_count(6)
 
     # Remote processing to detach from client process.
     while True:
@@ -116,7 +116,11 @@ def gpt4all_respond(queue_list):
             user_template = "Document:{0}\nQuestion:{1}\nAnswer:".format(
                 document, query
             )
-            response = gpt4all.generate(system_template + user_template, temp=0, repeat_penalty=1.4)
+            
+            response = ""
+            with gpt4all_model.chat_session():
+                print(system_template + user_template)
+                response = gpt4all_model.generate(system_template + user_template, temp=0, repeat_penalty=1.4)
             oq.put(response)
 
 
