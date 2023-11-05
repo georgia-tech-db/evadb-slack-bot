@@ -37,7 +37,10 @@ from utils.formatted_messages.wait import MSG as WAIT_MSG
 from utils.formatted_messages.busy import MSG as BUSY_MSG
 from utils.formatted_messages.loading import MSG as LOADING_MSG
 from utils.formatted_messages.reference import MSG_HEADER as REF_MSG_HEADER
-from utils.usage_tracker import time_tracker
+from utils.usage_tracker import (
+    time_tracker,
+    time_user
+)
 from utils.logging import QUERY_LOGGER, APP_LOGGER
 
 import evadb
@@ -105,13 +108,15 @@ def handle_mention(body, say, logger):
 
     # Check if users ask question too soon.
     user = body["event"]["user"]
-    cooldown_time = time.time() - time_tracker[user]
-    if cooldown_time < 300:
-        APP_LOGGER.info(f"{event_id} - needs cooldown {cooldown_time}")
-        say(WAIT_MSG.format(ceil((5 - cooldown_time / 60))), thread_ts=thread_ts)
-        return
-    else:
-        time_tracker[user] = time.time()
+    # TODO: remove after confirm working
+    # cooldown_time = time.time() - time_tracker[user]
+    # if cooldown_time < 300:
+    #     APP_LOGGER.info(f"{event_id} - needs cooldown {cooldown_time}")
+    #     say(WAIT_MSG.format(ceil((5 - cooldown_time / 60))), thread_ts=thread_ts)
+    #     return
+    # else:
+    #     time_tracker[user] = time.time()
+    say(time_user(user, event_id), thread_ts=thread_ts)
     
     workspace_name = "" #body['team_id']
     channel_name = body['event']['channel']
