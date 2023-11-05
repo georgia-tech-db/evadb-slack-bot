@@ -4,6 +4,9 @@ from gpt4all import GPT4All
 import ray
 import os
 
+from warnings import filterwarnings
+filterwarnings(action='ignore', category=FutureWarning)
+
 def create_feature_extractor(cursor):
     print("Creating feature extractor.")
     cursor.query(
@@ -28,7 +31,7 @@ def load_pdf_into_eva (cursor, doc_name):
 def build_search_index(cursor):
     print("Building search index")
     cursor.query(
-        """CREATE INDEX IF NOT EXISTS OMSCSIndex 
+        """CREATE INDEX IF NOT EXISTS OMSCSIndex
         ON OMSCSPDFTable (SentenceFeatureExtractor(data))
         USING FAISS
     """
@@ -48,7 +51,7 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
     print("Building knowledge body.")
     query = f"""
         SELECT * FROM OMSCSPDFTable
-        WHERE name = "{channel_id}" OR name = "assets/omscs_doc.pdf" OR name = "assets/coursesomscs_abb.pdf"
+        WHERE name = "assets/{channel_id}" OR name = "assets/omscs_doc.pdf" OR name = "assets/coursesomscs_abb.pdf"
         ORDER BY Similarity(
             SentenceFeatureExtractor('{user_query}'), 
             SentenceFeatureExtractor(data)

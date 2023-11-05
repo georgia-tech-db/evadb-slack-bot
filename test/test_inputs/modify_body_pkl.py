@@ -1,5 +1,5 @@
 import pickle
-body = pickle.load(open("test/test_inputs/body3.pkl", "rb"))
+body = pickle.load(open("test/test_inputs/body.pkl", "rb"))
 import pprint
 pprint.pprint(body, indent=1)
 
@@ -9,6 +9,7 @@ def change_channel_value(body, new_channel_name):
 def change_text(body, new_text):
     body['event']['text'] = new_text
 
-change_text(body, "<someuser> tell about the exam1")
+change_channel_value(body, "C08LKC5CL")
+change_text(body, "<someuser> ML4T")
 
-pickle.dump(body, open("test/test_inputs/body3.pkl", "wb"))
+pickle.dump(body, open("test/test_inputs/body.pkl", "wb"))
