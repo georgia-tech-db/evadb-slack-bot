@@ -4,6 +4,9 @@ from gpt4all import GPT4All
 import ray
 import os
 
+from warnings import filterwarnings
+filterwarnings(action='ignore', category=FutureWarning)
+
 def create_feature_extractor(cursor):
     print("Creating feature extractor.")
     cursor.query(
@@ -28,7 +31,7 @@ def load_pdf_into_eva (cursor, doc_name):
 def build_search_index(cursor):
     print("Building search index")
     cursor.query(
-        """CREATE INDEX IF NOT EXISTS OMSCSIndex 
+        """CREATE INDEX IF NOT EXISTS OMSCSIndex
         ON OMSCSPDFTable (SentenceFeatureExtractor(data))
         USING FAISS
     """
@@ -48,7 +51,7 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
     print("Building knowledge body.")
     query = f"""
         SELECT * FROM OMSCSPDFTable
-        WHERE name = "{channel_id}" OR name = "assets/omscs_doc.pdf" OR name = "assets/coursesomscs_abb.pdf"
+        WHERE name = "assets/{channel_id}" OR name = "assets/omscs_doc.pdf" OR name = "assets/coursesomscs_abb.pdf"
         ORDER BY Similarity(
             SentenceFeatureExtractor('{user_query}'), 
             SentenceFeatureExtractor(data)
@@ -57,10 +60,11 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
     """
     try:
         response = cursor.query(query).df()
+        print(f"Length of response: {len(response)}")
         # DataFrame response to single string.
-        knowledge_body = response["omscspdftable.data"].str.cat(sep="\n ")
-        referece_pageno_list = set(response["omscspdftable.page"].tolist()[:3])
-        reference_pdf_name = response["omscspdftable.name"].tolist()[:3]
+        knowledge_body = response["data"].str.cat(sep="\n ")
+        referece_pageno_list = set(response["page"].tolist()[:3])
+        reference_pdf_name = response["name"].tolist()[:3]
         print("Knowledge Body: ", knowledge_body)
         print("Finished building knowledge body.")
         return knowledge_body, reference_pdf_name, referece_pageno_list
@@ -87,7 +91,7 @@ def build_rag_query(knowledge_body, query):
     print("Finished building RAG query.")
     return conversation
 
-
+# @ray.remote(num_cpus=6)
 def openai_respond(conversation):
     # Set OpenAI key.
     openai.api_key = os.environ.get("OPENAI_API_KEY")
@@ -100,7 +104,7 @@ def openai_respond(conversation):
 
 @ray.remote(num_cpus=6)
 def gpt4all_respond(queue_list):
-    gpt4all_model = GPT4All("orca-mini-3b.ggmlv3.q4_0.bin")
+    gpt4all_model = GPT4All("orca-mini-3b-gguf2-q4_0.gguf")
     gpt4all_model.model.set_thread_count(6)
 
     # Remote processing to detach from client process.
@@ -120,7 +124,7 @@ def gpt4all_respond(queue_list):
             response = ""
             with gpt4all_model.chat_session():
                 print(system_template + user_template)
-                response = gpt4all_model.generate(system_template + user_template, temp=0, repeat_penalty=1.4)
+                response = gpt4all_model.generate(query+ system_template + user_template, temp=0, repeat_penalty=1.4)
             oq.put(response)
 
 
@@ -131,4 +135,5 @@ def start_llm_backend(max_con=1):
     # Concurrent queue to interact with backend GPT4ALL inference.
     queue_list = [(Queue(maxsize=1), Queue(maxsize=1)) for _ in range(max_con)]
     gpt4all_respond.remote(queue_list)
+    # openai_respond.remote(queue_list)
     return queue_list

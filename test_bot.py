@@ -75,7 +75,9 @@ def test_slack_bot_answer():
 def test_handle_message():
     # Tests e2e pipeline
     import pickle
-    body = pickle.load(open("test/test_inputs/body2.pkl", "rb"))
+    body = pickle.load(open("test/test_inputs/body.pkl", "rb"))
+    import pprint
+    pprint.pprint(body, indent=1)
     def convert_say_to_print(message, thread_ts=None):
         print(message)
     say = convert_say_to_print

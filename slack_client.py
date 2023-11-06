@@ -37,7 +37,13 @@ from utils.formatted_messages.wait import MSG as WAIT_MSG
 from utils.formatted_messages.busy import MSG as BUSY_MSG
 from utils.formatted_messages.loading import MSG as LOADING_MSG
 from utils.formatted_messages.reference import MSG_HEADER as REF_MSG_HEADER
-from utils.usage_tracker import time_tracker
+from utils.usage_tracker import (
+    time_tracker,
+    time_user
+)
+from utils.body_methods import (
+    get_new_channel_name_and_user_query
+)
 from utils.logging import QUERY_LOGGER, APP_LOGGER
 
 import evadb
@@ -105,20 +111,34 @@ def handle_mention(body, say, logger):
 
     # Check if users ask question too soon.
     user = body["event"]["user"]
-    cooldown_time = time.time() - time_tracker[user]
-    if cooldown_time < 300:
-        APP_LOGGER.info(f"{event_id} - needs cooldown {cooldown_time}")
-        say(WAIT_MSG.format(ceil((5 - cooldown_time / 60))), thread_ts=thread_ts)
-        return
-    else:
-        time_tracker[user] = time.time()
+    # TODO: remove after confirm working
+    # cooldown_time = time.time() - time_tracker[user]
+    # if cooldown_time < 300:
+    #     APP_LOGGER.info(f"{event_id} - needs cooldown {cooldown_time}")
+    #     say(WAIT_MSG.format(ceil((5 - cooldown_time / 60))), thread_ts=thread_ts)
+    #     return
+    # else:
+    #     time_tracker[user] = time.time()
+    say(time_user(user, event_id), thread_ts=thread_ts)
     
+    # Convert message body to message and eva query.
+    message_body = str(body["event"]["text"]).split(">")[1]
+    APP_LOGGER.info(f"{event_id} - msg body: {message_body}")
+
+    # User query.
+    user_query = message_body
+    QUERY_LOGGER.info(f"{user_query}")
+
     workspace_name = "" #body['team_id']
     channel_name = body['event']['channel']
+
+    new_channel_name, new_user_query = get_new_channel_name_and_user_query(body)
+    if new_channel_name:
+        channel_name = new_channel_name
+        user_query = new_user_query
+
     channel_id = f"{channel_name}___slackdump.pdf"
     cursor = setup(workspace_name, channel_name)
-
-    # Queue list to connect to backend.
 
     # Abort early, if all queues are full.
     if is_all_queue_full(queue_list):
@@ -126,55 +146,47 @@ def handle_mention(body, say, logger):
         say(BUSY_MSG, thread_ts=thread_ts)
         return
 
-    # Convert message body to message and eva query.
-    message_body = str(body["event"]["text"]).split(">")[1]
-    APP_LOGGER.info(f"{event_id} - msg body: {message_body}")
+    # TODO: remove this as we do not use EvaDB queries
+    # message_queries = message_body.split("%Q")
+    # if len(message_queries) > 1:
+    #     # Eva query.
+    #     eva_query = message_queries[1]
 
-    message_queries = message_body.split("%Q")
+    if user_query:
+        knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_pdf(
+            cursor, user_query,channel_id, logger
+        )
+        conversation = build_rag_query(knowledge_body, user_query)
 
-    if len(message_queries) > 1:
-        # Eva query.
-        eva_query = message_queries[1]
-    else:
-        # User query.
-        user_query = message_queries[0].strip()
-        QUERY_LOGGER.info(f"{user_query}")
+        if knowledge_body is not None:
+            # Only reply when there is knowledge body.
+            response = queue_backend_llm(conversation, queue_list)
+            if response is None:
+                APP_LOGGER.info(f"{event_id} - all queue full (late abort)")
+                say(BUSY_MSG, thread_ts=thread_ts)
+                return
 
-        if user_query:
-            knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_pdf(
-                cursor, user_query,channel_id, logger
-            )
-            conversation = build_rag_query(knowledge_body, user_query)
+            # Attach reference
+            response += REF_MSG_HEADER
+            for iterator, pageno in enumerate(reference_pageno_list):
+                # TODO: change hardcoded url.
+                # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
+                response += f"[{reference_pdf_name[iterator]}, page {pageno}] "
+            response += "\n"
 
-            if knowledge_body is not None:
-                # Only reply when there is knowledge body.
-                response = queue_backend_llm(conversation, queue_list)
-                if response is None:
-                    APP_LOGGER.info(f"{event_id} - all queue full (late abort)")
-                    say(BUSY_MSG, thread_ts=thread_ts)
-                    return
+            # Reply back with welcome msg randomly.
+            if random.random() < 0.1:
+                response += WELCOME_MSG
 
-                # Attach reference
-                response += REF_MSG_HEADER
-                for iterator, pageno in enumerate(reference_pageno_list):
-                    # TODO: change hardcoded url.
-                    # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
-                    response += f"[{reference_pdf_name[iterator]}, page {pageno}] "
-                response += "\n"
-
-                # Reply back with welcome msg randomly.
-                if random.random() < 0.1:
-                    response += WELCOME_MSG
-
-                say(response, thread_ts=thread_ts)
-            else:
-                APP_LOGGER.info(f"{event_id} - no knowledge")
-                say(
-                    "Sorry, we didn't find relevant sources for this question.",
-                    thread_ts=thread_ts,
-                )
+            say(response, thread_ts=thread_ts)
         else:
-            say("Please try again with a valid question.", thread_ts=thread_ts)
+            APP_LOGGER.info(f"{event_id} - no knowledge")
+            say(
+                "Sorry, we didn't find relevant sources for this question.",
+                thread_ts=thread_ts,
+            )
+    else:
+        say("Please try again with a valid question.", thread_ts=thread_ts)
 
 
 # Handle in app file sharing.
