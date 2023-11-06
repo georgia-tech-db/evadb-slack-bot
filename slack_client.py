@@ -147,7 +147,7 @@ def handle_mention(body, say, logger):
         channel_name = new_channel_name
         user_query = new_user_query
 
-    
+    channel_id = f"{channel_name}___slackdump.pdf"
     cursor = setup(workspace_name, channel_name)
 
     # Abort early, if all queues are full.
