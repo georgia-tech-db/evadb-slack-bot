@@ -10,6 +10,9 @@ credit_tracker = defaultdict(lambda: 2)
 def time_user(user, event_id):
     """
     takes in the event_id and user's username to calculate the wait time
+    wait_time is set to 5 mins
+    if user enters another query before 5 mins are over must return the WAIT_MSG
+    otherwise add to time_tracker
     """
     cooldown_time = time.time() - time_tracker[user]
     if cooldown_time < 300:
