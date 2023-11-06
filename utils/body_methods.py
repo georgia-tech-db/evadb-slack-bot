@@ -31,10 +31,10 @@ def get_split_msg(body):
 
 def get_new_channel_name_and_user_query(body):
     msg = get_split_msg(body)
-    if "--set-channel" in msg:
-        query = str(get_msg(body)).split("--set-channel")[1]
+    if "--set-channel=" in msg:
+        query = msg.split("--set-channel=")
         channel_name = query[1]
         user_query = query[0]
         return channel_name, user_query
     else:
-        return False, user_query
+        return False, msg

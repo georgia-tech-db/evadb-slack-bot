@@ -62,9 +62,9 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
         response = cursor.query(query).df()
         print(f"Length of response: {len(response)}")
         # DataFrame response to single string.
-        knowledge_body = response["omscspdftable.data"].str.cat(sep="\n ")
-        referece_pageno_list = set(response["omscspdftable.page"].tolist()[:3])
-        reference_pdf_name = response["omscspdftable.name"].tolist()[:3]
+        knowledge_body = response["data"].str.cat(sep="\n ")
+        referece_pageno_list = set(response["page"].tolist()[:3])
+        reference_pdf_name = response["name"].tolist()[:3]
         print("Knowledge Body: ", knowledge_body)
         print("Finished building knowledge body.")
         return knowledge_body, reference_pdf_name, referece_pageno_list
@@ -104,7 +104,7 @@ def openai_respond(conversation):
 
 @ray.remote(num_cpus=6)
 def gpt4all_respond(queue_list):
-    gpt4all_model = GPT4All("orca-mini-3b.ggmlv3.q4_0.bin")
+    gpt4all_model = GPT4All("orca-mini-3b-gguf2-q4_0.gguf")
     gpt4all_model.model.set_thread_count(6)
 
     # Remote processing to detach from client process.
@@ -124,7 +124,7 @@ def gpt4all_respond(queue_list):
             response = ""
             with gpt4all_model.chat_session():
                 print(system_template + user_template)
-                response = gpt4all_model.generate(system_template + user_template, temp=0, repeat_penalty=1.4)
+                response = gpt4all_model.generate(query+ system_template + user_template, temp=0, repeat_penalty=1.4)
             oq.put(response)
 
 

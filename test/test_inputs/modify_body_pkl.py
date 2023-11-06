@@ -9,7 +9,7 @@ def change_channel_value(body, new_channel_name):
 def change_text(body, new_text):
     body['event']['text'] = new_text
 
-change_channel_value(body, "C08LKC5CL")
-change_text(body, "<someuser> ML4T")
+change_channel_value(body, "C05S06YFL3X")
+change_text(body, "<someuser> what is the workload of ML4T course? --set-channel=C08LKC5CL")
 
 pickle.dump(body, open("test/test_inputs/body.pkl", "wb"))

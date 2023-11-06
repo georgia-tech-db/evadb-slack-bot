@@ -131,14 +131,13 @@ def handle_mention(body, say, logger):
 
     workspace_name = "" #body['team_id']
     channel_name = body['event']['channel']
-    channel_id = f"{channel_name}___slackdump.pdf"
 
     new_channel_name, new_user_query = get_new_channel_name_and_user_query(body)
     if new_channel_name:
         channel_name = new_channel_name
         user_query = new_user_query
 
-    
+    channel_id = f"{channel_name}___slackdump.pdf"
     cursor = setup(workspace_name, channel_name)
 
     # Abort early, if all queues are full.
