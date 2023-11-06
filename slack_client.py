@@ -103,6 +103,9 @@ def handle_mention(body, say, logger):
 
     # Thread id to reply.
     thread_ts = body["event"].get("thread_ts", None) or body["event"]["ts"]
+    if thread_ts is None:
+        thread_ts = body["event"]["ts"]
+    print(thread_ts)
     
     # Reply back with loading msg.
     say(LOADING_MSG, thread_ts=thread_ts)
@@ -112,14 +115,14 @@ def handle_mention(body, say, logger):
     # Check if users ask question too soon.
     user = body["event"]["user"]
     # TODO: remove after confirm working
-    # cooldown_time = time.time() - time_tracker[user]
-    # if cooldown_time < 300:
-    #     APP_LOGGER.info(f"{event_id} - needs cooldown {cooldown_time}")
-    #     say(WAIT_MSG.format(ceil((5 - cooldown_time / 60))), thread_ts=thread_ts)
-    #     return
-    # else:
-    #     time_tracker[user] = time.time()
-    say(time_user(user, event_id), thread_ts=thread_ts)
+    cooldown_time = time.time() - time_tracker[user]
+    if cooldown_time < 300:
+        APP_LOGGER.info(f"{event_id} - needs cooldown {cooldown_time}")
+        say(WAIT_MSG.format(ceil((5 - cooldown_time / 60))), thread_ts=thread_ts)
+        return
+    else:
+        time_tracker[user] = time.time()
+    # say(time_user(user, event_id), thread_ts=thread_ts)
     
     # Convert message body to message and eva query.
     message_body = str(body["event"]["text"]).split(">")[1]
