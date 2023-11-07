@@ -42,7 +42,8 @@ from utils.usage_tracker import (
     time_user
 )
 from utils.body_methods import (
-    get_new_channel_name_and_user_query
+    get_new_channel_name_and_user_query,
+    generate_references
 )
 from utils.logging import QUERY_LOGGER, APP_LOGGER
 
@@ -63,9 +64,9 @@ def setup(workspace_name = "", channel_name = ""):
     cursor = evadb.connect().cursor()
     create_feature_extractor(cursor)
     load_omscs_pdfs(cursor)
-    load_slack_dump(cursor, workspace_name=workspace_name, channel_name=channel_name)
+    message_dataframe = load_slack_dump(cursor, workspace_name=workspace_name, channel_name=channel_name)
     build_search_index(cursor)
-    return cursor
+    return cursor, message_dataframe
 
 #########################################################
 # Helper functions                                      #
@@ -142,13 +143,8 @@ def handle_mention(body, say, logger):
 
     channel_id = f"{channel_name}___slackdump.pdf"
 
-    new_channel_name, new_user_query = get_new_channel_name_and_user_query(body)
-    if new_channel_name:
-        channel_name = new_channel_name
-        user_query = new_user_query
-
-    channel_id = f"{channel_name}___slackdump.pdf"
-    cursor = setup(workspace_name, channel_name)
+    # this setup is passing the cursor and message_df for adding slack links
+    cursor, message_dataframe = setup(workspace_name, channel_name)
 
     # Abort early, if all queues are full.
     if is_all_queue_full(queue_list):
@@ -178,11 +174,15 @@ def handle_mention(body, say, logger):
 
             # Attach reference
             response += REF_MSG_HEADER
-            for iterator, pageno in enumerate(reference_pageno_list):
-                # TODO: change hardcoded url.
-                # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
-                response += f"[{reference_pdf_name[iterator]}, page {pageno}] "
-            response += "\n"
+
+            response = generate_references(response, reference_pageno_list, reference_pdf_name, knowledge_body, message_dataframe)
+
+            
+            # for iterator, pageno in enumerate(reference_pageno_list):
+            #     # TODO: change hardcoded url.
+            #     # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
+            #     response += f"[{reference_pdf_name[iterator]}, page {pageno}] "
+            # response += "\n"
 
             # Reply back with welcome msg randomly.
             if random.random() < 0.1:

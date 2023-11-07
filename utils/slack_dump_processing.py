@@ -27,7 +27,8 @@ def find_message_with_no_reply(df):
 def add_messages_with_reply_to_pdf(messages, no_reply_messages, pdf):
     for message in messages:
         msg_to_print = message[2].replace("\n", " ")
-        pdf.p(message[0] + ": " + msg_to_print)
+        # pdf.p(message[0] + ": " + msg_to_print)
+        pdf.p(msg_to_print)
         for reply in message[3]:
             i = 0
             while i < len(no_reply_messages):
@@ -52,9 +53,11 @@ def preprocess_json_and_create_pdf(df1, pdf_file):
 
     for message in no_reply_messages:
         msg_to_print = message[2].replace("\n", " ")
-        pdf.p(message[0] + ": " + msg_to_print)
+        # pdf.p(message[0] + ": " + msg_to_print)
+        pdf.p(msg_to_print)
         pdf.pagebreak()
     pdf.generate()
+    return df
 
 def load_slack_dump(cursor, path = "slack_dump", pdf_path = "assets", workspace_name = "", channel_name = ""):
     print("Loading slack dump")
@@ -78,11 +81,12 @@ def load_slack_dump(cursor, path = "slack_dump", pdf_path = "assets", workspace_
                     df = pd.concat([df, df1])
             # pdf_name = workspace_name + "___" + channel_name + "___slackdump.pdf"
             pdf_name = channel_name + "___slackdump.pdf"
-            preprocess_json_and_create_pdf(df, pdf_name)
+            return_df = preprocess_json_and_create_pdf(df, pdf_name)
             os.chdir("./../")
             load_pdf_into_eva (cursor, pdf_name)
             print(str(load_counter), " new slack dumps loaded")
             print("Finished loading slack dump")
+            return return_df
         else:
             print("Could not find the correct slack dump dir.")
     else:

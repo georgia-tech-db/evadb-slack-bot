@@ -1,3 +1,4 @@
+
 def set_channel_value(body, new_channel_name):
     body['event']['channel'] = new_channel_name
 
@@ -38,3 +39,17 @@ def get_new_channel_name_and_user_query(body):
         return channel_name, user_query
     else:
         return False, msg
+
+
+def generate_references(response, reference_pageno_list, reference_pdf_name,knowledge_body, message_df):
+    """
+    Takes Knowledge body list and message_df to find message and there corresponding thread_ts
+    gives links for omscs documents
+    for courses documents links to omscentral
+    """
+
+    for iterator, pageno in enumerate(reference_pageno_list):
+        # TODO: change hardcoded url.
+        # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
+        response += f"[{reference_pdf_name[iterator]}, page {pageno}] "
+    response += "\n"

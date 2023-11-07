@@ -11,4 +11,3 @@ gpt4all
 pdfdocument
 PyMuPDF
 faiss-cpu
-faiss-gpu
