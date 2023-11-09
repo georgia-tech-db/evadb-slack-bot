@@ -1,4 +1,7 @@
 
+from email import message
+
+
 def set_channel_value(body, new_channel_name):
     body['event']['channel'] = new_channel_name
 
@@ -40,16 +43,48 @@ def get_new_channel_name_and_user_query(body):
     else:
         return False, msg
 
+def match_reference_kb_message_df(kb, message_df):
+    """
+    This method returns the messages that are present in KB and sorts based on their size (in descending order).
+    """
+    def is_message_in_kb(msg):
+        # We can use faster string matching algorithm here
+        for i in kb:
+            if msg in i:
+                if len(msg)<10:
+                    return False
+                return True
+        return False
+    
+    msdf = message_df[message_df.loc[:,'text'].apply(is_message_in_kb)]
+    msdf['length'] = msdf.loc[:, "text"].apply(len)
+    msdf = msdf.sort_values('length', ascending=False)
+    return msdf
+    
 
-def generate_references(response, reference_pageno_list, reference_pdf_name,knowledge_body, message_df):
+def generate_references(response, reference_pageno_list, reference_pdf_name,knowledge_body, message_df, channel_name):
     """
     Takes Knowledge body list and message_df to find message and there corresponding thread_ts
     gives links for omscs documents
     for courses documents links to omscentral
     """
 
+    # Required for debugging
+    # import pickle
+    # pickle.dump(message_df, open("message_df.pkl", "wb"))
+    # pickle.dump(knowledge_body, open("knowledge.pkl", "wb"))
+    message_df = match_reference_kb_message_df(knowledge_body, message_df)
+    msg_count = 0
+
     for iterator, pageno in enumerate(reference_pageno_list):
         # TODO: change hardcoded url.
-        # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
+        if reference_pdf_name[iterator] == "assets/omscs_doc.pdf":
+            response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
+        elif reference_pdf_name[iterator] == "assets/coursesomscs_abb.pdf":
+            response += f"<https://www.omscentral.com/ | [OMSCS Central]>"
+        else:
+            response += f"<https://omscs-study.slack.com/archives/{channel_name}/p{str(message_df.loc[msg_count, 'ts']).replace('.', '')}|>"
+            msg_count+=1
         response += f"[{reference_pdf_name[iterator]}, page {pageno}] "
     response += "\n"
+    return response

@@ -175,7 +175,7 @@ def handle_mention(body, say, logger):
             # Attach reference
             response += REF_MSG_HEADER
 
-            response = generate_references(response, reference_pageno_list, reference_pdf_name, knowledge_body, message_dataframe)
+            response = generate_references(response, reference_pageno_list, reference_pdf_name, knowledge_body, message_dataframe, channel_name)
 
             
             # for iterator, pageno in enumerate(reference_pageno_list):
