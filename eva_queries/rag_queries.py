@@ -48,7 +48,18 @@ def load_omscs_pdfs (cursor):
 
 
 def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
+    """
+    This runs similarity search query using EvaDB, filters data based on the channel name.
+    (required to ensure privacy for users in different channels)
+    to remove the filters simply remove the WHERE clause line in the query.
+
+    returns lists of knowledge_body, on which pdf it found the knowledge and its page number.
+    returns seperate lists,size: 5 knowledge body,size: top 3 pdfs and their page numbers
+    """
+    
     print("Building knowledge body.")
+
+
     query = f"""
         SELECT * FROM OMSCSPDFTable
         WHERE name = "assets/{channel_id}" OR name = "assets/omscs_doc.pdf" OR name = "assets/coursesomscs_abb.pdf"
@@ -62,9 +73,9 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
         response = cursor.query(query).df()
         print(f"Length of response: {len(response)}")
         # DataFrame response to single string.
-        knowledge_body = response["omscspdftable.data"].str.cat(sep="\n ")
-        referece_pageno_list = set(response["omscspdftable.page"].tolist()[:3])
-        reference_pdf_name = response["omscspdftable.name"].tolist()[:3]
+        knowledge_body = response["data"].tolist()
+        referece_pageno_list = set(response["page"].tolist()[:3])
+        reference_pdf_name = response["name"].tolist()[:3]
         print("Knowledge Body: ", knowledge_body)
         print("Finished building knowledge body.")
         return knowledge_body, reference_pdf_name, referece_pageno_list
@@ -75,6 +86,12 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
 
 
 def build_rag_query(knowledge_body, query):
+    """
+    Converts list of knowledge body to a single string
+    Builds conversation in Chatgpt format, along with a system prompt
+    returns the conversation
+    """
+    knowledge_body = "\n".join(knowledge_body)
     print("Building RAG query.")
     conversation = [
         {
@@ -104,7 +121,7 @@ def openai_respond(conversation):
 
 @ray.remote(num_cpus=6)
 def gpt4all_respond(queue_list):
-    gpt4all_model = GPT4All("orca-mini-3b.ggmlv3.q4_0.bin")
+    gpt4all_model = GPT4All("orca-mini-3b-gguf2-q4_0.gguf")
     gpt4all_model.model.set_thread_count(6)
 
     # Remote processing to detach from client process.
@@ -124,7 +141,7 @@ def gpt4all_respond(queue_list):
             response = ""
             with gpt4all_model.chat_session():
                 print(system_template + user_template)
-                response = gpt4all_model.generate(query+ system_template + user_template, temp=0, repeat_penalty=1.4)
+                response = gpt4all_model.generate(query + system_template + user_template, temp=0, repeat_penalty=1.4)
             oq.put(response)
 
 
