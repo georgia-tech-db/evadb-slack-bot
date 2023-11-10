@@ -74,6 +74,7 @@ def generate_references(response, reference_pageno_list, reference_pdf_name,know
     # pickle.dump(message_df, open("message_df.pkl", "wb"))
     # pickle.dump(knowledge_body, open("knowledge.pkl", "wb"))
     message_df = match_reference_kb_message_df(knowledge_body, message_df)
+    message_df = message_df.reset_index()
     msg_count = 0
 
     for iterator, pageno in enumerate(reference_pageno_list):
