@@ -59,6 +59,7 @@ def match_reference_kb_message_df(kb, message_df):
     msdf = message_df[message_df.loc[:,'text'].apply(is_message_in_kb)]
     msdf['length'] = msdf.loc[:, "text"].apply(len)
     msdf = msdf.sort_values('length', ascending=False)
+    msdf = msdf.dropna()
     return msdf
     
 
@@ -84,8 +85,11 @@ def generate_references(response, reference_pageno_list, reference_pdf_name,know
         elif reference_pdf_name[iterator] == "assets/coursesomscs_abb.pdf":
             response += f"<https://www.omscentral.com/ | [OMSCS Central]>"
         else:
+            if msg_count>=len(message_df):
+                continue
             response += f"<https://omscs-study.slack.com/archives/{channel_name}/p{str(message_df.loc[msg_count, 'ts']).replace('.', '')}|>"
             msg_count+=1
+            
         response += f"[{reference_pdf_name[iterator]}, page {pageno}] "
     response += "\n"
     return response

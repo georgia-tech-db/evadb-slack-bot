@@ -34,7 +34,8 @@ def add_messages_with_reply_to_pdf(messages, no_reply_messages, pdf):
             while i < len(no_reply_messages):
                 if no_reply_messages[i][0] == reply['user'] and str(no_reply_messages[i][1]) == reply['ts']:
                     msg_to_print = no_reply_messages[i][2].replace("\n", " ")
-                    pdf.p("\u2022" + no_reply_messages[i][0] + ": " + msg_to_print)
+                    # pdf.p("\u2022" + no_reply_messages[i][0] + ": " + msg_to_print)
+                    pdf.p("\u2022" + msg_to_print)
                     no_reply_messages.pop(i)
                     continue
                 i += 1
