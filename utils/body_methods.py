@@ -59,7 +59,7 @@ def match_reference_kb_message_df(kb, message_df):
     msdf = message_df[message_df.loc[:,'text'].apply(is_message_in_kb)]
     msdf['length'] = msdf.loc[:, "text"].apply(len)
     msdf = msdf.sort_values('length', ascending=False)
-    msdf = msdf.dropna()
+    
     return msdf
     
 
@@ -69,11 +69,12 @@ def generate_references(response, reference_pageno_list, reference_pdf_name,know
     gives links for omscs documents
     for courses documents links to omscentral
     """
-
     # Required for debugging
     # import pickle
     # pickle.dump(message_df, open("message_df.pkl", "wb"))
     # pickle.dump(knowledge_body, open("knowledge.pkl", "wb"))
+
+    message_df = message_df.dropna()
     message_df = match_reference_kb_message_df(knowledge_body, message_df)
     message_df = message_df.reset_index()
     msg_count = 0
