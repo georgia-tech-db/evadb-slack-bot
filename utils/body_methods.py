@@ -69,11 +69,11 @@ def generate_references(response, reference_pageno_list, reference_pdf_name,know
     gives links for omscs documents
     for courses documents links to omscentral
     """
-
     # Required for debugging
     # import pickle
     # pickle.dump(message_df, open("message_df.pkl", "wb"))
     # pickle.dump(knowledge_body, open("knowledge.pkl", "wb"))
+
     message_df = message_df.dropna()
     message_df = match_reference_kb_message_df(knowledge_body, message_df)
     message_df = message_df.reset_index()
