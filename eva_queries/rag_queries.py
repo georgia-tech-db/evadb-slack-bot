@@ -73,9 +73,9 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
         response = cursor.query(query).df()
         print(f"Length of response: {len(response)}")
         # DataFrame response to single string.
-        knowledge_body = response["data"].tolist()
-        referece_pageno_list = set(response["page"].tolist()[:3])
-        reference_pdf_name = response["name"].tolist()[:3]
+        knowledge_body = response["omscspdftable.data"].tolist()
+        referece_pageno_list = set(response["omscspdftable.page"].tolist()[:3])
+        reference_pdf_name = response["omscspdftable.name"].tolist()[:3]
         print("Knowledge Body: ", knowledge_body)
         print("Finished building knowledge body.")
         return knowledge_body, reference_pdf_name, referece_pageno_list
@@ -134,14 +134,14 @@ def gpt4all_respond(queue_list):
             system_template = conversation[0]["content"]
             document = conversation[1]["content"]
             query = conversation[2]["content"]
-            user_template = "Document:{0}\nQuestion:{1}\nAnswer:".format(
+            user_template = "Document:{0}\nThe question is:{1}\nAnswer:".format(
                 document, query
             )
             
             response = ""
             with gpt4all_model.chat_session():
                 print(system_template + user_template)
-                response = gpt4all_model.generate(query + system_template + user_template, temp=0, repeat_penalty=1.4)
+                response = gpt4all_model.generate(query + system_template + "\n" + user_template, temp=0, repeat_penalty=1.4)
             oq.put(response)
 
 

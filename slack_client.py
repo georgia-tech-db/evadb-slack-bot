@@ -45,13 +45,14 @@ from utils.body_methods import (
     get_new_channel_name_and_user_query,
     generate_references
 )
-from utils.logging import QUERY_LOGGER, APP_LOGGER
+from utils.logging import QUERY_LOGGER, APP_LOGGER, BASE_LOGGER
 
 import evadb
+
 # Make sure necessary tokens are set.
 SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
 os.environ.get("SLACK_SIGNING_SECRET")
-app = App(token=SLACK_BOT_TOKEN)
+app = App(token=SLACK_BOT_TOKEN, logger=BASE_LOGGER)
 # Slack app, bot, and client.
 
 client = WebClient(token=SLACK_BOT_TOKEN)

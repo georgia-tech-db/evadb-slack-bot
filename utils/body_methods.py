@@ -81,15 +81,15 @@ def generate_references(response, reference_pageno_list, reference_pdf_name,know
     for iterator, pageno in enumerate(reference_pageno_list):
         # TODO: change hardcoded url.
         if reference_pdf_name[iterator] == "assets/omscs_doc.pdf":
-            response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
+            response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[OMSCS document, page {pageno}]> "
         elif reference_pdf_name[iterator] == "assets/coursesomscs_abb.pdf":
             response += f"<https://www.omscentral.com/ | [OMSCS Central]>"
         else:
             if msg_count>=len(message_df):
                 continue
-            response += f"<https://omscs-study.slack.com/archives/{channel_name}/p{str(message_df.loc[msg_count, 'ts']).replace('.', '')}|>"
+            response += f"<https://omscs-study.slack.com/archives/{channel_name}/p{str(message_df.loc[msg_count, 'ts']).replace('.', '')}|[slack message link {msg_count+1}]>"
             msg_count+=1
             
-        response += f"[{reference_pdf_name[iterator]}, page {pageno}] "
-    response += "\n"
+        # response += f"[{reference_pdf_name[iterator]}, page {pageno}] "
+        response += "\n"
     return response

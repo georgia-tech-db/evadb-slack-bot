@@ -19,3 +19,5 @@ def setup_logger(name):
 
 QUERY_LOGGER = setup_logger("query")
 APP_LOGGER = setup_logger("app")
+
+BASE_LOGGER = setup_logger("baselog")
