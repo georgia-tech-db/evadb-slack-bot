@@ -161,7 +161,7 @@ def handle_mention(body, say, logger):
 
     if user_query:
         knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_pdf(
-            cursor, user_query,channel_id, logger
+            cursor, user_query,channel_id, logger, QUERY_LOGGER
         )
         conversation = build_rag_query(knowledge_body, user_query)
 

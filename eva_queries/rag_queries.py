@@ -47,7 +47,7 @@ def load_omscs_pdfs (cursor):
 
 
 
-def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
+def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger, QUERY_LOGGER):
     """
     This runs similarity search query using EvaDB, filters data based on the channel name.
     (required to ensure privacy for users in different channels)
@@ -73,9 +73,10 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger):
         response = cursor.query(query).df()
         print(f"Length of response: {len(response)}")
         # DataFrame response to single string.
-        knowledge_body = response["omscspdftable.data"].tolist()
-        referece_pageno_list = set(response["omscspdftable.page"].tolist()[:3])
-        reference_pdf_name = response["omscspdftable.name"].tolist()[:3]
+        knowledge_body = response["data"].tolist()
+        referece_pageno_list = set(response["page"].tolist()[:3])
+        reference_pdf_name = response["name"].tolist()[:3]
+        QUERY_LOGGER.info(f"  Knowledge Body: {knowledge_body}")
         print("Knowledge Body: ", knowledge_body)
         print("Finished building knowledge body.")
         return knowledge_body, reference_pdf_name, referece_pageno_list
