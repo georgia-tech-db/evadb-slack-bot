@@ -11,3 +11,4 @@ slack_dump_pdfs/
 slack_dump/
 logging
 *.pkl
+store/

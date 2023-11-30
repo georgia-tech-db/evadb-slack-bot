@@ -109,15 +109,34 @@ def build_rag_query(knowledge_body, query):
     print("Finished building RAG query.")
     return conversation
 
-# @ray.remote(num_cpus=6)
-def openai_respond(conversation):
+@ray.remote(num_cpus=6)
+def openai_respond(queue_list):
     # Set OpenAI key.
-    openai.api_key = os.environ.get("OPENAI_API_KEY")
-    return (
-        openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=conversation)
-        .choices[0]
-        .message.content
-    )
+    # openai.api_key = os.environ.get("OPENAI_API_KEY")
+
+    # # For OpenAI version < 1.x
+    # return (
+    #     openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=conversation)
+    #     .choices[0]
+    #     .message.content
+    # )
+    # # For OpenAI version > 1.x
+    client = openai.AzureOpenAI(
+            api_key = str(os.getenv("AZURE_OPENAI_KEY")),
+            api_version = "2023-07-01-preview",
+            azure_endpoint = str(os.getenv("AZURE_OPENAI_ENDPOINT")),
+        )
+    while True:
+        for iq, oq in queue_list:
+            if iq.empty():
+                continue
+            conversation = iq.get()
+            response = client.chat.completions.create(
+                model="gpt-35-turbo",
+                messages=conversation
+            )
+            print(response)
+            oq.put(response.choices[0].message.content)
 
 
 @ray.remote(num_cpus=6)
