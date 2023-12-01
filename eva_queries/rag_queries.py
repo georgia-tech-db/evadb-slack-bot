@@ -74,8 +74,8 @@ def build_relevant_knowledge_body_pdf(cursor, user_query, channel_id, logger, QU
         print(f"Length of response: {len(response)}")
         # DataFrame response to single string.
         knowledge_body = response["data"].tolist()
-        referece_pageno_list = set(response["page"].tolist()[:3])
-        reference_pdf_name = response["name"].tolist()[:3]
+        referece_pageno_list = set(response["page"].tolist()[:5])
+        reference_pdf_name = response["name"].tolist()[:5]
         QUERY_LOGGER.info(f"  Knowledge Body: {knowledge_body}")
         print("Knowledge Body: ", knowledge_body)
         print("Finished building knowledge body.")
